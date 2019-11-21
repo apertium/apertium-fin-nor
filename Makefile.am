@@ -1,4 +1,4 @@
-###############################################################################
+##############################################################################
 ## Makefile for Finnish--Norwegian
 ###############################################################################
 
@@ -17,19 +17,17 @@ PREFIX2n=$(LANG2n)-$(LANG1)
 BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =		\
-	$(PREFIX1).automorf.bin	\
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1b).autobil.bin \
 	$(PREFIX1b).autogen.bin \
 	$(PREFIX1b).autolex.bin \
-	$(PREFIX1b).automorf.bin \
+	$(PREFIX1b).automorf.hfst \
 	$(PREFIX1b).t1x.bin \
 	$(PREFIX1b).t2x.bin \
 	$(PREFIX1b).t3x.bin \
 	$(PREFIX1n).autobil.bin	\
 	$(PREFIX1n).autolex.bin	\
 	$(PREFIX1n).autogen.bin	\
-	$(PREFIX1n).autopgen.bin	\
 	$(PREFIX1n).t1x.bin	\
 	$(PREFIX1n).t2x.bin	\
 	$(PREFIX1n).t3x.bin	\
@@ -40,9 +38,9 @@ TARGETS_COMMON =		\
 	$(PREFIX2n).rlx.bin	\
 	$(PREFIX2b).rlx.bin	\
 	$(PREFIX2).autobil.bin	\
-	$(PREFIX2).autolex.bin	\
-	$(PREFIX2).autogen.bin	\
-	$(PREFIX2).autopgen.bin	\
+	$(PREFIX2n).autolex.bin	\
+	$(PREFIX2b).autolex.bin	\
+	$(PREFIX2).autogen.hfst	\
 	$(PREFIX2).t1x.bin	\
 	$(PREFIX2).t2x.bin	\
 	$(PREFIX2).t3x.bin
@@ -58,7 +56,13 @@ TARGETS_COMMON =		\
 # Finnish analysis:
 # -------------------
 
-$(PREFIX1).automorf.hfst: .$(AP_SRC1)/$(LANG1).automorf.hfst
+$(PREFIX1).automorf.hfst: $(AP_SRC1)/$(LANG1).automorf.hfst
+	cp $< $@
+
+$(PREFIX1b).automorf.hfst: $(AP_SRC1)/$(LANG1).automorf.hfst
+	cp $< $@
+
+$(PREFIX1n).automorf.hfst: $(AP_SRC1)/$(LANG1).automorf.hfst
 	cp $< $@
 
 # -------------------
@@ -78,13 +82,13 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 .deps/$(LANG2b).automorf.bin: $(AP_SRC2b)/$(LANG2b).automorf.bin .deps/.d
 	cp $< $@
 
-$(PREFIX2b).automorf.bin: .deps/$(LANG2b).automorf.bin $(PREFIX2b).autobil.bin
+$(PREFIX2b).automorf.bin: .deps/$(LANG2b).automorf.bin $(PREFIX2).autobil.bin
 	lt-trim $^ $@
 
 .deps/$(LANG2n).automorf.bin: $(AP_SRC2n)/$(LANG2n).automorf.bin .deps/.d
 	cp $< $@
 
-$(PREFIX2n).automorf.bin: .deps/$(LANG2n).automorf.bin $(PREFIX2n).autobil.bin
+$(PREFIX2n).automorf.bin: .deps/$(LANG2n).automorf.bin $(PREFIX2).autobil.bin
 	lt-trim $^ $@
 
 # -------------------
@@ -105,7 +109,7 @@ $(PREFIX1n).autogen.bin: $(AP_SRC2n)/$(LANG2n).autogen.bin
 $(PREFIX2b).prob: $(AP_SRC2b)/$(LANG2b).prob
 	cp $< $@
 
-$(PREFIX2n).prob: $(AP_SRC2n)/$(LANGn2).prob
+$(PREFIX2n).prob: $(AP_SRC2n)/$(LANG2n).prob
 	cp $< $@
 
 ###############################################################################
@@ -224,18 +228,19 @@ apertium_fin_nordir=$(prefix)/share/apertium/$(BASENAME)/
 # Files which should be installed to $(prefix)/share/apertium/$(BASENAME)/:
 apertium_fin_nor_DATA=	\
 	$(TARGETS_COMMON)				\
-	$(BASENAME).$(PREFIX1).t1x			\
-	$(BASENAME).$(PREFIX1).t2x			\
-	$(BASENAME).$(PREFIX1).t3x			\
+	$(BASENAME).$(PREFIX1b).t1x			\
+	$(BASENAME).$(PREFIX1b).t2x			\
+	$(BASENAME).$(PREFIX1b).t3x			\
+	$(BASENAME).$(PREFIX1n).t1x			\
+	$(BASENAME).$(PREFIX1n).t2x			\
+	$(BASENAME).$(PREFIX1n).t3x			\
 	$(BASENAME).$(PREFIX2).t1x			\
 	$(BASENAME).$(PREFIX2).t2x			\
 	$(BASENAME).$(PREFIX2).t3x
 
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
-noinst_DATA=modes/$(PREFIX1).mode \
-	.deps/$(LANG1).automorf.bin \
-	.deps/$(LANG2).automorf.bin
+noinst_DATA=modes/$(PREFIX1).mode
 
 install-data-local: install-modes
 
