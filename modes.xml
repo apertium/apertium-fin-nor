@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <!-- fin → nob -->
+
+  <mode name="fin-nob" install="yes" gendebug="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="fin-nob.automorf.bin"/>
+      </program>
+
+      <program name="cg-proc -w -1 -n">
+        <file name="fin-nob.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="fin-nob.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="fin-nob.autolex.bin"/>
+      </program>
+
+      <program name="apertium-transfer -b">
+        <file name="apertium-fin-nob.fin-nob.t1x"/>
+        <file name="fin-nob.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-fin-nob.fin-nob.t2x"/>
+        <file name="fin-nob.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-fin-nob.fin-nob.t3x"/>
+        <file name="fin-nob.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="fin-nob.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="fin-nob.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <!-- nob → fin -->
+
+  <mode name="nob-fin" install="yes" gendebug="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="nob-fin.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="nob-fin.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="nob-fin.prob"/>
+      </program>
+
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="nob-fin.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="nob-fin.autolex.bin"/>
+      </program>
+
+      <program name="apertium-transfer -b">
+        <file name="apertium-fin-nob.nob-fin.t1x"/>
+        <file name="nob-fin.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-fin-nob.nob-fin.t2x"/>
+        <file name="nob-fin.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-fin-nob.nob-fin.t3x"/>
+        <file name="nob-fin.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="nob-fin.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="nob-fin.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>
+
