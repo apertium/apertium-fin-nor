@@ -1,18 +1,16 @@
-Finnish and Norwegian Bokmål: `apertium-fin-nob`
-===============================================================================
+# Apertium stuff for Finnish and Norwegian : `apertium-fin-nor`
 
 This is an Apertium language pair for translating between Finnish and
-Norwegian Bokmål. What you can use this language package for:
+Norwegian. What you can use this language package for:
 
-* Translating between Finnish and Norwegian Bokmål
-* Morphological analysis of Finnish and Norwegian Bokmål
-* Part-of-speech tagging of Finnish and Norwegian Bokmål
+* Translating between Finnish and Norwegian
+* Morphological analysis of Finnish and Norwegian
+* Part-of-speech tagging of Finnish and Norwegian
 
 For information on the latter two points, see subheading "For more
 information" below.
 
-Requirements
--------------------------------------------------------------------------------
+## Requirements
 
 You will need the following software installed:
 
@@ -25,8 +23,7 @@ You will need the following software installed:
 
 If this does not make any sense, we recommend you look at: www.apertium.org.
 
-Compiling
--------------------------------------------------------------------------------
+## Compiling
 
 Given the requirements being installed, you should be able to just run:
 
@@ -41,8 +38,7 @@ from source. If you installed any prerequisite language packages using a
 `--prefix` with `./configure`, make sure to use the same `--prefix` when running
 `./configure` here.
 
-Testing
--------------------------------------------------------------------------------
+## Testing
 
 If you are in the source directory after running make, the following
 commands should work:
@@ -51,7 +47,13 @@ commands should work:
 $ echo "TODO test sentence 1" | apertium -d . fin-nob
 TODO test translated sentence 1
 
+$ echo "TODO test sentence 1" | apertium -d . fin-nno
+TODO test translated sentence 1
+
 $ echo "TODO test sentence 2" | apertium -d . nob-fin
+TODO test translated sentence 2
+
+$ echo "TODO test sentence 2" | apertium -d . nno-fin
 TODO test translated sentence 2
 ```
 
@@ -62,18 +64,36 @@ $ echo "TODO test sentence 1" | apertium fin-nob
 TODO test translated sentence 1
 ```
 
-Files and data
--------------------------------------------------------------------------------
+# Files and data
 
-* [`apertium-fin-nob.fin-nob.dix`](apertium-fin-nob.fin-nob.dix) - Bilingual dictionary
-* [`apertium-fin-nob.fin-nob.t1x`](apertium-fin-nob.fin-nob.t1x) - Chunking rules for translating into Norwegian Bokmål
-* [`apertium-fin-nob.nob-fin.t1x`](apertium-fin-nob.nob-fin.t1x) - Chunking rules for translating into Finnish
-* [`apertium-fin-nob.fin-nob.t2x`](apertium-fin-nob.fin-nob.t2x) - Interchunk rules for translating into Norwegian Bokmål
-* [`apertium-fin-nob.nob-fin.t2x`](apertium-fin-nob.nob-fin.t2x) - Interchunk rules for translating into Finnish
-* [`apertium-fin-nob.fin-nob.t3x`](apertium-fin-nob.fin-nob.t3x) - Postchunk rules for translating into Norwegian Bokmål
-* [`apertium-fin-nob.nob-fin.t3x`](apertium-fin-nob.nob-fin.t3x) - Postchunk rules for translating into Finnish
-* [`apertium-fin-nob.fin-nob.lrx`](apertium-fin-nob.fin-nob.lrx) - Lexical selection rules for translating into Norwegian Bokmål
-* [`apertium-fin-nob.nob-fin.lrx`](apertium-fin-nob.nob-fin.lrx) - Lexical selection rules for translating into Finnish
+* [`apertium-fin-nor.fin-nor.dix`](apertium-fin-nor.fin-nob.dix) - Bilingual
+  dictionary (for both variants)
+* [`apertium-fin-nor.fin-nob.t1x`](apertium-fin-nor.fin-nob.t1x) - Chunking
+  rules for translating into Norwegian Bokmål
+* [`apertium-fin-nor.fin-nno.t1x`](apertium-fin-nor.fin-nno.t1x) - Chunking
+  rules for translating into Norwegian Nynorsk
+* [`apertium-fin-nor.nor-fin.t1x`](apertium-fin-nor.nor-fin.t1x) - Chunking
+  rules for translating into Finnish
+* [`apertium-fin-nor.fin-nob.t2x`](apertium-fin-nor.fin-nob.t2x) - Interchunk
+  rules for translating into Norwegian Bokmål
+* [`apertium-fin-nor.fin-nno.t2x`](apertium-fin-nor.fin-nno.t2x) - Interchunk
+  rules for translating into Norwegian Nynorsk
+* [`apertium-fin-nor.nor-fin.t2x`](apertium-fin-nor.nor-fin.t2x) - Interchunk
+  rules for translating into Finnish
+* [`apertium-fin-nor.fin-nob.t3x`](apertium-fin-nor.fin-nob.t3x) - Postchunk
+  rules for translating into Norwegian Bokmål
+* [`apertium-fin-nor.fin-nno.t3x`](apertium-fin-nor.fin-nno.t3x) - Postchunk
+  rules for translating into Norwegian Nynorsk
+* [`apertium-fin-nor.nor-fin.t3x`](apertium-fin-nor.nor-fin.t3x) - Postchunk
+  rules for translating into Finnish
+* [`apertium-fin-nor.fin-nob.lrx`](apertium-fin-nor.fin-nob.lrx) - Lexical
+  selection rules for translating into Norwegian Bokmål
+* [`apertium-fin-nor.fin-nno.lrx`](apertium-fin-nor.fin-nno.lrx) - Lexical
+  selection rules for translating into Norwegian Nynorsk
+* [`apertium-fin-nor.nob-fin.lrx`](apertium-fin-nor.nob-fin.lrx) - Lexical
+  selection rules for translating into Finnish from Bokmål
+* [`apertium-fin-nor.nno-fin.lrx`](apertium-fin-nor.nno-fin.lrx) - Lexical
+  selection rules for translating into Finnish from Nynorsk
 * [`modes.xml`](modes.xml) - Translation modes
 
 For more information

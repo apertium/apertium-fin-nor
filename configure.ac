@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Finnish-Norwegian Bokmål], [0.2.0], [tommi.antero.pirinen@uni-hamburg.de], [apertium-fin-nob], [http://wiki.apertium.org/wiki/Apertium-fin-nob])
+AC_INIT([Apertium Finnish-Norwegian], [0.0.0], [tommi.antero.pirinen@uni-hamburg.de], [apertium-fin-nor], [http://wiki.apertium.org/wiki/Apertium-fin-nor])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
@@ -40,7 +40,8 @@ AS_IF([test x$ZCAT = xfalse], [AC_MSG_ERROR([You don't have zcat nor gzcat insta
 m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertium.m4 in ACLOCAL_PATH? See: http://wiki.apertium.org/wiki/Installation_troubleshooting])])
 
 AP_CHECK_LING([1], [apertium-fin])
-AP_CHECK_LING([2], [apertium-nob])
+AP_CHECK_LING([2b], [apertium-nob])
+AP_CHECK_LING([2n], [apertium-nno])
 
 AP_MKINCLUDE
 
