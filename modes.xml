@@ -9,7 +9,7 @@
         <file name="fin-nob.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -1 -n">
-        <file name="fin-nob.rlx.bin"/>
+        <file name="fin-nor.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
@@ -19,15 +19,15 @@
         <file name="fin-nob.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-fin-nob.fin-nob.t1x"/>
+        <file name="apertium-fin-nor.fin-nob.t1x"/>
         <file name="fin-nob.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-fin-nob.fin-nob.t2x"/>
+        <file name="apertium-fin-nor.fin-nob.t2x"/>
         <file name="fin-nob.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-fin-nob.fin-nob.t3x"/>
+        <file name="apertium-fin-nor.fin-nob.t3x"/>
         <file name="fin-nob.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
@@ -51,25 +51,25 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="nob-fin.autobil.bin"/>
+        <file name="nor-fin.autobil.bin"/>
       </program>
       <program name="lrx-proc -m">
         <file name="nob-fin.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-fin-nob.nob-fin.t1x"/>
-        <file name="nob-fin.t1x.bin"/>
+        <file name="apertium-fin-nor.nor-fin.t1x"/>
+        <file name="nor-fin.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-fin-nob.nob-fin.t2x"/>
-        <file name="nob-fin.t2x.bin"/>
+        <file name="apertium-fin-nor.nor-fin.t2x"/>
+        <file name="nor-fin.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-fin-nob.nob-fin.t3x"/>
-        <file name="nob-fin.t3x.bin"/>
+        <file name="apertium-fin-nor.nor-fin.t3x"/>
+        <file name="nor-fin.t3x.bin"/>
       </program>
       <program name="hfst-proc $1">
-        <file name="nob-fin.autogen.hfst"/>
+        <file name="nor-fin.autogen.hfst"/>
       </program>
 
     </pipeline>
@@ -83,7 +83,7 @@
         <file name="fin-nno.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -1 -n">
-        <file name="fin-nno.rlx.bin"/>
+        <file name="fin-nor.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
@@ -93,15 +93,15 @@
         <file name="fin-nno.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-fin-nno.fin-nno.t1x"/>
+        <file name="apertium-fin-nor.fin-nno.t1x"/>
         <file name="fin-nno.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-fin-nno.fin-nno.t2x"/>
+        <file name="apertium-fin-nor.fin-nno.t2x"/>
         <file name="fin-nno.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-fin-nno.fin-nno.t3x"/>
+        <file name="apertium-fin-nor.fin-nno.t3x"/>
         <file name="fin-nno.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
@@ -128,25 +128,25 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="nno-fin.autobil.bin"/>
+        <file name="nor-fin.autobil.bin"/>
       </program>
       <program name="lrx-proc -m">
         <file name="nno-fin.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-fin-nno.nno-fin.t1x"/>
-        <file name="nno-fin.t1x.bin"/>
+        <file name="apertium-fin-nor.nor-fin.t1x"/>
+        <file name="nor-fin.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-fin-nno.nno-fin.t2x"/>
-        <file name="nno-fin.t2x.bin"/>
+        <file name="apertium-fin-nor.nor-fin.t2x"/>
+        <file name="nor-fin.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-fin-nno.nno-fin.t3x"/>
-        <file name="nno-fin.t3x.bin"/>
+        <file name="apertium-fin-nor.nor-fin.t3x"/>
+        <file name="nor-fin.t3x.bin"/>
       </program>
       <program name="hfst-proc $1">
-        <file name="nno-fin.autogen.hfst"/>
+        <file name="nor-fin.autogen.hfst"/>
       </program>
     </pipeline>
   </mode>
