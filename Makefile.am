@@ -33,6 +33,8 @@ TARGETS_COMMON =		\
 	$(PREFIX1n).t3x.bin	\
 	$(PREFIX2n).automorf.bin	\
 	$(PREFIX2b).automorf.bin	\
+	$(PREFIX2n).untrimmed-automorf.bin	\
+	$(PREFIX2b).untrimmed-automorf.bin	\
 	$(PREFIX2b).prob		\
 	$(PREFIX2n).prob		\
 	$(PREFIX2n).rlx.bin	\
@@ -82,11 +84,17 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 .deps/$(LANG2b).automorf.bin: $(AP_SRC2b)/$(LANG2b).automorf.bin .deps/.d
 	cp $< $@
 
+$(PREFIX2b).untrimmed-automorf.bin: .deps/$(LANG2b).automorf.bin
+	cp -v $^ $@
+
 $(PREFIX2b).automorf.bin: .deps/$(LANG2b).automorf.bin $(PREFIX2).autobil.bin
 	lt-trim $^ $@
 
 .deps/$(LANG2n).automorf.bin: $(AP_SRC2n)/$(LANG2n).automorf.bin .deps/.d
 	cp $< $@
+
+$(PREFIX2n).untrimmed-automorf.bin: .deps/$(LANG2n).automorf.bin
+	cp -v $^ $@
 
 $(PREFIX2n).automorf.bin: .deps/$(LANG2n).automorf.bin $(PREFIX2).autobil.bin
 	lt-trim $^ $@
