@@ -45,6 +45,11 @@
       <attr-item tags="np.ant"/>
       <attr-item tags="np.ant.f"/>
       <attr-item tags="np.ant.m"/>
+      <!-- XXX: only uncomment when debugging to see the genders - ->
+      <attr-item tags="n.m"/>
+      <attr-item tags="n.f"/>
+      <attr-item tags="n.nt"/>
+      <!- - -->
     </def-attr>
     <def-attr n="a_verb">
       <attr-item tags="vblex"/>
@@ -63,6 +68,7 @@
       <attr-item tags="imp"/>
     </def-attr>
     <def-attr n="a_adj">
+      <attr-item tags="adj"/>
       <attr-item tags="adj.pst"/>
     </def-attr>
     <def-attr n="a_number">
