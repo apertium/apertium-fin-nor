@@ -45,6 +45,7 @@
     <sdef n="ut"              c="Utrum"/>
     <sdef n="f"               c="Feminine"/>
     <sdef n="m"               c="Masculine"/>
+    <sdef n="mf"              c="two genders"/>
     <sdef n="un"              c="No gender"/>
 
     <sdef n="sg"              c="Singular"/>
@@ -119,15 +120,18 @@
     <!-- negation -->
 
     <e><p><l>ei<s n="adv"/></l><r>ikke<s n="adv"/></r></p></e>
-    <e><p><l>ei-<s n="n"/></l><r>ikke<s n="n"/></r></p></e>
+    <e><p><l>ei<s n="n"/><s n="compound-only-L"/></l><r>ikke<s n="n"/></r></p></e>
 
     <!-- determination -->
 
-    <e><p><l>yksi<s n="det"/></l><r>en<s n="det"/></r></p></e>
-    <e><p><l>se<s n="det"/></l><r>den<s n="det"/></r></p></e>
-    <e><p><l>jokin<s n="prn"/></l><r>noe<s n="det"/></r></p></e>
+    <e><p><l>yksi<s n="det"/></l><r>en<s n="det"/><s n="qnt"/><s n="m"/></r></p></e>
+    <e><p><l>se<s n="det"/><s n="sg"/></l><r>den<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e><p><l>se<s n="det"/><s n="sg"/></l><r>den<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>se<s n="det"/><s n="sg"/></l><r>den<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ne<s n="det"/><s n="pl"/></l><r>den<s n="det"/><s n="dem"/><s n="un"/><s n="pl"/></r></p></e>
+    <e><p><l>jokin<s n="prn"/></l><r>noe<s n="det"/><s n="qnt"/><s n="nt"/></r></p></e>
     <e><p><l>kukaan<s n="prn"/></l><r>ingen<s n="det"/></r></p></e>
-    <e><p><l>kaksi<s n="prn"/></l><r>to<s n="det"/></r></p></e>
+    <e><p><l>kaksi<s n="num"/></l><r>to<s n="det"/></r></p></e>
     <e><p><l>muu<s n="prn"/></l><r>annen<s n="det"/></r></p></e>
 
     <!-- weird ass possession -->
@@ -139,7 +143,7 @@
     <e><p><l>hän<s n="prn"/><s n="sg"/><s n="gen"/></l><r>sin<s n="det"/><s n="pos"/><s n="un"/><s n="pl"/></r></p></e>
     <e><p><l>hän<s n="prn"/><s n="sg"/><s n="gen"/></l><r>sin<s n="det"/><s n="pos"/><s n="nt"/><s n="sg"/></r></p></e>
     <e><p><l>hän<s n="prn"/><s n="sg"/><s n="gen"/></l><r>sin<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
-    <e><p><l>he<s n="prn"/><s n="sg"/><s n="gen"/></l><r>deres¹<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>hän<s n="prn"/><s n="sg"/><s n="gen"/></l><r>deres¹<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
 
     <!-- å -->
 
@@ -177,7 +181,7 @@
     <e><p><l>tuoli<s n="n"/></l><r>stol<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ei<s n="n"/></l><r>nei<s n="n"/><s n="nt"/></r></p></e>
 
-    <e><p><l>valmis-<s n="n"/></l><r>ferdig<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>valmis<s n="n"/><s n="compound-only-L"/></l><r>ferdig<s n="n"/><s n="nt"/></r></p></e>
 
     <e c="unit or sumtn"><p><l>du<s n="n"/></l><r>du<s n="n"/><s n="acr"/></r></p></e>
 
@@ -211,7 +215,7 @@
     <e><p><l>katsoa<s n="vblex"/></l><r>se<s n="vblex"/></r></p></e>
     <e><p><l>juoda<s n="vblex"/></l><r>drikke<s n="vblex"/></r></p></e>
     <e><p><l>syödä<s n="vblex"/></l><r>spise<s n="vblex"/></r></p></e>
-    <e><p><l>tykkää<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
+    <e><p><l>tykätä<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
     <e><p><l>tietää<s n="vblex"/></l><r>vite<s n="vblex"/></r></p></e>
     <e><p><l>istua<s n="vblex"/></l><r>sitte<s n="vblex"/></r></p></e>
     <e><p><l>laskea<s n="vblex"/></l><r>telle<s n="vblex"/></r></p></e>
@@ -303,32 +307,35 @@
 
     <e><p><l>kun<s n="cnjsub"/></l><r>når<s n="cnjsub"/></r></p></e>
     <e><p><l>vaikka<s n="cnjsub"/></l><r>selv<b/>om<s n="cnjsub"/></r></p></e>
-    <e><p><l>joka<s n="cnjsub"/></l><r>hvor<s n="cnjsub"/></r></p></e>
+    <e><p><l>mikä<s n="cnjsub"/></l><r>hvor<s n="cnjsub"/></r></p></e>
     <e><p><l>että<s n="cnjsub"/></l><r>at<s n="cnjsub"/></r></p></e>
 
     <!-- }}} -->
 
     <!-- {{{ coordinating conjunctions -->
 
+    <e><p><l>ja<s n="cnjcoo"/></l><r>og<s n="cnjcoo"/><s n="clb"/></r></p></e>
     <e><p><l>ja<s n="cnjcoo"/></l><r>og<s n="cnjcoo"/></r></p></e>
     <e><p><l>tai<s n="cnjcoo"/></l><r>eller<s n="cnjcoo"/></r></p></e>
-    <e><p><l>mutta<s n="cnjcoo"/></l><r>men<s n="cnjcoo"/></r></p></e>
+    <e><p><l>mutta<s n="cnjcoo"/></l><r>men<s n="cnjcoo"/><s n="clb"/></r></p></e>
 
     <!-- }}} -->
 
       <!-- {{{ pronouns -->
 
     <!-- fixmes: -->
-    <e><p><l>minä<s n="prn"/></l><r>jeg<s n="prn"/></r></p></e>
-    <e><p><l>sinä<s n="prn"/></l><r>du<s n="prn"/></r></p></e>
-    <e><p><l>hän<s n="prn"/></l><r>hun<s n="prn"/></r></p></e>
-    <e><p><l>hän<s n="prn"/></l><r>han<s n="prn"/></r></p></e>
-    <e><p><l>he<s n="prn"/></l><r>de<s n="prn"/></r></p></e>
+    <e><p><l>minä<s n="prn"/></l><r>jeg<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/></r></p></e>
+    <e><p><l>sinä<s n="prn"/></l><r>du<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/></r></p></e>
+    <e><p><l>hän<s n="prn"/></l><r>hun<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/></r></p></e>
+    <e><p><l>hän<s n="prn"/></l><r>han<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/></r></p></e>
+    <e c="formal?"><p><l>sinä<s n="prn"/></l><r>de<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/></r></p></e>
+    <e><p><l>he<s n="prn"/></l><r>de<s n="prn"/><s n="pers"/><s n="p3"/><s n="un"/></r></p></e>
     <e><p><l>se<s n="prn"/></l><r>den¹<s n="prn"/></r></p></e>
-    <e><p><l>se<s n="prn"/></l><r>den<s n="prn"/></r></p></e>
+    <e><p><l>se<s n="prn"/></l><r>den<s n="prn"/><s n="pers"/><s n="p3"/><s n="nt"/></r></p></e>
+    <e><p><l>se<s n="prn"/></l><r>den<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/></r></p></e>
 
-    <e><p><l>itse<s n="prn"/></l><r>seg<s n="prn"/></r></p></e>
-    <e><p><l>jokin<s n="prn"/></l><r>noe<s n="prn"/></r></p></e>
+    <e><p><l>itse<s n="prn"/></l><r>seg<s n="prn"/><s n="ref"/><s n="p3"/><s n="un"/></r></p></e>
+    <e><p><l>jokin<s n="prn"/></l><r>noe<s n="prn"/><s n="qnt"/><s n="nt"/></r></p></e>
 
     <!-- }}} -->
 

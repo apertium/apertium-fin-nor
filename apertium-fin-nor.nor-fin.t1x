@@ -1,37 +1,345 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
-    <def-cat n="nom">
+    <def-cat n="noun">
       <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
     </def-cat>
-    <def-cat n="sent">
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
+    <def-cat n="verb">
+      <cat-item tags="vblex.*"/>
+      <cat-item tags="vaux.*"/>
+    </def-cat>
+    <def-cat n="finverb">
+      <cat-item tags="vblex.pret"/>
+      <cat-item tags="vblex.imp"/>
+      <cat-item tags="vblex.pres"/>
+    </def-cat>
+    <def-cat n="infverb">
+      <cat-item tags="vblex.inf"/>
+    </def-cat>
+    <def-cat n="pron">
+      <cat-item tags="prn.*"/>
+      <cat-item tags="det.*"/>
+    </def-cat>
+    <def-cat n="punct">
       <cat-item tags="sent"/>
+      <cat-item tags="punct"/>
+      <cat-item tags="sym"/>
+      <cat-item tags="cm"/>
+      <cat-item tags="cm.*"/>
+      <cat-item tags="lquot"/>
+      <cat-item tags="rquot"/>
     </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
-    <def-attr n="a_cas">
+    <def-attr n="a_case">
       <attr-item tags="nom"/>
+    </def-attr>
+    <def-attr n="a_noun">
+      <attr-item tags="n"/>
+      <attr-item tags="np"/>
+      <attr-item tags="np.ant"/>
+      <attr-item tags="np.ant.f"/>
+      <attr-item tags="np.ant.m"/>
+    </def-attr>
+    <def-attr n="a_verb">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vaux"/>
+    </def-attr>
+    <def-attr n="a_pron">
+      <attr-item tags="prn"/>
+      <attr-item tags="det"/>
+      <attr-item tags="num"/>
+    </def-attr>
+    <def-attr n="a_tense">
+      <attr-item tags="pres"/>
+      <attr-item tags="pret"/>
+      <attr-item tags="pri"/>
+      <attr-item tags="past"/>
+      <attr-item tags="imp"/>
+    </def-attr>
+    <def-attr n="a_adj">
+      <attr-item tags="adj.pst"/>
+    </def-attr>
+    <def-attr n="a_number">
+      <attr-item tags="sg"/>
+      <attr-item tags="sp"/>
+      <attr-item tags="pl"/>
+    </def-attr>
+    <def-attr n="a_punct">
+      <attr-item tags="punct"/>
+      <attr-item tags="sym"/>
     </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
+    <def-var n="case"/>
     <def-var n="number"/>
+    <def-var n="tense"/>
+    <def-var n="person"/>
   </section-def-vars>
 
   <section-def-macros>
-    <def-macro n="test" npar="1">
+    <def-macro n="person-mangler" npar="1">
+      <choose>
+        <!-- person mappigngs -->
+        <!-- based on verb form only -->
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="imp"/></equal>
+          </test>
+          <let>
+            <var n="person"/>
+            <lit-tag v="p2.sg"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pres"/></equal>
+          </test>
+          <let>
+            <var n="person"/>
+            <lit-tag v="p3.sg"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pret"/></equal>
+          </test>
+          <let>
+            <var n="person"/>
+            <lit-tag v="p3.sg"/>
+          </let>
+        </when>
+        <!-- otherwise, pri -->
+        <otherwise>
+          <let>
+            <var n="person"/><lit-tag v="p3.sg"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="tense-mangler" npar="1">
+      <choose>
+        <!-- tense mappigngs -->
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_tense"/><lit-tag v="pret"/></equal>
+          </test>
+          <let>
+            <var n="tense"/>
+            <lit-tag v="past"/>
+          </let>
+        </when>
+        <!-- otherwise, pri -->
+        <otherwise>
+          <let>
+            <clip pos="1" side="tl" part="a_tense"/><lit-tag v="pri"/>
+          </let>
+          <let>
+            <var n="tense"/><lit-tag v="pri"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="number-mangler" npar="1">
+      <choose>
+        <!-- nunber mappigngs -->
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="sg"/></equal>
+          </test>
           <let>
             <var n="number"/>
-            <lit v=""/>
+            <lit-tag v="sg"/>
           </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="pl"/></equal>
+          </test>
+          <let>
+            <var n="number"/>
+            <lit-tag v="pl"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="sp"/></equal>
+          </test>
+          <let>
+            <var n="number"/>
+            <lit-tag v="sg"/>
+          </let>
+        </when>
+        <!-- otherwise, sg -->
+        <otherwise>
+          <let>
+            <clip pos="1" side="tl" part="a_number"/><lit-tag v="sg"/>
+          </let>
+          <let>
+            <var n="number"/><lit-tag v="sg"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="case-mangler" npar="1">
+      <choose>
+        <!-- case mappigngs -->
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_case"/><lit-tag v="acc"/></equal>
+          </test>
+          <let>
+            <var n="case"/>
+            <lit-tag v="gen"/>
+          </let>
+        </when>
+        <!-- otherwise, nom -->
+        <otherwise>
+          <let>
+            <clip pos="1" side="tl" part="a_case"/><lit-tag v="nom"/>
+          </let>
+          <let>
+            <var n="case"/><lit-tag v="nom"/>
+          </let>
+        </otherwise>
+      </choose>
     </def-macro>
   </section-def-macros>
 
   <section-rules>
-    <rule comment="REGLA: SENT">
+    <rule comment="stray verb">
       <pattern>
-        <pattern-item n="sent"/>
+        <pattern-item n="finverb"/>
+      </pattern>
+      <action>
+        <call-macro n="person-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="tense-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="verb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="actv"/>
+              <var n="tense"/>
+              <var n="person"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="infinitive">
+      <pattern>
+        <pattern-item n="infverb"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="inf" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V.INF"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="actv.infa.sg.lat"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="pron">
+      <pattern>
+        <pattern-item n="pron"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="pron" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PRN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_pron"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="noun">
+      <pattern>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="noun" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="N"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="adj">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="number-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="adj" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="ADJ"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="puncts">
+      <pattern>
+        <pattern-item n="punct"/>
       </pattern>
       <action>
         <out>
@@ -40,7 +348,8 @@
               <tag><lit-tag v="SENT"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_punct"/>
             </lu>
           </chunk>
         </out>
