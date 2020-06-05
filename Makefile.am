@@ -40,6 +40,8 @@ TARGETS_COMMON =		\
 	$(PREFIX2n).rlx.bin	\
 	$(PREFIX2b).rlx.bin	\
 	$(PREFIX2).autobil.bin	\
+	$(PREFIX2b).autobil.bin	\
+	$(PREFIX2n).autobil.bin	\
 	$(PREFIX2n).autolex.bin	\
 	$(PREFIX2b).autolex.bin	\
 	$(PREFIX2).autogen.hfst	\
@@ -148,6 +150,14 @@ $(PREFIX1n).autobil.bin: $(BASENAME).$(PREFIX1).dix
 $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
 	lt-comp rl $< $@
+
+$(PREFIX2b).autobil.bin: $(BASENAME).$(PREFIX1).dix
+	apertium-validate-dictionary $<
+	lt-comp --var-right=nob lr $< $@
+
+$(PREFIX2n).autobil.bin: $(BASENAME).$(PREFIX1).dix
+	apertium-validate-dictionary $<
+	lt-comp --var-right=nno lr $< $@
 
 ###############################################################################
 ## Lexical selection rules
