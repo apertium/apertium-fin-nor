@@ -16,6 +16,9 @@ AS_IF([test x$HFSTLEXC = xfalse], [AC_MSG_ERROR([You don't have hfst-lexc instal
 AC_PATH_PROG([HFSTTWOLC], [hfst-twolc], [false], [$PATH$PATH_SEPARATOR$with_hfst_twolc/bin])
 AS_IF([test x$HFSTTWOLC = xfalse], [AC_MSG_ERROR([You don't have hfst-twolc installed])])
 
+AC_PATH_PROG([HFSTPROC], [hfst-proc], [false], [$PATH$PATH_SEPARATOR$with_hfst_proc/bin])
+AS_IF([test x$HFSTPROC = xfalse], [AC_MSG_ERROR([You don't have hfst-proc installed])])
+
 AC_PATH_PROG([CGCOMP], [cg-comp], [false], [$PATH$PATH_SEPARATOR$with_cg_comp/bin])
 AS_IF([test x$CGCOMP = xfalse], [AC_MSG_ERROR([You don't have cg-comp installed])])
 
