@@ -8,6 +8,13 @@
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
+    <def-cat n="participle">
+      <cat-item tags="vblex.pp"/>
+      <cat-item tags="vblex.pstv.pp"/>
+    </def-cat>
+    <def-cat n="passive">
+      <cat-item tags="vblex.*.pasv"/>
+    </def-cat>
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
       <cat-item tags="vaux.*"/>
@@ -16,6 +23,7 @@
       <cat-item tags="vblex.pret"/>
       <cat-item tags="vblex.imp"/>
       <cat-item tags="vblex.pres"/>
+      <cat-item tags="vblex.pstv.pres"/>
     </def-cat>
     <def-cat n="infverb">
       <cat-item tags="vblex.inf"/>
@@ -42,6 +50,10 @@
     <def-attr n="a_noun">
       <attr-item tags="n"/>
       <attr-item tags="np"/>
+      <attr-item tags="np.org"/>
+      <attr-item tags="np.cog"/>
+      <attr-item tags="np.top"/>
+      <attr-item tags="np.al"/>
       <attr-item tags="np.ant"/>
       <attr-item tags="np.ant.f"/>
       <attr-item tags="np.ant.m"/>
@@ -58,7 +70,10 @@
     <def-attr n="a_pron">
       <attr-item tags="prn"/>
       <attr-item tags="det"/>
+      <attr-item tags="adj"/>
+      <attr-item tags="adj.pst"/>
       <attr-item tags="num"/>
+      <attr-item tags="num.card"/>
     </def-attr>
     <def-attr n="a_tense">
       <attr-item tags="pres"/>
@@ -69,12 +84,17 @@
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
-      <attr-item tags="adj.pst"/>
+      <attr-item tags="adj.ord"/>
     </def-attr>
     <def-attr n="a_number">
       <attr-item tags="sg"/>
       <attr-item tags="sp"/>
       <attr-item tags="pl"/>
+    </def-attr>
+    <def-attr n="a_comp">
+      <attr-item tags="comp"/>
+      <attr-item tags="pst"/>
+      <attr-item tags="sup"/>
     </def-attr>
     <def-attr n="a_punct">
       <attr-item tags="punct"/>
@@ -87,6 +107,7 @@
     <def-var n="number"/>
     <def-var n="tense"/>
     <def-var n="person"/>
+    <def-var n="comparison"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -125,6 +146,29 @@
         <otherwise>
           <let>
             <var n="person"/><lit-tag v="p3.sg"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="comp-mangler" npar="1">
+      <choose>
+        <!-- tense mappigngs -->
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_comp"/><lit-tag v="comp"/></equal>
+          </test>
+          <let>
+            <var n="comparison"/>
+            <lit-tag v="comp"/>
+          </let>
+        </when>
+        <!-- otherwise, pri -->
+        <otherwise>
+          <let>
+            <clip pos="1" side="tl" part="a_comp"/><lit-tag v="pst"/>
+          </let>
+          <let>
+            <var n="comparison"/><lit-tag v="pst"/>
           </let>
         </otherwise>
       </choose>
@@ -246,6 +290,49 @@
         </out>
       </action>
     </rule>
+    <rule comment="passive">
+      <pattern>
+        <pattern-item n="passive"/>
+      </pattern>
+      <action>
+        <call-macro n="tense-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="pasv" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V.PASV"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="pasv"/>
+              <var n="tense"/>
+              <lit-tag v="impers"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="participle">
+      <pattern>
+        <pattern-item n="participle"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="pcp" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="ADJ"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="pasv.pp.pst.sg.nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="infinitive">
       <pattern>
         <pattern-item n="infverb"/>
@@ -328,6 +415,9 @@
         <call-macro n="case-mangler">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="comp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="adj" case="caseFirstWord">
             <tags>
@@ -336,6 +426,7 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_adj"/>
+              <var n="comparison"/>
               <var n="number"/>
               <var n="case"/>
             </lu>
