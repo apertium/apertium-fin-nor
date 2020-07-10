@@ -274,7 +274,7 @@ clean-local:
 ## Test
 ###############################################################################
 
-test: all
+check: all
 	echo "talo" | apertium -d . fin-nob | tee .test-mt
 	@echo "hus" > .test-ref
 	@diff .test-ref .test-mt
