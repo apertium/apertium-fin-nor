@@ -107,9 +107,6 @@
       <program name="lt-proc $1">
         <file name="fin-nno.autogen.bin"/>
       </program>
-      <program name="lt-proc -p">
-        <file name="fin-nno.autopgen.bin"/>
-      </program>
     </pipeline>
   </mode>
 
