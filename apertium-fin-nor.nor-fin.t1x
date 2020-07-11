@@ -5,6 +5,9 @@
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
     </def-cat>
+    <def-cat n="adp">
+      <cat-item tags="pr"/>
+    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
@@ -104,6 +107,8 @@
 
   <section-def-vars>
     <def-var n="case"/>
+    <def-var n="adpcase"/>
+    <def-var n="maybeadp"/>
     <def-var n="number"/>
     <def-var n="tense"/>
     <def-var n="person"/>
@@ -111,6 +116,101 @@
   </section-def-vars>
 
   <section-def-macros>
+    <def-macro n="adp-mangler" npar="1">
+      <choose>
+        <!-- adp to case mappigngs -->
+        <!-- based on adp lexeme only -->
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="i"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="ine"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="fra"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="ela"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="til"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="ill"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="på"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="ade"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="av"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="abl"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="for"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="all"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <!-- otherwise, pri -->
+        <otherwise>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="gen"/> <!-- XXX: adp case based on fin verb -->
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <clip pos="1" side="tl" part="whole"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
     <def-macro n="person-mangler" npar="1">
       <choose>
         <!-- person mappigngs -->
@@ -263,6 +363,38 @@
   </section-def-macros>
 
   <section-rules>
+    <rule comment="adp noun">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="adpnoun" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="adpcase"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+            <b pos="0"/>
+            <lu>
+              <var n="maybeadp"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="stray verb">
       <pattern>
         <pattern-item n="finverb"/>
