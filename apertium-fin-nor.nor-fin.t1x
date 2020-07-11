@@ -31,6 +31,9 @@
     <def-cat n="infverb">
       <cat-item tags="vblex.inf"/>
     </def-cat>
+    <def-cat n="personal">
+      <cat-item tags="prn.pers.*"/>
+    </def-cat>
     <def-cat n="pron">
       <cat-item tags="prn.*"/>
       <cat-item tags="det.*"/>
@@ -94,6 +97,11 @@
       <attr-item tags="sp"/>
       <attr-item tags="pl"/>
     </def-attr>
+    <def-attr n="a_person">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+    </def-attr>
     <def-attr n="a_comp">
       <attr-item tags="comp"/>
       <attr-item tags="pst"/>
@@ -112,6 +120,7 @@
     <def-var n="number"/>
     <def-var n="tense"/>
     <def-var n="person"/>
+    <def-var n="prodrop"/>
     <def-var n="comparison"/>
   </section-def-vars>
 
@@ -207,6 +216,116 @@
           <let>
             <var n="maybeadp"/>
             <clip pos="1" side="tl" part="whole"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="personal-mangler" npar="1">
+      <choose>
+        <!-- personal mappigngs -->
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="sg"/></equal>
+              <equal><clip pos="1" side="sl" part="a_person"/><lit-tag v="p1"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="person"/>
+            <lit-tag v="p1.sg"/>
+          </let>
+          <let>
+            <var n="prodrop"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="sg"/></equal>
+              <equal><clip pos="1" side="sl" part="a_person"/><lit-tag v="p2"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="person"/>
+            <lit-tag v="p2.sg"/>
+          </let>
+          <let>
+            <var n="prodrop"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="sg"/></equal>
+              <equal><clip pos="1" side="sl" part="a_person"/><lit-tag v="p3"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="person"/>
+            <lit-tag v="p3.sg"/>
+          </let>
+          <let>
+            <var n="prodrop"/>
+            <clip pos="1" side="tl" part="whole"/> <!-- no can drop p3 -->
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="pl"/></equal>
+              <equal><clip pos="1" side="sl" part="a_person"/><lit-tag v="p1"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="person"/>
+            <lit-tag v="p1.pl"/>
+          </let>
+          <let>
+            <var n="prodrop"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="pl"/></equal>
+              <equal><clip pos="1" side="sl" part="a_person"/><lit-tag v="p2"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="person"/>
+            <lit-tag v="p2.pl"/>
+          </let>
+          <let>
+            <var n="prodrop"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="pl"/></equal>
+              <equal><clip pos="1" side="sl" part="a_person"/><lit-tag v="p3"/></equal>
+            </and>
+          </test>
+          <let>
+            <var n="person"/>
+            <lit-tag v="p3.pl"/>
+          </let>
+          <let>
+            <var n="prodrop"/>
+            <clip pos="1" side="tl" part="whole"/> <!-- no can drop p3 -->
+          </let>
+        </when>
+        <!-- otherwise, pri -->
+        <otherwise>
+          <let>
+            <var n="person"/><lit-tag v="p3.sg"/>
+          </let>
+          <let>
+            <var n="prodrop"/><clip pos="1" side="tl" part="whole"/>
           </let>
         </otherwise>
       </choose>
@@ -363,6 +482,40 @@
   </section-def-macros>
 
   <section-rules>
+    <rule comment="person verb">
+      <pattern>
+        <pattern-item n="personal"/>
+        <pattern-item n="finverb"/>
+      </pattern>
+      <action>
+        <call-macro n="personal-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="tense-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="verb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="VP"/></tag>
+              <tag><var n="tense"/></tag>
+              <tag><var n="person"/></tag>
+            </tags>
+            <lu>
+              <var n="prodrop"/>
+            </lu>
+            <b pos="0"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="actv"/>
+              <var n="tense"/>
+              <var n="person"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="adp noun">
       <pattern>
         <pattern-item n="adp"/>
