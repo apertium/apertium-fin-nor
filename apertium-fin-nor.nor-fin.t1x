@@ -9,14 +9,18 @@
       <cat-item tags="pr"/>
     </def-cat>
     <def-cat n="card">
-      <cat-item tags="det.qnt"/>
-      <cat-item tags="num.card"/>
+      <cat-item tags="det.qnt.*"/>
+      <cat-item tags="num.card.*"/>
     </def-cat>
     <def-cat n="ord">
       <cat-item tags="adj.ord.*"/>
     </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
+    </def-cat>
+    <def-cat n="har">
+      <cat-item lemma="ha" tags="vblex.pres"/>
+      <cat-item lemma="ha" tags="vaux.pres"/>
     </def-cat>
     <def-cat n="participle">
       <cat-item tags="vblex.pp"/>
@@ -40,6 +44,10 @@
     </def-cat>
     <def-cat n="personal">
       <cat-item tags="prn.pers.*"/>
+    </def-cat>
+    <def-cat n="art">
+      <cat-item lemma="en" tags="det.*"/>
+      <cat-item lemma="den" tags="det.*"/>
     </def-cat>
     <def-cat n="pron">
       <cat-item tags="prn.*"/>
@@ -211,6 +219,32 @@
           <let>
             <var n="adpcase"/>
             <lit-tag v="all"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="som"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="ess"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="På"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="tra"/>
           </let>
           <let>
             <var n="maybeadp"/>
@@ -492,6 +526,111 @@
   </section-def-macros>
 
   <section-rules>
+    <rule comment="adp art noun">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="art"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="adpnoun" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="adpcase"/></tag>
+            </tags>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <var n="maybeadp"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="art adj noun">
+      <pattern>
+        <pattern-item n="art"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="number-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="comp-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="noun" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <var n="comparison"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="har participle">
+      <pattern>
+        <pattern-item n="har"/>
+        <pattern-item n="participle"/>
+      </pattern>
+      <action>
+        <call-macro n="personal-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="tense-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="verb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="VP.PERF"/></tag>
+            </tags>
+            <lu>
+              <lit v="olla"/>
+              <lit-tag v="vaux.actv"/>
+              <var n="tense"/>
+              <var n="person"/>
+            </lu>
+            <b pos="0"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="actv.pp.pst.sg.nom"/> <!-- XXX: or pasv -->
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="person verb">
       <pattern>
         <pattern-item n="personal"/>
@@ -630,8 +769,8 @@
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_num"/>
-              <lit-tag v="card"/>
+              <lit-tag v="num"/> <!-- num not det -->
+              <lit-tag v="card"/> <!-- card -->
               <lit-tag v="sg"/> <!-- pl in nor is broken -->
               <var n="case"/>
             </lu>
@@ -696,6 +835,33 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_pron"/>
+              <var n="number"/>
+              <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="art noun">
+      <pattern>
+        <pattern-item n="art"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="noun" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
               <var n="number"/>
               <var n="case"/>
             </lu>

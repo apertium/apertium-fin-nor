@@ -1604,7 +1604,7 @@
     <e><p><l>Kyurem<s n="np"/><s n="al"/></l><r c="wrong">Kyurem<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>League<s n="np"/><s n="al"/></l><r c="wrong">League<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Lucario<s n="np"/><s n="al"/></l><r c="wrong">Lucario<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-    <e><p><l>Master<s n="np"/><s n="al"/></l><r c="wrong">Master<s n="np"/><s n="al"/></r></p></e>
+    <e><p><l>Master<s n="np"/><s n="al"/></l><r c="wrong">Master<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Max<s n="np"/><s n="ant"/><s n="m"/></l><r>Max<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Mew<s n="np"/><s n="al"/></l><r c="wrong">Mew<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Mewtwo<s n="np"/><s n="al"/></l><r c="wrong">Mewtwo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -1618,10 +1618,12 @@
     <e><p><l>Pikachu<s n="np"/><s n="al"/></l><r c="wrong">Pikachu<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Pocket<s n="np"/><s n="al"/></l><r c="wrong">Pocket<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Pokémon<s n="np"/><s n="al"/></l><r>Pokémon<s n="np"/><s n="org"/></r></p></e>
+    <e><p><l>Pokémon<s n="np"/><s n="al"/></l><r>Pokémon<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Porygon<s n="np"/><s n="al"/></l><r c="wrong">Porygon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-    <e><p><l>Ranger<s n="np"/><s n="al"/></l><r c="wrong">Ranger<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Ranger<s n="np"/><s n="al"/></l><r>Ranger<s n="np"/></r></p></e>
     <e><p><l>Reshiram<s n="np"/><s n="ant"/></l><r>Reshiram<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Rettferdighetens<s n="np"/><s n="al"/></l><r>Rettferdighetens<s n="np"/></r></p></e>
+    <e><p><l>Trading<s n="np"/><s n="al"/></l><r>Trading<s n="np"/></r></p></e>
     <e><p><l>Richie<s n="np"/><s n="ant"/></l><r>Richie<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>Rocket<s n="np"/><s n="al"/></l><r>Rocket<s n="np"/></r></p></e>
     <e><p><l>Ryanair<s n="np"/><s n="al"/></l><r c="wrong">Ryanair<s n="np"/><s n="cog"/></r></p></e>
