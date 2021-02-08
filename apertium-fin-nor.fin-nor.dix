@@ -94,6 +94,7 @@
     <sdef n="ord"             c="Ordinal"/>
     <sdef n="card"            c="Cardinal"/>
     <sdef n="acr"             c="Acronym"/>
+    <sdef n="abbr"            c="Acronym"/>
     <sdef n="unc"             c="Uncountable"/>
 
     <sdef n="num"             c="Numeral"/>
@@ -146,11 +147,14 @@
     <e r="RL"><p><l>parivaljakko<s n="n"/></l><r>to<b/>personer<s n="n"/><s n="mf"/></r></p></e>
     <e vr="nno" r="RL"><p><l>mikään<s n="prn"/></l><r>ikkje<b/>noko<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pohjoinen<s n="adj"/><s n="pst"/><s n="sg"/><s n="ill"/></l><r>mot<b/>nord<s n="adv"/></r></p></e>
+    <e><p><l>jaa<s n="ij"/></l><r>ja<s n="adv"/></r></p></e>
+    <e><p><l>jaa<s n="ij"/></l><r>jo<s n="adv"/></r></p></e>
 
 
       <!-- guesser fixes -->
 
     <e><p><l>Maillard-reaktio<s n="n"/></l><r>Maillardreaksjon<s n="np"/></r></p></e>
+    <e><p><l>itä<s n="n"/></l><r>Østen<s n="np"/></r></p></e>
     <e><p><l>rekisteri<s n="n"/></l><r>Fortegnelse<s n="np"/></r></p></e>
     <e><p><l>historia<s n="n"/></l><r>Historie<s n="np"/></r></p></e>
     <e><p><l>säilytys<s n="n"/></l><r>Holdbarhet<s n="np"/></r></p></e>
@@ -164,7 +168,7 @@
 
       <!-- more guessers? -->
 
-    <e><p><l>f<s n="n"/></l><r c="WTF??">falphabet<s n="n"/></r></p></e>
+    <e><p><l>f<s n="n"/><s n="acr"/></l><r c="WTF??">falphabet<s n="n"/></r></p></e>
     <e><p><l>s<s n="n"/></l><r c="WTF??">salphabet<s n="n"/></r></p></e>
     <e><p><l>v<s n="n"/></l><r c="WTF??">valphabet<s n="n"/></r></p></e>
 
@@ -1597,7 +1601,6 @@
     <e><i>Pierson<s n="np"/></i></e>
     <e><i>Pikachu<s n="np"/></i></e>
     <e><i>Pocket<s n="np"/></i></e>
-    <e><i>Polo<s n="np"/></i></e>
     <e><i>Porygon<s n="np"/></i></e>
     <e><i>Post<s n="np"/></i></e>
     <e><i>Price<s n="np"/></i></e>
@@ -1702,7 +1705,6 @@
     <e><p><l>Espanja<s n="np"/></l><r>Spania<s n="np"/></r></p></e>
     <e><p><l>Eurooppa<s n="np"/></l><r>Europa<s n="np"/></r></p></e>
     <e><p><l>Iso-Britannia<s n="np"/></l><r>Storbritannia<s n="np"/></r></p></e>
-    <e><p><l>Itä<s n="np"/></l><r>Østen<s n="np"/></r></p></e>
     <e><p><l>Japani<s n="np"/></l><r>Japan<s n="np"/></r></p></e>
     <e><p><l>Jyllanti<s n="np"/></l><r>Jylland<s n="np"/></r></p></e>
     <e><p><l>Kiina<s n="np"/></l><r>Kina<s n="np"/></r></p></e>
@@ -1712,7 +1714,6 @@
     <e><p><l>Lontoo<s n="np"/></l><r>London<s n="np"/></r></p></e>
     <e><p><l>Lähi-itä<s n="np"/></l><r>Midtausten<s n="np"/></r></p></e>
     <e><p><l>Norja<s n="np"/></l><r>Norge<s n="np"/></r></p></e>
-    <e><p><l>Olympus-vuori<s n="np"/></l><r>Olympus-fjellet<s n="np"/></r></p></e>
     <e><p><l>Pohjoismaa<s n="np"/></l><r>Norden<s n="np"/></r></p></e>
     <e><p><l>Rodos<s n="np"/></l><r>Rhodos<s n="np"/></r></p></e>
     <e><p><l>Rooma<s n="np"/></l><r>Roma<s n="np"/></r></p></e>
@@ -1732,6 +1733,11 @@
 
     <!-- wrong(?) np classes, possibly guessed -->
 
+    <e><p><l>Polo<s n="np"/><s n="cog"/><s n="use_blacklist"/></l><r>Polo<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Olympus-vuori<s n="np"/><s n="al"/></l><r>Olympus-fjellet<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Kristus<s n="np"/><s n="ant"/></l><r>Kristus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Nero<s n="np"/><s n="cog"/></l><r>Nero<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+    <e><p><l>Markensgate<s n="np"/><s n="al"/></l><r>Markensgate<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Ash<s n="np"/><s n="ant"/></l><r>Ash<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Blue<s n="np"/><s n="al"/></l><r c="wrong">Blue<s n="np"/><s n="org"/></r></p></e>
     <e><p><l>Boy<s n="np"/><s n="cog"/></l><r c="wrong">Boy<s n="np"/><s n="top"/></r></p></e>
@@ -1828,7 +1834,8 @@
       <!-- normal verbsz -->
 
     <e c="XXX"><p><l>maastota<s n="vblex"/></l><r>skvære<s n="vblex"/></r></p></e>
-    <e><p><l>aikoa<s n="vaux"/></l><r>skulle<s n="vblex"/></r></p></e>
+    <e c="aion tehdä"><p><l>aikoa<s n="vaux"/></l><r>skulle<s n="vblex"/></r></p></e>
+    <e c="tulee tehdä"><p><l>tulla<s n="vblex"/></l><r>skulle<s n="vblex"/></r></p></e>
     <e><p><l>aikuistua<s n="vblex"/></l><r>vokse<g><b/>opp</g><s n="vblex"/></r></p></e>
     <e><p><l>ajaa<s n="vblex"/></l><r>kjøre<s n="vblex"/></r></p></e>
     <e><p><l>ajastaa<s n="vblex"/></l><r>time<s n="vblex"/></r></p></e>
@@ -2044,6 +2051,7 @@
     <e><p><l>osallistua<s n="vblex"/></l><r>delta<g><b/>i</g><s n="vblex"/></r></p></e>
     <e><p><l>osallistua<s n="vblex"/></l><r>delta<s n="vblex"/></r></p></e>
     <e><p><l>osata<s n="vaux"/></l><r>kunne<s n="vblex"/></r></p></e>
+    <e><p><l>voida<s n="vaux"/></l><r>kunne<s n="vblex"/></r></p></e>
     <e><p><l>ostaa<s n="vblex"/></l><r>kjøpe<s n="vblex"/></r></p></e>
     <e><p><l>ottaa<s n="vblex"/></l><r>ta<g><b/>ut</g><s n="vblex"/></r></p></e>
     <e><p><l>ottaa<s n="vblex"/></l><r>ta<s n="vblex"/></r></p></e>
@@ -2569,8 +2577,6 @@
     <e><p><l>ikuisesti<s n="adv"/></l><r>for<b/>alltid<s n="adv"/></r></p></e>
     <e><p><l>ilmaiseksi<s n="adv"/></l><r>gratis<s n="adv"/></r></p></e>
     <e><p><l>itsestäänselvästi<s n="adv"/></l><r>selvfølgelig<s n="adv"/></r></p></e>
-    <e><p><l>jaa<s n="adv"/></l><r>ja<s n="adv"/></r></p></e>
-    <e><p><l>jaa<s n="adv"/></l><r>jo<s n="adv"/></r></p></e>
     <e><p><l>jopa<s n="adv"/></l><r>enda<s n="adv"/></r></p></e>
     <e><p><l>jopa<s n="adv"/></l><r>til<b/>og<b/>med<s n="adv"/></r></p></e>
     <e><p><l>jopa<s n="adv"/></l><r>til<b/>og<b/>med<s n="adv"/></r></p></e>
@@ -2725,15 +2731,15 @@
     <e vr="nno"><p><l>yhä<s n="adv"/></l><r>enno<s n="adv"/></r></p></e>
 
     <e><p><l>klo<s n="adv"/></l><r>kl.<s n="adv"/></r></p></e>
-    <e><p><l>esim.<s n="adv"/></l><r>f.eks<s n="adv"/></r></p></e>
-    <e><p><l>n.<s n="adv"/></l><r>ca.<s n="pr"/></r></p></e>
+    <e><p><l>esim.<s n="adv"/><s n="abbr"/></l><r>f.eks<s n="adv"/></r></p></e>
+    <e><p><l>n.<s n="adv"/><s n="abbr"/></l><r>ca.<s n="pr"/></r></p></e>
     <e><p><l>jne.<s n="adv"/></l><r>osv.<s n="n"/></r></p></e>
-    <e><p><l>yms.<s n="adv"/></l><r>o.l.<s n="adv"/></r></p></e>
+    <e><p><l>yms.<s n="adv"/><s n="abbr"/></l><r>o.l.<s n="adv"/></r></p></e>
     <e><p><l>aiemmin<s n="adv"/></l><r>tidl.<s n="n"/></r></p></e>
 
     <e><p><l>samalla<s n="adv"/></l><r>samtidig<b/>som<s n="adv"/></r></p></e>
     <e><p><l>kerralla<s n="adv"/></l><r>med<b/>en<b/>gang<s n="adv"/></r></p></e>
-    <e><p><l>ennenvanhaan<s n="adv"/></l><r>før<b/>i<b/>tiden<s n="adv"/></r></p></e>
+    <e><p><l>vanhastaan<s n="adv"/></l><r>før<b/>i<b/>tiden<s n="adv"/></r></p></e>
     <e><p><l>nähtävästi<s n="adv"/></l><r>det<b/>vil<b/>si<s n="adv"/></r></p></e>
     <e><p><l>esimerkiksi<s n="adv"/></l><r>for<b/>eksempel<s n="adv"/></r></p></e>
     <e><p><l>itsenäisesti<s n="adv"/></l><r>på<b/>egen<b/>hånd<s n="adv"/></r></p></e>
@@ -2801,7 +2807,7 @@
     <e><p><l>suunnilleen<s n="post"/></l><r>omkring<s n="pr"/></r></p></e>
     <e><p><l>takaa<s n="post"/></l><r>bakom<s n="pr"/></r></p></e>
     <e><p><l>takana<s n="post"/></l><r>bak<s n="pr"/></r></p></e>
-    <e><p><l>tarvittaessa<s n="post"/></l><r>når<b/>det<b/>gjelder<s n="pr"/></r></p></e>
+    <e><p><l>mukaan<s n="post"/></l><r>når<b/>det<b/>gjelder<s n="pr"/></r></p></e>
     <e><p><l>ulkopuolella<s n="post"/></l><r>utenfor<s n="pr"/></r></p></e>
     <e><p><l>ulos<s n="post"/></l><r>ut<s n="pr"/></r></p></e>
     <e><p><l>vastaan<s n="post"/></l><r>mot<s n="pr"/></r></p></e>
@@ -2846,7 +2852,7 @@
     <e><p><l>kun<s n="cnjsub"/></l><r>når<s n="cnjsub"/></r></p></e>
     <e><p><l>mikä<s n="cnjsub"/></l><r>hvor<s n="cnjsub"/></r></p></e>
     <e><p><l>miten<s n="cnjsub"/></l><r>hvordan<s n="cnjsub"/></r></p></e>
-    <e><p><l>sitten<s n="cnjsub"/></l><r>siden<s n="cnjsub"/></r></p></e>
+    <e><p><l>kun<s n="cnjsub"/></l><r>siden<s n="cnjsub"/></r></p></e>
     <e><p><l>vaikka<s n="cnjsub"/></l><r>selv<b/>om<s n="cnjsub"/></r></p></e>
     <e vr="nno"><p><l>vaikka<s n="cnjsub"/></l><r>sjølv<b/>om<s n="cnjsub"/></r></p></e>
 
@@ -2863,6 +2869,7 @@
     <e><p><l>mutta<s n="cnjcoo"/></l><r>men<s n="cnjcoo"/><s n="clb"/></r></p></e>
     <e><p><l>siis<s n="cnjcoo"/></l><r>så<s n="cnjcoo"/></r></p></e>
     <e><p><l>tai<s n="cnjcoo"/></l><r>eller<s n="cnjcoo"/></r></p></e>
+    <e><p><l>tai<s n="cnjcoo"/></l><r>eller<s n="cnjcoo"/><s n="clb"/></r></p></e>
     <e><p><l>vaikka<s n="cnjcoo"/></l><r>eller<s n="cnjcoo"/></r></p></e>
     <e><p><l>sekä<s n="cnjcoo"/></l><r>både<s n="cnjcoo"/></r></p></e>
     <e><p><l>koska<s n="cnjsub"/></l><r>for<s n="cnjcoo"/><s n="clb"/></r></p></e>

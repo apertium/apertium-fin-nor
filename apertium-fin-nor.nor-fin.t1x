@@ -9,8 +9,23 @@
       <cat-item tags="pr"/>
     </def-cat>
     <def-cat n="card">
-      <cat-item tags="det.qnt.*"/>
+      <cat-item lemma="1" tags="det.qnt.un.sg"/>
+      <cat-item lemma="2" tags="det.qnt.un.pl"/>
+      <cat-item lemma="3" tags="det.qnt.un.pl"/>
+      <cat-item lemma="4" tags="det.qnt.un.pl"/>
+      <cat-item lemma="5" tags="det.qnt.un.pl"/>
+      <cat-item lemma="6" tags="det.qnt.un.pl"/>
+      <cat-item lemma="7" tags="det.qnt.un.pl"/>
+      <cat-item lemma="8" tags="det.qnt.un.pl"/>
+      <cat-item lemma="9" tags="det.qnt.un.pl"/>
+      <cat-item lemma="10" tags="det.qnt.un.pl"/>
       <cat-item tags="num.card.*"/>
+    </def-cat>
+    <def-cat n="for">
+      <cat-item lemma="for" tags="pr"/>
+    </def-cat>
+    <def-cat n="å">
+      <cat-item lemma="å" tags="part"/>
     </def-cat>
     <def-cat n="ord">
       <cat-item tags="adj.ord.*"/>
@@ -201,6 +216,19 @@
         </when>
         <when>
           <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="ved"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="ade"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
             <equal><clip pos="1" side="sl" part="lem"/><lit v="av"/></equal>
           </test>
           <let>
@@ -219,6 +247,19 @@
           <let>
             <var n="adpcase"/>
             <lit-tag v="all"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="uten"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="abe"/>
           </let>
           <let>
             <var n="maybeadp"/>
@@ -526,6 +567,51 @@
   </section-def-macros>
 
   <section-rules>
+    <rule comment="adp art adj noun">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="art"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="comp-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="4"/>
+        </call-macro>
+        <out>
+          <chunk name="adpnoun" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="adpcase"/></tag>
+            </tags>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_adj"/>
+              <var n="comparison"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="4" side="tl" part="lem"/>
+              <clip pos="4" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <var n="maybeadp"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="adp art noun">
       <pattern>
         <pattern-item n="adp"/>
@@ -792,6 +878,27 @@
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_verb"/>
               <lit-tag v="pasv.pp.pst.sg.nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="for Å infinitive">
+      <pattern>
+        <pattern-item n="for"/>
+        <pattern-item n="å"/>
+        <pattern-item n="infverb"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="inf" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V.INF.TRA"/></tag>
+            </tags>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit-tag v="actv.infa.tra.px3sp"/>
             </lu>
           </chunk>
         </out>
