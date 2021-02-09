@@ -164,6 +164,19 @@
         <!-- based on adp lexeme only -->
         <when>
           <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="I"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="ine"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
             <equal><clip pos="1" side="sl" part="lem"/><lit v="i"/></equal>
           </test>
           <let>
@@ -178,6 +191,19 @@
         <when>
           <test>
             <equal><clip pos="1" side="sl" part="lem"/><lit v="fra"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="ela"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="frå"/></equal>
           </test>
           <let>
             <var n="adpcase"/>
