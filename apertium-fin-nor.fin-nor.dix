@@ -121,43 +121,49 @@
 
     <!-- some stuff I don't agree in monodixes -->
 
-    <e c="POS??"  r="RL"><p><l>kuin<s n="adv"/></l><r>som<s n="pr"/></r></p></e>
+    <e c="ADV?"><p><l>raskaana<s n="adv"/></l><r>gravid<s n="adj"/></r></p></e>
     <e c="POS??" r="RL"><p><l>kuin<s n="adv"/></l><r>enn<s n="pr"/></r></p></e>
+    <e c="POS??"  r="RL"><p><l>kuin<s n="adv"/></l><r>som<s n="pr"/></r></p></e>
+    <e><p><l>jaa<s n="ij"/></l><r>ja<s n="adv"/></r></p></e>
+    <e><p><l>jaa<s n="ij"/></l><r>jo<s n="adv"/></r></p></e>
+    <e><p><l>joka<s n="prn"/><s n="sg"/><s n="nom"/></l><r>der<s n="cnjsub"/></r></p></e>
+    <e><p><l>pohjoinen<s n="adj"/><s n="pst"/><s n="sg"/><s n="ill"/></l><r>mot<b/>nord<s n="adv"/></r></p></e>
     <e r="LR"><p><l>pitävä<s n="adj"/></l><r>sterk<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>eniten<s n="adv"/></l><r>mest<s n="adj"/></r></p></e>
     <e r="RL"><p><l>eteenpäin<s n="adv"/></l><r c="POS??">fram<s n="n"/></r></p></e>
     <e r="RL"><p><l>hupi<s n="n"/></l><r>nøye<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>josta<s n="adv"/></l><r>fra<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>itse<s n="prn"/><s n="sg"/><s n="nom"/></l><r>sjølve<s n="adv"/></r></p></e>
     <e r="RL"><p><l>jokin<s n="adv"/></l><r>noe<s n="adv"/></r></p></e>
-    <e r="RL"><p><l>takaisin<s n="adv"/></l><r>tilbake<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>joku<s n="prn"/></l><r c="POS??">noen<s n="n"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>josta<s n="adv"/></l><r>fra<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>luota<s n="adv"/></l><r>av<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>mikään<s n="prn"/></l><r>ingenting<s n="n"/><s n="nt"/></r></p></e>
     <e r="RL"><p><l>molemmat<s n="adj"/></l><r c="POS??">begge<s n="adj"/><s n="sint"/></r></p></e>
     <e r="RL"><p><l>molemmat<s n="adv"/></l><r c="POS??">begge<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>molemmat<s n="adv"/></l><r c="POS??">begge<s n="det"/></r></p></e>
     <e r="RL"><p><l>molemmat<s n="adv"/></l><r c="POS??">både<s n="adv"/></r></p></e>
     <e r="RL"><p><l>onnellisesti<s n="adv"/></l><r c="POS??">glad<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>paljon<s n="adv"/></l><r>mykjen<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>paljon<s n="adv"/></l><r>mykje<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>parivaljakko<s n="n"/></l><r>to<b/>personer<s n="n"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>päällä<s n="adv"/></l><r c="POS??">på<s n="n"/></r></p></e>
+    <e r="RL"><p><l>sama<s n="prn"/></l><r c="POS??">slik<s n="det"/></r></p></e>
     <e r="RL"><p><l>siellä<s n="adv"/></l><r c="POS??">der<s n="pr"/></r></p></e>
     <e r="RL"><p><l>sisällä<s n="adv"/></l><r c="POS??">i<s n="det"/></r></p></e>
+    <e r="RL"><p><l>takaisin<s n="adv"/></l><r>tilbake<s n="pr"/></r></p></e>
     <e r="RL"><p><l>täällä<s n="adv"/><s n="ade"/></l><r c="POS??">her<s n="pr"/></r></p></e>
     <e r="RL"><p><l>ulos<s n="adv"/></l><r c="POS??">ut<s n="n"/></r></p></e>
     <e r="RL"><p><l>varma<s n="adj"/></l><r>antagelig<s n="adj"/></r></p></e>
     <e r="RL"><p><l>vastata<s n="vblex"/></l><r>sva<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>vuotava<s n="adj"/></l><r c="POS??">lek<s n="adj"/><s n="sint"/></r></p></e>
+    <e r="RL"><p><l>vähintään<s n="adv"/></l><r>minst<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>yksi<b/>tai<b/>toinen<s n="adv"/></l><r c="not MWE PLZ">en<b/>eller<b/>annen<s n="det"/></r></p></e>
     <e r="RL"><p><l>ylös<s n="adv"/></l><r c="POS??">opp<s n="n"/></r></p></e>
-    <e r="RL"><p><l>päällä<s n="adv"/></l><r c="POS??">på<s n="n"/></r></p></e>
-    <e c="ADV?"><p><l>raskaana<s n="adv"/></l><r>gravid<s n="adj"/></r></p></e>
+    <e r="RL" vr="nno"><p><l>joka<s n="prn"/><s n="sg"/><s n="nom"/></l><r c="POS??">noko<b/>som<s n="cnjsub"/></r></p></e>
     <e vr="nno" r="RL"><p><l>ajaa<s n="vblex"/></l><r>kore<s n="vblex"/></r></p></e>
     <e vr="nno" r="RL"><p><l>hupi<s n="n"/></l><r c="POS??">nøye<s n="n"/><s n="nt"/></r></p></e>
-    <e r="RL"><p><l>parivaljakko<s n="n"/></l><r>to<b/>personer<s n="n"/><s n="mf"/></r></p></e>
     <e vr="nno" r="RL"><p><l>mikään<s n="prn"/></l><r>ikkje<b/>noko<s n="n"/><s n="nt"/></r></p></e>
-    <e r="RL"><p><l>luota<s n="adv"/></l><r>av<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>eniten<s n="adv"/></l><r>mest<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>vähintään<s n="adv"/></l><r>minst<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>paljon<s n="adv"/></l><r>mykjen<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>paljon<s n="adv"/></l><r>mykje<s n="adj"/></r></p></e>
-    <e r="RL"><p><l>itse<s n="prn"/><s n="sg"/><s n="nom"/></l><r>sjølve<s n="adv"/></r></p></e>
-    <e><p><l>pohjoinen<s n="adj"/><s n="pst"/><s n="sg"/><s n="ill"/></l><r>mot<b/>nord<s n="adv"/></r></p></e>
-    <e><p><l>jaa<s n="ij"/></l><r>ja<s n="adv"/></r></p></e>
-    <e><p><l>jaa<s n="ij"/></l><r>jo<s n="adv"/></r></p></e>
-    <e><p><l>joka<s n="prn"/><s n="sg"/><s n="nom"/></l><r>der<s n="cnjsub"/></r></p></e>
-    <e vr="nno"><p><l>joka<s n="prn"/><s n="sg"/><s n="nom"/></l><r>noko<b/>som<s n="cnjsub"/></r></p></e>
+
 
 
       <!-- guesser fixes -->
@@ -187,17 +193,20 @@
     <e c="nob num.card is det??"><p><l>kolme<s n="num"/><s n="card"/></l><r>tre<s n="det"/></r></p></e>
     <e c="nob num.card is det??"><p><l>neljä<s n="num"/><s n="card"/></l><r>fire<s n="det"/></r></p></e>
     <e c="nob num.card is det??"><p><l>viisi<s n="num"/><s n="card"/></l><r>fem<s n="det"/></r></p></e>
-    <e c="nob num.card is det??"><p><l>kymmenen<s n="num"/><s n="card"/></l><r>ti<s n="det"/></r></p></e>
+    <e c="nob num.card is det??"><p><l>kuusi<s n="num"/><s n="card"/></l><r>seks<s n="det"/></r></p></e>
     <e c="nob num.card is det??"><p><l>seitsemän<s n="num"/><s n="card"/></l><r>syv<s n="det"/></r></p></e>
     <e c="nob num.card is det??"><p><l>kahdeksan<s n="num"/><s n="card"/></l><r>åtte<s n="det"/></r></p></e>
     <e c="nob num.card is det??"><p><l>yhdeksän<s n="num"/><s n="card"/></l><r>ni<s n="det"/></r></p></e>
-    <e c="nob num.card is det??"><p><l>kuusi<s n="num"/><s n="card"/></l><r>seks<s n="det"/></r></p></e>
+    <e c="nob num.card is det??"><p><l>kymmenen<s n="num"/><s n="card"/></l><r>ti<s n="det"/></r></p></e>
+    <e c="nob num.card is det??"><p><l>viisikymmentä<s n="num"/><s n="card"/></l><r>femti<s n="det"/></r></p></e>
     <e c="nob num.card is det??"><re>[0-9,.]+</re><p><l><s n="num"/><s n="card"/></l><r><s n="det"/></r></p></e>
 
     <e c="nob num.card is det??"><re>[0-9,.]+ [0-9]*</re><p><l><s n="num"/><s n="card"/></l><r><s n="det"/></r></p></e>
     <e c="roman ordinal is det??"><re>[MLCDXVI]*</re><p><l><s n="adj"/><s n="ord"/></l><r><s n="det"/></r></p></e>
     <e c="roman ordinal is NP??"><re>[MLCDXVI]*</re><p><l><s n="adj"/><s n="ord"/></l><r><s n="np"/></r></p></e>
     <e c="nob num.card is det??"><re>[0-9,.]+</re><p><l><s n="num"/><s n="card"/><j/><b/>%<s n="sym"/></l><r>%<s n="det"/></r></p></e>
+
+    <e c="roman ordinal range is det??"><re>[MLCDXVI]*</re><i>-</i><re>[MLCDXVI]*</re><p><l><s n="adj"/><s n="ord"/></l><r><s n="det"/></r></p></e>
 
     <!-- negation -->
 
@@ -321,12 +330,15 @@
     <e c="???"><p><l>heraproteiini<s n="n"/></l><r>myseprotein<s n="n"/><s n="nt"/></r></p></e>
     <e c="???"><p><l>hera<s n="n"/></l><r>myse<s n="n"/><s n="f"/></r></p></e>
     <e c="???"><p><l>hera<s n="n"/></l><r>myse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>16-bittiaikakausi<s n="n"/></l><r>16-bitsperiode<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>1880-luku<s n="n"/></l><r>1880-tall<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>1990-luku<s n="n"/></l><r>1990-tall<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>3D-pienoismalli<s n="n"/></l><r>3D-figur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>80-luku<s n="n"/></l><r>80-tal<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>8-bittigrafiikka<s n="n"/></l><r>8-bitsgrafikk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>90-luku<s n="n"/></l><r>90-tal<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aamu<s n="n"/></l><r>morgen<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>adventti<s n="n"/></l><r>advent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aihe<s n="n"/></l><r>emne<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aikasilmukka<s n="n"/></l><r>tidssløyfe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aika<s n="n"/></l><r>periode<s n="n"/><s n="m"/></r></p></e>
@@ -335,19 +347,27 @@
     <e><p><l>aines<s n="n"/></l><r>ingrediens<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aktiivi<s n="n"/></l><r>aktiv<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alajohtaja<s n="n"/></l><r>fagdirektor<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alanko<s n="n"/></l><r>slette<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alanko<s n="n"/></l><r>slette<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alapuoli<s n="n"/></l><r>ned<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>alkukirjain<s n="n"/></l><r>forbokstav<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alkuperäissarja<s n="n"/></l><r>originalserie<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alkuperäissarja<s n="n"/></l><r>originalserie<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alkuperäisversio<s n="n"/></l><r>original<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alkuperä<s n="n"/></l><r>oppfinnelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alkuperä<s n="n"/></l><r>oppfinnelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alkuperä<s n="n"/></l><r>oppfinnelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alkuperä<s n="n"/></l><r>oppfinnelse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>alku<s n="n"/></l><r>begynnelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>alku<s n="n"/></l><r>byrjing<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aloite<s n="n"/></l><r>initiativ<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aloituspakkaus<s n="n"/></l><r>startsett<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>alue<s n="n"/></l><r>område<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>alumiini<s n="n"/></l><r>aluminium<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>alusta<s n="n"/></l><r>plattform<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>alusta<s n="n"/></l><r>plattform<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ambulanssi<s n="n"/></l><r>sykebil<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>animaatiosarja<s n="n"/></l><r>tegnefilmserie<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>animaatiosarja<s n="n"/></l><r>teiknefilmserie<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>animaatio<s n="n"/></l><r>animasjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>animaatio<s n="n"/></l><r>animasjon<s n="n"/><s n="m"/></r></p></e>
@@ -365,11 +385,19 @@
     <e><p><l>aramealainen<s n="n"/></l><r>arameisk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>argumentti<s n="n"/></l><r>argument<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>arkipäivä<s n="n"/></l><r>hverdag<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>arkkidemoni<s n="n"/></l><r>erkedemon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arkkitehti<s n="n"/></l><r>arkitekt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arkkitehtuuriprofessori<s n="n"/></l><r>arkitektur-professor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arkkitehtuuri<s n="n"/></l><r>arkitektur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>armeija<s n="n"/></l><r>hær<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>arpeggio<s n="n"/></l><r>arpeggio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arvo<s n="n"/></l><r>verdi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>arvostelu<s n="n"/></l><r>kåring<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>arvostelu<s n="n"/></l><r>kåring<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asema<s n="n"/></l><r>stasjon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ase<s n="n"/></l><r>våpen<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>asetusvalikko<s n="n"/></l><r>oppsettmeny<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>asetyyppi<s n="n"/></l><r>våpentype<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asianajaja<s n="n"/></l><r>advokat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asiantuntija<s n="n"/></l><r>spesialist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asia<s n="n"/></l><r>sak<s n="n"/><s n="m"/></r></p></e>
@@ -384,9 +412,12 @@
     <e><p><l>asunto<s n="n"/></l><r>leilighet<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asunto<s n="n"/></l><r>leilighet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>asunto<s n="n"/></l><r>leilighet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>attribuutti<s n="n"/></l><r>attributt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>attribuutti<s n="n"/></l><r>attributt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>auringonlasku<s n="n"/></l><r>solnedgang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>auto-onnettomuus<s n="n"/></l><r>bilulykke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>auto-onnettomuus<s n="n"/></l><r>bilulykke<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>avain<s n="n"/></l><r>nøkkel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>avaruusalus<s n="n"/></l><r>romferje<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>avaruusalus<s n="n"/></l><r>romskip<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>avaruusasema<s n="n"/></l><r>romstasjon<s n="n"/><s n="m"/></r></p></e>
@@ -395,6 +426,8 @@
     <e><p><l>avaruusmatkayhtiö<s n="n"/></l><r>romfartsorganisasjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>avaruusolio<s n="n"/></l><r>romvesen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>avaruus<s n="n"/></l><r>verdsrom<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>avausfilmi<s n="n"/></l><r>introduksjonsfilm<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>avausfilmi<s n="n"/></l><r>åpningsfilm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>avaus<s n="n"/></l><r>åpning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>avioliitto<s n="n"/></l><r>ekteskap<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>aviomies<s n="n"/></l><r>ektemann<s n="n"/><s n="m"/></r></p></e>
@@ -416,13 +449,16 @@
     <e><p><l>daami<s n="n"/></l><r>dame<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>data<s n="n"/></l><r>data<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>deltakvadrantti<s n="n"/></l><r>delta-kvadrant<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>demoni<s n="n"/></l><r>demon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>dieettiruoka<s n="n"/></l><r>dietmat<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>disketti<s n="n"/></l><r>diskett<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>DJ<s n="n"/></l><r>DJ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eduskunta<s n="n"/></l><r>nasjonalforsamling<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ehdotus<s n="n"/></l><r>forslag<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ehto<s n="n"/></l><r>påbud<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ei<s n="n"/></l><r>nei<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ekonomia<s n="n"/></l><r>økonomi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>elementti<s n="n"/></l><r>element<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>elokuu<s n="n"/></l><r>august<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>elokuva<s n="n"/></l><r>kinofilm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>elokuvateatteri<s n="n"/></l><r>kino<s n="n"/><s n="m"/></r></p></e>
@@ -433,6 +469,7 @@
     <e><p><l>ennakkoluulo<s n="n"/></l><r>fordom<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ensisesitys<s n="n"/></l><r>premiere<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Enterprise-alus<s n="n"/></l><r>Enterprise-skip<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>epilogi<s n="n"/></l><r>epilog<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>episodi<s n="n"/></l><r>episode<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>epäilys<s n="n"/></l><r>mistanke<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>erisnimi<s n="n"/></l><r>egennavn<s n="n"/><s n="nt"/></r></p></e>
@@ -448,6 +485,7 @@
     <e><p><l>etelä<s n="n"/></l><r>sør<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>etelä<s n="n"/></l><r>sør<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>etusivu<s n="n"/></l><r>forside<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>etuvartioasema<s n="n"/></l><r>utpost<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>etäsuhde<s n="n"/></l><r>langdistanseforhold<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ex-mies<s n="n"/></l><r>eksmann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Facebook-sisältö<s n="n"/></l><r>Facebook-innlegg<s n="n"/><s n="nt"/></r></p></e>
@@ -455,6 +493,8 @@
     <e><p><l>falafel<s n="n"/></l><r>falafel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>faniklubi<s n="n"/></l><r>fanklubb<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fani<s n="n"/></l><r>fans<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fantasiapeli<s n="n"/></l><r>fantasy-spill<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>fantasiasarja<s n="n"/></l><r>fantasy-serie<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>federaatioasema<s n="n"/></l><r>føderasjonsutpost<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>federaatiomiehistö<s n="n"/></l><r>føderasjonsmannskap<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>federaatio<s n="n"/></l><r>føderasjon<s n="n"/><s n="m"/></r></p></e>
@@ -470,11 +510,14 @@
     <e><p><l>franchise<s n="n"/></l><r>franchise<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>funktio<s n="n"/></l><r>funksjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>försti<s n="n"/></l><r>førsteoffiser<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>försti<s n="n"/></l><r>første<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>galaksi<s n="n"/></l><r>galakse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>geeni<s n="n"/></l><r>gene<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>generaatio<s n="n"/></l><r>generasjon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>genre<s n="n"/></l><r>sjanger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>GNB-pankki<s n="n"/></l><r>GNB-bank<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gourmet<s n="n"/></l><r>gourmet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>grafiikka<s n="n"/></l><r>grafikk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gramma<s n="n"/></l><r>gram<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>Gudbrandsdalin-juusto<s n="n"/></l><r>gudbrandsdalsost<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>gynekologi<s n="n"/></l><r>gynekolog<s n="n"/><s n="m"/></r></p></e>
@@ -488,9 +531,13 @@
     <e><p><l>hakemus<s n="n"/></l><r>søknad<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>haku<s n="n"/></l><r>søken<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>haku<s n="n"/></l><r>søk<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>hallitsija<s n="n"/></l><r>styrer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hallitus<s n="n"/></l><r>regjering<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hallitus<s n="n"/></l><r>styre<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>haltiaprinssi<s n="n"/></l><r>alveprins<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>haltia<s n="n"/></l><r>alv<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hankinta<s n="n"/></l><r>oppkjøp<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>hanska<s n="n"/></l><r>hanske<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>han-substantiivi<s n="n"/></l><r>hankjønnssubstantiv<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hapankerma<s n="n"/></l><r>rømme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hautajainen<s n="n"/></l><r>begravelse<s n="n"/><s n="m"/></r></p></e>
@@ -505,16 +552,22 @@
     <e><p><l>heinäkuu<s n="n"/></l><r>juli<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>helikopteri<s n="n"/></l><r>helikopter<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>henkilödraama<s n="n"/></l><r>karakterdrama<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>henkilönnimi<s n="n"/></l><r>personnavn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>henkilö<s n="n"/></l><r>person<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>herajuusto<s n="n"/></l><r>mysost<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hera<s n="n"/></l><r>myse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hera<s n="n"/></l><r>myse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hera<s n="n"/></l><r>myse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hertta<s n="n"/></l><r>hjerter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hetki<s n="n"/></l><r>stund<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hiiva<s n="n"/></l><r>gjær<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>himo<s n="n"/></l><r>trang<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hinta<s n="n"/></l><r>prise<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hinta<s n="n"/></l><r>prise<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hinta<s n="n"/></l><r>pris<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hirviö<s n="n"/></l><r>monster<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>historia<s n="n"/></l><r>historie<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>historia<s n="n"/></l><r>historie<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>historia<s n="n"/></l><r>historie<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>holokansi<s n="n"/></l><r>holodekk<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>holokansi<s n="n"/></l><r>holodekk<s n="n"/><s n="nt"/></r></p></e>
@@ -525,6 +578,7 @@
     <e><p><l>hunaja<s n="n"/></l><r>honning<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>hunaja<s n="n"/></l><r>honning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>huomautus<s n="n"/></l><r>varsel<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>huomio<s n="n"/></l><r>beskjed<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>huomio<s n="n"/></l><r>oppmerksomhet<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>huomio<s n="n"/></l><r>oppmerksomhet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>huoneenlämpö<s n="n"/></l><r>romtemperatur<s n="n"/><s n="m"/></r></p></e>
@@ -532,6 +586,8 @@
     <e><p><l>huone<s n="n"/></l><r>rom<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>huone<s n="n"/></l><r>rom<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hyppyrimäki<s n="n"/></l><r>hoppbakke<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>hytti<s n="n"/></l><r>hytte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>hytti<s n="n"/></l><r>hytte<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hyökkäys<s n="n"/></l><r>angrep<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hyönteinen<s n="n"/></l><r>insekt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>hätä<s n="n"/></l><r>nød<s n="n"/><s n="f"/></r></p></e>
@@ -546,10 +602,15 @@
     <e><p><l>illallinen<s n="n"/></l><r>middag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>illuusio<s n="n"/></l><r>illusjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ilmaisjärjestäjä<s n="n"/></l><r>gratisarrangør<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ilmakristalli<s n="n"/></l><r>luftkrystall<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ilmalaiva<s n="n"/></l><r>luftskip<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>ilma<s n="n"/></l><r>luft<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>ilma<s n="n"/></l><r>luft<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ilmiö<s n="n"/></l><r>fenomen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ilta<s n="n"/></l><r>kveld<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>informaatio<s n="n"/></l><r>informasjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>inho<s n="n"/></l><r>avsky<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>intromusiikki<s n="n"/></l><r>intromusikk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>IRC-kanava<s n="n"/></l><r>IRC-kanal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>irtisanominen<s n="n"/></l><r>spark<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>isä<s n="n"/></l><r>far<s n="n"/><s n="m"/></r></p></e>
@@ -572,10 +633,14 @@
     <e><p><l>journalisti<s n="n"/></l><r>journalist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>juhlapöytä<s n="n"/></l><r>festbord<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>juhla<s n="n"/></l><r>feiring<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>juhla<s n="n"/></l><r>festning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>juhla<s n="n"/></l><r>fest<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>julkaisu<s n="n"/></l><r>utgivelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>julkkis<s n="n"/></l><r>kjend<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jumala<s n="n"/></l><r>gud<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>juoksija<s n="n"/></l><r>løper<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>juoksukomento<s n="n"/></l><r>løpefunksjon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>juoma<s n="n"/></l><r>drikke<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>juoma<s n="n"/></l><r>drikk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>juoni<s n="n"/></l><r>plot<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>juoni<s n="n"/></l><r>plott<s n="n"/><s n="nt"/></r></p></e>
@@ -590,10 +655,12 @@
     <e><p><l>juustontuotanto<s n="n"/></l><r>osteproduksjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>juusto<s n="n"/></l><r>ost<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>juustotyyppi<s n="n"/></l><r>ostetype<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>juutalaisuus<s n="n"/></l><r>jødedom<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jälkiruoka<s n="n"/></l><r>dessert<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jännitys<s n="n"/></l><r>spenning<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jännitys<s n="n"/></l><r>spenning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>järjestyshäiriö<s n="n"/></l><r>ordensforstyrrelse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>järjestys<s n="n"/></l><r>rekkefølge<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>järjestäjä<s n="n"/></l><r>arrangør<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jäsen<s n="n"/></l><r>medlem<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jäähdytys<s n="n"/></l><r>kjøling<s n="n"/><s n="m"/></r></p></e>
@@ -612,18 +679,25 @@
     <e><p><l>jäätelösäädös<s n="n"/></l><r>isforskrift<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>jäätelösäädös<s n="n"/></l><r>isforskrift<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>jäätikkö<s n="n"/></l><r>bre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kaapu<s n="n"/></l><r>robe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaasunaamari<s n="n"/></l><r>gassmaske<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kaasunaamari<s n="n"/></l><r>gassmaske<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kahvi<s n="n"/></l><r>kaffe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaikkeus<s n="n"/></l><r>all<s n="n"/><s n="acr"/></r></p></e>
+    <e><p><l>kaiverrus<s n="n"/></l><r>inskripsjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaivosasema<s n="n"/></l><r>gruvestasjon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kakkossija<s n="n"/></l><r>andreplass<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaksinkertaistuminen<s n="n"/></l><r>dobling<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaksoisolento<s n="n"/></l><r>dobbeltgjenger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaksoisolento<s n="n"/></l><r>doppeltgjenger<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kamppailu<s n="n"/></l><r>fight<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kamppailu<s n="n"/></l><r>kamp<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kanava<s n="n"/></l><r>kanal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaneli<s n="n"/></l><r>kanel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kanji<s n="n"/></l><r>kanji<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kannas<s n="n"/></l><r>landtunge<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kannattaja<s n="n"/></l><r>tilhenger<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kanootti<s n="n"/></l><r>kano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kansainvälisyys<s n="n"/></l><r>internasjonale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kansallismielinen<s n="n"/></l><r>nasjonalist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kansannousu<s n="n"/></l><r>oppstand<s n="n"/><s n="m"/></r></p></e>
@@ -642,18 +716,23 @@
     <e><p><l>karjakko<s n="n"/></l><r>budeie<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>karjakko<s n="n"/></l><r>budeie<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaseiini<s n="n"/></l><r>ostestoff<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kasetti<s n="n"/></l><r>kassett<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kastike<s n="n"/></l><r>saus<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kasvatus<s n="n"/></l><r>økning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kasvisrasvajäätelö<s n="n"/></l><r>margarinis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kasvisto<s n="n"/></l><r>vegetasjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kasvomaalaus<s n="n"/></l><r>ansiktsmaling<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kasvomaalaus<s n="n"/></l><r>ansiktsmaling<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kasvo<s n="n"/></l><r>ansikt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>katajanmarja<s n="n"/></l><r>einerbær<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kategoria<s n="n"/></l><r>kategori<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>katsaus<s n="n"/></l><r>oversyn<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>katsaus<s n="n"/></l><r>oversyn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>katsojamäärä<s n="n"/></l><r>sjåartal<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>katsoja<s n="n"/></l><r>seer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>katsoja<s n="n"/></l><r>seer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>katto-organisaatio<s n="n"/></l><r>paraplyorganisasjon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>katto<s n="n"/></l><r>tak<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>katu<s n="n"/></l><r>gate<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaudenpäätös<s n="n"/></l><r>sesong-avslutning<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kaudenpäätös<s n="n"/></l><r>sesongavslutning<s n="n"/><s n="f"/></r></p></e>
@@ -661,17 +740,21 @@
     <e><p><l>kaudenpäätös<s n="n"/></l><r>sesongavslutning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaudenpäätös<s n="n"/></l><r>sesongfinale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kauhu<s n="n"/></l><r>skrekk<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kauppa<s n="n"/></l><r>butikk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kaupunki<s n="n"/></l><r>stad<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kausi<s n="n"/></l><r>sesong<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kazonilainen<s n="n"/></l><r>kazonar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kebab<s n="n"/></l><r>kebab<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kehitys<s n="n"/></l><r>utvikling<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kehitys<s n="n"/></l><r>utvikling<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>keiju<s n="n"/></l><r>fe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>keisari<s n="n"/></l><r>keiser<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kellari<s n="n"/></l><r>kjeller<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kello<s n="n"/></l><r>klokke<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kermaherajuusto<s n="n"/></l><r>fløtemysost<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kerma<s n="n"/></l><r>fløte<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kerta<s n="n"/></l><r>gange<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kerta<s n="n"/></l><r>gange<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kerta<s n="n"/></l><r>gang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>keräilykorttipeli<s n="n"/></l><r>byttekortspille<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>keräilykorttipeli<s n="n"/></l><r>samlekortspill<s n="n"/><s n="nt"/></r></p></e>
@@ -680,24 +763,34 @@
     <e><p><l>keskiyö<s n="n"/></l><r>midnatt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>keskonen<s n="n"/></l><r>dødfødt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>keskonen<s n="n"/></l><r>dødfødt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>keskusta<s n="n"/></l><r>senter<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>keskusta<s n="n"/></l><r>sentrum<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>keskustelu<s n="n"/></l><r>omtale<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>keskustelu<s n="n"/></l><r>samtale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kesäkuu<s n="n"/></l><r>juni<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kesäkuu<s n="n"/></l><r>juni<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kesä<s n="n"/></l><r>sommer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kesävarasto<s n="n"/></l><r>sommerlager<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>kieli<s n="n"/></l><r>språk<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kieli<s n="n"/></l><r>språk<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kierros<s n="n"/></l><r>runde<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kiertue<s n="n"/></l><r>tur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kihlattu<s n="n"/></l><r>forlovede<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kihlaus<s n="n"/></l><r>forlovelse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kiire<s n="n"/></l><r>knapp<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kilpailu<s n="n"/></l><r>konkurranse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kilpi<s n="n"/></l><r>skjold<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kioski<s n="n"/></l><r>kiosk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kirja<s n="n"/></l><r>bok<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kirjasto<s n="n"/></l><r>bibliotek<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kirjautuminen<s n="n"/></l><r>innmelding<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kirje<s n="n"/></l><r>brev<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kirkko<s n="n"/></l><r>kirke<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kirkko<s n="n"/></l><r>kirke<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kissa<s n="n"/></l><r>katt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kiusaaja<s n="n"/></l><r>barndomsbølle<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kivenliuska<s n="n"/></l><r>helle<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kivi<s n="n"/></l><r>stein<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>klinikka<s n="n"/></l><r>klinikk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>klubi<s n="n"/></l><r>klubb<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kohderyhmä<s n="n"/></l><r>målgruppe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kohokohta<s n="n"/></l><r>høydepunkt<s n="n"/><s n="nt"/></r></p></e>
@@ -706,12 +799,17 @@
     <e><p><l>kohtaus<s n="n"/></l><r>anfall<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kohtaus<s n="n"/></l><r>scene<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>koira<s n="n"/></l><r>hund<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kokemuspiste<s n="n"/></l><r>erfaringspoeng<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kokemuspiste<s n="n"/></l><r>ergaringspoeng<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kokemuspiste<s n="n"/></l><r>ergaringspoeng<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kokemus<s n="n"/></l><r>erfaring<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kokemus<s n="n"/></l><r>erfaring<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kokkaus<s n="n"/></l><r>koking<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kokki<s n="n"/></l><r>kokke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kokki<s n="n"/></l><r>kokke<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kokko<s n="n"/></l><r>bål<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kokoelma<s n="n"/></l><r>samling<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kokoelma<s n="n"/></l><r>samling<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kollega<s n="n"/></l><r>medarbeider<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>komediasarja<s n="n"/></l><r>komiserie<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>komentaja<s n="n"/></l><r>kommandør<s n="n"/><s n="m"/></r></p></e>
@@ -720,7 +818,11 @@
     <e><p><l>konditoria<s n="n"/></l><r>konditor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>konflikti<s n="n"/></l><r>konflikt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kongressirakennus<s n="n"/></l><r>kongressbygning<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>konkurssi<s n="n"/></l><r>konkurs<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>konsistenssi<s n="n"/></l><r>konsistens<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>konsoliroolipeli<s n="n"/></l><r>konsoliroolipeli<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>konsoliroolipeli<s n="n"/></l><r>konsollrollespill<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>konsoli<s n="n"/></l><r>konsoll<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>konsortio<s n="n"/></l><r>konsortium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kontrasti<s n="n"/></l><r>kontrast<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>konttori<s n="n"/></l><r>kontor<s n="n"/><s n="nt"/></r></p></e>
@@ -732,31 +834,48 @@
     <e><p><l>kortti<s n="n"/></l><r>kort<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kostonhimo<s n="n"/></l><r>vendetta<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kotieläin<s n="n"/></l><r>husdyr<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kotikaupunki<s n="n"/></l><r>hjemby<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kotilaji<s n="n"/></l><r>hjemmelag<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>koti<s n="n"/></l><r>hjemme<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>koti<s n="n"/></l><r>hjem<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kreikkalainen<s n="n"/></l><r>greker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kriisipaketti<s n="n"/></l><r>krisepakke<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kriitikko<s n="n"/></l><r>kritiker<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kristalli<s n="n"/></l><r>krystall<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kristinusko<s n="n"/></l><r>kristendom<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>krokanttijäätelö<s n="n"/></l><r>krokanfløteis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>krokantti<s n="n"/></l><r>krokan<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kroppa<s n="n"/></l><r>kropp<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kruunu<s n="n"/></l><r>kron<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kuhmu<s n="n"/></l><r>kul<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kuiva-ainesisältö<s n="n"/></l><r>tørrstoffinnhold<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kuiva-aine<s n="n"/></l><r>tørrstoff<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kulta<s n="n"/></l><r>gull<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kulttuuriministeri<s n="n"/></l><r>kulturminister<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kulttuuri<s n="n"/></l><r>kultur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kulu<s n="n"/></l><r>utgift<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kuluttaja-asiamies<s n="n"/></l><r>forbrukerombud<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kuningaskunta<s n="n"/></l><r>kongerike<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>kuningas<s n="n"/></l><r>konge<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kuningas<s n="n"/></l><r>kong<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kuntosalinomistaja<s n="n"/></l><r>gymleder<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kuolema<s n="n"/></l><r>død<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kurkkuongelma<s n="n"/></l><r>halsproblem<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kuukausi<s n="n"/></l><r>måned<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kuula<s n="n"/></l><r>kule<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kuula<s n="n"/></l><r>kule<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kuusi<s n="n"/></l><r>gran<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kuva<s n="n"/></l><r>bilde<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kuvaus<s n="n"/></l><r>avbilde<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kuvaus<s n="n"/></l><r>beskrivelse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kyky<s n="n"/></l><r>evne<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kyky<s n="n"/></l><r>evne<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kyllä<s n="n"/></l><r>ja<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kylmälokero<s n="n"/></l><r>fryseboks<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kylmäsekoitus<s n="n"/></l><r>kuldeblanding<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kylmäsekoitus<s n="n"/></l><r>kuldeblanding<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kylä<s n="n"/></l><r>by<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kypärä<s n="n"/></l><r>hjelm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kysymys<s n="n"/></l><r>spørsmål<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>kyykky<s n="n"/></l><r>huk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>kämppis<s n="n"/></l><r>romkamerat<s n="n"/><s n="m"/></r></p></e>
@@ -769,17 +888,24 @@
     <e><p><l>käyttö<s n="n"/></l><r>bruk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>käyttö<s n="n"/></l><r>bruk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>käytäntö<s n="n"/></l><r>praksis<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>käännös<s n="n"/></l><r>oversettelse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kääpiökylä<s n="n"/></l><r>dvergeby<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>kääpiö<s n="n"/></l><r>dverg<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>köyhyys<s n="n"/></l><r>fattigdom<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laajennuspakkaus<s n="n"/></l><r>tilleggspakke<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>laajennuspakkaus<s n="n"/></l><r>tilleggspakke<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laatu<s n="n"/></l><r>kvalitet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laatutaso<s n="n"/></l><r>kvalitetsnivå<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>lahoaminen<s n="n"/></l><r>forfall<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>laite<s n="n"/></l><r>apparat<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>laite<s n="n"/></l><r>maskin<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laiva<s n="n"/></l><r>skip<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laiva<s n="n"/></l><r>skip<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>laki<s n="n"/></l><r>lov<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laktoosi<s n="n"/></l><r>laktose<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lammas<s n="n"/></l><r>får<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lammas<s n="n"/></l><r>får<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lammas<s n="n"/></l><r>får<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lampaanliha<s n="n"/></l><r>lammekjøtt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lappu<s n="n"/></l><r>lapp<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lapsiperhe<s n="n"/></l><r>barnefamilie<s n="n"/><s n="m"/></r></p></e>
@@ -787,6 +913,10 @@
     <e><p><l>laskeminen<s n="n"/></l><r>telling<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lastenvahti<s n="n"/></l><r>barnevakt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>lastenvahti<s n="n"/></l><r>barnevakt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>latausaika<s n="n"/></l><r>lastetid<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>latausaika<s n="n"/></l><r>lastetid<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lataus<s n="n"/></l><r>ladning<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lataus<s n="n"/></l><r>ladning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lataus<s n="n"/></l><r>nedlasting<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lauantai<s n="n"/></l><r>lørdag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>laulaja<s n="n"/></l><r>sang<s n="n"/><s n="m"/></r></p></e>
@@ -819,10 +949,17 @@
     <e><p><l>lento<s n="n"/></l><r>flying<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lento<s n="n"/></l><r>fly<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lento<s n="n"/></l><r>fly<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>levy<s n="n"/></l><r>disk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>liikevaihto<s n="n"/></l><r>omsetning<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liikevaihto<s n="n"/></l><r>omsetning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>liikuttaminen<s n="n"/></l><r>omrøring<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>liikuttaminen<s n="n"/></l><r>omrøring<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>linja<s n="n"/></l><r>linje<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>linja<s n="n"/></l><r>linje<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>linnake<s n="n"/></l><r>borg<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>linnake<s n="n"/></l><r>borg<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>linnake<s n="n"/></l><r>borg<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>linna<s n="n"/></l><r>slott<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lintu<s n="n"/></l><r>fugl<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lippu<s n="n"/></l><r>billett<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lippu<s n="n"/></l><r>flagg<s n="n"/><s n="nt"/></r></p></e>
@@ -830,25 +967,39 @@
     <e><p><l>lisäaine<s n="n"/></l><r>tilsetningsstoff<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lisäaine<s n="n"/></l><r>tilsettingssats<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lisänimi<s n="n"/></l><r>tilnavn<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>lisäosa<s n="n"/></l><r>bonusseksjon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lisäys<s n="n"/></l><r>tilføyelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lisäys<s n="n"/></l><r>tilføying<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>litra<s n="n"/></l><r>liter<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>live<s n="n"/></l><r>live<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>logo<s n="n"/></l><r>logo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lohikäärmekuningas<s n="n"/></l><r>dragekonge<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lohikäärme<s n="n"/></l><r>drage<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lohko<s n="n"/></l><r>blokk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lohko<s n="n"/></l><r>leiv<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>loppufilmi<s n="n"/></l><r>avslutningsfilm<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>loppumusiikki<s n="n"/></l><r>avslutningsmusikk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>loppu<s n="n"/></l><r>avslutning<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>loppu<s n="n"/></l><r>avslutning<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>loppu<s n="n"/></l><r>rest<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>loppu<s n="n"/></l><r>slutt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>loppu<s n="n"/></l><r>slutt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luentosali<s n="n"/></l><r>forelesningssal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luento<s n="n"/></l><r>undervisningstime<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luettelo<s n="n"/></l><r>liste<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lukija<s n="n"/></l><r>leser<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lukumäärä<s n="n"/></l><r>antall<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lumi<s n="n"/></l><r>snø<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luoja<s n="n"/></l><r>skapar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luokka<s n="n"/></l><r>klasse<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luokka<s n="n"/></l><r>klasse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>luola<s n="n"/></l><r>grotte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>luola<s n="n"/></l><r>grotte<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>luolasto<s n="n"/></l><r>grotte<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>luolasto<s n="n"/></l><r>grotte<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luonnonkatastrofi<s n="n"/></l><r>naturkatastrofe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luonnonsuojelulaki<s n="n"/></l><r>miljørett<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>luonnonvoima<s n="n"/></l><r>naturkraft<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luonto<s n="n"/></l><r>natur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>luottotieto<s n="n"/></l><r>kredittvurdering<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>luottotieto<s n="n"/></l><r>kredittvurdering<s n="n"/><s n="m"/></r></p></e>
@@ -856,18 +1007,26 @@
     <e><p><l>luutnantti<s n="n"/></l><r>løytnant<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lyhenne<s n="n"/></l><r>forkortelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lyhenne<s n="n"/></l><r>forkortelse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lyhennys<s n="n"/></l><r>forkortning<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>lyhennys<s n="n"/></l><r>forkortning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lähetysaikataulu<s n="n"/></l><r>sendeplan<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lähetys<s n="n"/></l><r>sending<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lähimmäinen<s n="n"/></l><r>neste<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>lähimmäinen<s n="n"/></l><r>nest<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lähtökohta<s n="n"/></l><r>utgangspunkt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lämmönlasku<s n="n"/></l><r>temperaturfall<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>lämmönnousu<s n="n"/></l><r>varmeøkning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lämpötila<s n="n"/></l><r>temperatur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lääke<s n="n"/></l><r>medisin<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lääkäri<s n="n"/></l><r>lege<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>maagiluokka<s n="n"/></l><r>magikerklasse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>maagi<s n="n"/></l><r>magiker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maahanmuuttaja<s n="n"/></l><r>innvandrer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maahanmuuttotausta<s n="n"/></l><r>innvandrer-bakgrunn<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>maailmankartta<s n="n"/></l><r>verdenskart<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>maailma<s n="n"/></l><r>verden<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maailma<s n="n"/></l><r>verd<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>maakristalli<s n="n"/></l><r>jordkrystall<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maalaus<s n="n"/></l><r>maleri<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>maaliskuu<s n="n"/></l><r>mai<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maaliskuu<s n="n"/></l><r>mars<s n="n"/><s n="m"/></r></p></e>
@@ -875,12 +1034,19 @@
     <e><p><l>maamerkki<s n="n"/></l><r>landemerke<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>maanantai<s n="n"/></l><r>mandag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maankuori<s n="n"/></l><r>jordhull<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>maanosa<s n="n"/></l><r>kontinent<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>maa<s n="n"/></l><r>jord<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>maa<s n="n"/></l><r>jord<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maa<s n="n"/></l><r>jord<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maa<s n="n"/></l><r>land<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>maatalouskylä<s n="n"/></l><r>landbruksby<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maatila<s n="n"/></l><r>gård<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>magia<s n="n"/></l><r>magi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>magia<s n="n"/></l><r>magi<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maha<s n="n"/></l><r>mage<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mahdollisuus<s n="n"/></l><r>mulighet<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mahdollisuus<s n="n"/></l><r>mulighet<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mahla<s n="n"/></l><r>save<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mahti<s n="n"/></l><r>vidunder<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>maidontuotanto<s n="n"/></l><r>melkeforsyning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>maine<s n="n"/></l><r>ry<s n="n"/><s n="nt"/></r></p></e>
@@ -911,9 +1077,13 @@
     <e><p><l>marjatyyppi<s n="n"/></l><r>bærsort<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>markkina<s n="n"/></l><r>marked<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>markkina<s n="n"/></l><r>marknad<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>markkinointitaktiikka<s n="n"/></l><r>markedsføringstaktikk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>marraskuu<s n="n"/></l><r>november<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>massa<s n="n"/></l><r>mase<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>massa<s n="n"/></l><r>masse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>masto<s n="n"/></l><r>mast<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>masto<s n="n"/></l><r>mast<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>masto<s n="n"/></l><r>mast<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>matkailu<s n="n"/></l><r>reiseliv<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>matkakohde<s n="n"/></l><r>reisemål<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>matka<s n="n"/></l><r>reise<s n="n"/><s n="f"/></r></p></e>
@@ -932,9 +1102,11 @@
     <e><p><l>mehu<s n="n"/></l><r>saft<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>meijeri<s n="n"/></l><r>ysteri<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>meijerituote<s n="n"/></l><r>meieriprodukt<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>melodia<s n="n"/></l><r>melodi<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>menneisyys<s n="n"/></l><r>fortid<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>merimieskirkko<s n="n"/></l><r>sjømannskirke<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>merimieslähetys<s n="n"/></l><r>sjømannsmisjon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>meri<s n="n"/></l><r>sjø<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>merkkipäivä<s n="n"/></l><r>markering<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>merkki<s n="n"/></l><r>tegn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>mestari<s n="n"/></l><r>mester<s n="n"/><s n="m"/></r></p></e>
@@ -950,24 +1122,34 @@
     <e><p><l>minuutti<s n="n"/></l><r>minutt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>minuuutti<s n="n"/></l><r>minutt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>mobiilimaailmanennätys<s n="n"/></l><r>mobil-verdensrekorder<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mobiilipuhelin<s n="n"/></l><r>mobiltelefon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>monimuotoisuus<s n="n"/></l><r>mangfold<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>monumentti<s n="n"/></l><r>monument<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>morsian<s n="n"/></l><r>brud<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>motivaatio<s n="n"/></l><r>motivasjon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>muistikortti<s n="n"/></l><r>minnekort<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>muisti<s n="n"/></l><r>minne<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>muisto<s n="n"/></l><r>husk<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>mukautus<s n="n"/></l><r>tilpasning<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>munkki<s n="n"/></l><r>munk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>muoto<s n="n"/></l><r>form<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>muoto<s n="n"/></l><r>form<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>musiikki<s n="n"/></l><r>musikk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>musiikkivideo<s n="n"/></l><r>musikkvideo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>muta<s n="n"/></l><r>silt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>muutos<s n="n"/></l><r>endring<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>muutos<s n="n"/></l><r>endring<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>muutos<s n="n"/></l><r>endring<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>muutos<s n="n"/></l><r>forandring<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>muutos<s n="n"/></l><r>forandring<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>myrkky<s n="n"/></l><r>gift<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>myrkky<s n="n"/></l><r>gift<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>myrsky<s n="n"/></l><r>orkan<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>myrsky<s n="n"/></l><r>storm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mysteeri<s n="n"/></l><r>mysterium<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>myynti<s n="n"/></l><r>salg<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>myötäpuoli<s n="n"/></l><r>fordel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>määrä<s n="n"/></l><r>mengde<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>määrä<s n="n"/></l><r>mengd<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>naarmu<s n="n"/></l><r>skramme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nainen<s n="n"/></l><r>kvinne<s n="n"/><s n="f"/></r></p></e>
@@ -978,33 +1160,55 @@
     <e><p><l>nauhoitus<s n="n"/></l><r>innspeling<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nelonen<s n="n"/></l><r>fire<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nelonen<s n="n"/></l><r>fire<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>neste<s n="n"/></l><r>flytende<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>NES-versio<s n="n"/></l><r>NES-versjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nettiaktivisti<s n="n"/></l><r>nettaktivist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>neuvo<s n="n"/></l><r>råd<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>neuvo<s n="n"/></l><r>råd<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>neuvo<s n="n"/></l><r>råd<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>nimikkoruutu<s n="n"/></l><r>tittelskjerm<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nimi<s n="n"/></l><r>namn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>nimi<s n="n"/></l><r>navn<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nimi<s n="n"/></l><r>navn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>nimitys<s n="n"/></l><r>betegnelse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ninja<s n="n"/></l><r>ninja<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>noita<s n="n"/></l><r>heks<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>noita<s n="n"/></l><r>heks<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nolla<s n="n"/></l><r>null<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>nopeusattribuutti<s n="n"/></l><r>agilitetsattributt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nopeus<s n="n"/></l><r>hastighet<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nopeus<s n="n"/></l><r>hastighet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>norjalainen<s n="n"/></l><r>norske<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>norja<s n="n"/></l><r>norsk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>norja<s n="n"/></l><r>norsk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>norja<s n="n"/></l><r>norsk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>normaali<s n="n"/></l><r>normal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>numero<s n="n"/></l><r>tall<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>nunchaku<s n="n"/></l><r>nunchaku<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>näkijä<s n="n"/></l><r>seer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>näyttelijä<s n="n"/></l><r>skuespiller<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>näyttöresoluutio<s n="n"/></l><r>skjermoppløsning<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>näyttöresoluutio<s n="n"/></l><r>skjermoppløsning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>näytös<s n="n"/></l><r>vist<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>objektinäkymä<s n="n"/></l><r>objektoversikt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>objekti<s n="n"/></l><r>objekt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>odotus<s n="n"/></l><r>forventning<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ohjaaja<s n="n"/></l><r>regissør<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ohjelmajohtaja<s n="n"/></l><r>programleder<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ohjelma<s n="n"/></l><r>program<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>ohjelmoija<s n="n"/></l><r>programmerer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ohjelmoija<s n="n"/></l><r>utvikler<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>oikeus<s n="n"/></l><r>juss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>oikeus<s n="n"/></l><r>rettighet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>oikeus<s n="n"/></l><r>rett<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>oire<s n="n"/></l><r>lidelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>olento<s n="n"/></l><r>skapning<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>olento<s n="n"/></l><r>skapning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>olio<s n="n"/></l><r>vesen<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>olohuone<s n="n"/></l><r>stue<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>olotila<s n="n"/></l><r>tilstand<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>omaisuus<s n="n"/></l><r>beholdning<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ominaisuus<s n="n"/></l><r>egenskap<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ominaisuus<s n="n"/></l><r>eigenskap<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>omistaja<s n="n"/></l><r>eier<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ongelma<s n="n"/></l><r>problem<s n="n"/><s n="nt"/></r></p></e>
@@ -1012,15 +1216,19 @@
     <e><p><l>onnettomuus<s n="n"/></l><r>ulykke<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>onnistuminen<s n="n"/></l><r>suksess<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>onnistuminen<s n="n"/></l><r>suksess<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>onnistus<s n="n"/></l><r>suksessrike<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>opiskelija<s n="n"/></l><r>elev<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>opiskelija<s n="n"/></l><r>student<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>oranssikausi<s n="n"/></l><r>Orange-sesong<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>orja<s n="n"/></l><r>slav<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>orvokki<s n="n"/></l><r>fiol<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>osanottaja<s n="n"/></l><r>deltaker<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osa<s n="n"/></l><r>del<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>osasto<s n="n"/></l><r>seksjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Oslon-alue<s n="n"/></l><r>Oslo-område<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ostaja<s n="n"/></l><r>kjøper<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>osumistodennäköisyysbonus<s n="n"/></l><r>treffsjansebonus<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ovi<s n="n"/></l><r>dør<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paikallisjoukkue<s n="n"/></l><r>lokallag<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>paikallisjoukkue<s n="n"/></l><r>lokallag<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>paikka<s n="n"/></l><r>plass<s n="n"/><s n="m"/></r></p></e>
@@ -1030,7 +1238,11 @@
     <e><p><l>painopiste<s n="n"/></l><r>fokus<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>painoprosentti<s n="n"/></l><r>vektprosent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pakastin<s n="n"/></l><r>hjemmefryser<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>PAL-alue<s n="n"/></l><r>PAL-område<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pala<s n="n"/></l><r>snitte<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>palkkio<s n="n"/></l><r>belønning<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>palkkio<s n="n"/></l><r>belønning<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>palo<s n="n"/></l><r>brann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pandemia<s n="n"/></l><r>pandemi<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pankki<s n="n"/></l><r>bank<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pankki<s n="n"/></l><r>bank<s n="n"/><s n="nt"/></r></p></e>
@@ -1039,17 +1251,27 @@
     <e><p><l>paraatishow<s n="n"/></l><r>parade-show<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>paraatishow<s n="n"/></l><r>parade-show<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>paraati<s n="n"/></l><r>parade<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>paradoksi<s n="n"/></l><r>paradoks<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>parannus<s n="n"/></l><r>forbedring<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parannus<s n="n"/></l><r>forbedring<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>parannus<s n="n"/></l><r>helbredning<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>parannus<s n="n"/></l><r>helbredning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paraskaveri<s n="n"/></l><r>bestekompis<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paraskaveri<s n="n"/></l><r>bestevenn<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>paratiisi<s n="n"/></l><r>eldorado<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pari<s n="n"/></l><r>par<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>parta<s n="n"/></l><r>bart<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>patriootti<s n="n"/></l><r>patriot<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pelidata<s n="n"/></l><r>spilldata<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>pelikonsoli<s n="n"/></l><r>spillkonsoll<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pelikonsoli<s n="n"/></l><r>spillkonsoll<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pelilauta<s n="n"/></l><r>spillebrett<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pelimekanismi<s n="n"/></l><r>spillmekanisme<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pelinjulkaisu<s n="n"/></l><r>spillutgivelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pelishow<s n="n"/></l><r>gameshow<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>peli<s n="n"/></l><r>game<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>peli<s n="n"/></l><r>spill<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>peliteollisuus<s n="n"/></l><r>spillindustri<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pelko<s n="n"/></l><r>frykt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>perjantai<s n="n"/></l><r>fredag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>perusta<s n="n"/></l><r>basis<s n="n"/><s n="m"/></r></p></e>
@@ -1062,14 +1284,22 @@
     <e><p><l>pienokainen<s n="n"/></l><r>små<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>piilo<s n="n"/></l><r>gjemmested<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>piirre<s n="n"/></l><r>innslag<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>piirre<s n="n"/></l><r>trekk<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>piirre<s n="n"/></l><r>trekk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>piirretty<s n="n"/></l><r>tegneserie<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>piirustus<s n="n"/></l><r>illustrasjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pikaruoka<s n="n"/></l><r>snøggmat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pikkulapsenäiti<s n="n"/></l><r>småbarns-mor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pilottijakso<s n="n"/></l><r>pilotepisode<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pilottijakso<s n="n"/></l><r>pilotepisode<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pimeys<s n="n"/></l><r>mørke<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>piraatti<s n="n"/></l><r>pirat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pissa<s n="n"/></l><r>mig<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>pistearvo<s n="n"/></l><r>poengverdi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>piste<s n="n"/></l><r>poeng<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pitaleipä<s n="n"/></l><r>pitabrød<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pita<s n="n"/></l><r>pita<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pituus<s n="n"/></l><r>lengd<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>planeetta<s n="n"/></l><r>planet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pohjoismaalainen<s n="n"/></l><r>nordmann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poikamies<s n="n"/></l><r>ungkar<s n="n"/><s n="m"/></r></p></e>
@@ -1099,6 +1329,7 @@
     <e><p><l>polttoaine<s n="n"/></l><r>drivstoff<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>pommi<s n="n"/></l><r>bombe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pommiuhka<s n="n"/></l><r>bombetrussel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>pomo<s n="n"/></l><r>boss<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poptähti<s n="n"/></l><r>popstjerne<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>poptähti<s n="n"/></l><r>popstjerne<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>poptähti<s n="n"/></l><r>popstjerne<s n="n"/><s n="m"/></r></p></e>
@@ -1108,6 +1339,8 @@
     <e><p><l>pride-kulkue<s n="n"/></l><r>pride-flåte<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pride-liike<s n="n"/></l><r>pride-bevegelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pride<s n="n"/></l><r>pride<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>prinsessa<s n="n"/></l><r>prinsesse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>prinssi<s n="n"/></l><r>prins<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>professori<s n="n"/></l><r>professor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>profiili<s n="n"/></l><r>profil<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>prosentti<s n="n"/></l><r>prosent<s n="n"/><s n="m"/></r></p></e>
@@ -1122,6 +1355,8 @@
     <e><p><l>puoli<s n="n"/></l><r>sida<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>puoli<s n="n"/></l><r>sida<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>puoli<s n="n"/></l><r>side<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>puoli<s n="n"/></l><r>side<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>puolustus<s n="n"/></l><r>forsvar<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>puoti<s n="n"/></l><r>bod<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>puraisu<s n="n"/></l><r>bet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>puu<s n="n"/></l><r>tre<s n="n"/><s n="nt"/></r></p></e>
@@ -1129,6 +1364,8 @@
     <e><p><l>puute<s n="n"/></l><r>mangel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pähkinä<s n="n"/></l><r>nøtt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pähkinä<s n="n"/></l><r>nøtt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>päivitys<s n="n"/></l><r>oppgradering<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>päivitys<s n="n"/></l><r>oppgradering<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>päiväkotiopettaja<s n="n"/></l><r>førskolelærer<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>päivä<s n="n"/></l><r>dag<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>päivä<s n="n"/></l><r>datum<s n="n"/><s n="m"/></r></p></e>
@@ -1160,6 +1397,8 @@
     <e><p><l>raiteilta-ajo<s n="n"/></l><r>avsporing<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>raitiovaunu<s n="n"/></l><r>trikk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>raja<s n="n"/></l><r>grense<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rajoitus<s n="n"/></l><r>begrensning<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rajoitus<s n="n"/></l><r>begrensning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rakas<s n="n"/></l><r>kjæreste<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rakas<s n="n"/></l><r>kjæreste<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rakettihyökkäys<s n="n"/></l><r>rakettangrep<s n="n"/><s n="nt"/></r></p></e>
@@ -1172,9 +1411,12 @@
     <e><p><l>rasvasisältö<s n="n"/></l><r>fettinhold<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rasva<s n="n"/></l><r>fett<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ratkaisu<s n="n"/></l><r>løysing<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ratsastus<s n="n"/></l><r>red<s n="n"/><s n="acr"/></r></p></e>
+    <e><p><l>ratsastus<s n="n"/></l><r>red<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ratsastus<s n="n"/></l><r>red<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>raudanlähde<s n="n"/></l><r>jernkilde<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rauha<s n="n"/></l><r>fred<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>raunio<s n="n"/></l><r>ruin<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rautakattila<s n="n"/></l><r>jerngryte<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rautasisältö<s n="n"/></l><r>jerninnhold<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rauta<s n="n"/></l><r>jern<s n="n"/><s n="m"/></r></p></e>
@@ -1189,15 +1431,21 @@
     <e><p><l>resepti<s n="n"/></l><r>oppskrift<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rikastus<s n="n"/></l><r>beriking<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rikkaus<s n="n"/></l><r>rike<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>risti<s n="n"/></l><r>kors<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>ritari<s n="n"/></l><r>kyrasser<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ritari<s n="n"/></l><r>ridder<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rivi<s n="n"/></l><r>rekke<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rock<s n="n"/></l><r>rock<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rokote<s n="n"/></l><r>vaksine<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>romani<s n="n"/></l><r>romani<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>roolihahmo<s n="n"/></l><r>rollefigur<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>roolipelisarja<s n="n"/></l><r>rollespillserie<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>roolipeli<s n="n"/></l><r>rollespill<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>rooli<s n="n"/></l><r>rolle<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>rooli<s n="n"/></l><r>rolle<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rooli<s n="n"/></l><r>rolle<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>roomalainen<s n="n"/></l><r>romer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>rotanhäntä<s n="n"/></l><r>rottehale<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rotu<s n="n"/></l><r>rase<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>rotu<s n="n"/></l><r>rase<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ruoho<s n="n"/></l><r>gress<s n="n"/><s n="nt"/></r></p></e>
@@ -1231,11 +1479,15 @@
     <e><p><l>satakunta<s n="n"/></l><r>hundrevis<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>sateenkaari<s n="n"/></l><r>regnbue<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sateenvarjo<s n="n"/></l><r>paraply<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sauva<s n="n"/></l><r>stav<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>Schengen-alue<s n="n"/></l><r>Schengen-område<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sekoitus<s n="n"/></l><r>avkok<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sekoitus<s n="n"/></l><r>blanding<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sekoitus<s n="n"/></l><r>blanding<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>seksi<s n="n"/></l><r>sex<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sekvenssi<s n="n"/></l><r>sekvens<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sensuuri<s n="n"/></l><r>sensurering<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sensuuri<s n="n"/></l><r>sensurering<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>seuraaja<s n="n"/></l><r>etter<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>seuraaja<s n="n"/></l><r>følger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>seuraaja<s n="n"/></l><r>oppfølger<s n="n"/><s n="m"/></r></p></e>
@@ -1243,20 +1495,27 @@
     <e><p><l>seuraus<s n="n"/></l><r>følge<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>show<s n="n"/></l><r>show<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sielunystävä<s n="n"/></l><r>sjelefrende<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sieto<s n="n"/></l><r>belt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>siipi<s n="n"/></l><r>ving<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sijainti<s n="n"/></l><r>beliggenhet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sijainti<s n="n"/></l><r>plassering<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sijainti<s n="n"/></l><r>plassering<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>silmänräpäys<s n="n"/></l><r>øyeblikk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>silmä<s n="n"/></l><r>øye<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>silta<s n="n"/></l><r>bro<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>silta<s n="n"/></l><r>bro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sisko<s n="n"/></l><r>søster<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sisus<s n="n"/></l><r>inn<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>sisustus<s n="n"/></l><r>interiør<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sisältö<s n="n"/></l><r>innhold<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sisältö<s n="n"/></l><r>innlegg<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>sisäpuoli<s n="n"/></l><r>innside<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sivilisaatio<s n="n"/></l><r>sivilisasjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sivuosa<s n="n"/></l><r>bifigur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sivutuote<s n="n"/></l><r>biprodukt<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>skenaario<s n="n"/></l><r>scenario<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>SNES<s n="n"/></l><r>SNES<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>SNES<s n="n"/></l><r>SNES<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>soluryhmä<s n="n"/></l><r>cellegruppe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sopimus<s n="n"/></l><r>kontrakt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sorbetti<s n="n"/></l><r>sorbet<s n="n"/><s n="nt"/></r></p></e>
@@ -1277,6 +1536,7 @@
     <e><p><l>suklaa<s n="n"/></l><r>sjokolade<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sulhanen<s n="n"/></l><r>brudgom<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sunnuntai<s n="n"/></l><r>søndag<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>suoja<s n="n"/></l><r>beskyttelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>suola<s n="n"/></l><r>salt<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>suolisto<s n="n"/></l><r>tarmkanal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>suoralähetys<s n="n"/></l><r>direkte-sending<s n="n"/><s n="f"/></r></p></e>
@@ -1293,6 +1553,7 @@
     <e><p><l>syrjintä<s n="n"/></l><r>diskriminering<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>syrjintä<s n="n"/></l><r>diskriminering<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>syrjintävirkamies<s n="n"/></l><r>diskriminierings-ombud<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>systeemi<s n="n"/></l><r>system<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>syyskuu<s n="n"/></l><r>september<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>syy<s n="n"/></l><r>årsak<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>syyttäjänvirasto<s n="n"/></l><r>påtalemyndighet<s n="n"/><s n="m"/></r></p></e>
@@ -1308,6 +1569,11 @@
     <e><p><l>taateli<s n="n"/></l><r>daddel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taidekonsultti<s n="n"/></l><r>kunst-konsulent<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taide<s n="n"/></l><r>kunst<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>taikapiste<s n="n"/></l><r>magipoeng<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>taika<s n="n"/></l><r>trolldom<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>taistelukohtaus<s n="n"/></l><r>kampscene<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>taistelumekaniikka<s n="n"/></l><r>kampmekanikk<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>taistelumusiikki<s n="n"/></l><r>kampmusikk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taistelu<s n="n"/></l><r>kjempe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>taistelu<s n="n"/></l><r>kjempe<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>taiteilija<s n="n"/></l><r>kunstner<s n="n"/><s n="m"/></r></p></e>
@@ -1342,6 +1608,7 @@
     <e><p><l>tarvike<s n="n"/></l><r>utstyr<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tasa-arvo<s n="n"/></l><r>likestilling<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tasku<s n="n"/></l><r>lomme<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>taso<s n="n"/></l><r>nivå<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tatuointi<s n="n"/></l><r>tatovering<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tatuointi<s n="n"/></l><r>tatovering<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tausta<s n="n"/></l><r>bakgrunn<s n="n"/><s n="m"/></r></p></e>
@@ -1352,14 +1619,22 @@
     <e><p><l>tekijänoikeus<s n="n"/></l><r>opphavsrett<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>teknologia<s n="n"/></l><r>teknologi<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>teknologia<s n="n"/></l><r>teknologi<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>teksti<s n="n"/></l><r>tekst<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>teksti<s n="n"/></l><r>tekst<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>televisiosarja<s n="n"/></l><r>fjernsynsserie<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>televisio<s n="n"/></l><r>fjernsyn<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>teltta<s n="n"/></l><r>telt<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>temppeli<s n="n"/></l><r>helligdom<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>temppeli<s n="n"/></l><r>tempel<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>temppu<s n="n"/></l><r>triksing<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>terapeutti<s n="n"/></l><r>terapeut<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>termi<s n="n"/></l><r>begrep<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>terroristiorganisaatio<s n="n"/></l><r>terroristorganisasjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>terveysjohtaja<s n="n"/></l><r>helsedirektør<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>terveyspiste<s n="n"/></l><r>helsepoeng<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>terveyspiste<s n="n"/></l><r>helsepoeng<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>terveys<s n="n"/></l><r>helse<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>terveys<s n="n"/></l><r>helse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>teräsastia<s n="n"/></l><r>stålkar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>teräs<s n="n"/></l><r>stål<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tiede<s n="n"/></l><r>science<s n="n"/><s n="mf"/></r></p></e>
@@ -1368,8 +1643,10 @@
     <e><p><l>tietokone<s n="n"/></l><r>datamaskin<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tietosanakirja<s n="n"/></l><r>encyklopedi<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tieto<s n="n"/></l><r>beskjed<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tietäjä<s n="n"/></l><r>vismann<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tiiviste<s n="n"/></l><r>konsentrat<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tilanne<s n="n"/></l><r>situasjon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tila<s n="n"/></l><r>modus<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>titteli<s n="n"/></l><r>tittel<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>TNG-miehistö<s n="n"/></l><r>TNG-mannskap<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>todellisuus<s n="n"/></l><r>virkelighet<s n="n"/><s n="f"/></r></p></e>
@@ -1392,7 +1669,9 @@
     <e><p><l>tulevaisuus<s n="n"/></l><r>frem<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>tulevaisuus<s n="n"/></l><r>fremtid<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tulevaisuus<s n="n"/></l><r>fremtid<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tulikristalli<s n="n"/></l><r>ildkrystall<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tuli<s n="n"/></l><r>ild<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>tulivuori<s n="n"/></l><r>vulkan<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tulo<s n="n"/></l><r>inntekt<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tulo<s n="n"/></l><r>inntekt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tulos<s n="n"/></l><r>resultat<s n="n"/><s n="nt"/></r></p></e>
@@ -1445,10 +1724,12 @@
     <e><p><l>uloskäynti<s n="n"/></l><r>avgang<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>unelma-asunto<s n="n"/></l><r>drømmeleilighet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>unelma<s n="n"/></l><r>drøm<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>uniloitsu<s n="n"/></l><r>søvnforbannelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>universumi<s n="n"/></l><r>univers<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ura<s n="n"/></l><r>karriere<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>urheilulähetys<s n="n"/></l><r>sportssending<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>uskonto<s n="n"/></l><r>religion<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>uusintapainos<s n="n"/></l><r>gjenutgivelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>uusinta<s n="n"/></l><r>reprise<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>uutinen<s n="n"/></l><r>nyhet<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>uutisankkuri<s n="n"/></l><r>nyhetsanker<s n="n"/><s n="nt"/></r></p></e>
@@ -1456,16 +1737,26 @@
     <e><p><l>vaara<s n="n"/></l><r>fare<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vaatetus<s n="n"/></l><r>bekledning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vaatimus<s n="n"/></l><r>krav<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>vahingonsietokyky<s n="n"/></l><r>skadeoppsuging<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vahingonsietokyky<s n="n"/></l><r>skadeoppsuging<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vahinko<s n="n"/></l><r>skade<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vahvuus<s n="n"/></l><r>styrke<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vaikeusaste<s n="n"/></l><r>vanskelighetsgrad<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vaikutelma<s n="n"/></l><r>uttrykk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vaikutus<s n="n"/></l><r>effekt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vaikutus<s n="n"/></l><r>innflytelse<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vaikutus<s n="n"/></l><r>virke<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vaikutusvalta<s n="n"/></l><r>innflytnadsrike<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vaimo<s n="n"/></l><r>kone<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vaimo<s n="n"/></l><r>kone<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>valikko<s n="n"/></l><r>meny<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>valkeajuusto<s n="n"/></l><r>hvitost<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>valkojuusto<s n="n"/></l><r>vitost<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>valmentaja<s n="n"/></l><r>trener<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>valmistus<s n="n"/></l><r>lagring<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>valonsoturi<s n="n"/></l><r>lyskriger<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>valo<s n="n"/></l><r>lys<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>valtaosa<s n="n"/></l><r>mestepart<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>valtaus<s n="n"/></l><r>storming<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>valtaus<s n="n"/></l><r>storming<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vanhempi<s n="n"/></l><r>forelder<s n="n"/><s n="m"/></r></p></e>
@@ -1473,11 +1764,20 @@
     <e><p><l>vanilja<s n="n"/></l><r>vanilje<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vanukaskonsistenssi<s n="n"/></l><r>puddingkonsistens<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vapaus<s n="n"/></l><r>fridom<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>varas<s n="n"/></l><r>tyv<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>varasto<s n="n"/></l><r>lagerrom<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>variantti<s n="n"/></l><r>variant<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>variantti<s n="n"/></l><r>variant<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>varjo-organisaatio<s n="n"/></l><r>skuggeorganisasjon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>varovaisuus<s n="n"/></l><r>varsemd<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>varpu<s n="n"/></l><r>vier<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>varustusosa<s n="n"/></l><r>rustningsdel<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>varustus<s n="n"/></l><r>rustning<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>varustus<s n="n"/></l><r>rustning<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>varustustyyppi<s n="n"/></l><r>rustningstype<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>varustustyyppi<s n="n"/></l><r>rustningtype<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vasara<s n="n"/></l><r>hammer<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vastaanotto<s n="n"/></l><r>mottakelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vastaanottovirkailija<s n="n"/></l><r>resepsjonist<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vastapuoli<s n="n"/></l><r>motsetnad<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vastarintajohtaja<s n="n"/></l><r>motstandsleiar<s n="n"/><s n="m"/></r></p></e>
@@ -1494,7 +1794,9 @@
     <e><p><l>verkkosivu<s n="n"/></l><r>nettside<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>verkkosivu<s n="n"/></l><r>nettside<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>verkkosivusto<s n="n"/></l><r>nettsted<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>versio<s n="n"/></l><r>utgave<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>versio<s n="n"/></l><r>versjon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vesikristalli<s n="n"/></l><r>vannkrystall<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vesi<s n="n"/></l><r>vann<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vesi<s n="n"/></l><r>water<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>vessa<s n="n"/></l><r>toalett<s n="n"/><s n="nt"/></r></p></e>
@@ -1524,6 +1826,7 @@
     <e><p><l>virhe<s n="n"/></l><r>feil<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>virhe<s n="n"/></l><r>feiltakelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>virkamies<s n="n"/></l><r>betjent<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>virtaus<s n="n"/></l><r>flyt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vitsi<s n="n"/></l><r>spøk<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vitsi<s n="n"/></l><r>vits<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vohveli<s n="n"/></l><r>vaffel<s n="n"/><s n="m"/></r></p></e>
@@ -1549,15 +1852,20 @@
     <e><p><l>vuorovaikutusjohtaja<s n="n"/></l><r>kommunikasjons-sjef<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vuorovaikutusneuvonantaja<s n="n"/></l><r>kommunikasjons-rådgiver<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vuosi<s n="n"/></l><r>år<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>vyö<s n="n"/></l><r>belte<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>väestö<s n="n"/></l><r>befolkning<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vähemmistövaltuutettu<s n="n"/></l><r>diskriminierings-ombud<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vähimmäismäärä<s n="n"/></l><r>minimum<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>väistötasoitus<s n="n"/></l><r>unnvikehandikap<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>väkivalta<s n="n"/></l><r>vold<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>välimerenruoka<s n="n"/></l><r>middelhavsmat<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>väli<s n="n"/></l><r>mellom<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>värinä<s n="n"/></l><r>om<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>värinä<s n="n"/></l><r>om<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>väripaletti<s n="n"/></l><r>fargepalett<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>väri<s n="n"/></l><r>farge<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>WSC-versio<s n="n"/></l><r>WSC-versjon<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>yhdistelmäluokka<s n="n"/></l><r>blandingsklasse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yhteiskunta<s n="n"/></l><r>samfunn<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>yhteisnimitys<s n="n"/></l><r>samlebetegnelse<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yhteisö<s n="n"/></l><r>kommune<s n="n"/><s n="m"/></r></p></e>
@@ -1574,6 +1882,7 @@
     <e><p><l>ylävartalo<s n="n"/></l><r>overkropp<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>yritys<s n="n"/></l><r>forsøk<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>yritys<s n="n"/></l><r>selskap<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>yrtti<s n="n"/></l><r>urt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ystävyys<s n="n"/></l><r>vennskap<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ystävyys<s n="n"/></l><r>vennskap<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ystäväjoukko<s n="n"/></l><r>vennegjeng<s n="n"/><s n="m"/></r></p></e>
@@ -1586,8 +1895,12 @@
     <e><p><l>äiti<s n="n"/></l><r>mor<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>älypuhelin<s n="n"/></l><r>smarttelefon<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>äly<s n="n"/></l><r>forstand<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>äly<s n="n"/></l><r>intelligens<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>äänikanava<s n="n"/></l><r>lydkanal<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>ääninäyttelijä<s n="n"/></l><r>stemmesatt<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>ääniraita<s n="n"/></l><r>lydspor<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>ääni<s n="n"/></l><r>lyd<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>äänitehoste<s n="n"/></l><r>lydeffekt<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>äänivalli<s n="n"/></l><r>lydmur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>äänivalli<s n="n"/></l><r>lydmur<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>äänivalli<s n="n"/></l><r>lydmur<s n="n"/><s n="m"/></r></p></e>
@@ -1626,15 +1939,18 @@
     <e vr="nno"><p><l>ääni<s n="n"/></l><r>røyst<s n="n"/><s n="f"/></r></p></e>
 
 
-    <e><p><l>joku<s n="prn"/></l><r>noen<s n="n"/><s n="mf"/></r></p></e>
 
+    <e><p><l>tri<s n="n"/><s n="abbr"/></l><r>dr.<s n="n"/></r></p></e>
+    <e><p><l>kB<s n="n"/></l><r>kB<s n="n"/></r></p></e>
     <e><p><l>mg<s n="n"/></l><r>mg<s n="n"/></r></p></e>
     <e><p><l>C<s n="n"/></l><r>C.<s n="n"/></r></p></e>
     <e><p><l>USD<s n="n"/></l><r>USD<s n="n"/></r></p></e>
     <e><p><l>TOS<s n="n"/></l><r>TOS<s n="n"/></r></p></e>
     <e><p><l>DS9<s n="n"/></l><r>DS9<s n="n"/></r></p></e>
 
-      <!-- compound only parts -->
+    <e><p><l>20-vuotisjuhlapäivä<s n="n"/></l><r>20-årsjubile<s n="n"/><s n="nt"/></r></p></e>
+
+    <!-- compound only parts -->
 
     <e><p><l>valmis<s n="n"/><s n="compound-only-L"/></l><r>ferdig<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>siko<s n="n"/><s n="compound-only-L"/></l><r>svine<s n="n"/><s n="nt"/></r></p></e>
@@ -1649,15 +1965,20 @@
     <!-- {{{ propers noun -->
 
     <e><i>3DS<s n="np"/></i></e>
+    <e><i>3DS<s n="np"/></i></e>
     <e><i>Abby<s n="np"/></i></e>
     <e><i>Abid<s n="np"/></i></e>
     <e><i>Adam<s n="np"/></i></e>
+    <e><i>Advent<s n="np"/></i></e>
     <e><i>af<s n="np"/></i></e>
     <e><i>Akihabara<s n="np"/></i></e>
+    <e><i>Akitoshi<s n="np"/></i></e>
     <e><i>Alaska<s n="np"/></i></e>
     <e><i>Aldrin<s n="np"/></i></e>
+    <e><i>Alexandria<s n="np"/></i></e>
     <e><i>Alle<s n="np"/></i></e>
     <e><i>Alyson<s n="np"/></i></e>
+    <e><i>Amano<s n="np"/></i></e>
     <e><i>Android<s n="np"/></i></e>
     <e><i>Angeli<s n="np"/></i></e>
     <e><i>Anne<s n="np"/></i></e>
@@ -1668,8 +1989,10 @@
     <e><i>Arkansas<s n="np"/></i></e>
     <e><i>Arnfinn<s n="np"/></i></e>
     <e><i>Aspengren<s n="np"/></i></e>
+    <e><i>Astos<s n="np"/></i></e>
     <e><i>Avinor<s n="np"/></i></e>
     <e><i>Backstage<s n="np"/></i></e>
+    <e><i>Bahamut<s n="np"/></i></e>
     <e><i>Baked<s n="np"/></i></e>
     <e><i>Bank<s n="np"/></i></e>
     <e><i>Barker<s n="np"/></i></e>
@@ -1699,6 +2022,7 @@
     <e><i>Center<s n="np"/></i></e>
     <e><i>Chalke<s n="np"/></i></e>
     <e><i>Chansley<s n="np"/></i></e>
+    <e><i>Chaos<s n="np"/></i></e>
     <e><i>Chicago<s n="np"/></i></e>
     <e><i>Cilan<s n="np"/></i></e>
     <e><i>Cindy<s n="np"/></i></e>
@@ -1706,6 +2030,7 @@
     <e><i>Coast<s n="np"/></i></e>
     <e><i>Cobie<s n="np"/></i></e>
     <e><i>Company<s n="np"/></i></e>
+    <e><i>Coneria<s n="np"/></i></e>
     <e><i>Craig<s n="np"/></i></e>
     <e><i>C<s n="np"/></i></e>
     <e><i>Darkrai<s n="np"/></i></e>
@@ -1719,7 +2044,9 @@
     <e><i>Diancie<s n="np"/></i></e>
     <e><i>Diplom-Is<s n="np"/></i></e>
     <e><i>Disney<s n="np"/></i></e>
+    <e><i>DoCoMo<s n="np"/></i></e>
     <e><i>Don<s n="np"/></i></e>
+    <e><i>Dragon<s n="np"/></i></e>
     <e><i>Drammen<s n="np"/></i></e>
     <e><i>Dreyer<s n="np"/></i></e>
     <e><i>D<s n="np"/></i></e>
@@ -1727,6 +2054,8 @@
     <e><i>Eevee<s n="np"/></i></e>
     <e><i>Elnesvågen<s n="np"/></i></e>
     <e><i>Else<s n="np"/></i></e>
+    <e><i>Enix<s n="np"/></i></e>
+    <e><i>Entertainment<s n="np"/></i></e>
     <e><i>Eriksen<s n="np"/></i></e>
     <e><i>Erik<s n="np"/></i></e>
     <e><i>Eriksson<s n="np"/></i></e>
@@ -1734,7 +2063,11 @@
     <e><i>Er<s n="np"/></i></e>
     <e><i>Evans<s n="np"/></i></e>
     <e><i>Evenstad<s n="np"/></i></e>
+    <e><i>Famitsu<s n="np"/></i></e>
+    <e><i>Fanfare<s n="np"/></i></e>
+    <e><i>Fantasy<s n="np"/></i></e>
     <e><i>FBI<s n="np"/></i></e>
+    <e><i>Final<s n="np"/></i></e>
     <e><i>First<s n="np"/></i></e>
     <e><i>Florida<s n="np"/></i></e>
     <e><i>Fox<s n="np"/></i></e>
@@ -1743,6 +2076,8 @@
     <e><i>Fuentes<s n="np"/></i></e>
     <e><i>Furuseth<s n="np"/></i></e>
     <e><i>Gardermoen<s n="np"/></i></e>
+    <e><i>Garland<s n="np"/></i></e>
+    <e><i>Gebelli<s n="np"/></i></e>
     <e><i>Gene<s n="np"/></i></e>
     <e><i>Gionet<s n="np"/></i></e>
     <e><i>Giratina<s n="np"/></i></e>
@@ -1751,6 +2086,7 @@
     <e><i>Green<s n="np"/></i></e>
     <e><i>Green<s n="np"/></i></e>
     <e><i>Gudbrandsdalen<s n="np"/></i></e>
+    <e><i>Gurgu<s n="np"/></i></e>
     <e><i>Hannigan<s n="np"/></i></e>
     <e><i>Han<s n="np"/></i></e>
     <e><i>Harris<s n="np"/></i></e>
@@ -1759,6 +2095,8 @@
     <e><i>Hennig-Olsen<s n="np"/></i></e>
     <e><i>Hennig<s n="np"/></i></e>
     <e><i>Henriksson<s n="np"/></i></e>
+    <e><i>Hiromichi<s n="np"/></i></e>
+    <e><i>Hironobu<s n="np"/></i></e>
     <e><i>Holmenkollen<s n="np"/></i></e>
     <e><i>Hoopa<s n="np"/></i></e>
     <e><i>Hov<s n="np"/></i></e>
@@ -1767,6 +2105,7 @@
     <e><i>Inc<s n="np"/></i></e>
     <e><i>Irene<s n="np"/></i></e>
     <e><i>Iris<s n="np"/></i></e>
+    <e><i>Ishii<s n="np"/></i></e>
     <e><i>Island<s n="np"/></i></e>
     <e><i>I<s n="np"/></i></e>
     <e><i>Italia<s n="np"/></i></e>
@@ -1781,11 +2120,17 @@
     <e><i>Johnson<s n="np"/></i></e>
     <e><i>Josh<s n="np"/></i></e>
     <e><i>Kahrs<s n="np"/></i></e>
+    <e><i>Kain<s n="np"/></i></e>
+    <e><i>Kary<s n="np"/></i></e>
+    <e><i>Kawazu<s n="np"/></i></e>
+    <e><i>Kenji<s n="np"/></i></e>
     <e><i>Kevin<s n="np"/></i></e>
     <e><i>Kids<s n="np"/></i></e>
+    <e><i>Koichi<s n="np"/></i></e>
     <e><i>Koiranen<s n="np"/></i></e>
     <e><i>Koldyke<s n="np"/></i></e>
     <e><i>Kongen<s n="np"/></i></e>
+    <e><i>Kraken<s n="np"/></i></e>
     <e><i>Kristiansand<s n="np"/></i></e>
     <e><i>Kristus<s n="np"/></i></e>
     <e><i>Kroatia<s n="np"/></i></e>
@@ -1795,17 +2140,21 @@
     <e><i>Kåss<s n="np"/></i></e>
     <e><i>Latvia<s n="np"/></i></e>
     <e><i>League<s n="np"/></i></e>
+    <e><i>Lich<s n="np"/></i></e>
     <e><i>Lily<s n="np"/></i></e>
+    <e><i>LIT<s n="np"/></i></e>
     <e><i>Lom<s n="np"/></i></e>
     <e><i>Long<s n="np"/></i></e>
     <e><i>Love<s n="np"/></i></e>
     <e><i>Lucario<s n="np"/></i></e>
+    <e><i>Lukahn<s n="np"/></i></e>
     <e><i>Luke<s n="np"/></i></e>
     <e><i>Luke<s n="np"/></i></e>
     <e><i>Magazine<s n="np"/></i></e>
     <e><i>Major<s n="np"/></i></e>
     <e><i>Manhattan<s n="np"/></i></e>
     <e><i>Marco<s n="np"/></i></e>
+    <e><i>Marilith<s n="np"/></i></e>
     <e><i>Marilla<s n="np"/></i></e>
     <e><i>Marin<s n="np"/></i></e>
     <e><i>Mari<s n="np"/></i></e>
@@ -1813,8 +2162,10 @@
     <e><i>Marshall<s n="np"/></i></e>
     <e><i>Marvin<s n="np"/></i></e>
     <e><i>Mary<s n="np"/></i></e>
+    <e><i>Matoya<s n="np"/></i></e>
     <e><i>Max<s n="np"/></i></e>
     <e><i>May<s n="np"/></i></e>
+    <e><i>Melmond<s n="np"/></i></e>
     <e><i>Metro<s n="np"/></i></e>
     <e><i>Met<s n="np"/></i></e>
     <e><i>Mew<s n="np"/></i></e>
@@ -1823,28 +2174,37 @@
     <e><i>Moon<s n="np"/></i></e>
     <e><i>Mosbius<s n="np"/></i></e>
     <e><i>Mosby<s n="np"/></i></e>
+    <e><i>MSX<s n="np"/></i></e>
+    <e><i>Musikk<s n="np"/></i></e>
     <e><i>Mysen<s n="np"/></i></e>
     <e><i>Myse<s n="np"/></i></e>
     <e><i>Myse<s n="np"/></i></e>
     <e><i>Myssmør<s n="np"/></i></e>
     <e><i>Nancy<s n="np"/></i></e>
+    <e><i>Nashir<s n="np"/></i></e>
     <e><i>National<s n="np"/></i></e>
     <e><i>NBC<s n="np"/></i></e>
     <e><i>Neil<s n="np"/></i></e>
     <e><i>Nero<s n="np"/></i></e>
+    <e><i>NES<s n="np"/></i></e>
     <e><i>New<s n="np"/></i></e>
     <e><i>New<s n="np"/></i></e>
     <e><i>Niantic<s n="np"/></i></e>
     <e><i>Nick<s n="np"/></i></e>
     <e><i>Nintendo<s n="np"/></i></e>
+    <e><i>Nobuo<s n="np"/></i></e>
     <e><i>Nora<s n="np"/></i></e>
     <e><i>Norsk<s n="np"/></i></e>
     <e><i>No<s n="np"/></i></e>
+    <e><i>N<s n="np"/></i></e>
     <e><i>NTB<s n="np"/></i></e>
+    <e><i>NTT<s n="np"/></i></e>
+    <e><i>of<s n="np"/></i></e>
     <e><i>Olav<s n="np"/></i></e>
     <e><i>Ole<s n="np"/></i></e>
     <e><i>Olsen<s n="np"/></i></e>
     <e><i>On<s n="np"/></i></e>
+    <e><i>Oppfølgerne<s n="np"/></i></e>
     <e><i>Orange<s n="np"/></i></e>
     <e><i>Oslo<s n="np"/></i></e>
     <e><i>Patrick<s n="np"/></i></e>
@@ -1853,14 +2213,20 @@
     <e><i>Penny<s n="np"/></i></e>
     <e><i>Pierson<s n="np"/></i></e>
     <e><i>Pikachu<s n="np"/></i></e>
+    <e><i>PlayStation<s n="np"/></i></e>
     <e><i>Pocket<s n="np"/></i></e>
+    <e><i>Point<s n="np"/></i></e>
     <e><i>Porygon<s n="np"/></i></e>
     <e><i>Post<s n="np"/></i></e>
+    <e><i>Pravoka<s n="np"/></i></e>
+    <e><i>Premium<s n="np"/></i></e>
     <e><i>Price<s n="np"/></i></e>
     <e><i>Pride<s n="np"/></i></e>
+    <e><i>PSP<s n="np"/></i></e>
     <e><i>Publisert<s n="np"/></i></e>
     <e><i>QAnon<s n="np"/></i></e>
     <e><i>Q<s n="np"/></i></e>
+    <e><i>Quest<s n="np"/></i></e>
     <e><i>Quinn<s n="np"/></i></e>
     <e><i>Rachel<s n="np"/></i></e>
     <e><i>Radnor<s n="np"/></i></e>
@@ -1875,7 +2241,9 @@
     <e><i>Rundt<s n="np"/></i></e>
     <e><i>Ryanair<s n="np"/></i></e>
     <e><i>Saget<s n="np"/></i></e>
+    <e><i>Sakaguchi<s n="np"/></i></e>
     <e><i>Sarah<s n="np"/></i></e>
+    <e><i>Sara<s n="np"/></i></e>
     <e><i>Satoshi<s n="np"/></i></e>
     <e><i>Scherbatsky<s n="np"/></i></e>
     <e><i>Schjølberg<s n="np"/></i></e>
@@ -1884,14 +2252,21 @@
     <e><i>Segel<s n="np"/></i></e>
     <e><i>Senshi<s n="np"/></i></e>
     <e><i>Sessions<s n="np"/></i></e>
+    <e><i>Shibuya<s n="np"/></i></e>
     <e><i>Sinnoh<s n="np"/></i></e>
+    <e><i>Skies<s n="np"/></i></e>
     <e><i>Skjåk<s n="np"/></i></e>
     <e><i>Sky<s n="np"/></i></e>
     <e><i>Smulders<s n="np"/></i></e>
+    <e><i>SoftBank<s n="np"/></i></e>
     <e><i>Sogn<b/>og<b/>Fjordane<s n="np"/></i></e>
     <e><i>Solberg<s n="np"/></i></e>
+    <e><i>Soul<s n="np"/></i></e>
+    <e><i>Soul<s n="np"/></i></e>
+    <e><i>Sounds<s n="np"/></i></e>
     <e><i>Sparkles<s n="np"/></i></e>
     <e><i>Spears<s n="np"/></i></e>
+    <e><i>Square<s n="np"/></i></e>
     <e><i>Stanstead<s n="np"/></i></e>
     <e><i>Staten<s n="np"/></i></e>
     <e><i>Stella<s n="np"/></i></e>
@@ -1904,23 +2279,32 @@
     <e><i>Sven<s n="np"/></i></e>
     <e><i>Sverd<s n="np"/></i></e>
     <e><i>Switch<s n="np"/></i></e>
+    <e><i>System<s n="np"/></i></e>
     <e><i>Sør-Fron<s n="np"/></i></e>
     <e><i>Tajiri<s n="np"/></i></e>
+    <e><i>Tanaka<s n="np"/></i></e>
     <e><i>Team<s n="np"/></i></e>
     <e><i>Ted<s n="np"/></i></e>
     <e><i>Telegrambyrå<s n="np"/></i></e>
     <e><i>Temple<s n="np"/></i></e>
+    <e><i>Terada<s n="np"/></i></e>
+    <e><i>Theater<s n="np"/></i></e>
     <e><i>Thomas<s n="np"/></i></e>
+    <e><i>Tiamat<s n="np"/></i></e>
     <e><i>til<s n="np"/></i></e>
     <e><i>Tim<s n="np"/></i></e>
     <e><i>TINE<s n="np"/></i></e>
     <e><i>Tony<s n="np"/></i></e>
+    <e><i>TOSE<s n="np"/></i></e>
     <e><i>Tracey<s n="np"/></i></e>
     <e><i>Tracy<s n="np"/></i></e>
     <e><i>Tretten<s n="np"/></i></e>
+    <e><i>Tsuyoshi<s n="np"/></i></e>
     <e><i>TUI<s n="np"/></i></e>
     <e><i>Twitter<s n="np"/></i></e>
+    <e><i>Uematsu<s n="np"/></i></e>
     <e><i>University<s n="np"/></i></e>
+    <e><i>Unne<s n="np"/></i></e>
     <e><i>Unnestad<s n="np"/></i></e>
     <e><i>Unown<s n="np"/></i></e>
     <e><i>USA<s n="np"/></i></e>
@@ -1938,8 +2322,12 @@
     <e><i>White<s n="np"/></i></e>
     <e><i>Wikipedia<s n="np"/></i></e>
     <e><i>William<s n="np"/></i></e>
+    <e><i>WonderSwan<s n="np"/></i></e>
     <e><i>World<s n="np"/></i></e>
+    <e><i>WSC<s n="np"/></i></e>
+    <e><i>Yahoo<s n="np"/></i></e>
     <e><i>York<s n="np"/></i></e>
+    <e><i>Yoshitaka<s n="np"/></i></e>
     <e><i>YouTube<s n="np"/></i></e>
     <e><i>Zekrom<s n="np"/></i></e>
     <e><i>Zoey<s n="np"/></i></e>
@@ -1959,7 +2347,10 @@
       <!-- them translaty names -->
 
 
+    <e><p><l>Aldi-joki<s n="np"/></l><r>Aldisjøen<s n="np"/></r></p></e>
+    <e><p><l>Amerikka<s n="np"/></l><r>America<s n="np"/></r></p></e>
     <e><p><l>Argentiina<s n="np"/></l><r>Argentina<s n="np"/></r></p></e>
+    <e><p><l>A-Ryhmä<s n="np"/></l><r>A-Team<s n="np"/></r></p></e>
     <e><p><l>EEA<s n="np"/></l><r>EØS<s n="np"/></r></p></e>
     <e><p><l>Eesti<s n="np"/></l><r>Estland<s n="np"/></r></p></e>
     <e><p><l>Espanja<s n="np"/></l><r>Spania<s n="np"/></r></p></e>
@@ -1967,15 +2358,19 @@
     <e><p><l>Iso-Britannia<s n="np"/></l><r>Storbritannia<s n="np"/></r></p></e>
     <e><p><l>Japani<s n="np"/></l><r>Japan<s n="np"/></r></p></e>
     <e><p><l>Jyllanti<s n="np"/></l><r>Jylland<s n="np"/></r></p></e>
+    <e><p><l>Jääluola<s n="np"/></l><r>Isgrotten<s n="np"/></r></p></e>
     <e><p><l>Kiina<s n="np"/></l><r>Kina<s n="np"/></r></p></e>
     <e><p><l>Kreeta<s n="np"/></l><r>Kreta<s n="np"/></r></p></e>
     <e><p><l>Kreikka<s n="np"/></l><r>Hellas<s n="np"/></r></p></e>
     <e><p><l>Liettua<s n="np"/></l><r>Litauen<s n="np"/></r></p></e>
     <e><p><l>Lontoo<s n="np"/></l><r>London<s n="np"/></r></p></e>
     <e><p><l>Lähi-itä<s n="np"/></l><r>Midtausten<s n="np"/></r></p></e>
+    <e><p><l>Maaluola<s n="np"/></l><r>Jordgrotten<s n="np"/></r></p></e>
     <e><p><l>maa<s n="n"/></l><r>jorda<s n="np"/></r></p></e>
     <e><p><l>Maa<s n="np"/><s n="al"/><s n="use_blacklist"/></l><r>Jorda<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Maa<s n="np"/><s n="al"/><s n="use_blacklist"/></l><r>jorden<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Norja<s n="np"/></l><r>Norge<s n="np"/></r></p></e>
+    <e><p><l>Pohjois-Amerikka<s n="np"/></l><r>Nord-Amerika<s n="np"/></r></p></e>
     <e><p><l>Pohjoismaa<s n="np"/></l><r>Norden<s n="np"/></r></p></e>
     <e><p><l>Rodos<s n="np"/></l><r>Rhodos<s n="np"/></r></p></e>
     <e><p><l>Rooma<s n="np"/></l><r>Roma<s n="np"/></r></p></e>
@@ -2131,6 +2526,7 @@
     <e c="aion tehdä"><p><l>aikoa<s n="vaux"/></l><r>skulle<s n="vblex"/></r></p></e>
     <e c="tulee tehdä"><p><l>tulla<s n="vblex"/></l><r>skulle<s n="vblex"/></r></p></e>
     <e c="XXX"><p><l>maastota<s n="vblex"/></l><r>skvære<s n="vblex"/></r></p></e>
+    <e><p><l>aiheuttaa<s n="vblex"/></l><r>forårsake<s n="vblex"/></r></p></e>
     <e><p><l>aikuistua<s n="vblex"/></l><r>vokse<g><b/>opp</g><s n="vblex"/></r></p></e>
     <e><p><l>ajaa<s n="vblex"/></l><r>kjøre<s n="vblex"/></r></p></e>
     <e><p><l>ajastaa<s n="vblex"/></l><r>time<s n="vblex"/></r></p></e>
@@ -2146,14 +2542,19 @@
     <e><p><l>asettaa<s n="vblex"/></l><r>sette<s n="vblex"/></r></p></e>
     <e><p><l>asettua<s n="vblex"/></l><r>sette<g><b/>seg</g><s n="vblex"/></r></p></e>
     <e><p><l>asua<s n="vblex"/></l><r>bo<s n="vblex"/></r></p></e>
+    <e><p><l>asuttaa<s n="vblex"/></l><r>okkupere<s n="vblex"/></r></p></e>
     <e><p><l>auttaa<s n="vblex"/></l><r>hjelpe<g><b/>til</g><s n="vblex"/></r></p></e>
     <e><p><l>auttaa<s n="vblex"/></l><r>hjelpe<s n="vblex"/></r></p></e>
+    <e><p><l>avata<s n="vblex"/></l><r>låse<g><b/>opp</g><s n="vblex"/></r></p></e>
     <e><p><l>avata<s n="vblex"/></l><r>åpne<s n="vblex"/></r></p></e>
     <e><p><l>avioitua<s n="vblex"/></l><r>gifte<g><b/>seg</g><s n="vblex"/></r></p></e>
     <e><p><l>buukata<s n="vblex"/></l><r>booke<s n="vblex"/></r></p></e>
     <e><p><l>deittailla<s n="vblex"/></l><r>date<s n="vblex"/></r></p></e>
     <e><p><l>dipata<s n="vblex"/></l><r>dyppe<s n="vblex"/></r></p></e>
+    <e><p><l>dissata<s n="vblex"/></l><r>disse<s n="vblex"/></r></p></e>
     <e><p><l>edetä<s n="vblex"/></l><r>legge<g><b/>ut</g><s n="vblex"/></r></p></e>
+    <e><p><l>edustaa<s n="vblex"/></l><r>representere<s n="vblex"/></r></p></e>
+    <e><p><l>ennustaa<s n="vblex"/></l><r>profetere<s n="vblex"/></r></p></e>
     <e><p><l>epäillä<s n="vblex"/></l><r>tvile<g><b/>på</g><s n="vblex"/></r></p></e>
     <e><p><l>epäröidä<s n="vblex"/></l><r>nøle<s n="vblex"/></r></p></e>
     <e><p><l>erikoistua<s n="vblex"/></l><r>spesialisere<s n="vblex"/></r></p></e>
@@ -2161,6 +2562,7 @@
     <e><p><l>erottaa<s n="vblex"/></l><r>si<g><b/>opp</g><s n="vblex"/></r></p></e>
     <e><p><l>erottaa<s n="vblex"/></l><r>skilje<s n="vblex"/></r></p></e>
     <e><p><l>erottaa<s n="vblex"/></l><r>skille<s n="vblex"/></r></p></e>
+    <e><p><l>esitellä<s n="vblex"/></l><r>innføre<s n="vblex"/></r></p></e>
     <e><p><l>esitellä<s n="vblex"/></l><r>innlede<s n="vblex"/></r></p></e>
     <e><p><l>esitellä<s n="vblex"/></l><r>introdusere<s n="vblex"/></r></p></e>
     <e><p><l>esitellä<s n="vblex"/></l><r>vise<g><b/>til</g><s n="vblex"/></r></p></e>
@@ -2168,25 +2570,31 @@
     <e><p><l>estää<s n="vblex"/></l><r>hindre<s n="vblex"/></r></p></e>
     <e><p><l>etsiä<s n="vblex"/></l><r>lete<g><b/>etter</g><s n="vblex"/></r></p></e>
     <e><p><l>etsiä<s n="vblex"/></l><r>lete<s n="vblex"/></r></p></e>
+    <e><p><l>etsiä<s n="vblex"/></l><r>se<g><b/>til</g><s n="vblex"/></r></p></e>
     <e><p><l>etsiä<s n="vblex"/></l><r>søke<s n="vblex"/></r></p></e>
+    <e><p><l>feidata<s n="vblex"/></l><r>fade<s n="vblex"/></r></p></e>
     <e><p><l>filmata<s n="vblex"/></l><r>filme<s n="vblex"/></r></p></e>
     <e><p><l>folkata<s n="vblex"/></l><r>folke<s n="vblex"/></r></p></e>
     <e><p><l>haihtua<s n="vblex"/></l><r>fordampe<s n="vblex"/></r></p></e>
     <e><p><l>haistaa<s n="vblex"/></l><r>nase<s n="vblex"/></r></p></e>
     <e><p><l>hajota<s n="vblex"/></l><r>skjære<g><b/>opp</g><s n="vblex"/></r></p></e>
+    <e><p><l>hakea<s n="vblex"/></l><r>hente<s n="vblex"/></r></p></e>
     <e><p><l>hakkeroida<s n="vblex"/></l><r>hacke<s n="vblex"/></r></p></e>
     <e><p><l>hallita<s n="vblex"/></l><r>forvalte<s n="vblex"/></r></p></e>
     <e><p><l>haluta<s n="vblex"/></l><r>ville<s n="vblex"/></r></p></e>
     <e><p><l>halveksia<s n="vblex"/></l><r>håne<s n="vblex"/></r></p></e>
+    <e><p><l>hankkia<s n="vblex"/></l><r>overta<s n="vblex"/></r></p></e>
     <e><p><l>hankkia<s n="vblex"/></l><r>skaffe<s n="vblex"/></r></p></e>
     <e><p><l>herättää<s n="vblex"/></l><r>vekke<s n="vblex"/></r></p></e>
     <e><p><l>hieroa<s n="vblex"/></l><r>gni<s n="vblex"/></r></p></e>
+    <e><p><l>hukata<s n="vblex"/></l><r>bortkaste<s n="vblex"/></r></p></e>
     <e><p><l>huomioida<s n="vblex"/></l><r>involvere<s n="vblex"/></r></p></e>
     <e><p><l>huovata<s n="vblex"/></l><r>hamle<g><b/>opp<b/>med</g><s n="vblex"/></r></p></e>
     <e><p><l>hylätä<s n="vblex"/></l><r>forlate<s n="vblex"/></r></p></e>
     <e><p><l>hymyillä<s n="vblex"/></l><r>le<s n="vblex"/></r></p></e>
     <e><p><l>hypätä<s n="vblex"/></l><r>hoppe<s n="vblex"/></r></p></e>
     <e><p><l>hyväksyä<s n="vblex"/></l><r>godkjenne<s n="vblex"/></r></p></e>
+    <e><p><l>hyödyntää<s n="vblex"/></l><r>utnytte<s n="vblex"/></r></p></e>
     <e><p><l>hyökätä<s n="vblex"/></l><r>angripe<s n="vblex"/></r></p></e>
     <e><p><l>hävitä<s n="vblex"/></l><r>tape<s n="vblex"/></r></p></e>
     <e><p><l>höpöttää<s n="vblex"/></l><r>prime<s n="vblex"/></r></p></e>
@@ -2197,6 +2605,7 @@
     <e><p><l>jakaa<s n="vblex"/></l><r>dele<s n="vblex"/></r></p></e>
     <e><p><l>jakaa<s n="vblex"/></l><r>medgi<s n="vblex"/></r></p></e>
     <e><p><l>jakautua<s n="vblex"/></l><r>dele<g><b/>inn</g><s n="vblex"/></r></p></e>
+    <e><p><l>jakautua<s n="vblex"/></l><r>inndele<s n="vblex"/></r></p></e>
     <e><p><l>jatkaa<s n="vblex"/></l><r>fortsette<s n="vblex"/></r></p></e>
     <e><p><l>johdattaa<s n="vblex"/></l><r>innlede<s n="vblex"/></r></p></e>
     <e><p><l>johtaa<s n="vblex"/></l><r>føre<s n="vblex"/></r></p></e>
@@ -2214,6 +2623,7 @@
     <e><p><l>jäädyttää<s n="vblex"/></l><r>fryse<s n="vblex"/></r></p></e>
     <e><p><l>jäädyttää<s n="vblex"/></l><r>nedkjøle<s n="vblex"/></r></p></e>
     <e><p><l>jäädyttää<s n="vblex"/></l><r>suspendere<s n="vblex"/></r></p></e>
+    <e><p><l>jäädä<s n="vblex"/></l><r>forbli<s n="vblex"/></r></p></e>
     <e><p><l>kadota<s n="vblex"/></l><r>forsvinne<s n="vblex"/></r></p></e>
     <e><p><l>kaivata<s n="vblex"/></l><r>savne<s n="vblex"/></r></p></e>
     <e><p><l>kamppailla<s n="vblex"/></l><r>kjempe<s n="vblex"/></r></p></e>
@@ -2241,22 +2651,27 @@
     <e><p><l>kestää<s n="vblex"/></l><r>vare<s n="vblex"/></r></p></e>
     <e><p><l>kieltäytyä<s n="vblex"/></l><r>nekte<s n="vblex"/></r></p></e>
     <e><p><l>kieltää<s n="vblex"/></l><r>avvise<s n="vblex"/></r></p></e>
+    <e><p><l>kieltää<s n="vblex"/></l><r>forby<s n="vblex"/></r></p></e>
     <e><p><l>kiertää<s n="vblex"/></l><r>sirkulere<s n="vblex"/></r></p></e>
     <e><p><l>kiertää<s n="vblex"/></l><r>versere<s n="vblex"/></r></p></e>
     <e><p><l>kiittää<s n="vblex"/></l><r>takke<g><b/>nei</g><s n="vblex"/></r></p></e>
     <e><p><l>kiittää<s n="vblex"/></l><r>takke<s n="vblex"/></r></p></e>
+    <e><p><l>kirjoittaa<s n="vblex"/></l><r>skrive<g><b/>av</g><s n="vblex"/></r></p></e>
     <e><p><l>kirjoittaa<s n="vblex"/></l><r>skrive<s n="vblex"/></r></p></e>
     <e><p><l>koaguloitua<s n="vblex"/></l><r>koagulere<s n="vblex"/></r></p></e>
     <e><p><l>kokea<s n="vblex"/></l><r>oppleve<s n="vblex"/></r></p></e>
     <e><p><l>kokeilla<s n="vblex"/></l><r>prøve<s n="vblex"/></r></p></e>
+    <e><p><l>konkursoida<s n="vblex"/></l><r>gå<g><b/>konkurs</g><s n="vblex"/></r></p></e>
     <e><p><l>konsultoida<s n="vblex"/></l><r>rådføre<g><b/>seg</g><s n="vblex"/></r></p></e>
     <e><p><l>kontaktoida<s n="vblex"/></l><r>kontakte<s n="vblex"/></r></p></e>
     <e><p><l>koodata<s n="vblex"/></l><r>kode<s n="vblex"/></r></p></e>
     <e><p><l>koristella<s n="vblex"/></l><r>dekorere<s n="vblex"/></r></p></e>
+    <e><p><l>korjata<s n="vblex"/></l><r>fikse<s n="vblex"/></r></p></e>
     <e><p><l>koskea<s n="vblex"/></l><r>gjelde<s n="vblex"/></r></p></e>
     <e><p><l>kotiuttaa<s n="vblex"/></l><r>bosette<s n="vblex"/></r></p></e>
     <e><p><l>kouluttaa<s n="vblex"/></l><r>trene<g><b/>opp</g><s n="vblex"/></r></p></e>
     <e><p><l>kritisoida<s n="vblex"/></l><r>kritisere<s n="vblex"/></r></p></e>
+    <e><p><l>kukistaa<s n="vblex"/></l><r>beseire<s n="vblex"/></r></p></e>
     <e><p><l>kulkea<s n="vblex"/></l><r>passere<s n="vblex"/></r></p></e>
     <e><p><l>kulminoitua<s n="vblex"/></l><r>kulminere<s n="vblex"/></r></p></e>
     <e><p><l>kuolla<s n="vblex"/></l><r>dø<s n="vblex"/></r></p></e>
@@ -2264,6 +2679,7 @@
     <e><p><l>kutsua<s n="vblex"/></l><r>kalle<s n="vblex"/></r></p></e>
     <e><p><l>kutsua<s n="vblex"/></l><r>kalles<s n="vblex"/></r></p></e>
     <e><p><l>kuulla<s n="vblex"/></l><r>høre<s n="vblex"/></r></p></e>
+    <e><p><l>kuulua<s n="vblex"/></l><r>høres<s n="vblex"/></r></p></e>
     <e><p><l>kuulustella<s n="vblex"/></l><r>avhøre<s n="vblex"/></r></p></e>
     <e><p><l>kuunnella<s n="vblex"/></l><r>lytte<s n="vblex"/></r></p></e>
     <e><p><l>kuvailla<s n="vblex"/></l><r>beskrive<s n="vblex"/></r></p></e>
@@ -2285,6 +2701,10 @@
     <e><p><l>käyttää<s n="vblex"/></l><r>bruke<s n="vblex"/></r></p></e>
     <e><p><l>kääntyä<s n="vblex"/></l><r>vende<s n="vblex"/></r></p></e>
     <e><p><l>kääntää<s n="vblex"/></l><r>omsette<s n="vblex"/></r></p></e>
+    <e><p><l>kääntää<s n="vblex"/></l><r>oversette<s n="vblex"/></r></p></e>
+    <e><p><l>laajentaa<s n="vblex"/></l><r>utvide<s n="vblex"/></r></p></e>
+    <e><p><l>ladata<s n="vblex"/></l><r>laste<s n="vblex"/></r></p></e>
+    <e><p><l>lahota<s n="vblex"/></l><r>forfalle<s n="vblex"/></r></p></e>
     <e><p><l>lainata<s n="vblex"/></l><r>leie<s n="vblex"/></r></p></e>
     <e><p><l>laittaa<s n="vblex"/></l><r>lage<s n="vblex"/></r></p></e>
     <e><p><l>laittaa<s n="vblex"/></l><r>la<s n="vblex"/></r></p></e>
@@ -2292,14 +2712,18 @@
     <e><p><l>lanseerata<s n="vblex"/></l><r>lansere<s n="vblex"/></r></p></e>
     <e><p><l>laskea<s n="vblex"/></l><r>telle<s n="vblex"/></r></p></e>
     <e><p><l>laskeutua<s n="vblex"/></l><r>lande<s n="vblex"/></r></p></e>
+    <e><p><l>legitimoida<s n="vblex"/></l><r>legitimere<s n="vblex"/></r></p></e>
     <e><p><l>leikkiä<s n="vblex"/></l><r>leke<s n="vblex"/></r></p></e>
     <e><p><l>lentää<s n="vblex"/></l><r>flyge<s n="vblex"/></r></p></e>
     <e><p><l>lentää<s n="vblex"/></l><r>fly<s n="vblex"/></r></p></e>
     <e><p><l>leuhkia<s n="vblex"/></l><r>skryte<s n="vblex"/></r></p></e>
+    <e><p><l>levätä<s n="vblex"/></l><r>hvile<s n="vblex"/></r></p></e>
     <e><p><l>linjata<s n="vblex"/></l><r>ligne<g><b/>på</g><s n="vblex"/></r></p></e>
+    <e><p><l>lisätä<s n="vblex"/></l><r>legge<g><b/>til</g><s n="vblex"/></r></p></e>
     <e><p><l>lisätä<s n="vblex"/></l><r>tilsette<s n="vblex"/></r></p></e>
     <e><p><l>liueta<s n="vblex"/></l><r>løyse<g><b/>seg</g><s n="vblex"/></r></p></e>
     <e><p><l>lohduttaa<s n="vblex"/></l><r>trøste<s n="vblex"/></r></p></e>
+    <e><p><l>loitsia<s n="vblex"/></l><r>kaste<s n="vblex"/></r></p></e>
     <e><p><l>lopettaa<s n="vblex"/></l><r>avslutte<s n="vblex"/></r></p></e>
     <e><p><l>lopettaa<s n="vblex"/></l><r>avslutte<s n="vblex"/></r></p></e>
     <e><p><l>lopettaa<s n="vblex"/></l><r>ende<s n="vblex"/></r></p></e>
@@ -2310,10 +2734,12 @@
     <e><p><l>luoda<s n="vblex"/></l><r>lage<s n="vblex"/></r></p></e>
     <e><p><l>luoda<s n="vblex"/></l><r>opprette<s n="vblex"/></r></p></e>
     <e><p><l>luoda<s n="vblex"/></l><r>skape<s n="vblex"/></r></p></e>
+    <e><p><l>luokitella<s n="vblex"/></l><r>klasse<s n="vblex"/></r></p></e>
     <e><p><l>luottaa<s n="vblex"/></l><r>lite<s n="vblex"/></r></p></e>
     <e><p><l>luvata<s n="vblex"/></l><r>love<s n="vblex"/></r></p></e>
     <e><p><l>lyhentää<s n="vblex"/></l><r>forkorte<s n="vblex"/></r></p></e>
     <e><p><l>lyödä<s n="vblex"/></l><r>slå<s n="vblex"/></r></p></e>
+    <e><p><l>lyödä<s n="vblex"/></l><r>slås<s n="vblex"/></r></p></e>
     <e><p><l>lyödä<s n="vblex"/></l><r>slåss<s n="vblex"/></r></p></e>
     <e><p><l>lähestyä<s n="vblex"/></l><r>nærme<s n="vblex"/></r></p></e>
     <e><p><l>lähettää<s n="vblex"/></l><r>sende<g><b/>inn</g><s n="vblex"/></r></p></e>
@@ -2321,6 +2747,7 @@
     <e><p><l>lähettää<s n="vblex"/></l><r>sende<s n="vblex"/></r></p></e>
     <e><p><l>lähteä<s n="vblex"/></l><r>dra<s n="vblex"/></r></p></e>
     <e><p><l>läpsäistä<s n="vblex"/></l><r>klapse<s n="vblex"/></r></p></e>
+    <e><p><l>löytyä<s n="vblex"/></l><r>finne<g><b/>på</g><s n="vblex"/></r></p></e>
     <e><p><l>löytyä<s n="vblex"/></l><r>finnes<s n="vblex"/></r></p></e>
     <e><p><l>löytää<s n="vblex"/></l><r>finne<g><b/>ut</g><s n="vblex"/></r></p></e>
     <e><p><l>löytää<s n="vblex"/></l><r>finne<s n="vblex"/></r></p></e>
@@ -2333,6 +2760,7 @@
     <e><p><l>matkustaa<s n="vblex"/></l><r>reise<s n="vblex"/></r></p></e>
     <e><p><l>mennä<s n="vblex"/></l><r>gå<s n="vblex"/></r></p></e>
     <e><p><l>merkitä<s n="vblex"/></l><r>betegne<s n="vblex"/></r></p></e>
+    <e><p><l>merkitä<s n="vblex"/></l><r>bety<s n="vblex"/></r></p></e>
     <e><p><l>merkitä<s n="vblex"/></l><r>markere<s n="vblex"/></r></p></e>
     <e><p><l>merkitä<s n="vblex"/></l><r>merke<s n="vblex"/></r></p></e>
     <e><p><l>merkitä<s n="vblex"/></l><r>merkje<s n="vblex"/></r></p></e>
@@ -2347,8 +2775,12 @@
     <e><p><l>muodostaa<s n="vblex"/></l><r>danne<s n="vblex"/></r></p></e>
     <e><p><l>muuttaa<s n="vblex"/></l><r>endre<s n="vblex"/></r></p></e>
     <e><p><l>muuttaa<s n="vblex"/></l><r>flytte<s n="vblex"/></r></p></e>
+    <e><p><l>muuttaa<s n="vblex"/></l><r>forandre<s n="vblex"/></r></p></e>
     <e><p><l>myydä<s n="vblex"/></l><r>selge<s n="vblex"/></r></p></e>
+    <e><p><l>mädätä<s n="vblex"/></l><r>råtne<s n="vblex"/></r></p></e>
     <e><p><l>määritellä<s n="vblex"/></l><r>definere<s n="vblex"/></r></p></e>
+    <e><p><l>määrittää<s n="vblex"/></l><r>avgjøre<s n="vblex"/></r></p></e>
+    <e><p><l>määrittää<s n="vblex"/></l><r>gjøre<g><b/>av</g><s n="vblex"/></r></p></e>
     <e><p><l>nauraa<s n="vblex"/></l><r>skratte<s n="vblex"/></r></p></e>
     <e><p><l>neuvoa<s n="vblex"/></l><r>ha<g><b/>råd<b/>til</g><s n="vblex"/></r></p></e>
     <e><p><l>nimittää<s n="vblex"/></l><r>nevne<s n="vblex"/></r></p></e>
@@ -2364,7 +2796,9 @@
     <e><p><l>näyttää<s n="vblex"/></l><r>vise<s n="vblex"/></r></p></e>
     <e><p><l>odottaa<s n="vblex"/></l><r>vente<g><b/>litt</g><s n="vblex"/></r></p></e>
     <e><p><l>odottaa<s n="vblex"/></l><r>vente<s n="vblex"/></r></p></e>
+    <e><p><l>ohjata<s n="vblex"/></l><r>kontrollere<s n="vblex"/></r></p></e>
     <e><p><l>ohjelmoida<s n="vblex"/></l><r>programere<s n="vblex"/></r></p></e>
+    <e><p><l>ohjelmoida<s n="vblex"/></l><r>programmere<s n="vblex"/></r></p></e>
     <e><p><l>oikaista<s n="vblex"/></l><r>rettferdigjere<s n="vblex"/></r></p></e>
     <e><p><l>oikeuttaa<s n="vblex"/></l><r>rettferdiggjere<s n="vblex"/></r></p></e>
     <e><p><l>olla<s n="vaux"/></l><r>finnast<s n="vblex"/></r></p></e>
@@ -2381,23 +2815,30 @@
     <e><p><l>ostaa<s n="vblex"/></l><r>kjøpe<s n="vblex"/></r></p></e>
     <e><p><l>ottaa<s n="vblex"/></l><r>ta<g><b/>ut</g><s n="vblex"/></r></p></e>
     <e><p><l>ottaa<s n="vblex"/></l><r>ta<s n="vblex"/></r></p></e>
+    <e><p><l>paeta<s n="vblex"/></l><r>løpe<g><b/>fra</g><s n="vblex"/></r></p></e>
+    <e><p><l>paeta<s n="vblex"/></l><r>rømme<s n="vblex"/></r></p></e>
     <e><p><l>paeta<s n="vblex"/></l><r>stikke<g><b/>av</g><s n="vblex"/></r></p></e>
     <e><p><l>painaa<s n="vblex"/></l><r>veie<s n="vblex"/></r></p></e>
     <e><p><l>paistaa<s n="vblex"/></l><r>steike<s n="vblex"/></r></p></e>
     <e><p><l>pakata<s n="vblex"/></l><r>innpakke<s n="vblex"/></r></p></e>
     <e><p><l>pakottaa<s n="vblex"/></l><r>tvinge<s n="vblex"/></r></p></e>
+    <e><p><l>palauttaa<s n="vblex"/></l><r>gjenopprette<s n="vblex"/></r></p></e>
     <e><p><l>paljastaa<s n="vblex"/></l><r>avsløre<s n="vblex"/></r></p></e>
     <e><p><l>paljastaa<s n="vblex"/></l><r>avsløre<s n="vblex"/></r></p></e>
     <e><p><l>paljastaa<s n="vblex"/></l><r>åpenbare<s n="vblex"/></r></p></e>
     <e><p><l>paljastua<s n="vblex"/></l><r>avdekke<s n="vblex"/></r></p></e>
     <e><p><l>parantaa<s n="vblex"/></l><r>forbedre<s n="vblex"/></r></p></e>
+    <e><p><l>parantaa<s n="vblex"/></l><r>helbrede<s n="vblex"/></r></p></e>
+    <e><p><l>parantaa<s n="vblex"/></l><r>hele<s n="vblex"/></r></p></e>
     <e><p><l>pelastaa<s n="vblex"/></l><r>redde<s n="vblex"/></r></p></e>
     <e><p><l>perua<s n="vblex"/></l><r>avbryte<s n="vblex"/></r></p></e>
+    <e><p><l>pidentää<s n="vblex"/></l><r>forlenge<s n="vblex"/></r></p></e>
     <e><p><l>pidättäytyä<s n="vblex"/></l><r>halde<g><b/>fram<b/>med</g><s n="vblex"/></r></p></e>
     <e><p><l>pidättäytyä<s n="vblex"/></l><r>halde<g><b/>fram<b/>med</g><s n="vblex"/></r></p></e>
     <e><p><l>pidättää<s n="vblex"/></l><r>arrestere<s n="vblex"/></r></p></e>
     <e><p><l>pidättää<s n="vblex"/></l><r>pågripe<s n="vblex"/></r></p></e>
     <e><p><l>pieniä<s n="vblex"/></l><r>kutte<s n="vblex"/></r></p></e>
+    <e><p><l>piilottaa<s n="vblex"/></l><r>gjemme<s n="vblex"/></r></p></e>
     <e><p><l>piiloutua<s n="vblex"/></l><r>gjemme<g><b/>seg</g><s n="vblex"/></r></p></e>
     <e><p><l>pistää<s n="vblex"/></l><r>stikke<s n="vblex"/></r></p></e>
     <e><p><l>pistää<s n="vblex"/></l><r>stikke<s n="vblex"/></r></p></e>
@@ -2405,7 +2846,10 @@
     <e><p><l>pitää<s n="vblex"/></l><r>holde<s n="vblex"/></r></p></e>
     <e><p><l>pohjata<s n="vblex"/></l><r>basere<s n="vblex"/></r></p></e>
     <e><p><l>pohtia<s n="vblex"/></l><r>lure<s n="vblex"/></r></p></e>
+    <e><p><l>poimia<s n="vblex"/></l><r>plukke<s n="vblex"/></r></p></e>
+    <e><p><l>poisoppia<s n="vblex"/></l><r>avlære<s n="vblex"/></r></p></e>
     <e><p><l>poistaa<s n="vblex"/></l><r>fjerne<s n="vblex"/></r></p></e>
+    <e><p><l>poistaa<s n="vblex"/></l><r>slette<s n="vblex"/></r></p></e>
     <e><p><l>poistaa<s n="vblex"/></l><r>utestenge<s n="vblex"/></r></p></e>
     <e><p><l>protestoida<s n="vblex"/></l><r>protestere<s n="vblex"/></r></p></e>
     <e><p><l>pudota<s n="vblex"/></l><r>falle<g><b/>bort</g><s n="vblex"/></r></p></e>
@@ -2413,10 +2857,12 @@
     <e><p><l>puhaltaa<s n="vblex"/></l><r>blåse<s n="vblex"/></r></p></e>
     <e><p><l>puhua<s n="vblex"/></l><r>snakke<s n="vblex"/></r></p></e>
     <e><p><l>pukea<s n="vblex"/></l><r>kle<s n="vblex"/></r></p></e>
+    <e><p><l>puukottaa<s n="vblex"/></l><r>knive<s n="vblex"/></r></p></e>
     <e><p><l>pystyä<s n="vblex"/></l><r>kunne<s n="vblex"/></r></p></e>
     <e><p><l>pyytää<s n="vblex"/></l><r>be<s n="vblex"/></r></p></e>
     <e><p><l>pyörittää<s n="vblex"/></l><r>spinne<s n="vblex"/></r></p></e>
     <e><p><l>päihittää<s n="vblex"/></l><r>overvinne<s n="vblex"/></r></p></e>
+    <e><p><l>päivittää<s n="vblex"/></l><r>oppgradere<s n="vblex"/></r></p></e>
     <e><p><l>päättää<s n="vblex"/></l><r>beslutte<s n="vblex"/></r></p></e>
     <e><p><l>päättää<s n="vblex"/></l><r>bestemme<g><b/>seg<b/>for</g><s n="vblex"/></r></p></e>
     <e><p><l>päättää<s n="vblex"/></l><r>bestemme<g><b/>seg</g><s n="vblex"/></r></p></e>
@@ -2424,6 +2870,9 @@
     <e><p><l>päätyä<s n="vblex"/></l><r>havne<s n="vblex"/></r></p></e>
     <e><p><l>päätyä<s n="vblex"/></l><r>resultere<s n="vblex"/></r></p></e>
     <e><p><l>rakastua<s n="vblex"/></l><r>forelske<s n="vblex"/></r></p></e>
+    <e><p><l>rakentaa<s n="vblex"/></l><r>bygge<g><b/>opp</g><s n="vblex"/></r></p></e>
+    <e><p><l>rakentaa<s n="vblex"/></l><r>bygge<s n="vblex"/></r></p></e>
+    <e><p><l>remiksata<s n="vblex"/></l><r>remikse<s n="vblex"/></r></p></e>
     <e><p><l>repiä<s n="vblex"/></l><r>rive<s n="vblex"/></r></p></e>
     <e><p><l>riiata<s n="vblex"/></l><r>beile<s n="vblex"/></r></p></e>
     <e><p><l>riidellä<s n="vblex"/></l><r>krangle<s n="vblex"/></r></p></e>
@@ -2432,6 +2881,7 @@
     <e><p><l>rohkaista<s n="vblex"/></l><r>oppfordre<s n="vblex"/></r></p></e>
     <e><p><l>rohkaista<s n="vblex"/></l><r>oppmuntre<s n="vblex"/></r></p></e>
     <e><p><l>ryhtyä<s n="vblex"/></l><r>begynne<g><b/>å<b/>gå</g><s n="vblex"/></r></p></e>
+    <e><p><l>räjäyttää<s n="vblex"/></l><r>sprenge<s n="vblex"/></r></p></e>
     <e><p><l>saada<s n="vblex"/></l><r>få<s n="vblex"/></r></p></e>
     <e><p><l>saapua<s n="vblex"/></l><r>komme<g><b/>inn</g><s n="vblex"/></r></p></e>
     <e><p><l>saapua<s n="vblex"/></l><r>komme<g><b/>til</g><s n="vblex"/></r></p></e>
@@ -2441,6 +2891,7 @@
     <e><p><l>sallia<s n="vblex"/></l><r>late<s n="vblex"/></r></p></e>
     <e><p><l>sallia<s n="vblex"/></l><r>tillate<s n="vblex"/></r></p></e>
     <e><p><l>sanoa<s n="vblex"/></l><r>si<s n="vblex"/></r></p></e>
+    <e><p><l>seilata<s n="vblex"/></l><r>seile<s n="vblex"/></r></p></e>
     <e><p><l>seisoa<s n="vblex"/></l><r>stå<s n="vblex"/></r></p></e>
     <e><p><l>sekaantua<s n="vblex"/></l><r>innblande<s n="vblex"/></r></p></e>
     <e><p><l>sekoittaa<s n="vblex"/></l><r>blande<s n="vblex"/></r></p></e>
@@ -2454,6 +2905,7 @@
     <e><p><l>siittää<s n="vblex"/></l><r>unnfange<s n="vblex"/></r></p></e>
     <e><p><l>siitä<s n="vblex"/></l><r>få<g><b/>barn</g><s n="vblex"/></r></p></e>
     <e><p><l>sisältää<s n="vblex"/></l><r>bestå<s n="vblex"/></r></p></e>
+    <e><p><l>sisältää<s n="vblex"/></l><r>inkludere<s n="vblex"/></r></p></e>
     <e><p><l>sisältää<s n="vblex"/></l><r>inneholde<s n="vblex"/></r></p></e>
     <e><p><l>sitoa<s n="vblex"/></l><r>knyte<g><b/>til</g><s n="vblex"/></r></p></e>
     <e><p><l>soittaa<s n="vblex"/></l><r>ringe<s n="vblex"/></r></p></e>
@@ -2462,27 +2914,35 @@
     <e><p><l>sopia<s n="vblex"/></l><r>utgjere<s n="vblex"/></r></p></e>
     <e><p><l>striimata<s n="vblex"/></l><r>strømme<s n="vblex"/></r></p></e>
     <e><p><l>stripata<s n="vblex"/></l><r>strippe<s n="vblex"/></r></p></e>
+    <e><p><l>sulkea<s n="vblex"/></l><r>stenge<s n="vblex"/></r></p></e>
+    <e><p><l>suorittaa<s n="vblex"/></l><r>fullføre<s n="vblex"/></r></p></e>
     <e><p><l>suorittaa<s n="vblex"/></l><r>utføre<s n="vblex"/></r></p></e>
     <e><p><l>suunnitella<s n="vblex"/></l><r>designe<s n="vblex"/></r></p></e>
     <e><p><l>suunnitella<s n="vblex"/></l><r>planlegge<s n="vblex"/></r></p></e>
     <e><p><l>synnyttää<s n="vblex"/></l><r>føde<s n="vblex"/></r></p></e>
     <e><p><l>syödä<s n="vblex"/></l><r>spise<s n="vblex"/></r></p></e>
     <e><p><l>säilyttää<s n="vblex"/></l><r>lagre<s n="vblex"/></r></p></e>
+    <e><p><l>säveltää<s n="vblex"/></l><r>komponere<s n="vblex"/></r></p></e>
     <e><p><l>taipua<s n="vblex"/></l><r>bøyes<s n="vblex"/></r></p></e>
     <e><p><l>tapahtua<s n="vblex"/></l><r>foregå<s n="vblex"/></r></p></e>
     <e><p><l>tapahtua<s n="vblex"/></l><r>skje<s n="vblex"/></r></p></e>
+    <e><p><l>tapahtua<s n="vblex"/></l><r>utspille<s n="vblex"/></r></p></e>
     <e><p><l>tapailla<s n="vblex"/></l><r>gå<g><b/>ut</g><s n="vblex"/></r></p></e>
+    <e><p><l>tappaa<s n="vblex"/></l><r>drepe<s n="vblex"/></r></p></e>
     <e><p><l>tarjoilla<s n="vblex"/></l><r>servere<s n="vblex"/></r></p></e>
     <e><p><l>tarjota<s n="vblex"/></l><r>tilby<s n="vblex"/></r></p></e>
     <e><p><l>tarkastaa<s n="vblex"/></l><r>sjekke<s n="vblex"/></r></p></e>
     <e><p><l>tarkoittaa<s n="vblex"/></l><r>mene<s n="vblex"/></r></p></e>
     <e><p><l>tarvita<s n="vblex"/></l><r>trenge<s n="vblex"/></r></p></e>
+    <e><p><l>tasapainottaa<s n="vblex"/></l><r>oppveie<s n="vblex"/></r></p></e>
     <e><p><l>tavata<s n="vblex"/></l><r>møte<s n="vblex"/></r></p></e>
     <e><p><l>tehdä<s n="vblex"/></l><r>gjøre<s n="vblex"/></r></p></e>
+    <e><p><l>tervehtiä<s n="vblex"/></l><r>helse<s n="vblex"/></r></p></e>
     <e><p><l>tienata<s n="vblex"/></l><r>tene<s n="vblex"/></r></p></e>
     <e><p><l>tienata<s n="vblex"/></l><r>tjene<s n="vblex"/></r></p></e>
     <e><p><l>tietää<s n="vblex"/></l><r>vite<s n="vblex"/></r></p></e>
     <e><p><l>tiivistää<s n="vblex"/></l><r>hardstampe<s n="vblex"/></r></p></e>
+    <e><p><l>todistaa<s n="vblex"/></l><r>bevise<s n="vblex"/></r></p></e>
     <e><p><l>toimia<s n="vblex"/></l><r>fungere<s n="vblex"/></r></p></e>
     <e><p><l>toimia<s n="vblex"/></l><r>funke<s n="vblex"/></r></p></e>
     <e><p><l>toimittaa<s n="vblex"/></l><r>levere<s n="vblex"/></r></p></e>
@@ -2497,31 +2957,43 @@
     <e><p><l>tulla<s n="vblex"/></l><r>komme<s n="vblex"/></r></p></e>
     <e><p><l>tuntea<s n="vblex"/></l><r>føle<s n="vblex"/></r></p></e>
     <e><p><l>tuntea<s n="vblex"/></l><r>kjenne<s n="vblex"/></r></p></e>
+    <e><p><l>tuoda<s n="vblex"/></l><r>bringe<s n="vblex"/></r></p></e>
     <e><p><l>tuomita<s n="vblex"/></l><r>sikte<s n="vblex"/></r></p></e>
     <e><p><l>tuomita<s n="vblex"/></l><r>sikte<s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>etablere<s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>etablere<s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>produsere<s n="vblex"/></r></p></e>
     <e><p><l>tuottaa<s n="vblex"/></l><r>tilføre<s n="vblex"/></r></p></e>
+    <e><p><l>tuplata<s n="vblex"/></l><r>fordoble<s n="vblex"/></r></p></e>
     <e><p><l>tutkia<s n="vblex"/></l><r>etterforske<s n="vblex"/></r></p></e>
+    <e><p><l>tutkia<s n="vblex"/></l><r>utforske<s n="vblex"/></r></p></e>
     <e><p><l>tykätä<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
     <e><p><l>työllistää<s n="vblex"/></l><r>ansette<s n="vblex"/></r></p></e>
     <e><p><l>työskennellä<s n="vblex"/></l><r>jobbe<s n="vblex"/></r></p></e>
+    <e><p><l>täsmätä<s n="vblex"/></l><r>samsvare<s n="vblex"/></r></p></e>
     <e><p><l>täyttää<s n="vblex"/></l><r>fylle<s n="vblex"/></r></p></e>
     <e><p><l>täyttää<s n="vblex"/></l><r>oppfylle<s n="vblex"/></r></p></e>
     <e><p><l>täytyä<s n="vblex"/></l><r>måtte<s n="vblex"/></r></p></e>
     <e><p><l>törmätä<s n="vblex"/></l><r>krasje<s n="vblex"/></r></p></e>
+    <e><p><l>upota<s n="vblex"/></l><r>synke<s n="vblex"/></r></p></e>
     <e><p><l>uskoa<s n="vblex"/></l><r>tro<s n="vblex"/></r></p></e>
+    <e><p><l>uudelleenkirjoittaa<s n="vblex"/></l><r>omskrive<s n="vblex"/></r></p></e>
+    <e><p><l>uudelleenohjata<s n="vblex"/></l><r>omdirigere<s n="vblex"/></r></p></e>
     <e><p><l>vaatia<s n="vblex"/></l><r>kreve<s n="vblex"/></r></p></e>
+    <e><p><l>vaeltaa<s n="vblex"/></l><r>vandre<s n="vblex"/></r></p></e>
     <e><p><l>vahingoittaa<s n="vblex"/></l><r>skade<s n="vblex"/></r></p></e>
     <e><p><l>vahvistaa<s n="vblex"/></l><r>bekrefte<s n="vblex"/></r></p></e>
+    <e><p><l>vaihtaa<s n="vblex"/></l><r>bytte<g><b/>om</g><s n="vblex"/></r></p></e>
+    <e><p><l>vaihtaa<s n="vblex"/></l><r>forandre<s n="vblex"/></r></p></e>
     <e><p><l>vaikuttaa<s n="vblex"/></l><r>bidra<s n="vblex"/></r></p></e>
     <e><p><l>vaikuttaa<s n="vblex"/></l><r>gjelde<s n="vblex"/></r></p></e>
+    <e><p><l>vaikuttaa<s n="vblex"/></l><r>påvirke<s n="vblex"/></r></p></e>
     <e><p><l>valaista<s n="vblex"/></l><r>lyse<s n="vblex"/></r></p></e>
     <e><p><l>valaista<s n="vblex"/></l><r>opplyse<s n="vblex"/></r></p></e>
     <e><p><l>valita<s n="vblex"/></l><r>velge<s n="vblex"/></r></p></e>
     <e><p><l>vallata<s n="vblex"/></l><r>storme<s n="vblex"/></r></p></e>
     <e><p><l>vangita<s n="vblex"/></l><r>fange<s n="vblex"/></r></p></e>
+    <e><p><l>vapauttaa<s n="vblex"/></l><r>befri<s n="vblex"/></r></p></e>
     <e><p><l>vapauttaa<s n="vblex"/></l><r>fri<s n="vblex"/></r></p></e>
     <e><p><l>vapauttaa<s n="vblex"/></l><r>utløse<s n="vblex"/></r></p></e>
     <e><p><l>varastaa<s n="vblex"/></l><r>stjele<s n="vblex"/></r></p></e>
@@ -2530,6 +3002,9 @@
     <e><p><l>vastata<s n="vblex"/></l><r>ha<g><b/>ansvar<b/>for</g><s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>svare<s n="vblex"/></r></p></e>
     <e><p><l>vastata<s n="vblex"/></l><r>tilsvare<s n="vblex"/></r></p></e>
+    <e><p><l>verrata<s n="vblex"/></l><r>likne<s n="vblex"/></r></p></e>
+    <e><p><l>vetäytyä<s n="vblex"/></l><r>trekke<g><b/>seg<b/>tilbake</g><s n="vblex"/></r></p></e>
+    <e><p><l>vetää<s n="vblex"/></l><r>trekke<g><b/>fra</g><s n="vblex"/></r></p></e>
     <e><p><l>vierailla<s n="vblex"/></l><r>besøke<s n="vblex"/></r></p></e>
     <e><p><l>viettää<s n="vblex"/></l><r>tilbringe<s n="vblex"/></r></p></e>
     <e><p><l>vihjata<s n="vblex"/></l><r>antyde<s n="vblex"/></r></p></e>
@@ -2540,15 +3015,20 @@
     <e><p><l>vähentää<s n="vblex"/></l><r>redusere<s n="vblex"/></r></p></e>
     <e><p><l>väittää<s n="vblex"/></l><r>hevde<s n="vblex"/></r></p></e>
     <e><p><l>välttää<s n="vblex"/></l><r>unngå<s n="vblex"/></r></p></e>
+    <e><p><l>välähtää<s n="vblex"/></l><r>flare<s n="vblex"/></r></p></e>
     <e><p><l>värjätä<s n="vblex"/></l><r>farge<s n="vblex"/></r></p></e>
     <e><p><l>yhdessäolla<s n="vblex"/></l><r>være<g><b/>sammen</g><s n="vblex"/></r></p></e>
     <e><p><l>yhteisasua<s n="vblex"/></l><r>bo<g><b/>sammen</g><s n="vblex"/></r></p></e>
     <e><p><l>yhteistyöskennellä<s n="vblex"/></l><r>samarbeide<s n="vblex"/></r></p></e>
+    <e><p><l>ylittää<s n="vblex"/></l><r>gå<g><b/>over</g><s n="vblex"/></r></p></e>
+    <e><p><l>ylittää<s n="vblex"/></l><r>krysse<s n="vblex"/></r></p></e>
     <e><p><l>ylpeillä<s n="vblex"/></l><r>være<g><b/>stolt</g><s n="vblex"/></r></p></e>
     <e><p><l>yltää<s n="vblex"/></l><r>nå<s n="vblex"/></r></p></e>
     <e><p><l>yrittää<s n="vblex"/></l><r>forsøke<s n="vblex"/></r></p></e>
     <e><p><l>yrittää<s n="vblex"/></l><r>prøve<g><b/>å<b/>få</g><s n="vblex"/></r></p></e>
     <e><p><l>ystävystyä<s n="vblex"/></l><r>venne<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>hankkia<s n="vblex"/></l><r>få<g><b/>tak<b/>i</g><s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>pilkkoa<s n="vblex"/></l><r>økse<s n="vblex"/></r></p></e>
 
 
     <e r="RL" c="Nor more specific"><p><l>keittää<s n="vblex"/></l><r>koke<g><b/>inn</g><s n="vblex"/></r></p></e>
@@ -2593,6 +3073,7 @@
     <!-- {{{ adjectives -->
 
     <e c="homo"><p><l>vino<s n="adj"/></l><r>skeiv<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>aggressiivinen<s n="adj"/></l><r>aggressiv<s n="adj"/></r></p></e>
     <e><p><l>aiempi<s n="adj"/></l><r>tidligere<s n="adj"/></r></p></e>
     <e><p><l>aikainen<s n="adj"/></l><r>tidleg<s n="adj"/></r></p></e>
     <e><p><l>aikainen<s n="adj"/></l><r>tidlig<s n="adj"/></r></p></e>
@@ -2605,8 +3086,11 @@
     <e><p><l>alaston<s n="adj"/></l><r>bar<s n="adj"/></r></p></e>
     <e><p><l>alkuperäinen<s n="adj"/></l><r>opphavleg<s n="adj"/></r></p></e>
     <e><p><l>alkuperäinen<s n="adj"/></l><r>opprinnelig<s n="adj"/></r></p></e>
+    <e><p><l>alkuperäinen<s n="adj"/></l><r>stemme<s n="adj"/></r></p></e>
     <e><p><l>amerikkalainen<s n="adj"/></l><r>amerikansk<s n="adj"/></r></p></e>
     <e><p><l>aseistettu<s n="adj"/></l><r>bevæpne<s n="adj"/></r></p></e>
+    <e><p><l>asepohjainen<s n="adj"/></l><r>våpenbasert<s n="adj"/></r></p></e>
+    <e><p><l>asetettu<s n="adj"/></l><r>legge<s n="adj"/></r></p></e>
     <e><p><l>asutettu<s n="adj"/></l><r>befolket<s n="adj"/></r></p></e>
     <e><p><l>avoin<s n="adj"/></l><r>åpne<s n="adj"/></r></p></e>
     <e><p><l>bajoranilainen<s n="adj"/></l><r>bajoransk<s n="adj"/></r></p></e>
@@ -2628,13 +3112,22 @@
     <e><p><l>epätavallinen<s n="adj"/></l><r>uvanlig<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>epäturvallinen<s n="adj"/></l><r>utrygg<s n="adj"/></r></p></e>
     <e><p><l>erilainen<s n="adj"/></l><r>forskjellig<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>erillinen<s n="adj"/></l><r>separat<s n="adj"/></r></p></e>
     <e><p><l>erimielinen<s n="adj"/></l><r>uenig<s n="adj"/></r></p></e>
+    <e><p><l>erityinen<s n="adj"/></l><r>spesiell<s n="adj"/></r></p></e>
     <e><p><l>esitelty<s n="adj"/></l><r>introdusere<s n="adj"/></r></p></e>
     <e><p><l>estävä<s n="adj"/></l><r>forebyggende<s n="adj"/></r></p></e>
+    <e><p><l>eteläinen<s n="adj"/></l><r>sørleg<s n="adj"/></r></p></e>
+    <e><p><l>eteläinen<s n="adj"/></l><r>sørlig<s n="adj"/></r></p></e>
+    <e><p><l>etäinen<s n="adj"/></l><r>fjerne<s n="adj"/></r></p></e>
+    <e><p><l>etäinen<s n="adj"/></l><r>fjerntliggende<s n="adj"/></r></p></e>
     <e><p><l>fiktiivinen<s n="adj"/></l><r>fiktiv<s n="adj"/></r></p></e>
     <e><p><l>fyysinen<s n="adj"/></l><r>fysisk<s n="adj"/></r></p></e>
     <e><p><l>geografinen<s n="adj"/></l><r>geografisk<s n="adj"/></r></p></e>
+    <e><p><l>giganttinen<s n="adj"/></l><r>gigantisk<s n="adj"/></r></p></e>
+    <e><p><l>graafinen<s n="adj"/></l><r>grafisk<s n="adj"/></r></p></e>
     <e><p><l>haastava<s n="adj"/></l><r>utfordrende<s n="adj"/></r></p></e>
+    <e><p><l>halpa<s n="adj"/></l><r>billig<s n="adj"/></r></p></e>
     <e><p><l>harva<s n="adj"/></l><r>få<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hauska<s n="adj"/></l><r>morsom<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hehkuva<s n="adj"/></l><r>glødande<s n="adj"/></r></p></e>
@@ -2646,7 +3139,9 @@
     <e><p><l>homo<s n="adj"/></l><r>homofil<s n="adj"/></r></p></e>
     <e><p><l>humanistinen<s n="adj"/></l><r>humanistisk<s n="adj"/></r></p></e>
     <e><p><l>humoristinen<s n="adj"/></l><r>humoristisk<s n="adj"/></r></p></e>
+    <e><p><l>huomattava<s n="adj"/></l><r>beskjeden<s n="adj"/></r></p></e>
     <e><p><l>huomattava<s n="adj"/></l><r>særegen<s n="adj"/></r></p></e>
+    <e><p><l>huomattava<s n="adj"/></l><r>tilsynelatende<s n="adj"/></r></p></e>
     <e><p><l>huomioitu<s n="adj"/></l><r>involvere<s n="adj"/></r></p></e>
     <e><p><l>huomionarvoinen<s n="adj"/></l><r>påfallende<s n="adj"/></r></p></e>
     <e><p><l>huono<s n="adj"/></l><r>dårleg<s n="adj"/></r></p></e>
@@ -2658,8 +3153,11 @@
     <e><p><l>hyvä<s n="adj"/></l><r>god<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hyödytön<s n="adj"/></l><r>nytteløs<s n="adj"/></r></p></e>
     <e><p><l>hävettävä<s n="adj"/></l><r>pinlig<s n="adj"/></r></p></e>
+    <e><p><l>identtinen<s n="adj"/></l><r>identisk<s n="adj"/></r></p></e>
     <e><p><l>iloinen<s n="adj"/></l><r>glad<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>immuuni<s n="adj"/></l><r>immune<s n="adj"/></r></p></e>
+    <e><p><l>iranilais-amerikkalainen<s n="adj"/></l><r>iransk-amerikansk<s n="adj"/></r></p></e>
+    <e><p><l>iranilaisamerikkalainen<s n="adj"/></l><r>irans-kamerikansk<s n="adj"/></r></p></e>
     <e><p><l>iso<s n="adj"/></l><r>stor<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>itsenäinen<s n="adj"/></l><r>selvstendig<s n="adj"/></r></p></e>
     <e><p><l>jaettu<s n="adj"/></l><r>dele<s n="adj"/></r></p></e>
@@ -2671,10 +3169,14 @@
     <e><p><l>juhlava<s n="adj"/></l><r>klubben<s n="adj"/></r></p></e>
     <e><p><l>jumalainen<s n="adj"/></l><r>gudeaktig<s n="adj"/></r></p></e>
     <e><p><l>jumalallinen<s n="adj"/></l><r>jambyrdig<s n="adj"/></r></p></e>
+    <e><p><l>juokseva<s n="adj"/></l><r>flytende<s n="adj"/></r></p></e>
     <e><p><l>juridinen<s n="adj"/></l><r>juridisk<s n="adj"/></r></p></e>
     <e><p><l>järjestelmällnen<s n="adj"/></l><r>ordentlig<s n="adj"/></r></p></e>
     <e><p><l>järkyttynyt<s n="adj"/></l><r>begeistret<s n="adj"/></r></p></e>
     <e><p><l>jäädytetty<s n="adj"/></l><r>fryse<s n="adj"/></r></p></e>
+    <e><p><l>kaksinkertainen<s n="adj"/></l><r>dobbel<s n="adj"/></r></p></e>
+    <e><p><l>kaksiulotteinen<s n="adj"/></l><r>todimensjonal<s n="adj"/></r></p></e>
+    <e><p><l>kaltainen<s n="adj"/></l><r>liknende<s n="adj"/></r></p></e>
     <e><p><l>kanadalainen<s n="adj"/></l><r>canadisk<s n="adj"/></r></p></e>
     <e><p><l>kanadalainen<s n="adj"/></l><r>kanadisk<s n="adj"/></r></p></e>
     <e><p><l>kansainvälinen<s n="adj"/></l><r>internasjonal<s n="adj"/></r></p></e>
@@ -2682,8 +3184,10 @@
     <e><p><l>karamellimainen<s n="adj"/></l><r>karamellaktig<s n="adj"/></r></p></e>
     <e><p><l>kardassialainen<s n="adj"/></l><r>kardassisk<s n="adj"/></r></p></e>
     <e><p><l>kardassianvastainen<s n="adj"/></l><r>anti-kardassiansk<s n="adj"/></r></p></e>
+    <e><p><l>kasvanut<s n="adj"/></l><r>øke<s n="adj"/></r></p></e>
     <e><p><l>kasvava<s n="adj"/></l><r>aukande<s n="adj"/></r></p></e>
     <e><p><l>kattava<s n="adj"/></l><r>omfattande<s n="adj"/></r></p></e>
+    <e><p><l>kattava<s n="adj"/></l><r>omfattende<s n="adj"/></r></p></e>
     <e><p><l>kaukainen<s n="adj"/></l><r>fjern<s n="adj"/></r></p></e>
     <e><p><l>kehittynyt<s n="adj"/></l><r>avansere<s n="adj"/></r></p></e>
     <e><p><l>kehittynyt<s n="adj"/></l><r>avansert<s n="adj"/></r></p></e>
@@ -2694,13 +3198,17 @@
     <e><p><l>keskeinen<s n="adj"/></l><r>sentral<s n="adj"/></r></p></e>
     <e><p><l>keskittynyt<s n="adj"/></l><r>konsentrere<s n="adj"/></r></p></e>
     <e><p><l>kevyt<s n="adj"/></l><r>lett<s n="adj"/></r></p></e>
+    <e><p><l>kidnapattu<s n="adj"/></l><r>kidnappe<s n="adj"/></r></p></e>
     <e><p><l>kielletty<s n="adj"/></l><r>forby<s n="adj"/></r></p></e>
     <e><p><l>kiinnostunut<s n="adj"/></l><r>interessere<s n="adj"/></r></p></e>
+    <e><p><l>kiitollinen<s n="adj"/></l><r>takknemlig<s n="adj"/></r></p></e>
     <e><p><l>kirjaimellinen<s n="adj"/></l><r>bokstavelig<s n="adj"/></r></p></e>
+    <e><p><l>kirottu<s n="adj"/></l><r>hjemsøke<s n="adj"/></r></p></e>
     <e><p><l>kokonainen<s n="adj"/></l><r>hel<s n="adj"/></r></p></e>
     <e><p><l>kolmijalkainen<s n="adj"/></l><r>treføtt<s n="adj"/></r></p></e>
     <e><p><l>kolmikerroksinen<s n="adj"/></l><r>trekledd<s n="adj"/></r></p></e>
     <e><p><l>koottu<s n="adj"/></l><r>samle<s n="adj"/></r></p></e>
+    <e><p><l>korjattu<s n="adj"/></l><r>fikse<s n="adj"/></r></p></e>
     <e><p><l>korkea<s n="adj"/></l><r>høy<s n="adj"/></r></p></e>
     <e><p><l>korvattu<s n="adj"/></l><r>erstatte<s n="adj"/></r></p></e>
     <e><p><l>kova<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
@@ -2719,11 +3227,14 @@
     <e><p><l>käytetty<s n="adj"/></l><r>benytte<s n="adj"/></r></p></e>
     <e><p><l>käytetty<s n="adj"/></l><r>bruke<s n="adj"/></r></p></e>
     <e><p><l>käytetty<s n="adj"/></l><r>brukt<s n="adj"/></r></p></e>
+    <e><p><l>käytetty<s n="adj"/></l><r>utnytte<s n="adj"/></r></p></e>
     <e><p><l>käännetty<s n="adj"/></l><r>oversette<s n="adj"/></r></p></e>
     <e><p><l>ladattu<s n="adj"/></l><r>nedlastet<s n="adj"/></r></p></e>
+    <e><p><l>laho<s n="adj"/></l><r>forfallen<s n="adj"/></r></p></e>
     <e><p><l>laiton<s n="adj"/></l><r>ulovleg<s n="adj"/></r></p></e>
     <e><p><l>lanseerattu<s n="adj"/></l><r>lansere<s n="adj"/></r></p></e>
     <e><p><l>legendaarinen<s n="adj"/></l><r>legendarisk<s n="adj"/></r></p></e>
+    <e><p><l>leijuva<s n="adj"/></l><r>sveve<s n="adj"/></r></p></e>
     <e><p><l>lesbo<s n="adj"/></l><r>lesbisk<s n="adj"/></r></p></e>
     <e><p><l>leveä<s n="adj"/></l><r>vid<s n="adj"/></r></p></e>
     <e><p><l>levitettävä<s n="adj"/></l><r>smørbar<s n="adj"/></r></p></e>
@@ -2732,9 +3243,11 @@
     <e><p><l>lopetettu<s n="adj"/></l><r>legge<g><b/>ned</g><s n="adj"/></r></p></e>
     <e><p><l>lopullinen<s n="adj"/></l><r>avslutte<s n="adj"/></r></p></e>
     <e><p><l>lopullinen<s n="adj"/></l><r>slutt<s n="adj"/></r></p></e>
+    <e><p><l>luokiteltu<s n="adj"/></l><r>klassifisere<s n="adj"/></r></p></e>
     <e><p><l>luotu<s n="adj"/></l><r>skape<s n="adj"/></r></p></e>
     <e><p><l>lyhennetty<s n="adj"/></l><r>forkorte<s n="adj"/></r></p></e>
     <e><p><l>lyhyt<s n="adj"/></l><r>kort<s n="adj"/></r></p></e>
+    <e><p><l>lyöty<s n="adj"/></l><r>slått<s n="adj"/></r></p></e>
     <e><p><l>läheinen<s n="adj"/></l><r>nær<s n="adj"/></r></p></e>
     <e><p><l>lähetetty<s n="adj"/></l><r>sende<s n="adj"/></r></p></e>
     <e><p><l>lämmin<s n="adj"/></l><r>varm<s n="adj"/><s n="sint"/></r></p></e>
@@ -2744,12 +3257,14 @@
     <e><p><l>löydetty<s n="adj"/></l><r>finne<s n="adj"/></r></p></e>
     <e><p><l>löysä<s n="adj"/></l><r>løs<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>löysä<s n="adj"/></l><r>løyse<s n="adj"/></r></p></e>
+    <e><p><l>maaginen<s n="adj"/></l><r>magisk<s n="adj"/></r></p></e>
     <e><p><l>mahdollinen<s n="adj"/></l><r>eventuell<s n="adj"/></r></p></e>
     <e><p><l>makea<s n="adj"/></l><r>søt<s n="adj"/></r></p></e>
     <e><p><l>matala<s n="adj"/></l><r>lav<s n="adj"/></r></p></e>
     <e><p><l>matala<s n="adj"/></l><r>låg<s n="adj"/></r></p></e>
     <e><p><l>mekaaninen<s n="adj"/></l><r>mekanisk<s n="adj"/></r></p></e>
     <e><p><l>menevä<s n="adj"/></l><r>gående<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>meripohjainen<s n="adj"/></l><r>sjøbasert<s n="adj"/></r></p></e>
     <e><p><l>merkillinen<s n="adj"/></l><r>merkeleg<s n="adj"/></r></p></e>
     <e><p><l>merkillinen<s n="adj"/></l><r>merkeleg<s n="adj"/></r></p></e>
     <e><p><l>miespuolinen<s n="adj"/></l><r>mannleg<s n="adj"/></r></p></e>
@@ -2759,10 +3274,13 @@
     <e><p><l>moraalinen<s n="adj"/></l><r>moralsk<s n="adj"/></r></p></e>
     <e><p><l>mukaanluettu<s n="adj"/></l><r>inkludere<s n="adj"/></r></p></e>
     <e><p><l>murskattu<s n="adj"/></l><r>knuse<s n="adj"/></r></p></e>
+    <e><p><l>musta<s n="adj"/></l><r>sort<s n="adj"/></r></p></e>
     <e><p><l>musta<s n="adj"/></l><r>svart<s n="adj"/></r></p></e>
     <e><p><l>mustasukkainen<s n="adj"/></l><r>sjalu<s n="adj"/></r></p></e>
     <e><p><l>muutettu<s n="adj"/></l><r>forandre<s n="adj"/></r></p></e>
     <e><p><l>myydyin<s n="adj"/></l><r>mestselgende<s n="adj"/></r></p></e>
+    <e><p><l>myyty<s n="adj"/></l><r>selge<s n="adj"/></r></p></e>
+    <e><p><l>myöhempi<s n="adj"/></l><r>senere<s n="adj"/></r></p></e>
     <e><p><l>myöhä<s n="adj"/></l><r>sen<s n="adj"/></r></p></e>
     <e><p><l>määräinen<s n="adj"/></l><r>bestemt<s n="adj"/></r></p></e>
     <e><p><l>negatiivinen<s n="adj"/></l><r>negativ<s n="adj"/></r></p></e>
@@ -2773,8 +3291,10 @@
     <e><p><l>norjalainen<s n="adj"/></l><r>norsk<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>normaali<s n="adj"/></l><r>normal<s n="adj"/></r></p></e>
     <e><p><l>nouseva<s n="adj"/></l><r>stigende<s n="adj"/></r></p></e>
+    <e><p><l>numeerinen<s n="adj"/></l><r>numerisk<s n="adj"/></r></p></e>
     <e><p><l>nuori<s n="adj"/></l><r>ung<s n="adj"/></r></p></e>
     <e><p><l>nuori<s n="adj"/></l><r>yngre<s n="adj"/></r></p></e>
+    <e><p><l>näppärä<s n="adj"/></l><r>flink<s n="adj"/></r></p></e>
     <e><p><l>näytetty<s n="adj"/></l><r>vise<s n="adj"/></r></p></e>
     <e><p><l>ohjattu<s n="adj"/></l><r>styre<s n="adj"/></r></p></e>
     <e><p><l>ohjelmoitu<s n="adj"/></l><r>programere<s n="adj"/></r></p></e>
@@ -2792,18 +3312,29 @@
     <e><p><l>paistettu<s n="adj"/></l><r>steike<s n="adj"/></r></p></e>
     <e><p><l>pakotettu<s n="adj"/></l><r>tvungen<s n="adj"/></r></p></e>
     <e><p><l>paljastettu<s n="adj"/></l><r>avsløre<s n="adj"/></r></p></e>
+    <e><p><l>parannettu<s n="adj"/></l><r>forbedre<s n="adj"/></r></p></e>
+    <e><p><l>parantava<s n="adj"/></l><r>helbrede<s n="adj"/></r></p></e>
+    <e><p><l>passiivinen<s n="adj"/></l><r>passiv<s n="adj"/></r></p></e>
     <e><p><l>pehmeä<s n="adj"/></l><r>bløt<s n="adj"/></r></p></e>
     <e><p><l>pehmeä<s n="adj"/></l><r>myk<s n="adj"/></r></p></e>
     <e><p><l>pehmeä<s n="adj"/></l><r>myk<s n="adj"/></r></p></e>
+    <e><p><l>pehmeä<s n="adj"/></l><r>soft<s n="adj"/></r></p></e>
     <e><p><l>pelastettu<s n="adj"/></l><r>redde<s n="adj"/></r></p></e>
+    <e><p><l>pelottava<s n="adj"/></l><r>redd<s n="adj"/></r></p></e>
     <e><p><l>perinteinen<s n="adj"/></l><r>tradisjonell<s n="adj"/></r></p></e>
+    <e><p><l>perustava<s n="adj"/></l><r>grunnleggende<s n="adj"/></r></p></e>
     <e><p><l>pidätetty<s n="adj"/></l><r>arrestere<s n="adj"/></r></p></e>
     <e><p><l>pidätetty<s n="adj"/></l><r>pågripe<s n="adj"/></r></p></e>
     <e><p><l>pieni<s n="adj"/></l><r>liten<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>piirretty<s n="adj"/></l><r>tegne<s n="adj"/></r></p></e>
     <e><p><l>pilvinen<s n="adj"/></l><r>sky<s n="adj"/></r></p></e>
+    <e><p><l>pimeä<s n="adj"/></l><r>mørkne<s n="adj"/></r></p></e>
     <e><p><l>pimeä<s n="adj"/></l><r>mørk<s n="adj"/></r></p></e>
+    <e><p><l>pistepohjainen<s n="adj"/></l><r>poengbasert<s n="adj"/></r></p></e>
     <e><p><l>pitkä<s n="adj"/></l><r>lang<s n="adj"/></r></p></e>
     <e><p><l>pohjattu<s n="adj"/></l><r>basere<s n="adj"/></r></p></e>
+    <e><p><l>pohjoisamerikkalainen<s n="adj"/></l><r>nordamerikansk<s n="adj"/></r></p></e>
+    <e><p><l>poikkeava<s n="adj"/></l><r>unntatt<s n="adj"/></r></p></e>
     <e><p><l>poissaoleva<s n="adj"/></l><r>utsette<s n="adj"/></r></p></e>
     <e><p><l>poistettu<s n="adj"/></l><r>oppheve<s n="adj"/></r></p></e>
     <e><p><l>poliittinen<s n="adj"/></l><r>politisk<s n="adj"/></r></p></e>
@@ -2812,6 +3343,7 @@
     <e><p><l>psyykkinen<s n="adj"/></l><r>psykisk<s n="adj"/></r></p></e>
     <e><p><l>puettu<s n="adj"/></l><r>iføre<s n="adj"/></r></p></e>
     <e><p><l>pukeutunut<s n="adj"/></l><r>utkledd<s n="adj"/></r></p></e>
+    <e><p><l>punainen<s n="adj"/></l><r>rød<s n="adj"/></r></p></e>
     <e><p><l>puolialaston<s n="adj"/></l><r>lettkledd<s n="adj"/></r></p></e>
     <e><p><l>puolipehmeä<s n="adj"/></l><r>halvfast<s n="adj"/></r></p></e>
     <e><p><l>pyhä<s n="adj"/></l><r>hellig<s n="adj"/></r></p></e>
@@ -2820,9 +3352,12 @@
     <e><p><l>päivitetty<s n="adj"/></l><r>oppdatere<s n="adj"/></r></p></e>
     <e><p><l>päivittäinen<s n="adj"/></l><r>daglig<s n="adj"/></r></p></e>
     <e><p><l>pääsääntöinen<s n="adj"/></l><r>hovedsakelig<s n="adj"/></r></p></e>
+    <e><p><l>päätetty<s n="adj"/></l><r>bestemme<s n="adj"/></r></p></e>
+    <e><p><l>rajoitettu<s n="adj"/></l><r>begrense<s n="adj"/></r></p></e>
     <e><p><l>rakas<s n="adj"/></l><r>kjær<s n="adj"/></r></p></e>
     <e><p><l>rakastunut<s n="adj"/></l><r>forelske<s n="adj"/></r></p></e>
     <e><p><l>rakennettu<s n="adj"/></l><r>konstruere<s n="adj"/></r></p></e>
+    <e><p><l>raskas<s n="adj"/></l><r>tung<s n="adj"/></r></p></e>
     <e><p><l>rauhaarakastava<s n="adj"/></l><r>fridomselskande<s n="adj"/></r></p></e>
     <e><p><l>rauhallinen<s n="adj"/></l><r>fredeleg<s n="adj"/></r></p></e>
     <e><p><l>rauhallinen<s n="adj"/></l><r>fredeleg<s n="adj"/></r></p></e>
@@ -2842,12 +3377,15 @@
     <e><p><l>sairas<s n="adj"/></l><r>syk<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>sallittu<s n="adj"/></l><r>tillate<s n="adj"/></r></p></e>
     <e><p><l>samanlainen<s n="adj"/></l><r>liknande<s n="adj"/></r></p></e>
+    <e><p><l>samanlainen<s n="adj"/></l><r>lik<s n="adj"/></r></p></e>
     <e><p><l>sanottu<s n="adj"/></l><r>tale<s n="adj"/></r></p></e>
+    <e><p><l>satunnainen<s n="adj"/></l><r>tilfeldig<s n="adj"/></r></p></e>
     <e><p><l>seksuaalinen<s n="adj"/></l><r>seksuell<s n="adj"/></r></p></e>
     <e><p><l>selvittämätön<s n="adj"/></l><r>uavklart<s n="adj"/></r></p></e>
     <e><p><l>selvä<s n="adj"/></l><r>klar<s n="adj"/></r></p></e>
     <e><p><l>seuraava<s n="adj"/></l><r>etterfølge<s n="adj"/></r></p></e>
     <e><p><l>seuraava<s n="adj"/></l><r>følgende<s n="adj"/></r></p></e>
+    <e><p><l>sisäinen<s n="adj"/></l><r>inntagende<s n="adj"/></r></p></e>
     <e><p><l>sisäinen<s n="adj"/></l><r>innvendig<s n="adj"/></r></p></e>
     <e><p><l>sisäänkeitetty<s n="adj"/></l><r>innkokt<s n="adj"/></r></p></e>
     <e><p><l>skeptinen<s n="adj"/></l><r>skeptisk<s n="adj"/></r></p></e>
@@ -2855,23 +3393,34 @@
     <e><p><l>sopiva<s n="adj"/></l><r>passende<s n="adj"/></r></p></e>
     <e><p><l>sosiaalinen<s n="adj"/></l><r>sosial<s n="adj"/></r></p></e>
     <e><p><l>steriili<s n="adj"/></l><r>steril<s n="adj"/></r></p></e>
+    <e><p><l>suhteellinen<s n="adj"/></l><r>relativ<s n="adj"/></r></p></e>
     <e><p><l>sulava<s n="adj"/></l><r>smelle<s n="adj"/></r></p></e>
     <e><p><l>suosittu<s n="adj"/></l><r>populær<s n="adj"/></r></p></e>
+    <e><p><l>suunniteltu<s n="adj"/></l><r>designe<s n="adj"/></r></p></e>
     <e><p><l>suunniteltu<s n="adj"/></l><r>planlegge<s n="adj"/></r></p></e>
     <e><p><l>suunniteltu<s n="adj"/></l><r>planlegge<s n="adj"/></r></p></e>
     <e><p><l>suurin<s n="adj"/></l><r>maks<s n="adj"/></r></p></e>
+    <e><p><l>syvä<s n="adj"/></l><r>dyp<s n="adj"/></r></p></e>
     <e><p><l>syytetty<s n="adj"/></l><r>sikte<s n="adj"/></r></p></e>
     <e><p><l>sähköinen<s n="adj"/></l><r>elektrisk<s n="adj"/></r></p></e>
     <e><p><l>sähköinen<s n="adj"/></l><r>elektronisk<s n="adj"/></r></p></e>
+    <e><p><l>sävelletty<s n="adj"/></l><r>komponere<s n="adj"/></r></p></e>
     <e><p><l>tanskalainen<s n="adj"/></l><r>dansk<s n="adj"/></r></p></e>
+    <e><p><l>tapettu<s n="adj"/></l><r>drepe<s n="adj"/></r></p></e>
+    <e><p><l>tarkoituksellinen<s n="adj"/></l><r>mene<s n="adj"/></r></p></e>
     <e><p><l>tarpeellinen<s n="adj"/></l><r>nødvendig<s n="adj"/></r></p></e>
     <e><p><l>tasa-arvoinen<s n="adj"/></l><r>likestilt<s n="adj"/></r></p></e>
+    <e><p><l>tasopohjainen<s n="adj"/></l><r>nivåbasert<s n="adj"/></r></p></e>
     <e><p><l>tavallinen<s n="adj"/></l><r>vanleg<s n="adj"/></r></p></e>
     <e><p><l>tavallinen<s n="adj"/></l><r>vanlig<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>tehokas<s n="adj"/></l><r>effektiv<s n="adj"/></r></p></e>
+    <e><p><l>tehoton<s n="adj"/></l><r>virkningsløs<s n="adj"/></r></p></e>
+    <e><p><l>tehty<s n="adj"/></l><r>gjøre<s n="adj"/></r></p></e>
     <e><p><l>teini-ikäinen<s n="adj"/></l><r>tenårig<s n="adj"/></r></p></e>
+    <e><p><l>tekninen<s n="adj"/></l><r>teknisk<s n="adj"/></r></p></e>
     <e><p><l>teknologinen<s n="adj"/></l><r>teknologisk<s n="adj"/></r></p></e>
     <e><p><l>terävä<s n="adj"/></l><r>skarp<s n="adj"/></r></p></e>
+    <e><p><l>tietty<s n="adj"/></l><r>viss<s n="adj"/></r></p></e>
     <e><p><l>tilava<s n="adj"/></l><r>volumiøs<s n="adj"/></r></p></e>
     <e><p><l>todellinen<s n="adj"/></l><r>egentlig<s n="adj"/></r></p></e>
     <e><p><l>todellinen<s n="adj"/></l><r>virkelig<s n="adj"/></r></p></e>
@@ -2879,8 +3428,10 @@
     <e><p><l>toimitettu<s n="adj"/></l><r>transportere<s n="adj"/></r></p></e>
     <e><p><l>toinen<s n="adj"/></l><r>annan<s n="adj"/></r></p></e>
     <e><p><l>toisenlainen<s n="adj"/></l><r>ulik<s n="adj"/></r></p></e>
+    <e><p><l>toistuva<s n="adj"/></l><r>tilbakevendende<s n="adj"/></r></p></e>
     <e><p><l>tuhma<s n="adj"/></l><r>skitten<s n="adj"/></r></p></e>
     <e><p><l>tuhottu<s n="adj"/></l><r>rive<s n="adj"/></r></p></e>
+    <e><p><l>tuhottu<s n="adj"/></l><r>ødelagt<s n="adj"/></r></p></e>
     <e><p><l>tuleva<s n="adj"/></l><r>forestående<s n="adj"/></r></p></e>
     <e><p><l>tuleva<s n="adj"/></l><r>fremtidig<s n="adj"/></r></p></e>
     <e><p><l>tuleva<s n="adj"/></l><r>fremtidlig<s n="adj"/></r></p></e>
@@ -2896,23 +3447,35 @@
     <e><p><l>tuntematon<s n="adj"/></l><r>ukjent<s n="adj"/></r></p></e>
     <e><p><l>tuotettu<s n="adj"/></l><r>produsere<s n="adj"/></r></p></e>
     <e><p><l>tuotettu<s n="adj"/></l><r>produsere<s n="adj"/></r></p></e>
+    <e><p><l>tuotu<s n="adj"/></l><r>innføre<s n="adj"/></r></p></e>
     <e><p><l>tutkittu<s n="adj"/></l><r>undersøke<s n="adj"/></r></p></e>
     <e><p><l>tuttu<s n="adj"/></l><r>kjenne<s n="adj"/></r></p></e>
+    <e><p><l>tyypillinen<s n="adj"/></l><r>typisk<s n="adj"/></r></p></e>
     <e><p><l>tyytymätön<s n="adj"/></l><r>misfornøyd<s n="adj"/></r></p></e>
     <e><p><l>työllistetty<s n="adj"/></l><r>ansette<s n="adj"/></r></p></e>
+    <e><p><l>tänäinen<s n="adj"/></l><r>dagens<s n="adj"/></r></p></e>
     <e><p><l>tärkeä<s n="adj"/></l><r>viktig<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>täydellinen<s n="adj"/></l><r>komplett<s n="adj"/></r></p></e>
     <e><p><l>täydellinen<s n="adj"/></l><r>perfekt<s n="adj"/></r></p></e>
+    <e><p><l>täysi<s n="adj"/></l><r>hele<s n="adj"/></r></p></e>
+    <e><p><l>täysi<s n="adj"/></l><r>total<s n="adj"/></r></p></e>
+    <e><p><l>uponnut<s n="adj"/></l><r>synke<s n="adj"/></r></p></e>
     <e><p><l>usea<s n="adj"/></l><r>mange<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>uskollinen<s n="adj"/></l><r>trufast<s n="adj"/></r></p></e>
     <e><p><l>utopistinen<s n="adj"/></l><r>utopisk<s n="adj"/></r></p></e>
+    <e><p><l>uudelleenohjattu<s n="adj"/></l><r>omdirigere<s n="adj"/></r></p></e>
     <e><p><l>uusi<s n="adj"/></l><r>ny<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>uusittu<s n="adj"/></l><r>revidere<s n="adj"/></r></p></e>
     <e><p><l>vaarallinen<s n="adj"/></l><r>farleg<s n="adj"/></r></p></e>
     <e><p><l>vaarallinen<s n="adj"/></l><r>farlig<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>vaativa<s n="adj"/></l><r>krevende<s n="adj"/></r></p></e>
+    <e><p><l>vahingoittunut<s n="adj"/></l><r>skade<s n="adj"/></r></p></e>
     <e><p><l>vahva<s n="adj"/></l><r>sterk<s n="adj"/></r></p></e>
     <e><p><l>vahva<s n="adj"/></l><r>styrke<s n="adj"/></r></p></e>
+    <e><p><l>vaihdettu<s n="adj"/></l><r>bytte<s n="adj"/></r></p></e>
     <e><p><l>vaihteleva<s n="adj"/></l><r>variere<s n="adj"/></r></p></e>
+    <e><p><l>vaikea<s n="adj"/></l><r>vanskelig<s n="adj"/></r></p></e>
+    <e><p><l>vaikutusvaltainen<s n="adj"/></l><r>innflytelsesrik<s n="adj"/></r></p></e>
     <e><p><l>valittu<s n="adj"/></l><r>velje<s n="adj"/></r></p></e>
     <e><p><l>valkoinen<s n="adj"/></l><r>hvit<s n="adj"/></r></p></e>
     <e><p><l>valmis<s n="adj"/></l><r>ferdig<s n="adj"/></r></p></e>
@@ -2920,9 +3483,11 @@
     <e><p><l>vanha<s n="adj"/></l><r>gammel<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>vapaaehtoinen<s n="adj"/></l><r>frivillig<s n="adj"/></r></p></e>
     <e><p><l>vapaa<s n="adj"/></l><r>fri<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>varastoitu<s n="adj"/></l><r>lagre<s n="adj"/></r></p></e>
     <e><p><l>varattu<s n="adj"/></l><r>opptatt<s n="adj"/></r></p></e>
     <e><p><l>varma<s n="adj"/></l><r>sikker<s n="adj"/></r></p></e>
     <e><p><l>varovainen<s n="adj"/></l><r>forsiktig<s n="adj"/></r></p></e>
+    <e><p><l>varsinainen<s n="adj"/></l><r>aktuell<s n="adj"/></r></p></e>
     <e><p><l>vastavuoroinen<s n="adj"/></l><r>gjengjelde<s n="adj"/></r></p></e>
     <e><p><l>vastuullinen<s n="adj"/></l><r>ansvarlig<s n="adj"/></r></p></e>
     <e><p><l>vegaaninen<s n="adj"/></l><r>vege<s n="adj"/></r></p></e>
@@ -2938,17 +3503,24 @@
     <e><p><l>voimakas<s n="adj"/></l><r>drive<s n="adj"/></r></p></e>
     <e><p><l>voimakas<s n="adj"/></l><r>kraftig<s n="adj"/></r></p></e>
     <e><p><l>voimakas<s n="adj"/></l><r>mektig<s n="adj"/></r></p></e>
+    <e><p><l>voitettu<s n="adj"/></l><r>vunnen<s n="adj"/></r></p></e>
+    <e><p><l>vuoropohjainen<s n="adj"/></l><r>turbasert<s n="adj"/></r></p></e>
     <e><p><l>vuosittainen<s n="adj"/></l><r>årets<s n="adj"/></r></p></e>
     <e><p><l>vähäinen<s n="adj"/></l><r>litt<s n="adj"/></r></p></e>
     <e><p><l>vähän<s n="adj"/></l><r>mindre<s n="adj"/></r></p></e>
+    <e><p><l>väkivaltainen<s n="adj"/></l><r>voldsom<s n="adj"/></r></p></e>
+    <e><p><l>väliaikainen<s n="adj"/></l><r>midlertidig<s n="adj"/></r></p></e>
     <e><p><l>väärä<s n="adj"/></l><r>feil<s n="adj"/></r></p></e>
     <e><p><l>yhteenpalannut<s n="adj"/></l><r>gjenforene<s n="adj"/></r></p></e>
     <e><p><l>yhteinen<s n="adj"/></l><r>felles<s n="adj"/></r></p></e>
     <e><p><l>yksimielinen<s n="adj"/></l><r>enig<s n="adj"/></r></p></e>
+    <e><p><l>yksinkertainen<s n="adj"/></l><r>enkel<s n="adj"/></r></p></e>
     <e><p><l>yksinkertainen<s n="adj"/></l><r>enkelt<s n="adj"/></r></p></e>
     <e><p><l>yksinäinen<s n="adj"/></l><r>alene<s n="adj"/></r></p></e>
     <e><p><l>yksinäinen<s n="adj"/></l><r>alene<s n="adj"/></r></p></e>
     <e><p><l>yksinäinen<s n="adj"/></l><r>ensom<s n="adj"/></r></p></e>
+    <e><p><l>yksittäinen<s n="adj"/></l><r>individuell<s n="adj"/></r></p></e>
+    <e><p><l>yksityiskohtainen<s n="adj"/></l><r>detaljert<s n="adj"/></r></p></e>
     <e><p><l>yleinen<s n="adj"/></l><r>generell<s n="adj"/></r></p></e>
     <e><p><l>yleinen<s n="adj"/></l><r>ofte<s n="adj"/></r></p></e>
     <e><p><l>yliajettu<s n="adj"/></l><r>overkjøre<s n="adj"/></r></p></e>
@@ -3014,6 +3586,7 @@
     <e><p><l>ensin<s n="adv"/></l><r>først<s n="adv"/></r></p></e>
     <e><p><l>epäolennaisesti<s n="adv"/></l><r>omstendig<s n="adv"/></r></p></e>
     <e><p><l>epäsuorasti<s n="adv"/></l><r>indirekte<s n="adv"/></r></p></e>
+    <e><p><l>erilaisesti<s n="adv"/></l><r>forskjellig<s n="adv"/></r></p></e>
     <e><p><l>erittäin<s n="adv"/></l><r>veldig<s n="adv"/></r></p></e>
     <e><p><l>erityisesti<s n="adv"/></l><r>spesielt<s n="adv"/></r></p></e>
     <e><p><l>eteenpäin<s n="adv"/></l><r>fort<s n="adv"/></r></p></e>
@@ -3035,6 +3608,8 @@
     <e><p><l>ilmaiseksi<s n="adv"/></l><r>gratis<s n="adv"/></r></p></e>
     <e><p><l>ilman<s n="adv"/></l><r>ut<b/>frå<s n="adv"/></r></p></e>
     <e><p><l>itsestäänselvästi<s n="adv"/></l><r>selvfølgelig<s n="adv"/></r></p></e>
+    <e><p><l>itäisesti<s n="adv"/></l><r>østover<s n="adv"/></r></p></e>
+    <e><p><l>joko<s n="adv"/></l><r>enten<s n="adv"/></r></p></e>
     <e><p><l>jopa<s n="adv"/></l><r>enda<s n="adv"/></r></p></e>
     <e><p><l>jopa<s n="adv"/></l><r>til<b/>og<b/>med<s n="adv"/></r></p></e>
     <e><p><l>jopa<s n="adv"/></l><r>til<b/>og<b/>med<s n="adv"/></r></p></e>
@@ -3043,6 +3618,7 @@
     <e><p><l>joskus<s n="adv"/></l><r>nokre<b/>gonger<s n="adv"/></r></p></e>
     <e><p><l>jo<s n="adv"/></l><r>allerede<s n="adv"/></r></p></e>
     <e><p><l>jo<s n="adv"/></l><r>allerede<s n="adv"/></r></p></e>
+    <e><p><l>juuri<s n="adv"/></l><r>akkurat<s n="adv"/></r></p></e>
     <e><p><l>kahden<s n="adv"/></l><r>sammen<s n="adv"/></r></p></e>
     <e><p><l>kaikkein<s n="adv"/></l><r>aller<s n="adv"/></r></p></e>
     <e><p><l>kaikkein<s n="adv"/></l><r>mest<s n="adv"/></r></p></e>
@@ -3065,6 +3641,7 @@
     <e><p><l>kovasti<s n="adv"/></l><r>veldig<s n="adv"/></r></p></e>
     <e><p><l>kuin<s n="adv"/></l><r>som<s n="adv"/></r></p></e>
     <e><p><l>kuitenkin<s n="adv"/></l><r>derimot<s n="adv"/></r></p></e>
+    <e><p><l>kuitenkin<s n="adv"/></l><r>dog<s n="adv"/></r></p></e>
     <e><p><l>kuitenkin<s n="adv"/></l><r>likevel<s n="adv"/></r></p></e>
     <e><p><l>kännissä<s n="adv"/></l><r>full<s n="adv"/></r></p></e>
     <e><p><l>käytössä<s n="adv"/></l><r>i<b/>bruk<s n="adv"/></r></p></e>
@@ -3073,6 +3650,7 @@
     <e><p><l>lisäksi<s n="adv"/></l><r>i<b/>tillegg<s n="adv"/></r></p></e>
     <e><p><l>lisäksi<s n="adv"/></l><r>også¹<s n="adv"/></r></p></e>
     <e><p><l>lisäksi<s n="adv"/></l><r>ytterligere<s n="adv"/></r></p></e>
+    <e><p><l>lopullisesti<s n="adv"/></l><r>ender<s n="adv"/></r></p></e>
     <e><p><l>lopulta<s n="adv"/></l><r>endelig<s n="adv"/></r></p></e>
     <e><p><l>luonnollisesti<s n="adv"/></l><r>naturlig<s n="adv"/></r></p></e>
     <e><p><l>luota<s n="adv"/></l><r>av<s n="adv"/></r></p></e>
@@ -3084,6 +3662,7 @@
     <e><p><l>läpi<s n="adv"/></l><r>gjennom<s n="adv"/></r></p></e>
     <e><p><l>mahdollisesti<s n="adv"/></l><r>muligens<s n="adv"/></r></p></e>
     <e><p><l>mahdollisesti<s n="adv"/></l><r>mulig<s n="adv"/></r></p></e>
+    <e><p><l>melko<s n="adv"/></l><r>nokså<s n="adv"/></r></p></e>
     <e><p><l>menossa<s n="adv"/></l><r>i<b/>gang<s n="adv"/></r></p></e>
     <e><p><l>menossa<s n="adv"/></l><r>å<b/>veg<s n="adv"/></r></p></e>
     <e><p><l>miksi<s n="adv"/></l><r>hvorfor<s n="adv"/></r></p></e>
@@ -3092,6 +3671,7 @@
     <e><p><l>monesti<s n="adv"/></l><r>mange<s n="adv"/></r></p></e>
     <e><p><l>muuten<s n="adv"/></l><r>elles<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>etter<s n="adv"/></r></p></e>
+    <e><p><l>myöhemmin<s n="adv"/></l><r>lettere<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>seinare<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>seinare<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>senere<s n="adv"/></r></p></e>
@@ -3109,6 +3689,7 @@
     <e><p><l>osittain<s n="adv"/></l><r>delvis<s n="adv"/></r></p></e>
     <e><p><l>pahantahtoisesti<s n="adv"/></l><r>motvillig<s n="adv"/></r></p></e>
     <e><p><l>paljon<s n="adv"/></l><r>mye<s n="adv"/></r></p></e>
+    <e><p><l>paremmin<s n="adv"/></l><r>bedre<s n="adv"/></r></p></e>
     <e><p><l>perinteisesti<s n="adv"/></l><r>tradisjonelt<s n="adv"/></r></p></e>
     <e><p><l>perusteellisesti<s n="adv"/></l><r>grundig<s n="adv"/></r></p></e>
     <e><p><l>pian<s n="adv"/></l><r>kort<b/>tid<s n="adv"/></r></p></e>
@@ -3120,6 +3701,7 @@
     <e><p><l>pois<s n="adv"/></l><r>frå<s n="adv"/></r></p></e>
     <e><p><l>pois<s n="adv"/></l><r>vekk<s n="adv"/></r></p></e>
     <e><p><l>päivittäin<s n="adv"/></l><r>daglig<s n="adv"/></r></p></e>
+    <e><p><l>pääasiallisesti<s n="adv"/></l><r>hovedsakelig<s n="adv"/></r></p></e>
     <e><p><l>päällä<s n="adv"/></l><r>på<s n="adv"/></r></p></e>
     <e><p><l>raskaasti<s n="adv"/></l><r>tungt<s n="adv"/></r></p></e>
     <e><p><l>samalla<s n="adv"/></l><r>imidlertid<s n="adv"/></r></p></e>
@@ -3129,18 +3711,23 @@
     <e><p><l>samoin<s n="adv"/></l><r>slik<s n="adv"/></r></p></e>
     <e><p><l>sattumalta<s n="adv"/></l><r>tilfeldigvis<s n="adv"/></r></p></e>
     <e><p><l>selvästi<s n="adv"/></l><r>klart<s n="adv"/></r></p></e>
+    <e><p><l>seuraavaksi<s n="adv"/></l><r>nest<s n="adv"/></r></p></e>
     <e><p><l>siellä<s n="adv"/></l><r>der<s n="adv"/></r></p></e>
     <e><p><l>siis<s n="adv"/></l><r>altså<s n="adv"/></r></p></e>
     <e><p><l>siis<s n="adv"/></l><r>dermed<s n="adv"/></r></p></e>
     <e><p><l>siis<s n="adv"/></l><r>så<s n="adv"/></r></p></e>
     <e><p><l>sijaan<s n="adv"/></l><r>i<b/>staden<s n="adv"/></r></p></e>
+    <e><p><l>siksi<s n="adv"/></l><r>derav<s n="adv"/></r></p></e>
+    <e><p><l>siksi<s n="adv"/></l><r>derfor<s n="adv"/></r></p></e>
     <e><p><l>siksi<s n="adv"/></l><r>difor<s n="adv"/></r></p></e>
     <e><p><l>silloin<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
+    <e><p><l>silloin<s n="adv"/></l><r>når<s n="adv"/></r></p></e>
     <e><p><l>sinut<s n="adv"/></l><r>skuls<s n="adv"/></r></p></e>
     <e><p><l>sisällä<s n="adv"/></l><r>inne<s n="adv"/></r></p></e>
     <e><p><l>sisällä<s n="adv"/></l><r>i<s n="adv"/></r></p></e>
     <e><p><l>sittemmin<s n="adv"/></l><r>siden<s n="adv"/></r></p></e>
     <e><p><l>sitten<s n="adv"/></l><r>deretter<s n="adv"/></r></p></e>
+    <e><p><l>suhteellisesti<s n="adv"/></l><r>forholdsvis<s n="adv"/></r></p></e>
     <e><p><l>suoraan<s n="adv"/></l><r>straks<s n="adv"/></r></p></e>
     <e><p><l>suunnilleen<s n="adv"/></l><r>noenlunde<s n="adv"/></r></p></e>
     <e><p><l>suunnilleen<s n="adv"/></l><r>omtrent<s n="adv"/></r></p></e>
@@ -3149,6 +3736,9 @@
     <e><p><l>takaisin<s n="adv"/></l><r>bakover<s n="adv"/></r></p></e>
     <e><p><l>takaisin<s n="adv"/></l><r>tilbake<s n="adv"/></r></p></e>
     <e><p><l>talvempana<s n="adv"/></l><r>nærmere<b/>vinteren<s n="adv"/></r></p></e>
+    <e><p><l>tarkalleen<s n="adv"/></l><r>akkurat<s n="adv"/></r></p></e>
+    <e><p><l>tarpeeksi<s n="adv"/></l><r>nok<s n="adv"/></r></p></e>
+    <e><p><l>tasan<s n="adv"/></l><r>nivå<s n="adv"/></r></p></e>
     <e><p><l>tavallisesti<s n="adv"/></l><r>vanligvis<s n="adv"/></r></p></e>
     <e><p><l>terveellisesti<s n="adv"/></l><r>sunt<s n="adv"/></r></p></e>
     <e><p><l>todella<s n="adv"/></l><r>virkelig<s n="adv"/></r></p></e>
@@ -3157,6 +3747,7 @@
     <e><p><l>turvallisesti<s n="adv"/></l><r>trygt<s n="adv"/></r></p></e>
     <e><p><l>tänään<s n="adv"/></l><r>i<b/>dag<s n="adv"/></r></p></e>
     <e><p><l>täynnä<s n="adv"/></l><r>full<s n="adv"/></r></p></e>
+    <e><p><l>täysimittaisesti<s n="adv"/></l><r>fullstendig<s n="adv"/></r></p></e>
     <e><p><l>täysin<s n="adv"/></l><r>heile<s n="adv"/></r></p></e>
     <e><p><l>täysin<s n="adv"/></l><r>hele<s n="adv"/></r></p></e>
     <e><p><l>täysin<s n="adv"/></l><r>helt<s n="adv"/></r></p></e>
@@ -3166,11 +3757,13 @@
     <e><p><l>usein<s n="adv"/></l><r>mange<s n="adv"/></r></p></e>
     <e><p><l>usein<s n="adv"/></l><r>ofte<s n="adv"/></r></p></e>
     <e><p><l>vahvasti<s n="adv"/></l><r>sterkt<s n="adv"/></r></p></e>
+    <e><p><l>vahvasti<s n="adv"/></l><r>styrke<s n="adv"/></r></p></e>
     <e><p><l>vahvemmin<s n="adv"/></l><r>sterkere<s n="adv"/></r></p></e>
     <e><p><l>vaikka<s n="adv"/></l><r>skølve<s n="adv"/></r></p></e>
     <e><p><l>vain<s n="adv"/></l><r>bare<s n="adv"/></r></p></e>
     <e><p><l>vain<s n="adv"/></l><r>berre<s n="adv"/></r></p></e>
     <e><p><l>vain<s n="adv"/></l><r>kun<s n="adv"/></r></p></e>
+    <e><p><l>vastaavasti<s n="adv"/></l><r>henholdsvis<s n="adv"/></r></p></e>
     <e><p><l>vieläkin<s n="adv"/></l><r>framleis<s n="adv"/></r></p></e>
     <e><p><l>vielä<s n="adv"/></l><r>fremdeles<s n="adv"/></r></p></e>
     <e><p><l>viimeiseksi<s n="adv"/></l><r>sist<s n="adv"/></r></p></e>
@@ -3181,6 +3774,7 @@
     <e><p><l>vähän<s n="adv"/></l><r>litt<s n="adv"/></r></p></e>
     <e><p><l>väitetysti<s n="adv"/></l><r>etter<b/>sigende<s n="adv"/></r></p></e>
     <e><p><l>väliaikaisesti<s n="adv"/></l><r>midlertidig<s n="adv"/></r></p></e>
+    <e><p><l>välttämättä<s n="adv"/></l><r>nødvendig<s n="adv"/></r></p></e>
     <e><p><l>yhdessä<s n="adv"/></l><r>sammen<s n="adv"/></r></p></e>
     <e><p><l>yhäti<s n="adv"/></l><r>etterhvert<s n="adv"/></r></p></e>
     <e><p><l>yhäti<s n="adv"/></l><r>stadig<s n="adv"/></r></p></e>
@@ -3188,9 +3782,10 @@
     <e><p><l>ylhäällä<s n="adv"/></l><r>opp<s n="adv"/></r></p></e>
     <e><p><l>ympäriinsä<s n="adv"/></l><r>rundt<b/>omkring<s n="adv"/></r></p></e>
     <e><p><l>ympäriinsä<s n="adv"/></l><r>rundt<b/>omkring<s n="adv"/></r></p></e>
-    <e vr="nno"><p><l>jo<s n="adv"/></l><r>allereie<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>erittäin<s n="adv"/></l><r>spill<s n="adv"/></r></p></e>
 
     <e r="LR" c="story"><p><l>entä<s n="adv"/></l><r>også<s n="adv"/></r></p></e>
+    <e vr="nno"><p><l>jo<s n="adv"/></l><r>allereie<s n="adv"/></r></p></e>
     <e vr="nno"><p><l>koskaan<s n="adv"/></l><r>aldri<s n="adv"/></r></p></e>
     <e vr="nno"><p><l>luonnollisesti<s n="adv"/></l><r>naturlegvis<s n="adv"/></r></p></e>
     <e vr="nno"><p><l>lähemmäksi<s n="adv"/></l><r>nærare<s n="adv"/></r></p></e>
@@ -3217,27 +3812,38 @@
     <e><p><l>yms.<s n="adv"/><s n="abbr"/></l><r>o.l.<s n="adv"/></r></p></e>
     <e><p><l>aiemmin<s n="adv"/></l><r>tidl.<s n="n"/></r></p></e>
 
-    <e><p><l>samalla<s n="adv"/></l><r>samtidig<b/>som<s n="adv"/></r></p></e>
-    <e><p><l>kerralla<s n="adv"/></l><r>med<b/>en<b/>gang<s n="adv"/></r></p></e>
-    <e><p><l>vanhastaan<s n="adv"/></l><r>før<b/>i<b/>tiden<s n="adv"/></r></p></e>
-    <e><p><l>nähtävästi<s n="adv"/></l><r>det<b/>vil<b/>si<s n="adv"/></r></p></e>
-    <e><p><l>esimerkiksi<s n="adv"/></l><r>for<b/>eksempel<s n="adv"/></r></p></e>
-    <e><p><l>itsenäisesti<s n="adv"/></l><r>på<b/>egen<b/>hånd<s n="adv"/></r></p></e>
-    <e><p><l>paikalla<s n="adv"/></l><r>til<b/>stede<s n="adv"/></r></p></e>
-    <e><p><l>yhäti<s n="adv"/></l><r>etter<b/>hvert<s n="adv"/></r></p></e>
-    <e><p><l>kerran<s n="adv"/></l><r>til<b/>enhver<b/>tid<s n="adv"/></r></p></e>
-    <e><p><l>kerran<s n="adv"/></l><r>en<b/>gang<s n="adv"/></r></p></e>
-    <e><p><l>kahdesti<s n="adv"/></l><r>to<b/>ganger<s n="adv"/></r></p></e>
-    <e><p><l>kolmesti<s n="adv"/></l><r>for<b/>tredje<b/>gang<s n="adv"/></r></p></e>
-    <e><p><l>josko<s n="adv"/></l><r>om<b/>hvorvidt<s n="adv"/></r></p></e>
     <e><p><l>aina<s n="adv"/></l><r>hele<b/>tiden<s n="adv"/></r></p></e>
-    <e><p><l>sijalla<s n="adv"/></l><r>i<b/>stedet<s n="adv"/></r></p></e>
-    <e><p><l>lopulta<s n="adv"/></l><r>til<b/>slutt<s n="adv"/></r></p></e>
-    <e><p><l>enemmän<s n="adv"/></l><r>litt<b/>mer<s n="adv"/></r></p></e>
-    <e><p><l>sänkyyn<s n="adv"/></l><r>til<b/>sengs<s n="adv"/></r></p></e>
     <e><p><l>aluksi<s n="adv"/></l><r>i<b/>begynnelsen<s n="adv"/></r></p></e>
-    <e><p><l>tarkasti<s n="adv"/></l><r>i<b/>detalj<s n="adv"/></r></p></e>
+    <e><p><l>alussa<s n="adv"/></l><r>i<b/>anledning<s n="adv"/></r></p></e>
+    <e><p><l>asemesta<s n="adv"/></l><r>i<b/>stedet<s n="adv"/></r></p></e>
+    <e><p><l>enemmän<s n="adv"/></l><r>litt<b/>mer<s n="adv"/></r></p></e>
+    <e><p><l>esimerkiksi<s n="adv"/></l><r>for<b/>eksempel<s n="adv"/></r></p></e>
+    <e><p><l>eteläpuolella<s n="adv"/></l><r>på<b/>sørsiden<s n="adv"/></r></p></e>
+    <e><p><l>itsenäisesti<s n="adv"/></l><r>på<b/>egen<b/>hånd<s n="adv"/></r></p></e>
+    <e><p><l>josko<s n="adv"/></l><r>om<b/>hvorvidt<s n="adv"/></r></p></e>
+    <e><p><l>kahdesti<s n="adv"/></l><r>to<b/>ganger<s n="adv"/></r></p></e>
+    <e><p><l>kerralla<s n="adv"/></l><r>med<b/>en<b/>gang<s n="adv"/></r></p></e>
+    <e><p><l>kerralla<s n="adv"/></l><r>om<b/>gangen<s n="adv"/></r></p></e>
+    <e><p><l>kerran<s n="adv"/></l><r>en<b/>gang<s n="adv"/></r></p></e>
+    <e><p><l>kerran<s n="adv"/></l><r>til<b/>enhver<b/>tid<s n="adv"/></r></p></e>
+    <e><p><l>kolmesti<s n="adv"/></l><r>for<b/>tredje<b/>gang<s n="adv"/></r></p></e>
+    <e><p><l>kolmesti<s n="adv"/></l><r>tre<b/>ganger<s n="adv"/></r></p></e>
+    <e><p><l>kuten<s n="adv"/></l><r>i<b/>likhet<b/>med<s n="adv"/></r></p></e>
+    <e><p><l>lopullisesti<s n="adv"/></l><r>i<b/>slutten<s n="adv"/></r></p></e>
+    <e><p><l>lopulta<s n="adv"/></l><r>til<b/>slutt<s n="adv"/></r></p></e>
+    <e><p><l>länsipuolella<s n="adv"/></l><r>på<b/>vestsiden<s n="adv"/></r></p></e>
+    <e><p><l>milloin<j/>vaan<s n="adv"/></l><r>når<b/>som<b/>helst<s n="adv"/></r></p></e>
+    <e><p><l>nähtävästi<s n="adv"/></l><r>det<b/>vil<b/>si<s n="adv"/></r></p></e>
+    <e><p><l>paikalla<s n="adv"/></l><r>til<b/>stede<s n="adv"/></r></p></e>
+    <e><p><l>paljonko<s n="adv"/></l><r>hvor<b/>mye<s n="adv"/></r></p></e>
+    <e><p><l>samalla<s n="adv"/></l><r>samtidig<b/>som<s n="adv"/></r></p></e>
+    <e><p><l>samoin<s n="adv"/></l><r>på<b/>samme<b/>måte<s n="adv"/></r></p></e>
     <e><p><l>seisovasti<s n="adv"/></l><r c="WTF??">i<b/>stand<s n="adv"/></r></p></e>
+    <e><p><l>sisällä<s n="adv"/></l><r c="???">i<b/>det<s n="adv"/></r></p></e>
+    <e><p><l>sänkyyn<s n="adv"/></l><r>til<b/>sengs<s n="adv"/></r></p></e>
+    <e><p><l>tarkasti<s n="adv"/></l><r>i<b/>detalj<s n="adv"/></r></p></e>
+    <e><p><l>vanhastaan<s n="adv"/></l><r>før<b/>i<b/>tiden<s n="adv"/></r></p></e>
+    <e><p><l>yhäti<s n="adv"/></l><r>etter<b/>hvert<s n="adv"/></r></p></e>
 
       <!-- }}} -->
 
@@ -3246,6 +3852,7 @@
     <e c="adv?"><p><l>kohti<s n="post"/></l><r>underveis<s n="pr"/></r></p></e>
     <e c="pro"><p><l>kohti<s n="post"/></l><r>pr.<s n="pr"/></r></p></e>
     <e><p><l>alle<s n="post"/></l><r>under<s n="pr"/></r></p></e>
+    <e><p><l>alussa<s n="post"/></l><r>i<b/>anledning<s n="pr"/></r></p></e>
     <e><p><l>edessä<s n="post"/></l><r>foran<s n="pr"/></r></p></e>
     <e><p><l>ennen<s n="post"/></l><r>før<s n="pr"/></r></p></e>
     <e><p><l>eteen<s n="post"/></l><r>frem<s n="pr"/></r></p></e>
@@ -3263,8 +3870,10 @@
     <e><p><l>kotoa<s n="adv"/></l><r>heim<s n="pr"/></r></p></e>
     <e><p><l>kuin<s n="post"/></l><r>en<s n="pr"/></r></p></e>
     <e><p><l>kuluessa<s n="post"/></l><r>i<b/>løpet<b/>av<s n="pr"/></r></p></e>
+    <e><p><l>luokse<s n="post"/></l><r>hit<s n="pr"/></r></p></e>
     <e><p><l>luokse<s n="post"/></l><r>hos<s n="pr"/></r></p></e>
     <e><p><l>luota<s n="post"/></l><r>av<s n="pr"/></r></p></e>
+    <e><p><l>luota<s n="post"/></l><r>bortsett<b/>fra<s n="pr"/></r></p></e>
     <e><p><l>luota<s n="post"/></l><r>fram<s n="pr"/></r></p></e>
     <e><p><l>luota<s n="post"/></l><r>fra<s n="pr"/></r></p></e>
     <e><p><l>luota<s n="post"/></l><r>fra<s n="pr"/></r></p></e>
@@ -3277,29 +3886,36 @@
     <e><p><l>mukaan<s n="post"/></l><r>i<b/>heile<s n="pr"/></r></p></e>
     <e><p><l>mukaan<s n="post"/></l><r>ifølge<s n="pr"/></r></p></e>
     <e><p><l>mukaan<s n="post"/></l><r>når<b/>det<b/>gjelder<s n="pr"/></r></p></e>
+    <e><p><l>mukana<s n="post"/></l><r>blant<s n="pr"/></r></p></e>
     <e><p><l>mukana<s n="post"/></l><r>ombord<s n="pr"/></r></p></e>
     <e><p><l>nähden<s n="post"/></l><r>sammenlignet<b/>med<s n="pr"/></r></p></e>
     <e><p><l>perusteella<s n="post"/></l><r>på<b/>grunn<b/>av<s n="pr"/></r></p></e>
+    <e><p><l>poiketen<s n="post"/></l><r>til<b/>forskjell<b/>fra<s n="pr"/></r></p></e>
     <e><p><l>pois<s n="adv"/></l><r>bort<s n="pr"/></r></p></e>
     <e><p><l>pois<s n="adv"/></l><r>ex<s n="pr"/></r></p></e>
     <e><p><l>pois<s n="adv"/></l><r>vekk<s n="pr"/></r></p></e>
     <e><p><l>päällä<s n="post"/></l><r>om<s n="pr"/></r></p></e>
     <e><p><l>päällä<s n="post"/></l><r>på<s n="pr"/></r></p></e>
     <e><p><l>riippuen<s n="post"/></l><r>avhengig<b/>av<s n="pr"/></r></p></e>
+    <e><p><l>sijaan<s n="post"/></l><r>istedenfor<s n="pr"/></r></p></e>
     <e><p><l>sisällä<s n="post"/></l><r>i<b/>hele<s n="pr"/></r></p></e>
     <e><p><l>sisällä<s n="post"/></l><r>inn<b/>i<s n="pr"/></r></p></e>
     <e><p><l>sisällä<s n="post"/></l><r>inne<b/>i<s n="pr"/></r></p></e>
     <e><p><l>sisällä<s n="post"/></l><r>innenfor<s n="pr"/></r></p></e>
+    <e><p><l>sisällä<s n="post"/></l><r>innen<s n="pr"/></r></p></e>
     <e><p><l>sisällä<s n="post"/></l><r>i<s n="pr"/></r></p></e>
     <e><p><l>sisään<s n="post"/></l><r>inne<s n="pr"/></r></p></e>
     <e><p><l>sisään<s n="post"/></l><r>inn<s n="pr"/></r></p></e>
     <e><p><l>sitten<s n="post"/></l><r>sidan<s n="pr"/></r></p></e>
     <e><p><l>sitten<s n="post"/></l><r>siden<s n="pr"/></r></p></e>
+    <e><p><l>suhteen<s n="post"/></l><r>i<b/>forhold<b/>til<s n="pr"/></r></p></e>
     <e><p><l>suunnilleen<s n="post"/></l><r>omkring<s n="pr"/></r></p></e>
     <e><p><l>takaa<s n="post"/></l><r>bakom<s n="pr"/></r></p></e>
     <e><p><l>takaisin<s n="adv"/></l><r>att<s n="pr"/></r></p></e>
     <e><p><l>takana<s n="post"/></l><r>bak<s n="pr"/></r></p></e>
     <e><p><l>ulkopuolella<s n="post"/></l><r>utenfor<s n="pr"/></r></p></e>
+    <e><p><l>ulos<s n="post"/></l><r>ut<b/>av<s n="pr"/></r></p></e>
+    <e><p><l>ulos<s n="post"/></l><r>ut<b/>i<s n="pr"/></r></p></e>
     <e><p><l>ulos<s n="post"/></l><r>ut<s n="pr"/></r></p></e>
     <e><p><l>vastaan<s n="post"/></l><r>mot<s n="pr"/></r></p></e>
     <e><p><l>vastapäätä<s n="post"/></l><r>overfor<s n="pr"/></r></p></e>
@@ -3333,6 +3949,7 @@
     <e><p><l>jos<s n="cnjsub"/></l><r>om<s n="cnjsub"/></r></p></e>
     <e><p><l>jotta<s n="cnjsub"/></l><r>for<b/>at<s n="cnjsub"/></r></p></e>
     <e><p><l>jotta<s n="cnjsub"/></l><r>slik<b/>at<s n="cnjsub"/></r></p></e>
+    <e><p><l>kuin<s n="cnjsub"/></l><r>slik<b/>som<s n="cnjsub"/></r></p></e>
     <e><p><l>jotta<s n="cnjsub"/></l><r>så<s n="cnjsub"/></r></p></e>
     <e><p><l>koska<s n="cnjsub"/></l><r>ettersom<s n="cnjsub"/></r></p></e>
     <e><p><l>koska<s n="cnjsub"/></l><r>fordi<s n="cnjsub"/></r></p></e>
