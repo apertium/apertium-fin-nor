@@ -5,8 +5,15 @@
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
     </def-cat>
+    <def-cat n="propn">
+      <cat-item tags="np.*"/>
+    </def-cat>
     <def-cat n="adp">
       <cat-item tags="pr"/>
+    </def-cat>
+    <def-cat n="cnjcoo">
+      <cat-item tags="cnjcoo"/>
+      <cat-item tags="cnjcoo.*"/>
     </def-cat>
     <def-cat n="card">
       <cat-item lemma="1" tags="det.qnt.un.sg"/>
@@ -86,6 +93,7 @@
     <def-attr n="a_noun">
       <attr-item tags="n"/>
       <attr-item tags="np"/>
+      <!-- XXX: only uncomment when debugging to see the stuffs - ->
       <attr-item tags="np.org"/>
       <attr-item tags="np.cog"/>
       <attr-item tags="np.top"/>
@@ -93,7 +101,6 @@
       <attr-item tags="np.ant"/>
       <attr-item tags="np.ant.f"/>
       <attr-item tags="np.ant.m"/>
-      <!-- XXX: only uncomment when debugging to see the genders - ->
       <attr-item tags="n.m"/>
       <attr-item tags="n.f"/>
       <attr-item tags="n.nt"/>
@@ -143,6 +150,9 @@
     <def-attr n="a_punct">
       <attr-item tags="punct"/>
       <attr-item tags="sym"/>
+    </def-attr>
+    <def-attr n="a_cnjcoo">
+      <attr-item tags="cnjcoo"/> <!-- hack to remove @nkon -->
     </def-attr>
   </section-def-attrs>
 
@@ -777,6 +787,46 @@
         </out>
       </action>
     </rule>
+    <rule comment="adp propn propn">
+      <pattern>
+        <pattern-item n="adp"/>
+        <pattern-item n="propn"/>
+        <pattern-item n="propn"/>
+      </pattern>
+      <action>
+        <call-macro n="adp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="number-mangler">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="adpnoun" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NP"/></tag>
+              <tag><var n="adpcase"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <lit-tag v="nom"/>
+            </lu>
+            <b pos="0"/>
+            <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="a_noun"/>
+              <var n="number"/>
+              <var n="adpcase"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <var n="maybeadp"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="adp noun">
       <pattern>
         <pattern-item n="adp"/>
@@ -804,6 +854,41 @@
             <b pos="0"/>
             <lu>
               <var n="maybeadp"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="num noun">
+      <pattern>
+        <pattern-item n="card"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="comp-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="count" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NUMP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="num"/> <!-- num not det -->
+              <lit-tag v="card"/> <!-- card -->
+              <lit-tag v="sg"/> <!-- pl in nor is broken -->
+              <lit-tag v="nom"/> <!-- pl in nor is broken -->
+            </lu>
+            <b pos="0"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_noun"/>
+              <lit-tag v="sg"/> <!-- pl in nor is broken -->
+              <lit-tag v="par"/> <!-- pl in nor is broken -->
             </lu>
           </chunk>
         </out>
@@ -1082,6 +1167,24 @@
               <var n="comparison"/>
               <var n="number"/>
               <var n="case"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="cnjcoo">
+      <pattern>
+        <pattern-item n="cnjcoo"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="cnjcoo" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="CC"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_cnjcoo"/>
             </lu>
           </chunk>
         </out>
