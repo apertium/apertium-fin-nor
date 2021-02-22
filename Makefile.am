@@ -2,6 +2,8 @@
 ## Makefile for Finnish--Norwegian
 ###############################################################################
 
+SUBDIRS=docs
+
 VERSION=0.1.0
 LANG1=fin
 LANG2=nor
