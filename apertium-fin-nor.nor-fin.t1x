@@ -63,6 +63,7 @@
     </def-cat>
     <def-cat n="infverb">
       <cat-item tags="vblex.inf"/>
+      <cat-item tags="vblex.pstv.inf"/>
     </def-cat>
     <def-cat n="personal">
       <cat-item tags="prn.pers.*"/>
@@ -201,6 +202,19 @@
         <when>
           <test>
             <equal><clip pos="1" side="sl" part="lem"/><lit v="fra"/></equal>
+          </test>
+          <let>
+            <var n="adpcase"/>
+            <lit-tag v="ela"/>
+          </let>
+          <let>
+            <var n="maybeadp"/>
+            <lit v=""/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="om"/></equal>
           </test>
           <let>
             <var n="adpcase"/>

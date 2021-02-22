@@ -2,7 +2,7 @@
 <rules>
 
   <rule>
-    <match lemma="kunne" tags="vaux.*">
+    <match lemma="kunne" tags="vblex.*">
       <select lemma="voida" tags="vaux.*"/>
     </match>
   </rule>
