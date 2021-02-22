@@ -1,0 +1,2469 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <title>
+         apertium-fin-nor :
+         Apertium-fin-nor bilingual rules and resources
+         
+      </title>
+      <meta name="generator" content="apevis-xslt">
+      <meta property="og:title" content="&#xA;            apertium-fin-nor">
+      <meta property="og:locale" content="en">
+      <meta name="description" content="Finnish–Norwegian&#xA;            dictionary for rule-based machine translation&#xA;          ">
+      <link rel="canonical" href="%0A            https://apertium.github.io/apertium-fin-nor/%0A          ">
+      <meta property="og:url" content="&#xA;            https://apertium.github.io/apertium-fin-nor/&#xA;          ">
+      <meta property="og:site_name" content="&#xA;            apertium-fin-nor"><script type="application/ld+json">
+          {"headline":"Apertium-fin-nor",
+          "@type":"WebSite",
+          "url":"http://apertium.github.io/apertium-fin-nor/",
+          "name":"apertium-fin-nor",
+          "description":"Apertium bilingual data for Finnish–Norwegian machine translation",
+          "@context":"http://schema.org"}
+        </script><link rel="stylesheet" href="/apertium-fin-nor/assets/css/style.css?v=0553eb4429e442aa5eeaa159606840983213fbbe"><script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script><script src="/apertium-fin-deu/assets/js/respond.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+   </head>
+   <body>
+      <div id="header">
+         <nav>
+            <li class="fork"><a href="https://github.com/apertium/apertium-fin-nor">
+                  View On GitHub
+                  </a></li>
+         </nav>
+      </div>
+      <div class="wrapper">
+         <section>
+            <div id="title">
+               <h1>apertium-fin-nor</h1>
+               <p>Finnish–Norwegian
+                  dictionary for rule-based machine translation
+                  
+               </p>
+               <hr><span class="credits left">
+                  Project maintained by 
+                  <a href="https://github.com/apertium">apertium</a></span><span class="credits right">
+                  Hosted on GitHub Pages – Theme by
+                  <a href="https://twitter.com/michigangraham">mattgraham</a></span></div>
+            <h1 id="rules">
+               Apertium-fin-nor:
+               Finnish–Norwegian
+               machine translation rules
+               
+            </h1>
+            <p style="font-variant: italic">
+               This is a visualisation of some rules in apertium transfer.
+               
+            </p>
+            
+            <h2>Categories (parts of chunks)</h2>
+            <p>
+               These are the categories Apertium is using in order to chunk, re-order
+               and transfer lexemes.
+               
+            </p>
+            <table>
+               <thead>
+                  <tr>
+                     <th>Category</th>
+                     <th>Items</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  
+                  <tr>
+                     <td>noun</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;n.*&gt;</code></li>
+                           
+                           <li><code>&lt;np.*&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>propn</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;np.*&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>adp</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;pr&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>cnjcoo</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;cnjcoo&gt;</code></li>
+                           
+                           <li><code>&lt;cnjcoo.*&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>card</td>
+                     <td>
+                        <ul>
+                           
+                           <li>1<code>&lt;det.qnt.un.sg&gt;</code></li>
+                           
+                           <li>2<code>&lt;det.qnt.un.pl&gt;</code></li>
+                           
+                           <li>3<code>&lt;det.qnt.un.pl&gt;</code></li>
+                           
+                           <li>4<code>&lt;det.qnt.un.pl&gt;</code></li>
+                           
+                           <li>5<code>&lt;det.qnt.un.pl&gt;</code></li>
+                           
+                           <li>6<code>&lt;det.qnt.un.pl&gt;</code></li>
+                           
+                           <li>7<code>&lt;det.qnt.un.pl&gt;</code></li>
+                           
+                           <li>8<code>&lt;det.qnt.un.pl&gt;</code></li>
+                           
+                           <li>9<code>&lt;det.qnt.un.pl&gt;</code></li>
+                           
+                           <li>10<code>&lt;det.qnt.un.pl&gt;</code></li>
+                           
+                           <li><code>&lt;num.card.*&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>for</td>
+                     <td>
+                        <ul>
+                           
+                           <li>for<code>&lt;pr&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>å</td>
+                     <td>
+                        <ul>
+                           
+                           <li>å<code>&lt;part&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>ord</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;adj.ord.*&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>adj</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;adj.*&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>har</td>
+                     <td>
+                        <ul>
+                           
+                           <li>ha<code>&lt;vblex.pres&gt;</code></li>
+                           
+                           <li>ha<code>&lt;vaux.pres&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>participle</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;vblex.pp&gt;</code></li>
+                           
+                           <li><code>&lt;vblex.pstv.pp&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>passive</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;vblex.*.pasv&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>verb</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;vblex.*&gt;</code></li>
+                           
+                           <li><code>&lt;vaux.*&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>finverb</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;vblex.pret&gt;</code></li>
+                           
+                           <li><code>&lt;vblex.imp&gt;</code></li>
+                           
+                           <li><code>&lt;vblex.pres&gt;</code></li>
+                           
+                           <li><code>&lt;vblex.pstv.pres&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>infverb</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;vblex.inf&gt;</code></li>
+                           
+                           <li><code>&lt;vblex.pstv.inf&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>personal</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;prn.pers.*&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>art</td>
+                     <td>
+                        <ul>
+                           
+                           <li>en<code>&lt;det.*&gt;</code></li>
+                           
+                           <li>den<code>&lt;det.*&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>pron</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;prn.*&gt;</code></li>
+                           
+                           <li><code>&lt;det.*&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>punct</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;sent&gt;</code></li>
+                           
+                           <li><code>&lt;punct&gt;</code></li>
+                           
+                           <li><code>&lt;sym&gt;</code></li>
+                           
+                           <li><code>&lt;cm&gt;</code></li>
+                           
+                           <li><code>&lt;cm.*&gt;</code></li>
+                           
+                           <li><code>&lt;lquot&gt;</code></li>
+                           
+                           <li><code>&lt;rquot&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+               </tbody>
+            </table>
+            
+            
+            <h2>Attributes</h2>
+            <p>
+               These are the morphological analysis value (tag) sets that can be
+               processed in the transfer.
+               
+            </p>
+            <table>
+               <thead>
+                  <tr>
+                     <th>Attribute set name</th>
+                     <th>Tags</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  
+                  <tr>
+                     <td>a_case</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;nom&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>a_noun</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;n&gt;</code></li>
+                           
+                           <li><code>&lt;np&gt;</code></li>
+                           
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>a_verb</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;vblex&gt;</code></li>
+                           
+                           <li><code>&lt;vaux&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>a_pron</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;prn&gt;</code></li>
+                           
+                           <li><code>&lt;det&gt;</code></li>
+                           
+                           <li><code>&lt;adj&gt;</code></li>
+                           
+                           <li><code>&lt;adj.pst&gt;</code></li>
+                           
+                           <li><code>&lt;num&gt;</code></li>
+                           
+                           <li><code>&lt;num.card&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>a_tense</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;pres&gt;</code></li>
+                           
+                           <li><code>&lt;pret&gt;</code></li>
+                           
+                           <li><code>&lt;pri&gt;</code></li>
+                           
+                           <li><code>&lt;past&gt;</code></li>
+                           
+                           <li><code>&lt;imp&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>a_ord</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;adj.ord&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>a_adj</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;adj&gt;</code></li>
+                           
+                           <li><code>&lt;adj.ord&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>a_number</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;sg&gt;</code></li>
+                           
+                           <li><code>&lt;sp&gt;</code></li>
+                           
+                           <li><code>&lt;pl&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>a_person</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;p1&gt;</code></li>
+                           
+                           <li><code>&lt;p2&gt;</code></li>
+                           
+                           <li><code>&lt;p3&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>a_comp</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;comp&gt;</code></li>
+                           
+                           <li><code>&lt;pst&gt;</code></li>
+                           
+                           <li><code>&lt;sup&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>a_punct</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;punct&gt;</code></li>
+                           
+                           <li><code>&lt;sym&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>a_cnjcoo</td>
+                     <td>
+                        <ul>
+                           
+                           <li><code>&lt;cnjcoo&gt;</code></li> 
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+               </tbody>
+            </table>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <h2>Macros</h2>
+            <p>Macros are helper functions in apertium transfer files.</p>
+            
+            <h3>adp-mangler</h3>
+            <div>Parametres: 1</div><code>
+               <ol>
+                  
+                  <li>
+                     <ol>
+                        
+                        
+                        
+                        <li>if 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "I"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;ine&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "i"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;ine&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "fra"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;ela&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "om"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;ela&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "frå"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;ela&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "til"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;ill&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "på"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;ade&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "ved"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;ade&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "av"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;abl&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "for"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;all&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "uten"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;abe&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "som"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;ess&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['lem']</em> ≟ 
+                                    "På"
+                                    
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;tra&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        
+                        <li>else:
+                           <ol>
+                              
+                              <li>
+                                 let 
+                                 $<em>adpcase</em> ≔ &lt;gen&gt;
+                              </li>
+                              
+                              <li>
+                                 let 
+                                 $<em>maybeadp</em> ≔ <em>tl[1]['whole']</em></li>
+                              
+                           </ol>
+                        </li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            <h3>personal-mangler</h3>
+            <div>Parametres: 1</div><code>
+               <ol>
+                  
+                  <li>
+                     <ol>
+                        
+                        
+                        <li>if 
+                           <li>
+                              <ol>
+                                 
+                                 
+                                 <li><em>sl[1]['a_number']</em> ≟ &lt;sg&gt;
+                                 </li>
+                                 
+                                 <li><em>sl[1]['a_person']</em> ≟ &lt;p1&gt;
+                                 </li>
+                                 
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>person</em> ≔ &lt;p1.sg&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>prodrop</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 
+                                 <li><em>sl[1]['a_number']</em> ≟ &lt;sg&gt;
+                                 </li>
+                                 
+                                 <li><em>sl[1]['a_person']</em> ≟ &lt;p2&gt;
+                                 </li>
+                                 
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>person</em> ≔ &lt;p2.sg&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>prodrop</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 
+                                 <li><em>sl[1]['a_number']</em> ≟ &lt;sg&gt;
+                                 </li>
+                                 
+                                 <li><em>sl[1]['a_person']</em> ≟ &lt;p3&gt;
+                                 </li>
+                                 
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>person</em> ≔ &lt;p3.sg&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>prodrop</em> ≔ <em>tl[1]['whole']</em></li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 
+                                 <li><em>sl[1]['a_number']</em> ≟ &lt;pl&gt;
+                                 </li>
+                                 
+                                 <li><em>sl[1]['a_person']</em> ≟ &lt;p1&gt;
+                                 </li>
+                                 
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>person</em> ≔ &lt;p1.pl&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>prodrop</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 
+                                 <li><em>sl[1]['a_number']</em> ≟ &lt;pl&gt;
+                                 </li>
+                                 
+                                 <li><em>sl[1]['a_person']</em> ≟ &lt;p2&gt;
+                                 </li>
+                                 
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>person</em> ≔ &lt;p2.pl&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>prodrop</em> ≔ 
+                                 ""
+                                 
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 
+                                 <li><em>sl[1]['a_number']</em> ≟ &lt;pl&gt;
+                                 </li>
+                                 
+                                 <li><em>sl[1]['a_person']</em> ≟ &lt;p3&gt;
+                                 </li>
+                                 
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>person</em> ≔ &lt;p3.pl&gt;
+                              </li>
+                              <li>
+                                 let 
+                                 $<em>prodrop</em> ≔ <em>tl[1]['whole']</em></li>
+                           </ol>
+                        </li>
+                        
+                        
+                        <li>else:
+                           <ol>
+                              
+                              <li>
+                                 let 
+                                 $<em>person</em> ≔ &lt;p3.sg&gt;
+                              </li>
+                              
+                              <li>
+                                 let 
+                                 $<em>prodrop</em> ≔ <em>tl[1]['whole']</em></li>
+                              
+                           </ol>
+                        </li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            <h3>person-mangler</h3>
+            <div>Parametres: 1</div><code>
+               <ol>
+                  
+                  <li>
+                     <ol>
+                        
+                        
+                        
+                        <li>if 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['a_tense']</em> ≟ &lt;imp&gt;
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>person</em> ≔ &lt;p2.sg&gt;
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['a_tense']</em> ≟ &lt;pres&gt;
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>person</em> ≔ &lt;p3.sg&gt;
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['a_tense']</em> ≟ &lt;pret&gt;
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>person</em> ≔ &lt;p3.sg&gt;
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        
+                        <li>else:
+                           <ol>
+                              
+                              <li>
+                                 let 
+                                 $<em>person</em> ≔ &lt;p3.sg&gt;
+                              </li>
+                              
+                           </ol>
+                        </li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            <h3>comp-mangler</h3>
+            <div>Parametres: 1</div><code>
+               <ol>
+                  
+                  <li>
+                     <ol>
+                        
+                        
+                        <li>if 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['a_comp']</em> ≟ &lt;comp&gt;
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>comparison</em> ≔ &lt;comp&gt;
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        
+                        <li>else:
+                           <ol>
+                              
+                              <li>
+                                 let <em>tl[1]['a_comp']</em> ≔ &lt;pst&gt;
+                              </li>
+                              
+                              <li>
+                                 let 
+                                 $<em>comparison</em> ≔ &lt;pst&gt;
+                              </li>
+                              
+                           </ol>
+                        </li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            <h3>tense-mangler</h3>
+            <div>Parametres: 1</div><code>
+               <ol>
+                  
+                  <li>
+                     <ol>
+                        
+                        
+                        <li>if 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['a_tense']</em> ≟ &lt;pret&gt;
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>tense</em> ≔ &lt;past&gt;
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        
+                        <li>else:
+                           <ol>
+                              
+                              <li>
+                                 let <em>tl[1]['a_tense']</em> ≔ &lt;pri&gt;
+                              </li>
+                              
+                              <li>
+                                 let 
+                                 $<em>tense</em> ≔ &lt;pri&gt;
+                              </li>
+                              
+                           </ol>
+                        </li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            <h3>number-mangler</h3>
+            <div>Parametres: 1</div><code>
+               <ol>
+                  
+                  <li>
+                     <ol>
+                        
+                        
+                        <li>if 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['a_number']</em> ≟ &lt;sg&gt;
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>number</em> ≔ &lt;sg&gt;
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['a_number']</em> ≟ &lt;pl&gt;
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>number</em> ≔ &lt;pl&gt;
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        <li>elseif 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['a_number']</em> ≟ &lt;sp&gt;
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>number</em> ≔ &lt;sg&gt;
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        
+                        <li>else:
+                           <ol>
+                              
+                              <li>
+                                 let <em>tl[1]['a_number']</em> ≔ &lt;sg&gt;
+                              </li>
+                              
+                              <li>
+                                 let 
+                                 $<em>number</em> ≔ &lt;sg&gt;
+                              </li>
+                              
+                           </ol>
+                        </li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            <h3>case-mangler</h3>
+            <div>Parametres: 1</div><code>
+               <ol>
+                  
+                  <li>
+                     <ol>
+                        
+                        
+                        <li>if 
+                           <li>
+                              <ol>
+                                 
+                                 <li><em>sl[1]['a_case']</em> ≟ &lt;acc&gt;
+                                 </li>
+                                 
+                              </ol>
+                           </li> then:
+                           <ol>
+                              <li>
+                                 let 
+                                 $<em>case</em> ≔ &lt;gen&gt;
+                              </li>
+                           </ol>
+                        </li>
+                        
+                        
+                        <li>else:
+                           <ol>
+                              
+                              <li>
+                                 let <em>tl[1]['a_case']</em> ≔ &lt;nom&gt;
+                              </li>
+                              
+                              <li>
+                                 let 
+                                 $<em>case</em> ≔ &lt;nom&gt;
+                              </li>
+                              
+                           </ol>
+                        </li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            
+            <h2>Rules</h2>
+            <p>The actual rules concerning stuff.</p>
+            
+            <h3>adp art adj noun</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>adp</li>
+               
+               <li>art</li>
+               
+               <li>adj</li>
+               
+               <li>noun</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>adp-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>comp-mangler(
+                     $3
+                     )
+                  </li>
+                  
+                  <li>number-mangler(
+                     $4
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[3]['lem']</em>
+                                 <em>tl[3]['a_adj']</em>
+                                 
+                                 $<em>comparison</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>adpcase</em>
+                                 
+                              </li>
+                              <li><sub>b2</sub><br></li>
+                              <li>
+                                 <em>tl[4]['lem']</em>
+                                 <em>tl[4]['a_noun']</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>adpcase</em>
+                                 
+                              </li>
+                              <li><sub>b1</sub><br></li>
+                              <li>
+                                 
+                                 $<em>maybeadp</em>
+                                 
+                              </li>
+                           </ol>]<sub>adpnoun
+                              &lt;NP&gt;
+                              
+                              $<em>adpcase</em>
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>adp art noun</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>adp</li>
+               
+               <li>art</li>
+               
+               <li>noun</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>adp-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>number-mangler(
+                     $3
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[3]['lem']</em>
+                                 <em>tl[3]['a_noun']</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>adpcase</em>
+                                 
+                              </li>
+                              <li><sub>b1</sub><br></li>
+                              <li>
+                                 
+                                 $<em>maybeadp</em>
+                                 
+                              </li>
+                           </ol>]<sub>adpnoun
+                              &lt;NP&gt;
+                              
+                              $<em>adpcase</em>
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>art adj noun</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>art</li>
+               
+               <li>adj</li>
+               
+               <li>noun</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>number-mangler(
+                     $3
+                     )
+                  </li>
+                  
+                  <li>case-mangler(
+                     $3
+                     )
+                  </li>
+                  
+                  <li>comp-mangler(
+                     $2
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[2]['lem']</em>
+                                 <em>tl[2]['a_adj']</em>
+                                 
+                                 $<em>comparison</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>case</em>
+                                 
+                              </li>
+                              <li><sub>b2</sub><br></li>
+                              <li>
+                                 <em>tl[3]['lem']</em>
+                                 <em>tl[3]['a_noun']</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>case</em>
+                                 
+                              </li>
+                           </ol>]<sub>noun
+                              &lt;NP&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>har participle</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>har</li>
+               
+               <li>participle</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>personal-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>tense-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 
+                                 "olla"
+                                 
+                                 &lt;vaux.actv&gt;
+                                 
+                                 $<em>tense</em>
+                                 
+                                 $<em>person</em>
+                                 
+                              </li>
+                              <li><sub>b0</sub><br></li>
+                              <li>
+                                 <em>tl[2]['lem']</em>
+                                 <em>tl[2]['a_verb']</em>
+                                 &lt;actv.pp.pst.sg.nom&gt; 
+                                 
+                              </li>
+                           </ol>]<sub>verb
+                              &lt;VP.PERF&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>person verb</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>personal</li>
+               
+               <li>finverb</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>personal-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>tense-mangler(
+                     $2
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 
+                                 $<em>prodrop</em>
+                                 
+                              </li>
+                              <li><sub>b0</sub><br></li>
+                              <li>
+                                 <em>tl[2]['lem']</em>
+                                 <em>tl[2]['a_verb']</em>
+                                 &lt;actv&gt;
+                                 
+                                 $<em>tense</em>
+                                 
+                                 $<em>person</em>
+                                 
+                              </li>
+                           </ol>]<sub>verb
+                              &lt;VP&gt;
+                              
+                              $<em>tense</em>
+                              
+                              $<em>person</em>
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>adp propn propn</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>adp</li>
+               
+               <li>propn</li>
+               
+               <li>propn</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>adp-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>number-mangler(
+                     $3
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[2]['lem']</em>
+                                 <em>tl[2]['a_noun']</em>
+                                 
+                                 $<em>number</em>
+                                 &lt;nom&gt;
+                                 
+                              </li>
+                              <li><sub>b0</sub><br></li>
+                              <li>
+                                 <em>tl[3]['lem']</em>
+                                 <em>tl[3]['a_noun']</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>adpcase</em>
+                                 
+                              </li>
+                              <li><sub>b1</sub><br></li>
+                              <li>
+                                 
+                                 $<em>maybeadp</em>
+                                 
+                              </li>
+                           </ol>]<sub>adpnoun
+                              &lt;NP&gt;
+                              
+                              $<em>adpcase</em>
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>adp noun</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>adp</li>
+               
+               <li>noun</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>adp-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>number-mangler(
+                     $2
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[2]['lem']</em>
+                                 <em>tl[2]['a_noun']</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>adpcase</em>
+                                 
+                              </li>
+                              <li><sub>b0</sub><br></li>
+                              <li>
+                                 
+                                 $<em>maybeadp</em>
+                                 
+                              </li>
+                           </ol>]<sub>adpnoun
+                              &lt;NP&gt;
+                              
+                              $<em>adpcase</em>
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>num noun</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>card</li>
+               
+               <li>noun</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>case-mangler(
+                     $2
+                     )
+                  </li>
+                  
+                  <li>comp-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 &lt;num&gt; 
+                                 &lt;card&gt; 
+                                 &lt;sg&gt; 
+                                 &lt;nom&gt; 
+                                 
+                              </li>
+                              <li><sub>b0</sub><br></li>
+                              <li>
+                                 <em>tl[2]['lem']</em>
+                                 <em>tl[2]['a_noun']</em>
+                                 &lt;sg&gt; 
+                                 &lt;par&gt; 
+                                 
+                              </li>
+                           </ol>]<sub>count
+                              &lt;NUMP&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>stray verb</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>finverb</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>person-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>tense-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 <em>tl[1]['a_verb']</em>
+                                 &lt;actv&gt;
+                                 
+                                 $<em>tense</em>
+                                 
+                                 $<em>person</em>
+                                 
+                              </li>
+                           </ol>]<sub>verb
+                              &lt;V&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>passive</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>passive</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>tense-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 <em>tl[1]['a_verb']</em>
+                                 &lt;pasv&gt;
+                                 
+                                 $<em>tense</em>
+                                 &lt;impers&gt;
+                                 
+                              </li>
+                           </ol>]<sub>pasv
+                              &lt;V.PASV&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>num</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>card</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>number-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>case-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>comp-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 &lt;num&gt; 
+                                 &lt;card&gt; 
+                                 &lt;sg&gt; 
+                                 
+                                 $<em>case</em>
+                                 
+                              </li>
+                           </ol>]<sub>adj
+                              &lt;ADJ&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>participle</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>participle</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 <em>tl[1]['a_verb']</em>
+                                 &lt;pasv.pp.pst.sg.nom&gt;
+                                 
+                              </li>
+                           </ol>]<sub>pcp
+                              &lt;ADJ&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>for Å infinitive</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>for</li>
+               
+               <li>å</li>
+               
+               <li>infverb</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[3]['lem']</em>
+                                 <em>tl[3]['a_verb']</em>
+                                 &lt;actv.infa.tra.px3sp&gt;
+                                 
+                              </li>
+                           </ol>]<sub>inf
+                              &lt;V.INF.TRA&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>infinitive</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>infverb</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 <em>tl[1]['a_verb']</em>
+                                 &lt;actv.infa.sg.lat&gt;
+                                 
+                              </li>
+                           </ol>]<sub>inf
+                              &lt;V.INF&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>pron</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>pron</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>case-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>number-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 <em>tl[1]['a_pron']</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>case</em>
+                                 
+                              </li>
+                           </ol>]<sub>pron
+                              &lt;PRN&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>art noun</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>art</li>
+               
+               <li>noun</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>number-mangler(
+                     $2
+                     )
+                  </li>
+                  
+                  <li>case-mangler(
+                     $2
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[2]['lem']</em>
+                                 <em>tl[2]['a_noun']</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>case</em>
+                                 
+                              </li>
+                           </ol>]<sub>noun
+                              &lt;NP&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>noun</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>noun</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>case-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>number-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 <em>tl[1]['a_noun']</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>case</em>
+                                 
+                              </li>
+                           </ol>]<sub>noun
+                              &lt;N&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>ord</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>ord</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>number-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>case-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>comp-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 <em>tl[1]['a_ord']</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>case</em>
+                                 
+                              </li>
+                           </ol>]<sub>ord
+                              &lt;ADJ&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>adj</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>adj</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>number-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>case-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>comp-mangler(
+                     $1
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 <em>tl[1]['a_adj']</em>
+                                 
+                                 $<em>comparison</em>
+                                 
+                                 $<em>number</em>
+                                 
+                                 $<em>case</em>
+                                 
+                              </li>
+                           </ol>]<sub>adj
+                              &lt;ADJ&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>cnjcoo</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>cnjcoo</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 <em>tl[1]['a_cnjcoo']</em>
+                                 
+                              </li>
+                           </ol>]<sub>cnjcoo
+                              &lt;CC&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            <h3>puncts</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>punct</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 <em>tl[1]['lem']</em>
+                                 <em>tl[1]['a_punct']</em>
+                                 
+                              </li>
+                           </ol>]<sub>sent
+                              &lt;SENT&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
+            
+         </section>
+         <div id="footer">
+            Documentation for <a href="//github.com/apertium/apertium-fin-nor/">
+               apertium-fin-nor</a>
+            Generated with <a href="https://github.com/flammie/apevis-xslt">Flammie’s
+               apevis-xslt</a>.
+            
+         </div>
+      </div>
+   </body>
+</html>
