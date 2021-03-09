@@ -16,20 +16,16 @@
       <cat-item tags="cnjcoo.*"/>
     </def-cat>
     <def-cat n="card">
-      <cat-item lemma="1" tags="det.qnt.un.sg"/>
-      <cat-item lemma="2" tags="det.qnt.un.pl"/>
-      <cat-item lemma="3" tags="det.qnt.un.pl"/>
-      <cat-item lemma="4" tags="det.qnt.un.pl"/>
-      <cat-item lemma="5" tags="det.qnt.un.pl"/>
-      <cat-item lemma="6" tags="det.qnt.un.pl"/>
-      <cat-item lemma="7" tags="det.qnt.un.pl"/>
-      <cat-item lemma="8" tags="det.qnt.un.pl"/>
-      <cat-item lemma="9" tags="det.qnt.un.pl"/>
-      <cat-item lemma="10" tags="det.qnt.un.pl"/>
+      <cat-item tags="det.qnt.un.pl"/> <!-- more than card
+                                            but cannot enumerate lemmas :-( -->
       <cat-item tags="num.card.*"/>
     </def-cat>
     <def-cat n="for">
       <cat-item lemma="for" tags="pr"/>
+    </def-cat>
+    <def-cat n="i">
+      <cat-item lemma="i" tags="pr"/>
+      <cat-item lemma="I" tags="pr"/>
     </def-cat>
     <def-cat n="å">
       <cat-item lemma="å" tags="part"/>
@@ -71,6 +67,8 @@
     <def-cat n="art">
       <cat-item lemma="en" tags="det.*"/>
       <cat-item lemma="den" tags="det.*"/>
+      <cat-item lemma="denne" tags="det.*"/>
+      <cat-item lemma="dette" tags="det.*"/>
     </def-cat>
     <def-cat n="pron">
       <cat-item tags="prn.*"/>
@@ -959,6 +957,42 @@
         </out>
       </action>
     </rule>
+    <rule comment="i år – vuonna">
+      <pattern>
+        <pattern-item n="i"/>
+        <pattern-item n="card"/>
+      </pattern>
+      <action>
+        <call-macro n="number-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="case-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="comp-mangler">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="year" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NUMP"/></tag>
+            </tags>
+            <lu>
+              <lit v="vuonna"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b pos="0"/>
+            <lu>
+              <clip pos="2" side="tl" part="lem"/>
+              <lit-tag v="num"/> <!-- num not det -->
+              <lit-tag v="card"/> <!-- card -->
+              <lit-tag v="sg"/> <!-- pl in nor is broken -->
+              <lit-tag v="nom"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="num">
       <pattern>
         <pattern-item n="card"/>
@@ -974,9 +1008,9 @@
           <with-param pos="1"/>
         </call-macro>
         <out>
-          <chunk name="adj" case="caseFirstWord">
+          <chunk name="card" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="ADJ"/></tag>
+              <tag><lit-tag v="NUM"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
