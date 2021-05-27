@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Finnish-Norwegian], [0.0.0], [tommi.antero.pirinen@uni-hamburg.de], [apertium-fin-nor], [http://wiki.apertium.org/wiki/Apertium-fin-nor])
+AC_INIT([Apertium Finnish-Norwegian], [0.0.0], [tommi.antero.pirinen@uni-hamburg.de], [apertium-fin-nor], [https://wiki.apertium.org/wiki/Apertium-fin-nor])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
@@ -44,7 +44,7 @@ AC_PATH_PROGS([SAXON], [saxon9-transform], [false])
 AM_CONDITIONAL([CAN_SAXON], [test x$SAXON != xfalse])
 
 
-m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertium.m4 in ACLOCAL_PATH? See: http://wiki.apertium.org/wiki/Installation_troubleshooting])])
+m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertium.m4 in ACLOCAL_PATH? See: https://wiki.apertium.org/wiki/Installation_troubleshooting])])
 
 AP_CHECK_LING([1], [apertium-fin])
 AP_CHECK_LING([2b], [apertium-nob])
