@@ -16,8 +16,9 @@
       <cat-item tags="cnjcoo.*"/>
     </def-cat>
     <def-cat n="card">
-      <cat-item tags="det.qnt.un.pl"/> <!-- more than card
-                                            but cannot enumerate lemmas :-( -->
+      <cat-item tags="det.qnt.un.pl"/>
+      <cat-item tags="det.qnt.un.pl.*"/>
+        <!-- more than card  but cannot enumerate lemmas :-( -->
       <cat-item tags="num.card.*"/>
     </def-cat>
     <def-cat n="for">
