@@ -124,25 +124,10 @@
                      <td>
                         <ul>
                            
-                           <li>1<code>&lt;det.qnt.un.sg&gt;</code></li>
+                           <li><code>&lt;det.qnt.un.pl&gt;</code></li>
                            
-                           <li>2<code>&lt;det.qnt.un.pl&gt;</code></li>
+                           <li><code>&lt;det.qnt.un.pl.*&gt;</code></li>
                            
-                           <li>3<code>&lt;det.qnt.un.pl&gt;</code></li>
-                           
-                           <li>4<code>&lt;det.qnt.un.pl&gt;</code></li>
-                           
-                           <li>5<code>&lt;det.qnt.un.pl&gt;</code></li>
-                           
-                           <li>6<code>&lt;det.qnt.un.pl&gt;</code></li>
-                           
-                           <li>7<code>&lt;det.qnt.un.pl&gt;</code></li>
-                           
-                           <li>8<code>&lt;det.qnt.un.pl&gt;</code></li>
-                           
-                           <li>9<code>&lt;det.qnt.un.pl&gt;</code></li>
-                           
-                           <li>10<code>&lt;det.qnt.un.pl&gt;</code></li>
                            
                            <li><code>&lt;num.card.*&gt;</code></li>
                            
@@ -156,6 +141,19 @@
                         <ul>
                            
                            <li>for<code>&lt;pr&gt;</code></li>
+                           
+                        </ul>
+                     </td>
+                  </tr>
+                  
+                  <tr>
+                     <td>i</td>
+                     <td>
+                        <ul>
+                           
+                           <li>i<code>&lt;pr&gt;</code></li>
+                           
+                           <li>I<code>&lt;pr&gt;</code></li>
                            
                         </ul>
                      </td>
@@ -293,6 +291,10 @@
                            <li>en<code>&lt;det.*&gt;</code></li>
                            
                            <li>den<code>&lt;det.*&gt;</code></li>
+                           
+                           <li>denne<code>&lt;det.*&gt;</code></li>
+                           
+                           <li>dette<code>&lt;det.*&gt;</code></li>
                            
                         </ul>
                      </td>
@@ -1982,6 +1984,67 @@
                </ol></code>
             
             
+            <h3>i år – vuonna</h3>
+            
+            <h4>Matching pattern:</h4>
+            <ol>
+               
+               <li>i</li>
+               
+               <li>card</li>
+               
+            </ol>
+            
+            <h4>Action:</h4><code>
+               <ol>
+                  
+                  <li>number-mangler(
+                     $2
+                     )
+                  </li>
+                  
+                  <li>case-mangler(
+                     $2
+                     )
+                  </li>
+                  
+                  <li>comp-mangler(
+                     $2
+                     )
+                  </li>
+                  
+                  <li>Output: 
+                     <ol>
+                        
+                        <li>
+                           [
+                           <ol>
+                              <li>
+                                 
+                                 "vuonna"
+                                 
+                                 &lt;adv&gt;
+                                 
+                              </li>
+                              <li><sub>b0</sub><br></li>
+                              <li>
+                                 <em>tl[2]['lem']</em>
+                                 &lt;num&gt; 
+                                 &lt;card&gt; 
+                                 &lt;sg&gt; 
+                                 &lt;nom&gt;
+                                 
+                              </li>
+                           </ol>]<sub>year
+                              &lt;NUMP&gt;
+                              </sub></li>
+                        
+                     </ol>
+                  </li>
+                  
+               </ol></code>
+            
+            
             <h3>num</h3>
             
             <h4>Matching pattern:</h4>
@@ -2024,8 +2087,8 @@
                                  $<em>case</em>
                                  
                               </li>
-                           </ol>]<sub>adj
-                              &lt;ADJ&gt;
+                           </ol>]<sub>card
+                              &lt;NUM&gt;
                               </sub></li>
                         
                      </ol>
