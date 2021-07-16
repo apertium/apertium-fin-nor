@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
-    <def-cat n="nom">
+    <def-cat n="noun">
       <cat-item tags="n.*"/>
     </def-cat>
     <def-cat n="sent">
@@ -10,8 +10,15 @@
   </section-def-cats>
 
   <section-def-attrs>
-    <def-attr n="a_cas">
-      <attr-item tags="nom"/>
+    <def-attr n="a_noun">
+      <attr-item tags="n.nt"/>
+      <attr-item tags="n.f"/>
+      <attr-item tags="n.m"/>
+    </def-attr>
+    <def-attr n="a_number">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+      <attr-item tags="sp"/>
     </def-attr>
   </section-def-attrs>
 
@@ -29,9 +36,9 @@
   </section-def-macros>
 
   <section-rules>
-    <rule comment="REGLA: SENT">
+    <rule comment="noun: drop case">
       <pattern>
-        <pattern-item n="sent"/>
+        <pattern-item n="noun"/>
       </pattern>
       <action>
         <out>
@@ -40,7 +47,10 @@
               <tag><lit-tag v="SENT"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_noun"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <lit-tag v="ind"/>
             </lu>
           </chunk>
         </out>
