@@ -1,0 +1,16 @@
+[2A7df7B0tR0f#0] ^6.<adj><ord><sg><nom>$
+[/2A7df7B0tR0f]
+[8OWKFhQZEHgB#0] ^@¹<num><card><sg><nom>$
+[/8OWKFhQZEHgB]
+[91ma2XREwFe-#0] ^@Vus-basert<adj><pst><sg><nom>$
+[/91ma2XREwFe-]
+[OXPgIukyIPkh#0] ^-<num><card><sg><nom>$
+[/OXPgIukyIPkh]
+[PztzooXYgCLy#0] ^@³<num><card><sg><nom>$
+[/PztzooXYgCLy]
+[QbgF6nrAFOI1#0] ^;<punct>$
+[/QbgF6nrAFOI1]
+[iNH5irIl3B20#0] ^’<punct>$
+[/iNH5irIl3B20]
+[ul7FHQekrA6V#0] ^)<punct>$
+[/ul7FHQekrA6V]

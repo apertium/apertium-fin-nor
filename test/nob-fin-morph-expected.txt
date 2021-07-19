@@ -1,0 +1,14 @@
+[6lJwYG2g__Nj#0] ^Pxxtoyqzoiv-baserte/Pxxtoyqzoiv-basert<adj><pst><un><sp><def>/Pxxtoyqzoiv-basert<adj><pst><un><pl><ind>$
+[/6lJwYG2g__Nj]
+[Cr266NyIBZ43#0] ^7.s/7.<adj><ord><pst><nt><sg><ind><gen>/7.<adj><ord><pst><un><sp><def><gen>/7.<adj><ord><pst><un><pl><ind><gen>/7.<adj><ord><pst><mf><sg><ind><gen>$
+[/Cr266NyIBZ43]
+[Jl_aF6NGEbFT#0] ^'/'<apos>$
+[/Jl_aF6NGEbFT]
+[RlJhTE2HeOV6#0] ^955/955<det><qnt><un><pl>$
+[/RlJhTE2HeOV6]
+[g4lb56mD-25k#0] ^½/½<det><qnt><un><pl>$
+[/g4lb56mD-25k]
+[tJNYlMjOFr3m#0] ^…/…<sent><clb>$
+[/tJNYlMjOFr3m]
+[u3IIvJtdfATx#0] ^!/!<sent><clb>$
+[/u3IIvJtdfATx]

@@ -1,0 +1,14 @@
+[6lJwYG2g__Nj#0] ^adj<ADJ>{^@Pxxtoyqzoiv-basert<adj><pst><pl><nom>$}$
+[/6lJwYG2g__Nj]
+[Cr266NyIBZ43#0] ^ord<ADJ>{^7.<adj><ord><sg><nom>$}$
+[/Cr266NyIBZ43]
+[Jl_aF6NGEbFT#0] ^default<default>{^’<punct>$}$
+[/Jl_aF6NGEbFT]
+[RlJhTE2HeOV6#0] ^card<NUM>{^955<num><card><sg><nom>$}$
+[/RlJhTE2HeOV6]
+[g4lb56mD-25k#0] ^card<NUM>{^@½<num><card><sg><nom>$}$
+[/g4lb56mD-25k]
+[tJNYlMjOFr3m#0] ^default<default>{^@…<sent><clb>$}$
+[/tJNYlMjOFr3m]
+[u3IIvJtdfATx#0] ^default<default>{^!<punct>$}$
+[/u3IIvJtdfATx]

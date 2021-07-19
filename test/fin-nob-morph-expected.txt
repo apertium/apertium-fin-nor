@@ -1,0 +1,10 @@
+[6lbuj2hqecCz#0] ^Łapysipä/Łapy<np><top><pl><nom><px2sg>+pa<enc>/Łapy<np><top><sg><gen><px2sg>+pa<enc>/Łapy<np><top><sg><nom><px2sg>+pa<enc>$
+[/6lbuj2hqecCz]
+[7cRmDaJuwtfI#0] ^rataisinko/-ratainen<adj><pst><pl><ins>+ko<qst>/-ratainen<adj><sup><sg><nom>+ko<qst>$
+[/7cRmDaJuwtfI]
+[HDTaP1U0yS7y#0] ^olijoiltanikaanko/olija<n><pl><abl><px1sg>+kaan<enc>+ko<qst>/olla<vaux>+ja<n><pl><abl><px1sg>+kaan<enc>+ko<qst>/olla<vblex>+ja<n><pl><abl><px1sg>+kaan<enc>+ko<qst>$
+[/HDTaP1U0yS7y]
+[QBcoyVIJGyu-#0] ^―/―<punct>$
+[/QBcoyVIJGyu-]
+[ul7FHQekrA6V#0] ^)/)<punct>$
+[/ul7FHQekrA6V]

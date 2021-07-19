@@ -1,0 +1,10 @@
+[6lbuj2hqecCz#0] ^default<default>{^@Łapy<np><top><pl><nom><px2sg>$}$ ^default<default>{^@pa<enc>$}$
+[/6lbuj2hqecCz]
+[7cRmDaJuwtfI#0] ^default<default>{^@-ratainen<adj><pst><pl><ins>$}$
+[/7cRmDaJuwtfI]
+[HDTaP1U0yS7y#0] ^default<default>{^@olija<n><pl><abl><px1sg>$}$ ^default<default>{^@kaan<enc>$}$
+[/HDTaP1U0yS7y]
+[QBcoyVIJGyu-#0] ^default<default>{^@―<punct>$}$
+[/QBcoyVIJGyu-]
+[ul7FHQekrA6V#0] ^default<default>{^)<rpar>$}$
+[/ul7FHQekrA6V]

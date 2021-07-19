@@ -1,0 +1,18 @@
+{
+    "fin-nob": {
+        "input": "fin-nor-input.txt",
+        "mode": "fin-nob"
+    },
+    "fin-nno": {
+        "input": "fin-nor-input.txt",
+        "mode": "fin-nno"
+    },
+    "nno-fin": {
+        "input": "nno-fin-input.txt",
+        "mode": "nno-fin"
+    },
+    "nob-fin": {
+        "input": "nob-fin-input.txt",
+        "mode": "nob-fin"
+    }
+}

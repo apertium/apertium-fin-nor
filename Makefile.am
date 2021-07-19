@@ -285,3 +285,6 @@ check: all
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
 
+
+test: all
+	apertium-regtest test

@@ -1,0 +1,14 @@
+[6lJwYG2g__Nj#0] ^@Pxxtoyqzoiv-basert<adj><pst><pl><nom>$
+[/6lJwYG2g__Nj]
+[Cr266NyIBZ43#0] ^7.<adj><ord><sg><nom>$
+[/Cr266NyIBZ43]
+[Jl_aF6NGEbFT#0] ^’<punct>$
+[/Jl_aF6NGEbFT]
+[RlJhTE2HeOV6#0] ^955<num><card><sg><nom>$
+[/RlJhTE2HeOV6]
+[g4lb56mD-25k#0] ^@½<num><card><sg><nom>$
+[/g4lb56mD-25k]
+[tJNYlMjOFr3m#0] ^@…<sent><clb>$
+[/tJNYlMjOFr3m]
+[u3IIvJtdfATx#0] ^!<punct>$
+[/u3IIvJtdfATx]

@@ -1,0 +1,10 @@
+[6lbuj2hqecCz#0] ^Łapy<np><top><pl><nom><px2sg>/@Łapy<np><top><pl><nom><px2sg>$ ^pa<enc>/@pa<enc>$
+[/6lbuj2hqecCz]
+[7cRmDaJuwtfI#0] ^-ratainen<adj><pst><pl><ins>/@-ratainen<adj><pst><pl><ins>$ ^ko<qst>/$
+[/7cRmDaJuwtfI]
+[HDTaP1U0yS7y#0] ^olija<n><pl><abl><px1sg>/@olija<n><pl><abl><px1sg>$ ^kaan<enc>/@kaan<enc>$ ^ko<qst>/$
+[/HDTaP1U0yS7y]
+[QBcoyVIJGyu-#0] ^―<punct>/@―<punct>$
+[/QBcoyVIJGyu-]
+[ul7FHQekrA6V#0] ^)<punct>/)<rpar>$
+[/ul7FHQekrA6V]
