@@ -20,6 +20,7 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =		\
 	$(PREFIX1).rlx.bin	\
+	$(PREFIX1).automorf-untrimmed.hfst \
 	$(PREFIX1).automorf.hfst \
 	$(PREFIX1b).autobil.bin \
 	$(PREFIX1b).autogen.bin \
@@ -63,6 +64,9 @@ TARGETS_COMMON =		\
 # -------------------
 
 $(PREFIX1).automorf.hfst: $(AP_SRC1)/$(LANG1).automorf.hfst
+	cp $< $@
+
+$(PREFIX1).automorf-untrimmed.hfst: $(AP_SRC1)/$(LANG1).automorf.hfst
 	cp $< $@
 
 $(PREFIX1b).automorf.hfst: $(AP_SRC1)/$(LANG1).automorf.hfst
