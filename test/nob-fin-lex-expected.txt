@@ -8,7 +8,7 @@
 [/RlJhTE2HeOV6]
 [g4lb56mD-25k#0] ^½<det><qnt><un><pl>/@½<det><qnt><un><pl>$
 [/g4lb56mD-25k]
-[tJNYlMjOFr3m#0] ^…<sent><clb>/@…<sent><clb>$
+[tJNYlMjOFr3m#0] ^…<sent><clb>/…<punct>$
 [/tJNYlMjOFr3m]
 [u3IIvJtdfATx#0] ^!<sent><clb>/!<punct>$
 [/u3IIvJtdfATx]

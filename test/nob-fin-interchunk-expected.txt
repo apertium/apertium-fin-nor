@@ -8,7 +8,7 @@
 [/RlJhTE2HeOV6]
 [g4lb56mD-25k#0] ^card<NUM>{^@½<num><card><sg><nom>$}$
 [/g4lb56mD-25k]
-[tJNYlMjOFr3m#0] ^default<default>{^@…<sent><clb>$}$
+[tJNYlMjOFr3m#0] ^default<default>{^…<punct>$}$
 [/tJNYlMjOFr3m]
 [u3IIvJtdfATx#0] ^default<default>{^!<punct>$}$
 [/u3IIvJtdfATx]
