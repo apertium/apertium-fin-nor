@@ -126,7 +126,7 @@
       <attr-item tags="imp"/>
     </def-attr>
     <def-attr n="a_ord">
-      <attr-item tags="adj.ord"/>
+      <attr-item tags="adj.ord.pst"/>
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
