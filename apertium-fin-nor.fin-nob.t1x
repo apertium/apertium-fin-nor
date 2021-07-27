@@ -4,6 +4,36 @@
     <def-cat n="noun">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
+    <def-cat n="inf">
+      <cat-item tags="vblex.*.infa.*"/>
+      <cat-item tags="vaux.*.infa.*"/>
+      <cat-item tags="vblex.*.infe.*"/>
+      <cat-item tags="vaux.*.infe.*"/>
+      <cat-item tags="vblex.*.infma.*"/>
+      <cat-item tags="vaux.*.infma.*"/>
+    </def-cat>
+    <def-cat n="pcp">
+      <cat-item tags="vblex.*.pprs.*"/>
+      <cat-item tags="vblex.*.pp.*"/>
+      <cat-item tags="vaux.*.pprs.*"/>
+      <cat-item tags="vaux.*.pp.*"/>
+    </def-cat>
+    <def-cat n="agent">
+      <cat-item tags="vblex.agent.*"/>
+    </def-cat>
+    <def-cat n="pcpneg">
+      <cat-item tags="vblex.pneg.*"/>
+    </def-cat>
+    <def-cat n="verb">
+      <cat-item tags="vblex.*"/>
+      <cat-item tags="vaux.*"/>
+    </def-cat>
+    <def-cat n="card">
+      <cat-item tags="num.card.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -14,43 +44,317 @@
       <attr-item tags="n.nt"/>
       <attr-item tags="n.f"/>
       <attr-item tags="n.m"/>
+      <attr-item tags="n.un"/>
+    </def-attr>
+    <def-attr n="a_adj">
+      <attr-item tags="adj.pprs"/>
+      <attr-item tags="adj.ord.pst"/>
+      <attr-item tags="adj.pst"/>
+      <attr-item tags="adj.comp"/>
+      <attr-item tags="adj.sup"/>
+      <attr-item tags="adj.sint.pst"/>
+      <attr-item tags="adj.sint.comp"/>
+      <attr-item tags="adj.sint.sup"/>
+    </def-attr>
+    <def-attr n="a_numeral">
+      <attr-item tags="det.qnt"/>
+    </def-attr>
+    <def-attr n="a_verb">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vblex.pstv"/>
+      <attr-item tags="vaux"/>
+    </def-attr>
+    <def-attr n="a_pcp">
+      <attr-item tags="pp"/>
+      <attr-item tags="pprs"/>
+    </def-attr>
+    <def-attr n="a_passive">
+      <attr-item tags="pasv"/>
+    </def-attr>
+    <def-attr n="a_tensemood">
+      <attr-item tags="pres"/>
+      <attr-item tags="past"/>
+      <attr-item tags="pret"/>
+      <attr-item tags="pri"/>
+      <attr-item tags="imp"/>
+      <attr-item tags="cni"/>
     </def-attr>
     <def-attr n="a_number">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
       <attr-item tags="sp"/>
     </def-attr>
+    <def-attr n="a_gender">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="mf"/>
+      <attr-item tags="un"/>
+    </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
-    <def-var n="number"/>
+    <def-var n="gender"/>
   </section-def-vars>
 
   <section-def-macros>
-    <def-macro n="test" npar="1">
+    <def-macro n="tense-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_passive"/><lit-tag v="pasv"/></equal>
+          </test>
           <let>
-            <var n="number"/>
-            <lit v=""/>
+            <clip pos="1" side="tl" part="a_tensemood"/><lit-tag v="pres"/>
           </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_tensemood"/><lit-tag v="pri"/></equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_tensemood"/><lit-tag v="pres"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_tensemood"/><lit-tag v="past"/></equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="a_tensemood"/><lit-tag v="pret"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <clip pos="1" side="tl" part="a_tensemood"/><lit-tag v="pres"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="adj-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="pl"/></equal>
+          </test>
+          <let>
+            <var n="gender"/><lit-tag v="un"/>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="a_number"/><lit-tag v="sg"/></equal>
+          </test>
+          <let>
+            <var n="gender"/><lit-tag v="mf"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="gender"/><lit-tag v="mf"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="card-mangler" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal><clip pos="1" side="sl" part="lem"/><lit v="1"/></equal>
+          </test>
+          <let>
+            <var n="gender"/><lit v=""/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="a_number"/><lit-tag v="sg"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="gender"/><lit-tag v="un"/>
+          </let>
+          <let>
+            <clip pos="1" side="tl" part="a_number"/><lit-tag v="pl"/>
+          </let>
+        </otherwise>
+      </choose>
     </def-macro>
   </section-def-macros>
 
   <section-rules>
-    <rule comment="noun: drop case">
+    <rule comment="pcpneg: not happened">
+      <pattern>
+        <pattern-item n="pcpneg"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="exv" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V.PCPNEG"/></tag>
+            </tags>
+            <lu>
+              <lit v="ikke"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b pos="0"/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="pret"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="agent fallback: ? that happened">
+      <pattern>
+        <pattern-item n="agent"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="exv" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V.AGENT"/></tag>
+            </tags>
+            <lu>
+              <lit v="som"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b pos="0"/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="pret"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="stray participles: ...">
+      <pattern>
+        <pattern-item n="pcp"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="pcp" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V.PCP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="a_pcp"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="infinite-verb: ...">
+      <pattern>
+        <pattern-item n="inf"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="verb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V.INF"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="finite-verb: drop personals">
+      <pattern>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <call-macro n="tense-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="verb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="V"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="a_tensemood"/>
+              <clip pos="1" side="tl" part="a_passive"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="adj: drop case, always ind atm">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="adj-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="adj" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="A"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <var n="gender"/>
+              <clip pos="1" side="tl" part="a_number"/>
+              <lit-tag v="ind"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="noun: drop case, always ind atm">
       <pattern>
         <pattern-item n="noun"/>
       </pattern>
       <action>
         <out>
-          <chunk name="sent" case="caseFirstWord">
+          <chunk name="noun" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SENT"/></tag>
+              <tag><lit-tag v="N"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_noun"/>
               <clip pos="1" side="tl" part="a_number"/>
               <lit-tag v="ind"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="cardinal: det.qnt for whatever reason">
+      <pattern>
+        <pattern-item n="card"/>
+      </pattern>
+      <action>
+        <call-macro n="card-mangler">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="num" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="NUM.CARD"/></tag>
+              <tag><clip pos="1" side="sl" part="a_number"/></tag>
+                <!-- save the real numerus here ^^ -->
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_numeral"/>
+              <var n="gender"/>
+              <clip pos="1" side="tl" part="a_number"/>
             </lu>
           </chunk>
         </out>
