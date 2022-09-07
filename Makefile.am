@@ -25,15 +25,11 @@ TARGETS_COMMON =		\
 	$(PREFIX1b).autobil.bin \
 	$(PREFIX1b).autogen.bin \
 	$(PREFIX1b).autolex.bin \
-	$(PREFIX1b).t1x.bin \
-	$(PREFIX1b).t2x.bin \
-	$(PREFIX1b).t3x.bin \
+	$(PREFIX1b).rtx.bin \
 	$(PREFIX1n).autobil.bin	\
 	$(PREFIX1n).autolex.bin	\
 	$(PREFIX1n).autogen.bin	\
-	$(PREFIX1n).t1x.bin	\
-	$(PREFIX1n).t2x.bin	\
-	$(PREFIX1n).t3x.bin	\
+	$(PREFIX1n).rtx.bin	\
 	$(PREFIX2n).automorf.bin	\
 	$(PREFIX2b).automorf.bin	\
 	$(PREFIX2n).untrimmed-automorf.bin	\
@@ -48,9 +44,7 @@ TARGETS_COMMON =		\
 	$(PREFIX2n).autolex.bin	\
 	$(PREFIX2b).autolex.bin	\
 	$(PREFIX2).autogen.hfst	\
-	$(PREFIX2).t1x.bin	\
-	$(PREFIX2).t2x.bin	\
-	$(PREFIX2).t3x.bin
+	$(PREFIX2).rtx.bin
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
 @ap_include@
@@ -187,6 +181,9 @@ $(PREFIX2n).autolex.bin: $(BASENAME).$(PREFIX2n).lrx
 ###############################################################################
 
 
+$(PREFIX1b).rtx.bin: $(BASENAME).$(PREFIX1b).rtx
+	rtx-comp $< $@
+
 $(PREFIX1b).t1x.bin: $(BASENAME).$(PREFIX1b).t1x
 	apertium-validate-transfer $<
 	apertium-preprocess-transfer $< $@
@@ -198,6 +195,9 @@ $(PREFIX1b).t2x.bin: $(BASENAME).$(PREFIX1b).t2x
 $(PREFIX1b).t3x.bin: $(BASENAME).$(PREFIX1b).t3x
 	apertium-validate-postchunk $<
 	apertium-preprocess-transfer $< $@
+
+$(PREFIX1n).rtx.bin: $(BASENAME).$(PREFIX1n).rtx
+	rtx-comp $< $@
 
 $(PREFIX1n).t1x.bin: $(BASENAME).$(PREFIX1n).t1x
 	apertium-validate-transfer $<
@@ -211,6 +211,8 @@ $(PREFIX1n).t3x.bin: $(BASENAME).$(PREFIX1n).t3x
 	apertium-validate-postchunk $<
 	apertium-preprocess-transfer $< $@
 
+$(PREFIX2).rtx.bin: $(BASENAME).$(PREFIX2).rtx
+	rtx-comp $< $@
 
 $(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
 	apertium-validate-transfer $<
@@ -232,15 +234,9 @@ EXTRA_DIST=					\
 		$(BASENAME).$(PREFIX1).lrx	\
 		$(BASENAME).$(PREFIX1).dix	\
 		$(BASENAME).$(PREFIX2).lrx	\
-		$(BASENAME).$(PREFIX1b).t1x	\
-		$(BASENAME).$(PREFIX1b).t2x	\
-		$(BASENAME).$(PREFIX1b).t3x	\
-		$(BASENAME).$(PREFIX1n).t1x	\
-		$(BASENAME).$(PREFIX1n).t2x	\
-		$(BASENAME).$(PREFIX1n).t3x	\
-		$(BASENAME).$(PREFIX2).t1x	\
-		$(BASENAME).$(PREFIX2).t2x	\
-		$(BASENAME).$(PREFIX2).t3x	\
+		$(BASENAME).$(PREFIX1b).rtx	\
+		$(BASENAME).$(PREFIX1n).rtx	\
+		$(BASENAME).$(PREFIX2).rtx	\
 		modes.xml
 
 ###############################################################################
@@ -251,16 +247,7 @@ apertium_fin_nordir=$(prefix)/share/apertium/$(BASENAME)/
 
 # Files which should be installed to $(prefix)/share/apertium/$(BASENAME)/:
 apertium_fin_nor_DATA=	\
-	$(TARGETS_COMMON)				\
-	$(BASENAME).$(PREFIX1b).t1x			\
-	$(BASENAME).$(PREFIX1b).t2x			\
-	$(BASENAME).$(PREFIX1b).t3x			\
-	$(BASENAME).$(PREFIX1n).t1x			\
-	$(BASENAME).$(PREFIX1n).t2x			\
-	$(BASENAME).$(PREFIX1n).t3x			\
-	$(BASENAME).$(PREFIX2).t1x			\
-	$(BASENAME).$(PREFIX2).t2x			\
-	$(BASENAME).$(PREFIX2).t3x
+	$(TARGETS_COMMON)
 
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
