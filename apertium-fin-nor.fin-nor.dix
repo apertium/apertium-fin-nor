@@ -5124,285 +5124,1368 @@
     <!-- {{{ adverbs -->
 
     <e c="must be with neg"><p><l>tietenkään<s n="adv"/></l><r>selvfølgelig<s n="adv"/></r></p></e>
+    <e><p><l>aamuisin<s n="adv"/></l><r>om morgenen<s n="adv"/></r></p></e>
+    <e><p><l>aatteellisesti<s n="adv"/></l><r>ideologisk<s n="adv"/></r></p></e>
+    <e><p><l>absoluuttisesti<s n="adv"/></l><r>i absolutte termer<s n="adv"/></r></p></e>
+    <e><p><l>aggressiivisesti<s n="adv"/></l><r>aggressivt<s n="adv"/></r></p></e>
+    <e><p><l>ahkerasti<s n="adv"/></l><r>flittig<s n="adv"/></r></p></e>
+    <e><p><l>aidosti<s n="adv"/></l><r>genuint<s n="adv"/></r></p></e>
     <e><p><l>aiemmin<s n="adv"/></l><r>før<s n="adv"/></r></p></e>
     <e><p><l>aiemmin<s n="adv"/></l><r>før<s n="adv"/></r></p></e>
     <e><p><l>aiemmin<s n="adv"/></l><r>tidligere<s n="adv"/></r></p></e>
+    <e><p><l>aiemmin<s n="adv"/></l><r>tidligere<s n="adv"/></r></p></e>
     <e><p><l>aiemmin<s n="adv"/></l><r>tidlig<s n="adv"/></r></p></e>
     <e><p><l>aiemmin<s n="adv"/></l><r>tidlig<s n="adv"/></r></p></e>
+    <e><p><l>aikaisemmin<s n="adv"/></l><r>tidligere<s n="adv"/></r></p></e>
     <e><p><l>aikaisin<s n="adv"/></l><r>tidleg<s n="adv"/></r></p></e>
+    <e><p><l>aikaisin<s n="adv"/></l><r>tidlig<s n="adv"/></r></p></e>
+    <e><p><l>aikanaan<s n="adv"/></l><r>etter hvert<s n="adv"/></r></p></e>
+    <e><p><l>aikanaan<s n="adv"/></l><r>i si tid<s n="adv"/></r></p></e>
     <e><p><l>aika<s n="adv"/></l><r>veldig<s n="adv"/></r></p></e>
+    <e><p><l>aikoinaan<s n="adv"/></l><r>i sin tid<s n="adv"/></r></p></e>
+    <e><p><l>aina<s n="adv"/></l><r>alltid<s n="adv"/></r></p></e>
     <e><p><l>aina<s n="adv"/></l><r>alltid<s n="adv"/></r></p></e>
     <e><p><l>aina<s n="adv"/></l><r>heile<b/>tida<s n="adv"/></r></p></e>
+    <e><p><l>ajoissa<s n="adv"/></l><r>i tide<s n="adv"/></r></p></e>
     <e><p><l>ajoissa<s n="adv"/></l><r>på<b/>tide<s n="adv"/></r></p></e>
+    <e><p><l>ajoittain<s n="adv"/></l><r>fra tid til annen<s n="adv"/></r></p></e>
+    <e><p><l>akateemisesti<s n="adv"/></l><r>akademisk<s n="adv"/></r></p></e>
+    <e><p><l>aktiivisesti<s n="adv"/></l><r>aktivt<s n="adv"/></r></p></e>
+    <e><p><l>akustisesti<s n="adv"/></l><r>akustisk<s n="adv"/></r></p></e>
+    <e><p><l>alakynteen<s n="adv"/></l><r>i mindretall<s n="adv"/></r></p></e>
+    <e><p><l>alaspäin<s n="adv"/></l><r>nedover<s n="adv"/></r></p></e>
+    <e><p><l>alas<s n="adv"/></l><r>ned<s n="adv"/></r></p></e>
+    <e><p><l>alati<s n="adv"/></l><r>alltid<s n="adv"/></r></p></e>
+    <e><p><l>alemmas<s n="adv"/></l><r>lavere<s n="adv"/></r></p></e>
+    <e><p><l>alempaa<s n="adv"/></l><r>nedenfor<s n="adv"/></r></p></e>
+    <e><p><l>alempana<s n="adv"/></l><r>nedenfor<s n="adv"/></r></p></e>
+    <e><p><l>alhaalla<s n="adv"/></l><r>nede<s n="adv"/></r></p></e>
     <e><p><l>alhaalla<s n="adv"/></l><r>ned<s n="adv"/></r></p></e>
+    <e><p><l>alhaalta<s n="adv"/></l><r>fra bunnen<s n="adv"/></r></p></e>
+    <e><p><l>alituisesti<s n="adv"/></l><r>konstant<s n="adv"/></r></p></e>
+    <e><p><l>alkeellisesti<s n="adv"/></l><r>primitive<s n="adv"/></r></p></e>
+    <e><p><l>alkuaan<s n="adv"/></l><r>i utgangspunktet<s n="adv"/></r></p></e>
+    <e><p><l>alkujaan<s n="adv"/></l><r>opprinnelig<s n="adv"/></r></p></e>
+    <e><p><l>alkuperäisesti<s n="adv"/></l><r>opprinnelig<s n="adv"/></r></p></e>
+    <e><p><l>alkuun<s n="adv"/></l><r>først<s n="adv"/></r></p></e>
+    <e><p><l>alkuun<s n="adv"/></l><r>i begynnelsen<s n="adv"/></r></p></e>
+    <e><p><l>alla<s n="adv"/></l><r>under<s n="adv"/></r></p></e>
+    <e><p><l>allekkain<s n="adv"/></l><r>under hverandre<s n="adv"/></r></p></e>
+    <e><p><l>alle<s n="adv"/></l><r>inn under<s n="adv"/></r></p></e>
     <e><p><l>alle<s n="adv"/></l><r>under<s n="adv"/></r></p></e>
+    <e><p><l>alueellisesti<s n="adv"/></l><r>regionalt<s n="adv"/></r></p></e>
+    <e><p><l>alueittain<s n="adv"/></l><r>områdevis<s n="adv"/></r></p></e>
+    <e><p><l>aluksi<s n="adv"/></l><r>i begynnelsen<s n="adv"/></r></p></e>
     <e><p><l>alunperin<s n="adv"/></l><r>opprinnelig<s n="adv"/></r></p></e>
+    <e><p><l>alusta<s n="adv"/></l><r>fra begynnelsen av<s n="adv"/></r></p></e>
+    <e><p><l>alustavasti<s n="adv"/></l><r>forsøksvis<s n="adv"/></r></p></e>
+    <e><p><l>alustavasti<s n="adv"/></l><r>innledningsvis<s n="adv"/></r></p></e>
+    <e><p><l>ammatillisesti<s n="adv"/></l><r>profesjonelt<s n="adv"/></r></p></e>
+    <e><p><l>ammattimaisesti<s n="adv"/></l><r>profesjonelt<s n="adv"/></r></p></e>
+    <e><p><l>analogisesti<s n="adv"/></l><r>analogt<s n="adv"/></r></p></e>
+    <e><p><l>analyyttisesti<s n="adv"/></l><r>analytisk<s n="adv"/></r></p></e>
+    <e><p><l>ankarasti<s n="adv"/></l><r>alvorlig<s n="adv"/></r></p></e>
+    <e><p><l>ankarasti<s n="adv"/></l><r>strengt<s n="adv"/></r></p></e>
+    <e><p><l>ansiokkaasti<s n="adv"/></l><r>fortjenestefullt<s n="adv"/></r></p></e>
+    <e><p><l>arkeologisesti<s n="adv"/></l><r>arkeologisk<s n="adv"/></r></p></e>
+    <e><p><l>arkipäivisin<s n="adv"/></l><r>på hverdager<s n="adv"/></r></p></e>
+    <e><p><l>arkisin<s n="adv"/></l><r>på hverdager<s n="adv"/></r></p></e>
+    <e><p><l>arkkitehtonisesti<s n="adv"/></l><r>arkitektonisk<s n="adv"/></r></p></e>
+    <e><p><l>armottomasti<s n="adv"/></l><r>nådeløst<s n="adv"/></r></p></e>
+    <e><p><l>arvostelevasti<s n="adv"/></l><r>kritisk<s n="adv"/></r></p></e>
+    <e><p><l>asiallisesti<s n="adv"/></l><r>saklig<s n="adv"/></r></p></e>
+    <e><p><l>asianmukaisesti<s n="adv"/></l><r>saklig<s n="adv"/></r></p></e>
     <e><p><l>asteittain<s n="adv"/></l><r>gradvis<s n="adv"/></r></p></e>
+    <e><p><l>auki<s n="x"/></l><r>ledig<s n="x"/></r></p></e>
+    <e><p><l>auki<s n="x"/></l><r>åpen<s n="x"/></r></p></e>
+    <e><p><l>automaattisesti<s n="adv"/></l><r>automatisk<s n="adv"/></r></p></e>
     <e><p><l>avoimesti<s n="adv"/></l><r>åpenlyst<s n="adv"/></r></p></e>
+    <e><p><l>avoimesti<s n="adv"/></l><r>åpent<s n="adv"/></r></p></e>
+    <e><p><l>avoinna<s n="adv"/></l><r>åpen<s n="adv"/></r></p></e>
+    <e><p><l>avokätisesti<s n="adv"/></l><r>sjenerøst<s n="adv"/></r></p></e>
+    <e><p><l>avosylin<s n="adv"/></l><r>med åpne armer<s n="adv"/></r></p></e>
+    <e><p><l>biologisesti<s n="adv"/></l><r>biologisk<s n="adv"/></r></p></e>
+    <e><p><l>deduktiivisesti<s n="adv"/></l><r>deduktivt<s n="adv"/></r></p></e>
+    <e><p><l>demokraattisesti<s n="adv"/></l><r>demokratisk<s n="adv"/></r></p></e>
     <e><p><l>digitaalisesti<s n="adv"/></l><r>digitalt<s n="adv"/></r></p></e>
+    <e><p><l>dramaattisesti<s n="adv"/></l><r>dramatisk<s n="adv"/></r></p></e>
+    <e><p><l>dynaamisesti<s n="adv"/></l><r>dynamisk<s n="adv"/></r></p></e>
     <e><p><l>edelleen<s n="adv"/></l><r>fortsatt<s n="adv"/></r></p></e>
+    <e><p><l>edelleen<s n="adv"/></l><r>fremdeles<s n="adv"/></r></p></e>
+    <e><p><l>edelleen<s n="adv"/></l><r>videre<s n="adv"/></r></p></e>
+    <e><p><l>edellä<s n="adv"/></l><r>foran<s n="adv"/></r></p></e>
+    <e><p><l>edellä<s n="adv"/></l><r>ovenfor<s n="adv"/></r></p></e>
+    <e><p><l>edemmäs<s n="adv"/></l><r>videre<s n="adv"/></r></p></e>
     <e><p><l>edessä<s n="adv"/></l><r>foran<s n="adv"/></r></p></e>
+    <e><p><l>edestakaisin<s n="adv"/></l><r>frem og tilbake<s n="adv"/></r></p></e>
+    <e><p><l>edestäpäin<s n="adv"/></l><r>forfra<s n="adv"/></r></p></e>
+    <e><p><l>edestä<s n="adv"/></l><r>forfra<s n="adv"/></r></p></e>
+    <e><p><l>edullisesti<s n="adv"/></l><r>fordelaktig<s n="adv"/></r></p></e>
+    <e><p><l>eettisesti<s n="adv"/></l><r>etisk<s n="adv"/></r></p></e>
     <e><p><l>ehdolla<s n="adv"/></l><r>betinget<s n="adv"/></r></p></e>
+    <e><p><l>ehdottomasti<s n="adv"/></l><r>utvilsomt<s n="adv"/></r></p></e>
     <e><p><l>ehkä<s n="adv"/></l><r>kanskje<s n="adv"/></r></p></e>
     <e><p><l>eilen<s n="adv"/></l><r>i<b/>går<s n="adv"/></r></p></e>
+    <e><p><l>eilen<s n="adv"/></l><r>i går<s n="adv"/></r></p></e>
     <e><p><l>ei<s n="adv"/></l><r>ei<s n="adv"/></r></p></e>
     <e><p><l>ei<s n="adv"/></l><r>verken<s n="adv"/></r></p></e>
+    <e><p><l>eittämättä<s n="adv"/></l><r>utvilsomt<s n="adv"/></r></p></e>
+    <e><p><l>ekologisesti<s n="adv"/></l><r>økologisk<s n="adv"/></r></p></e>
+    <e><p><l>eksplisiittisesti<s n="adv"/></l><r>eksplisitt<s n="adv"/></r></p></e>
+    <e><p><l>eksponentiaalisesti<s n="adv"/></l><r>eksponentielt<s n="adv"/></r></p></e>
+    <e><p><l>elektrolyyttisesti<s n="adv"/></l><r>elektrolytisk<s n="adv"/></r></p></e>
+    <e><p><l>elektronisesti<s n="adv"/></l><r>elektronisk<s n="adv"/></r></p></e>
+    <e><p><l>elossa<s n="adv"/></l><r>i live<s n="adv"/></r></p></e>
+    <e><p><l>elävästi<s n="adv"/></l><r>livaktig<s n="adv"/></r></p></e>
+    <e><p><l>empiirisesti<s n="adv"/></l><r>empirisk<s n="adv"/></r></p></e>
+    <e><p><l>enemmälti<s n="adv"/></l><r>videre<s n="adv"/></r></p></e>
     <e><p><l>enemmän<b/>tai<b/>vähemmän<s n="adv"/></l><r>meir<b/>eller<b/>mindre<s n="adv"/></r></p></e>
     <e><p><l>enemmän<s n="adv"/></l><r>meir<s n="adv"/></r></p></e>
     <e><p><l>enemmän<s n="adv"/></l><r>mer<s n="adv"/></r></p></e>
+    <e><p><l>enemmän<s n="adv"/></l><r>mer<s n="adv"/></r></p></e>
+    <e><p><l>enempää<s n="adv"/></l><r>mer<s n="adv"/></r></p></e>
+    <e><p><l>enenevästi<s n="adv"/></l><r>i økende grad<s n="adv"/></r></p></e>
+    <e><p><l>enimmäkseen<s n="adv"/></l><r>for det meste<s n="adv"/></r></p></e>
     <e><p><l>eniten<s n="adv"/></l><r>fremst<s n="adv"/></r></p></e>
+    <e><p><l>eniten<s n="adv"/></l><r>mest<s n="adv"/></r></p></e>
+    <e><p><l>ennakkoon<s n="adv"/></l><r>på forhånd<s n="adv"/></r></p></e>
+    <e><p><l>ennakolta<s n="adv"/></l><r>på forhånd<s n="adv"/></r></p></e>
+    <e><p><l>ennallaan<s n="adv"/></l><r>som før<s n="adv"/></r></p></e>
+    <e><p><l>ennalleen<s n="adv"/></l><r>uendret<s n="adv"/></r></p></e>
+    <e><p><l>ennalta<s n="adv"/></l><r>på forhånd<s n="adv"/></r></p></e>
+    <e><p><l>ennemmin<s n="adv"/></l><r>heller<s n="adv"/></r></p></e>
+    <e><p><l>ennemmin<s n="adv"/></l><r>mer<s n="adv"/></r></p></e>
+    <e><p><l>ennenaikaisesti<s n="adv"/></l><r>for tidlig<s n="adv"/></r></p></e>
+    <e><p><l>ennen<s n="adv"/></l><r>før<s n="adv"/></r></p></e>
+    <e><p><l>ennestään<s n="adv"/></l><r>fra før<s n="adv"/></r></p></e>
+    <e><p><l>ensiksi<s n="adv"/></l><r>for det første<s n="adv"/></r></p></e>
+    <e><p><l>ensimmäiseksi<s n="adv"/></l><r>først<s n="adv"/></r></p></e>
+    <e><p><l>ensinnä<s n="adv"/></l><r>først av alt<s n="adv"/></r></p></e>
     <e><p><l>ensin<s n="adv"/></l><r>fyrst<s n="adv"/></r></p></e>
     <e><p><l>ensin<s n="adv"/></l><r>først<s n="adv"/></r></p></e>
+    <e><p><l>ensisijaisesti<s n="adv"/></l><r>først og fremst<s n="adv"/></r></p></e>
     <e><p><l>ensisilmäyksellä<s n="adv"/></l><r>ved<b/>første<b/>øyekast<s n="adv"/></r></p></e>
+    <e><p><l>entiselleen<s n="adv"/></l><r>som før<s n="adv"/></r></p></e>
+    <e><p><l>entisestään<s n="adv"/></l><r>som før<s n="adv"/></r></p></e>
+    <e><p><l>entuudestaan<s n="adv"/></l><r>allerede<s n="adv"/></r></p></e>
+    <e><p><l>epäilemättä<s n="adv"/></l><r>utvilsomt<s n="adv"/></r></p></e>
+    <e><p><l>epäilevästi<s n="adv"/></l><r>skeptisk<s n="adv"/></r></p></e>
+    <e><p><l>epäilevästi<s n="adv"/></l><r>tvilende<s n="adv"/></r></p></e>
+    <e><p><l>epäluuloisesti<s n="adv"/></l><r>fordomsfritt<s n="adv"/></r></p></e>
+    <e><p><l>epämääräisesti<s n="adv"/></l><r>vagt<s n="adv"/></r></p></e>
     <e><p><l>epäolennaisesti<s n="adv"/></l><r>omstendig<s n="adv"/></r></p></e>
     <e><p><l>epäsuorasti<s n="adv"/></l><r>indirekte<s n="adv"/></r></p></e>
+    <e><p><l>epäsymmetrisesti<s n="adv"/></l><r>asymmetrisk<s n="adv"/></r></p></e>
+    <e><p><l>epäsäännöllisesti<s n="adv"/></l><r>uregelmessig<s n="adv"/></r></p></e>
+    <e><p><l>epätarkasti<s n="adv"/></l><r>unøyaktig<s n="adv"/></r></p></e>
+    <e><p><l>epätasaisesti<s n="adv"/></l><r>ujevnt<s n="adv"/></r></p></e>
     <e><p><l>epätavallisesti<s n="adv"/></l><r>ualminnelig<s n="adv"/></r></p></e>
+    <e><p><l>epätoivoisesti<s n="adv"/></l><r>håpløst<s n="adv"/></r></p></e>
+    <e><p><l>epävirallisesti<s n="adv"/></l><r>uformelt<s n="adv"/></r></p></e>
+    <e><p><l>erheellisesti<s n="adv"/></l><r>feilaktig<s n="adv"/></r></p></e>
+    <e><p><l>eriaikaisesti<s n="adv"/></l><r>til forskjellige tider<s n="adv"/></r></p></e>
+    <e><p><l>erikoisesti<s n="adv"/></l><r>spesielt<s n="adv"/></r></p></e>
+    <e><p><l>erikseen<s n="adv"/></l><r>særskilt<s n="adv"/></r></p></e>
     <e><p><l>erilaisesti<s n="adv"/></l><r>forskjellig<s n="adv"/></r></p></e>
+    <e><p><l>erilleen<s n="adv"/></l><r>fra hverandre<s n="adv"/></r></p></e>
+    <e><p><l>erillään<s n="adv"/></l><r>fra hverandre<s n="adv"/></r></p></e>
+    <e><p><l>erillään<s n="adv"/></l><r>separat<s n="adv"/></r></p></e>
+    <e><p><l>erinomaisesti<s n="adv"/></l><r>utmerket<s n="adv"/></r></p></e>
+    <e><p><l>eritoten<s n="adv"/></l><r>spesielt<s n="adv"/></r></p></e>
     <e><p><l>erittäin<s n="adv"/></l><r>meget<s n="adv"/></r></p></e>
+    <e><p><l>erittäin<s n="adv"/></l><r>meget<s n="adv"/></r></p></e>
+    <e><p><l>erittäin<s n="adv"/></l><r>svært<s n="adv"/></r></p></e>
     <e><p><l>erittäin<s n="adv"/></l><r>veldig<s n="adv"/></r></p></e>
     <e><p><l>erityisesti<s n="adv"/></l><r>spesielt<s n="adv"/></r></p></e>
     <e><p><l>erityisesti<s n="adv"/></l><r>særlig<s n="adv"/></r></p></e>
+    <e><p><l>esiin<s n="adv"/></l><r>ut  fram<s n="adv"/></r></p></e>
+    <e><p><l>esille<s n="adv"/></l><r>fremme<s n="adv"/></r></p></e>
+    <e><p><l>esillä<s n="adv"/></l><r>fremme<s n="adv"/></r></p></e>
+    <e><p><l>esteettisesti<s n="adv"/></l><r>estetisk<s n="adv"/></r></p></e>
     <e><p><l>eteenpäin<s n="adv"/></l><r>fort<s n="adv"/></r></p></e>
+    <e><p><l>eteenpäin<s n="adv"/></l><r>framover<s n="adv"/></r></p></e>
     <e><p><l>eteenpäin<s n="adv"/></l><r>fram<s n="adv"/></r></p></e>
     <e><p><l>eteenpäin<s n="adv"/></l><r>frem<s n="adv"/></r></p></e>
+    <e><p><l>eteen<s n="adv"/></l><r>foran<s n="adv"/></r></p></e>
+    <e><p><l>eteen<s n="adv"/></l><r>fram<s n="adv"/></r></p></e>
+    <e><p><l>etelämmäksi<s n="adv"/></l><r>lenger sør<s n="adv"/></r></p></e>
+    <e><p><l>etelämmäs<s n="adv"/></l><r>lenger sør<s n="adv"/></r></p></e>
+    <e><p><l>etelämpänä<s n="adv"/></l><r>lenger mot sør<s n="adv"/></r></p></e>
+    <e><p><l>etelämpää<s n="adv"/></l><r>lenger sør<s n="adv"/></r></p></e>
+    <e><p><l>etenkin<s n="adv"/></l><r>særlig<s n="adv"/></r></p></e>
+    <e><p><l>etnisesti<s n="adv"/></l><r>etnisk<s n="adv"/></r></p></e>
+    <e><p><l>etuajassa<s n="adv"/></l><r>før tiden<s n="adv"/></r></p></e>
     <e><p><l>etukäteen<s n="adv"/></l><r>på<b/>forhånd<s n="adv"/></r></p></e>
+    <e><p><l>etukäteen<s n="adv"/></l><r>på forhånd<s n="adv"/></r></p></e>
+    <e><p><l>etymologisesti<s n="adv"/></l><r>etymologisk<s n="adv"/></r></p></e>
+    <e><p><l>etäisesti<s n="adv"/></l><r>eksternt<s n="adv"/></r></p></e>
+    <e><p><l>filosofisesti<s n="adv"/></l><r>filosofisk<s n="adv"/></r></p></e>
+    <e><p><l>foneettisesti<s n="adv"/></l><r>fonetisk<s n="adv"/></r></p></e>
     <e><p><l>forte<s n="adv"/></l><r>forte<s n="adv"/></r></p></e>
+    <e><p><l>fysikaalisesti<s n="adv"/></l><r>fysikalsk<s n="adv"/></r></p></e>
+    <e><p><l>fyysisesti<s n="adv"/></l><r>fysisk<s n="adv"/></r></p></e>
+    <e><p><l>geneettisesti<s n="adv"/></l><r>genetisk<s n="adv"/></r></p></e>
+    <e><p><l>geologisesti<s n="adv"/></l><r>geologisk<s n="adv"/></r></p></e>
+    <e><p><l>geometrisesti<s n="adv"/></l><r>geometrisk<s n="adv"/></r></p></e>
+    <e><p><l>graafisesti<s n="adv"/></l><r>grafisk<s n="adv"/></r></p></e>
+    <e><p><l>haitallisesti<s n="adv"/></l><r>skadelig<s n="adv"/></r></p></e>
+    <e><p><l>hajallaan<s n="adv"/></l><r>spredt<s n="adv"/></r></p></e>
+    <e><p><l>hajalla<s n="adv"/></l><r>spredt<s n="adv"/></r></p></e>
+    <e><p><l>hajanaisesti<s n="adv"/></l><r>stykkevis<s n="adv"/></r></p></e>
+    <e><p><l>hallinnollisesti<s n="adv"/></l><r>administrativt<s n="adv"/></r></p></e>
+    <e><p><l>hallitusti<s n="adv"/></l><r>behersket<s n="adv"/></r></p></e>
+    <e><p><l>harkitusti<s n="adv"/></l><r>med overlegg<s n="adv"/></r></p></e>
+    <e><p><l>harvaan<s n="adv"/></l><r>tynt<s n="adv"/></r></p></e>
+    <e><p><l>harvakseltaan<s n="adv"/></l><r>sjelden<s n="adv"/></r></p></e>
+    <e><p><l>harvassa<s n="adv"/></l><r>få og langt mellom<s n="adv"/></r></p></e>
+    <e><p><l>harvemmin<s n="adv"/></l><r>sjeldnere<s n="adv"/></r></p></e>
     <e><p><l>harvoin<s n="adv"/></l><r>sjelden<s n="adv"/></r></p></e>
+    <e><p><l>havainnollisesti<s n="adv"/></l><r>illustrativt<s n="adv"/></r></p></e>
+    <e><p><l>heikosti<s n="adv"/></l><r>svakt  dårlig<s n="adv"/></r></p></e>
+    <e><p><l>helpoiten<s n="adv"/></l><r>på enkleste måte<s n="adv"/></r></p></e>
+    <e><p><l>helposti<s n="adv"/></l><r>enkelt<s n="adv"/></r></p></e>
     <e><p><l>helposti<s n="adv"/></l><r>lett<s n="adv"/></r></p></e>
+    <e><p><l>hengissä<s n="adv"/></l><r>i live<s n="adv"/></r></p></e>
+    <e><p><l>henkiin<s n="adv"/></l><r>tilbake til livet<s n="adv"/></r></p></e>
+    <e><p><l>henkilökohtaisesti<s n="adv"/></l><r>personlig<s n="adv"/></r></p></e>
+    <e><p><l>henkisesti<s n="adv"/></l><r>åndelig<s n="adv"/></r></p></e>
+    <e><p><l>herkästi<s n="adv"/></l><r>følsomt<s n="adv"/></r></p></e>
+    <e><p><l>heti<s n="adv"/></l><r>straks<s n="adv"/></r></p></e>
+    <e><p><l>hetkellisesti<s n="adv"/></l><r>øyeblikk<s n="adv"/></r></p></e>
+    <e><p><l>hieman<s n="adv"/></l><r>litt<s n="adv"/></r></p></e>
+    <e><p><l>hienosti<s n="adv"/></l><r>fint<s n="adv"/></r></p></e>
+    <e><p><l>hiljaa<s n="adv"/></l><r>rolig<s n="adv"/></r></p></e>
+    <e><p><l>hiljaisesti<s n="adv"/></l><r>stille<s n="adv"/></r></p></e>
+    <e><p><l>hiljakseen<s n="adv"/></l><r>sakte<s n="adv"/></r></p></e>
+    <e><p><l>hiljalleen<s n="adv"/></l><r>sakte<s n="adv"/></r></p></e>
+    <e><p><l>hiljalleen<s n="adv"/></l><r>smått om senn<s n="adv"/></r></p></e>
     <e><p><l>hiljattain<s n="adv"/></l><r>etter<b/>kvart<s n="adv"/></r></p></e>
+    <e><p><l>hiljattain<s n="adv"/></l><r>nylig<s n="adv"/></r></p></e>
     <e><p><l>hitaasti<s n="adv"/></l><r>sakte<s n="adv"/></r></p></e>
+    <e><p><l>holtittomasti<s n="adv"/></l><r>uvørent<s n="adv"/></r></p></e>
+    <e><p><l>huimasti<s n="adv"/></l><r>svimlende<s n="adv"/></r></p></e>
+    <e><p><l>humoristisesti<s n="adv"/></l><r>humoristisk<s n="adv"/></r></p></e>
     <e><p><l>huolellisesti<s n="adv"/></l><r>nøye<s n="adv"/></r></p></e>
+    <e><p><l>huolimattomasti<s n="adv"/></l><r>uforsiktig<s n="adv"/></r></p></e>
+    <e><p><l>huolissaan<s n="adv"/></l><r>bekymret<s n="adv"/></r></p></e>
+    <e><p><l>huomaamattomasti<s n="adv"/></l><r>umerkelig<s n="adv"/></r></p></e>
+    <e><p><l>huomattavasti<s n="adv"/></l><r>betraktelig<s n="adv"/></r></p></e>
+    <e><p><l>huomenna<s n="adv"/></l><r>i morgen<s n="adv"/></r></p></e>
     <e><p><l>huonommin<s n="adv"/></l><r>verre<s n="adv"/></r></p></e>
     <e><p><l>huonosti<s n="adv"/></l><r>dårlig<s n="adv"/></r></p></e>
     <e><p><l>huonosti<s n="adv"/></l><r>dårlig<s n="adv"/></r></p></e>
+    <e><p><l>hydraulisesti<s n="adv"/></l><r>hydraulisk<s n="adv"/></r></p></e>
+    <e><p><l>hyvin<s n="adv"/></l><r>fint<s n="adv"/></r></p></e>
     <e><p><l>hyvin<s n="adv"/></l><r>gjerne<s n="adv"/></r></p></e>
+    <e><p><l>hyvin<s n="adv"/></l><r>godt<s n="adv"/></r></p></e>
     <e><p><l>hyvin<s n="adv"/></l><r>godt<s n="adv"/></r></p></e>
     <e><p><l>hyvin<s n="adv"/></l><r>svært<s n="adv"/></r></p></e>
     <e><p><l>hyvin<s n="adv"/></l><r>veldig<s n="adv"/></r></p></e>
     <e><p><l>hyvin<s n="adv"/></l><r>vel<s n="adv"/></r></p></e>
+    <e><p><l>häikäilemättömästi<s n="adv"/></l><r>hensynsløst<s n="adv"/></r></p></e>
+    <e><p><l>hätäisesti<s n="adv"/></l><r>fort<s n="adv"/></r></p></e>
+    <e><p><l>ikinä<s n="adv"/></l><r>noensinne<s n="adv"/></r></p></e>
+    <e><p><l>ikuisesti<s n="adv"/></l><r>evig<s n="adv"/></r></p></e>
     <e><p><l>ikuisesti<s n="adv"/></l><r>for<b/>alltid<s n="adv"/></r></p></e>
     <e><p><l>ilmaiseksi<s n="adv"/></l><r>gratis<s n="adv"/></r></p></e>
     <e><p><l>ilman<s n="adv"/></l><r>ut<b/>frå<s n="adv"/></r></p></e>
+    <e><p><l>ilmastollisesti<s n="adv"/></l><r>klimatisk<s n="adv"/></r></p></e>
+    <e><p><l>ilmateitse<s n="adv"/></l><r>via lufta<s n="adv"/></r></p></e>
+    <e><p><l>ilmeisesti<s n="adv"/></l><r>tydeligvis<s n="adv"/></r></p></e>
+    <e><p><l>ilmiselvästi<s n="adv"/></l><r>åpenbart<s n="adv"/></r></p></e>
+    <e><p><l>ilmi<s n="adv"/></l><r>åpenbart<s n="adv"/></r></p></e>
+    <e><p><l>iltaisin<s n="adv"/></l><r>på kveldene<s n="adv"/></r></p></e>
+    <e><p><l>implisiittisesti<s n="adv"/></l><r>implisitt<s n="adv"/></r></p></e>
+    <e><p><l>innoissaan<s n="adv"/></l><r>ivrig<s n="adv"/></r></p></e>
+    <e><p><l>innokkaasti<s n="adv"/></l><r>ivrig<s n="adv"/></r></p></e>
+    <e><p><l>intensiivisesti<s n="adv"/></l><r>intensivt<s n="adv"/></r></p></e>
+    <e><p><l>intohimoisesti<s n="adv"/></l><r>lidenskapelig<s n="adv"/></r></p></e>
+    <e><p><l>intuitiivisesti<s n="adv"/></l><r>intuitivt<s n="adv"/></r></p></e>
+    <e><p><l>ironisesti<s n="adv"/></l><r>ironisk<s n="adv"/></r></p></e>
+    <e><p><l>irrallaan<s n="adv"/></l><r>frittliggende<s n="adv"/></r></p></e>
+    <e><p><l>irrallaan<s n="adv"/></l><r>løst<s n="adv"/></r></p></e>
+    <e><p><l>irralleen<s n="adv"/></l><r>løsrevet<s n="adv"/></r></p></e>
+    <e><p><l>itsekkäästi<s n="adv"/></l><r>egoistisk<s n="adv"/></r></p></e>
+    <e><p><l>itsenäisesti<s n="adv"/></l><r>selvstendig<s n="adv"/></r></p></e>
     <e><p><l>itse<s n="adv"/></l><r>selv<s n="adv"/></r></p></e>
+    <e><p><l>itsessään<s n="adv"/></l><r>i seg selv<s n="adv"/></r></p></e>
     <e><p><l>itsestäänselvästi<s n="adv"/></l><r>selvfølgelig<s n="adv"/></r></p></e>
     <e><p><l>itsestäänselvästi<s n="adv"/></l><r>sjølvsagt<s n="adv"/></r></p></e>
+    <e><p><l>itsestään<s n="adv"/></l><r>av seg selv<s n="adv"/></r></p></e>
+    <e><p><l>itsevaltaisesti<s n="adv"/></l><r>autokratisk<s n="adv"/></r></p></e>
     <e><p><l>itäisesti<s n="adv"/></l><r>østover<s n="adv"/></r></p></e>
+    <e><p><l>itäpuolitse<s n="adv"/></l><r>via østsida<s n="adv"/></r></p></e>
+    <e><p><l>jaksoittain<s n="adv"/></l><r>med jevne mellomrom<s n="adv"/></r></p></e>
+    <e><p><l>jaksoittain<s n="adv"/></l><r>sekvensielt<s n="adv"/></r></p></e>
+    <e><p><l>jalan<s n="adv"/></l><r>til fots<s n="adv"/></r></p></e>
+    <e><p><l>jalkaisin<s n="adv"/></l><r>til fots<s n="adv"/></r></p></e>
+    <e><p><l>jatkuvasti<s n="adv"/></l><r>kontinuerlig<s n="adv"/></r></p></e>
+    <e><p><l>johdonmukaisesti<s n="adv"/></l><r>konsekvent<s n="adv"/></r></p></e>
     <e><p><l>johdosta<s n="adv"/></l><r>på<b/>grunn<b/>av<s n="adv"/></r></p></e>
     <e><p><l>joko<s n="adv"/></l><r>enten<s n="adv"/></r></p></e>
+    <e><p><l>jolloin<s n="adv"/></l><r>når<s n="adv"/></r></p></e>
+    <e><p><l>jonnekin<s n="adv"/></l><r>til et sted<s n="adv"/></r></p></e>
+    <e><p><l>jonne<s n="adv"/></l><r>hvorhen<s n="adv"/></r></p></e>
     <e><p><l>jopa<s n="adv"/></l><r>enda<s n="adv"/></r></p></e>
     <e><p><l>jopa<s n="adv"/></l><r>endå<s n="adv"/></r></p></e>
     <e><p><l>jopa<s n="adv"/></l><r>til<b/>og<b/>med<s n="adv"/></r></p></e>
     <e><p><l>jopa<s n="adv"/></l><r>til<b/>og<b/>med<s n="adv"/></r></p></e>
+    <e><p><l>joskus<s n="adv"/></l><r>i blant<s n="adv"/></r></p></e>
     <e><p><l>joskus<s n="adv"/></l><r>noen<b/>gang<s n="adv"/></r></p></e>
     <e><p><l>joskus<s n="adv"/></l><r>nokon<b/>gong<s n="adv"/></r></p></e>
     <e><p><l>joskus<s n="adv"/></l><r>nokre<b/>gonger<s n="adv"/></r></p></e>
     <e><p><l>jo<s n="adv"/></l><r>allerede<s n="adv"/></r></p></e>
     <e><p><l>jo<s n="adv"/></l><r>allerede<s n="adv"/></r></p></e>
+    <e><p><l>jo<s n="adv"/></l><r>allerede<s n="adv"/></r></p></e>
+    <e><p><l>jossain<s n="adv"/></l><r>et eller annet sted<s n="adv"/></r></p></e>
+    <e><p><l>jostain<s n="adv"/></l><r>et sted<s n="adv"/></r></p></e>
+    <e><p><l>jostakin<s n="adv"/></l><r>fra et sted<s n="adv"/></r></p></e>
+    <e><p><l>jotenkin<s n="adv"/></l><r>på en eller annen måte<s n="adv"/></r></p></e>
+    <e><p><l>jotenkuten<s n="adv"/></l><r>såvidt<s n="adv"/></r></p></e>
+    <e><p><l>joten<s n="adv"/></l><r>så<s n="adv"/></r></p></e>
+    <e><p><l>joukoittain<s n="adv"/></l><r>gruppevis<s n="adv"/></r></p></e>
+    <e><p><l>joukoittain<s n="adv"/></l><r>i hopetall<s n="adv"/></r></p></e>
+    <e><p><l>joustavasti<s n="adv"/></l><r>fleksibelt<s n="adv"/></r></p></e>
+    <e><p><l>juhlallisesti<s n="adv"/></l><r>høytidelig<s n="adv"/></r></p></e>
+    <e><p><l>julkisesti<s n="adv"/></l><r>offentlig<s n="adv"/></r></p></e>
+    <e><p><l>julki<s n="adv"/></l><r>offentlig<s n="adv"/></r></p></e>
+    <e><p><l>julmasti<s n="adv"/></l><r>grusomt<s n="adv"/></r></p></e>
+    <e><p><l>juridisesti<s n="adv"/></l><r>juridisk<s n="adv"/></r></p></e>
     <e><p><l>juuri<s n="adv"/></l><r>akkurat<s n="adv"/></r></p></e>
+    <e><p><l>jyrkästi<s n="adv"/></l><r>bratt<s n="adv"/></r></p></e>
+    <e><p><l>jyrkästi<s n="adv"/></l><r>kraftig<s n="adv"/></r></p></e>
+    <e><p><l>jäljelle<s n="adv"/></l><r>igjen<s n="adv"/></r></p></e>
+    <e><p><l>jäljelle<s n="adv"/></l><r>tilbake<s n="adv"/></r></p></e>
+    <e><p><l>jäljellä<s n="adv"/></l><r>gjenstående<s n="adv"/></r></p></e>
+    <e><p><l>jälkeenpäin<s n="adv"/></l><r>etterpå<s n="adv"/></r></p></e>
     <e><p><l>jälkeen<s n="adv"/></l><r>etterpå<s n="adv"/></r></p></e>
+    <e><p><l>jälkeen<s n="adv"/></l><r>seinere<s n="adv"/></r></p></e>
+    <e><p><l>jälkikäteen<s n="adv"/></l><r>etterpå<s n="adv"/></r></p></e>
+    <e><p><l>jälleen<s n="adv"/></l><r>igjen<s n="adv"/></r></p></e>
+    <e><p><l>järjestelmällisesti<s n="adv"/></l><r>systematisk<s n="adv"/></r></p></e>
+    <e><p><l>järkevästi<s n="adv"/></l><r>fornuftig<s n="adv"/></r></p></e>
     <e><p><l>kahden<s n="adv"/></l><r>sammen<s n="adv"/></r></p></e>
+    <e><p><l>kahden<s n="adv"/></l><r>toeine<s n="adv"/></r></p></e>
+    <e><p><l>kahdesti<s n="adv"/></l><r>to ganger<s n="adv"/></r></p></e>
+    <e><p><l>kahtia<s n="adv"/></l><r>i to<s n="adv"/></r></p></e>
     <e><p><l>kaikkein<s n="adv"/></l><r>aller<s n="adv"/></r></p></e>
     <e><p><l>kaikkein<s n="adv"/></l><r>mest<s n="adv"/></r></p></e>
     <e><p><l>kaikkialla<s n="adv"/></l><r>overalt<s n="adv"/></r></p></e>
     <e><p><l>kaikkialle<s n="adv"/></l><r>overalt<s n="adv"/></r></p></e>
+    <e><p><l>kaikkialle<s n="adv"/></l><r>til overalt<s n="adv"/></r></p></e>
+    <e><p><l>kaikkialta<s n="adv"/></l><r>overalt<s n="adv"/></r></p></e>
+    <e><p><l>kai<s n="adv"/></l><r>kanskje<s n="adv"/></r></p></e>
     <e><p><l>kaksinkertaisesti<s n="adv"/></l><r>dobbelt<s n="adv"/></r></p></e>
+    <e><p><l>kallellaan<s n="adv"/></l><r>skjev<s n="adv"/></r></p></e>
     <e><p><l>kansainvälisesti<s n="adv"/></l><r>internasjonalt<s n="adv"/></r></p></e>
+    <e><p><l>kansallisesti<s n="adv"/></l><r>nasjonalt<s n="adv"/></r></p></e>
+    <e><p><l>kansanomaisesti<s n="adv"/></l><r>folkelig<s n="adv"/></r></p></e>
     <e><p><l>kanssa<s n="adv"/></l><r>også<s n="adv"/></r></p></e>
+    <e><p><l>karkeasti<s n="adv"/></l><r>omtrent<s n="adv"/></r></p></e>
+    <e><p><l>kauaa<s n="adv"/></l><r>lang<s n="adv"/></r></p></e>
+    <e><p><l>kauaksi<s n="adv"/></l><r>langt<s n="adv"/></r></p></e>
     <e><p><l>kauan<s n="adv"/></l><r>lenge<s n="adv"/></r></p></e>
+    <e><p><l>kauas<s n="adv"/></l><r>langt bort<s n="adv"/></r></p></e>
     <e><p><l>kauas<s n="adv"/></l><r>langt<s n="adv"/></r></p></e>
     <e><p><l>kauas<s n="adv"/></l><r>langt<s n="adv"/></r></p></e>
+    <e><p><l>kauemmaksi<s n="adv"/></l><r>lenger<s n="adv"/></r></p></e>
+    <e><p><l>kauemmas<s n="adv"/></l><r>lenger<s n="adv"/></r></p></e>
+    <e><p><l>kauemmin<s n="adv"/></l><r>lenger<s n="adv"/></r></p></e>
+    <e><p><l>kauempaa<s n="adv"/></l><r>fra avstand<s n="adv"/></r></p></e>
+    <e><p><l>kauempana<s n="adv"/></l><r>lenger unna<s n="adv"/></r></p></e>
+    <e><p><l>kauimpana<s n="adv"/></l><r>lengst borte<s n="adv"/></r></p></e>
+    <e><p><l>kaukaa<s n="adv"/></l><r>fra avstand<s n="adv"/></r></p></e>
+    <e><p><l>kaukana<s n="adv"/></l><r>langt borte<s n="adv"/></r></p></e>
     <e><p><l>kaukana<s n="adv"/></l><r>langt<s n="adv"/></r></p></e>
     <e><p><l>kauniisti<s n="adv"/></l><r>fint<s n="adv"/></r></p></e>
+    <e><p><l>kauniisti<s n="adv"/></l><r>pent<s n="adv"/></r></p></e>
+    <e><p><l>kaupallisesti<s n="adv"/></l><r>kommersielt<s n="adv"/></r></p></e>
+    <e><p><l>kausittain<s n="adv"/></l><r>sesongmessig<s n="adv"/></r></p></e>
+    <e><p><l>kehnosti<s n="adv"/></l><r>dårlig<s n="adv"/></r></p></e>
+    <e><p><l>keinotekoisesti<s n="adv"/></l><r>kunstig<s n="adv"/></r></p></e>
+    <e><p><l>kemiallisesti<s n="adv"/></l><r>kjemisk<s n="adv"/></r></p></e>
+    <e><p><l>kerrallaan<s n="adv"/></l><r>om gangen<s n="adv"/></r></p></e>
+    <e><p><l>kerralla<s n="adv"/></l><r>på en gang<s n="adv"/></r></p></e>
+    <e><p><l>kerran<s n="adv"/></l><r>en gang<s n="adv"/></r></p></e>
+    <e><p><l>kerroksittain<s n="adv"/></l><r>lagvis<s n="adv"/></r></p></e>
+    <e><p><l>kertaheitolla<s n="adv"/></l><r>med ett slag<s n="adv"/></r></p></e>
+    <e><p><l>keskeisesti<s n="adv"/></l><r>sentralt<s n="adv"/></r></p></e>
+    <e><p><l>keskelle<s n="adv"/></l><r>midt på<s n="adv"/></r></p></e>
+    <e><p><l>keskellä<s n="adv"/></l><r>midt på<s n="adv"/></r></p></e>
+    <e><p><l>keskeltä<s n="adv"/></l><r>midt på<s n="adv"/></r></p></e>
+    <e><p><l>kesken<s n="adv"/></l><r>imellom<s n="adv"/></r></p></e>
+    <e><p><l>keskenään<s n="adv"/></l><r>med hverandre<s n="adv"/></r></p></e>
+    <e><p><l>keskimäärin<s n="adv"/></l><r>gjennomsnittlig<s n="adv"/></r></p></e>
+    <e><p><l>keskimääräisesti<s n="adv"/></l><r>i gjennomsnitt<s n="adv"/></r></p></e>
+    <e><p><l>keskivaiheilla<s n="adv"/></l><r>i midten<s n="adv"/></r></p></e>
     <e><p><l>keskuudessa<s n="adv"/></l><r>mellom<s n="adv"/></r></p></e>
+    <e><p><l>kesäisin<s n="adv"/></l><r>om sommeren<s n="adv"/></r></p></e>
     <e><p><l>kesällä<s n="adv"/></l><r>sommeren<s n="adv"/></r></p></e>
+    <e><p><l>ketterästi<s n="adv"/></l><r>kvikt<s n="adv"/></r></p></e>
+    <e><p><l>ketterästi<s n="adv"/></l><r>smidig<s n="adv"/></r></p></e>
+    <e><p><l>kevyesti<s n="adv"/></l><r>lett<s n="adv"/></r></p></e>
+    <e><p><l>keväisin<s n="adv"/></l><r>om våren<s n="adv"/></r></p></e>
+    <e><p><l>kielellisesti<s n="adv"/></l><r>språklig<s n="adv"/></r></p></e>
+    <e><p><l>kieliopillisesti<s n="adv"/></l><r>grammatisk<s n="adv"/></r></p></e>
+    <e><p><l>kielteisesti<s n="adv"/></l><r>negativt<s n="adv"/></r></p></e>
+    <e><p><l>kiihkeästi<s n="adv"/></l><r>intenst<s n="adv"/></r></p></e>
+    <e><p><l>kiinni<s n="adv"/></l><r>fast<s n="adv"/></r></p></e>
+    <e><p><l>kiireesti<s n="adv"/></l><r>hastig<s n="adv"/></r></p></e>
+    <e><p><l>kiistattomasti<s n="adv"/></l><r>ubestridelig<s n="adv"/></r></p></e>
+    <e><p><l>kiivaasti<s n="adv"/></l><r>voldsomt<s n="adv"/></r></p></e>
+    <e><p><l>kipeästi<s n="adv"/></l><r>dårlig<s n="adv"/></r></p></e>
+    <e><p><l>kirjaimellisesti<s n="adv"/></l><r>bokstavelig talt<s n="adv"/></r></p></e>
+    <e><p><l>kirjallisesti<s n="adv"/></l><r>skriftlig<s n="adv"/></r></p></e>
+    <e><p><l>kirjeitse<s n="adv"/></l><r>per brev<s n="adv"/></r></p></e>
+    <e><p><l>kirkkaasti<s n="adv"/></l><r>klart<s n="adv"/></r></p></e>
     <e><p><l>kirkkaasti<s n="adv"/></l><r>lys<s n="adv"/></r></p></e>
+    <e><p><l>kirkkaasti<s n="adv"/></l><r>med glans<s n="adv"/></r></p></e>
+    <e><p><l>kirkollisesti<s n="adv"/></l><r>kirkelig<s n="adv"/></r></p></e>
     <e><p><l>kohden<s n="adv"/></l><r>til<s n="adv"/></r></p></e>
+    <e><p><l>kohtaan<s n="adv"/></l><r>overfor<s n="adv"/></r></p></e>
+    <e><p><l>kohtalaisesti<s n="adv"/></l><r>moderat<s n="adv"/></r></p></e>
+    <e><p><l>kohta<s n="adv"/></l><r>snart<s n="adv"/></r></p></e>
+    <e><p><l>kohteliaasti<s n="adv"/></l><r>høflig<s n="adv"/></r></p></e>
     <e><p><l>kohti<s n="adv"/></l><r>at<s n="adv"/></r></p></e>
+    <e><p><l>kohti<s n="adv"/></l><r>midt på<s n="adv"/></r></p></e>
+    <e><p><l>kohtisuorasti<s n="adv"/></l><r>vinkelrett<s n="adv"/></r></p></e>
+    <e><p><l>kohtuullisesti<s n="adv"/></l><r>i moderate mengder<s n="adv"/></r></p></e>
+    <e><p><l>kokeellisesti<s n="adv"/></l><r>eksperimentelt<s n="adv"/></r></p></e>
+    <e><p><l>kokemusperäisesti<s n="adv"/></l><r>erfaringsmessig<s n="adv"/></r></p></e>
+    <e><p><l>kokonaan<s n="adv"/></l><r>fullstendig<s n="adv"/></r></p></e>
+    <e><p><l>kokonaisvaltaisesti<s n="adv"/></l><r>helhetlig<s n="adv"/></r></p></e>
+    <e><p><l>kokonaisvaltaisesti<s n="adv"/></l><r>holistisk<s n="adv"/></r></p></e>
+    <e><p><l>kollektiivisesti<s n="adv"/></l><r>kollektivt<s n="adv"/></r></p></e>
+    <e><p><l>kolmasti<s n="adv"/></l><r>tre ganger<s n="adv"/></r></p></e>
+    <e><p><l>kolmesti<s n="adv"/></l><r>tre ganger<s n="adv"/></r></p></e>
+    <e><p><l>kolminkertaisesti<s n="adv"/></l><r>tre ganger<s n="adv"/></r></p></e>
+    <e><p><l>koneellisesti<s n="adv"/></l><r>mekanisk<s n="adv"/></r></p></e>
+    <e><p><l>konkreettisesti<s n="adv"/></l><r>konkret<s n="adv"/></r></p></e>
+    <e><p><l>korkealle<s n="adv"/></l><r>høyt<s n="adv"/></r></p></e>
+    <e><p><l>korkeasti<s n="adv"/></l><r>høyt<s n="adv"/></r></p></e>
+    <e><p><l>korkeimmillaan<s n="adv"/></l><r>på sitt høyeste<s n="adv"/></r></p></e>
+    <e><p><l>korkeintaan<s n="adv"/></l><r>høyst<s n="adv"/></r></p></e>
+    <e><p><l>koskaan<s n="adv"/></l><r>noensinne<s n="adv"/></r></p></e>
     <e><p><l>kotia<s n="adv"/></l><r>hjem<s n="adv"/></r></p></e>
+    <e><p><l>kotiin<s n="adv"/></l><r>hjem<s n="adv"/></r></p></e>
+    <e><p><l>kotoa<s n="adv"/></l><r>hjemmefra<s n="adv"/></r></p></e>
     <e><p><l>kotoisin<s n="adv"/></l><r>opprinnelig<s n="adv"/></r></p></e>
+    <e><p><l>kotona<s n="adv"/></l><r>hjemme<s n="adv"/></r></p></e>
+    <e><p><l>kovaa<s n="adv"/></l><r>hardt<s n="adv"/></r></p></e>
+    <e><p><l>kovasti<s n="adv"/></l><r>hardt<s n="adv"/></r></p></e>
     <e><p><l>kovasti<s n="adv"/></l><r>hardt<s n="adv"/></r></p></e>
     <e><p><l>kovasti<s n="adv"/></l><r>veldig<s n="adv"/></r></p></e>
+    <e><p><l>kovaäänisesti<s n="adv"/></l><r>høylytt<s n="adv"/></r></p></e>
+    <e><p><l>kovin<s n="adv"/></l><r>veldig<s n="adv"/></r></p></e>
+    <e><p><l>kriittisesti<s n="adv"/></l><r>kritisk<s n="adv"/></r></p></e>
+    <e><p><l>kronologisesti<s n="adv"/></l><r>kronologisk<s n="adv"/></r></p></e>
+    <e><p><l>kuinka<s n="adv"/></l><r>hvordan<s n="adv"/></r></p></e>
     <e><p><l>kuin<s n="adv"/></l><r>som<s n="adv"/></r></p></e>
     <e><p><l>kuitenkin<s n="adv"/></l><r>derimot<s n="adv"/></r></p></e>
     <e><p><l>kuitenkin<s n="adv"/></l><r>dog<s n="adv"/></r></p></e>
     <e><p><l>kuitenkin<s n="adv"/></l><r>likevel<s n="adv"/></r></p></e>
+    <e><p><l>kulloinkin<s n="adv"/></l><r>henholdsvis<s n="adv"/></r></p></e>
+    <e><p><l>kulttuurisesti<s n="adv"/></l><r>kulturelt<s n="adv"/></r></p></e>
+    <e><p><l>kunniallisesti<s n="adv"/></l><r>hederlig<s n="adv"/></r></p></e>
+    <e><p><l>kunnianhimoisesti<s n="adv"/></l><r>ambisiøst<s n="adv"/></r></p></e>
+    <e><p><l>kunnioittavasti<s n="adv"/></l><r>respektfullt<s n="adv"/></r></p></e>
+    <e><p><l>kunnittain<s n="adv"/></l><r>kommunevis<s n="adv"/></r></p></e>
+    <e><p><l>kunnolla<s n="adv"/></l><r>ordentlig<s n="adv"/></r></p></e>
+    <e><p><l>kunnolla<s n="adv"/></l><r>riktig<s n="adv"/></r></p></e>
+    <e><p><l>kunnossa<s n="adv"/></l><r>ordentlig<s n="adv"/></r></p></e>
+    <e><p><l>kuolettavasti<s n="adv"/></l><r>dødelig<s n="adv"/></r></p></e>
+    <e><p><l>kuoliaaksi<s n="adv"/></l><r>til døden<s n="adv"/></r></p></e>
     <e><p><l>kuten<s n="adv"/></l><r>til<b/>liks<b/>med<s n="adv"/></r></p></e>
+    <e><p><l>kuudesti<s n="adv"/></l><r>seks ganger<s n="adv"/></r></p></e>
+    <e><p><l>kuukausittain<s n="adv"/></l><r>månedlig<s n="adv"/></r></p></e>
+    <e><p><l>kuuluvasti<s n="adv"/></l><r>hørbart<s n="adv"/></r></p></e>
+    <e><p><l>kuvaannollisesti<s n="adv"/></l><r>billedlig<s n="adv"/></r></p></e>
+    <e><p><l>kylliksi<s n="adv"/></l><r>mett<s n="adv"/></r></p></e>
+    <e><p><l>kylliksi<s n="adv"/></l><r>nok<s n="adv"/></r></p></e>
+    <e><p><l>kylmästi<s n="adv"/></l><r>kaldt<s n="adv"/></r></p></e>
+    <e><p><l>kymmenittäin<s n="adv"/></l><r>dusinvis<s n="adv"/></r></p></e>
     <e><p><l>kännissä<s n="adv"/></l><r>full<s n="adv"/></r></p></e>
+    <e><p><l>käsin<s n="adv"/></l><r>for hånd<s n="adv"/></r></p></e>
+    <e><p><l>käsitteellisesti<s n="adv"/></l><r>konseptuelt<s n="adv"/></r></p></e>
+    <e><p><l>kätevästi<s n="adv"/></l><r>beleilig<s n="adv"/></r></p></e>
+    <e><p><l>kätevästi<s n="adv"/></l><r>praktisk<s n="adv"/></r></p></e>
+    <e><p><l>käytännöllisesti<s n="adv"/></l><r>praktisk<s n="adv"/></r></p></e>
     <e><p><l>käytössä<s n="adv"/></l><r>i<b/>bruk<s n="adv"/></r></p></e>
+    <e><p><l>käänteisesti<s n="adv"/></l><r>omvendt<s n="adv"/></r></p></e>
+    <e><p><l>kömpelösti<s n="adv"/></l><r>klønete<s n="adv"/></r></p></e>
+    <e><p><l>laadullisesti<s n="adv"/></l><r>kvalitetsmessig<s n="adv"/></r></p></e>
+    <e><p><l>laaja-alaisesti<s n="adv"/></l><r>vidtfamnende<s n="adv"/></r></p></e>
+    <e><p><l>laajalti<s n="adv"/></l><r>vidt<s n="adv"/></r></p></e>
+    <e><p><l>laajasti<s n="adv"/></l><r>vidt<s n="adv"/></r></p></e>
+    <e><p><l>lailla<s n="adv"/></l><r>på em måte<s n="adv"/></r></p></e>
+    <e><p><l>laillisesti<s n="adv"/></l><r>lovlig<s n="adv"/></r></p></e>
+    <e><p><l>lainkaan<s n="adv"/></l><r>i det hele tatt<s n="adv"/></r></p></e>
+    <e><p><l>lainvastaisesti<s n="adv"/></l><r>ulovlig<s n="adv"/></r></p></e>
+    <e><p><l>laittomasti<s n="adv"/></l><r>ulovlig<s n="adv"/></r></p></e>
+    <e><p><l>laskennallisesti<s n="adv"/></l><r>med overlegg<s n="adv"/></r></p></e>
+    <e><p><l>laveasti<s n="adv"/></l><r>bredt<s n="adv"/></r></p></e>
+    <e><p><l>leikillisesti<s n="adv"/></l><r>spøkefullt<s n="adv"/></r></p></e>
+    <e><p><l>leikkisästi<s n="adv"/></l><r>lekent<s n="adv"/></r></p></e>
+    <e><p><l>lievästi<s n="adv"/></l><r>mildt<s n="adv"/></r></p></e>
     <e><p><l>liian<s n="adv"/></l><r>altfor<s n="adv"/></r></p></e>
     <e><p><l>liian<s n="adv"/></l><r>for<s n="adv"/></r></p></e>
+    <e><p><l>liikaa<s n="adv"/></l><r>for mye<s n="adv"/></r></p></e>
+    <e><p><l>liikkeelle<s n="adv"/></l><r>i bevegelse<s n="adv"/></r></p></e>
+    <e><p><l>liikkeellä<s n="adv"/></l><r>på farten<s n="adv"/></r></p></e>
+    <e><p><l>likimain<s n="adv"/></l><r>omtrent<s n="adv"/></r></p></e>
+    <e><p><l>likimäärin<s n="adv"/></l><r>omtrent<s n="adv"/></r></p></e>
+    <e><p><l>likipitäen<s n="adv"/></l><r>omtrent<s n="adv"/></r></p></e>
+    <e><p><l>liki<s n="adv"/></l><r>nær<s n="adv"/></r></p></e>
     <e><p><l>lisäksi<s n="adv"/></l><r>ekstra<s n="adv"/></r></p></e>
     <e><p><l>lisäksi<s n="adv"/></l><r>i<b/>tillegg<s n="adv"/></r></p></e>
+    <e><p><l>lisäksi<s n="adv"/></l><r>i tillegg<s n="adv"/></r></p></e>
     <e><p><l>lisäksi<s n="adv"/></l><r>også¹<s n="adv"/></r></p></e>
     <e><p><l>lisäksi<s n="adv"/></l><r>ytterligere<s n="adv"/></r></p></e>
+    <e><p><l>loistavasti<s n="adv"/></l><r>briljant<s n="adv"/></r></p></e>
+    <e><p><l>loivasti<s n="adv"/></l><r>forsiktig<s n="adv"/></r></p></e>
+    <e><p><l>loivasti<s n="adv"/></l><r>så vidt<s n="adv"/></r></p></e>
+    <e><p><l>loogisesti<s n="adv"/></l><r>logisk<s n="adv"/></r></p></e>
+    <e><p><l>loppuun<s n="adv"/></l><r>til slutt<s n="adv"/></r></p></e>
+    <e><p><l>lopuksi<s n="adv"/></l><r>til slutt<s n="adv"/></r></p></e>
+    <e><p><l>lopullisesti<s n="adv"/></l><r>endelig<s n="adv"/></r></p></e>
     <e><p><l>lopullisesti<s n="adv"/></l><r>ender<s n="adv"/></r></p></e>
     <e><p><l>lopulta<s n="adv"/></l><r>endelig<s n="adv"/></r></p></e>
+    <e><p><l>lopulta<s n="adv"/></l><r>til slutt<s n="adv"/></r></p></e>
+    <e><p><l>lopussa<s n="adv"/></l><r>til slutt<s n="adv"/></r></p></e>
+    <e><p><l>loputtomasti<s n="adv"/></l><r>uendelig<s n="adv"/></r></p></e>
+    <e><p><l>lujaa<s n="adv"/></l><r>hardt<s n="adv"/></r></p></e>
+    <e><p><l>lujasti<s n="adv"/></l><r>hardt<s n="adv"/></r></p></e>
+    <e><p><l>lukumääräisesti<s n="adv"/></l><r>numerisk<s n="adv"/></r></p></e>
     <e><p><l>luonnollisesti<s n="adv"/></l><r>naturlig<s n="adv"/></r></p></e>
+    <e><p><l>luonnollisesti<s n="adv"/></l><r>naturligvis<s n="adv"/></r></p></e>
+    <e><p><l>luonnonmukaisesti<s n="adv"/></l><r>organisk<s n="adv"/></r></p></e>
+    <e><p><l>luonnostaan<s n="adv"/></l><r>naturlig<s n="adv"/></r></p></e>
+    <e><p><l>luontaisesti<s n="adv"/></l><r>naturlig<s n="adv"/></r></p></e>
+    <e><p><l>luonteenomaisesti<s n="adv"/></l><r>karakteristisk<s n="adv"/></r></p></e>
+    <e><p><l>luontevasti<s n="adv"/></l><r>naturlig<s n="adv"/></r></p></e>
     <e><p><l>luota<s n="adv"/></l><r>av<s n="adv"/></r></p></e>
+    <e><p><l>luota<s n="adv"/></l><r>hos<s n="adv"/></r></p></e>
+    <e><p><l>luotettavasti<s n="adv"/></l><r>pålitelig<s n="adv"/></r></p></e>
+    <e><p><l>lupaavasti<s n="adv"/></l><r>lovende<s n="adv"/></r></p></e>
+    <e><p><l>luultavasti<s n="adv"/></l><r>trolig<s n="adv"/></r></p></e>
     <e><p><l>luultavasti<s n="adv"/></l><r>truleg<s n="adv"/></r></p></e>
+    <e><p><l>luvattomasti<s n="adv"/></l><r>uten tillatelse<s n="adv"/></r></p></e>
     <e><p><l>lyhyesti<s n="adv"/></l><r>kort<s n="adv"/></r></p></e>
+    <e><p><l>läheisesti<s n="adv"/></l><r>nærmest<s n="adv"/></r></p></e>
+    <e><p><l>lähekkäin<s n="adv"/></l><r>nær hverandre<s n="adv"/></r></p></e>
+    <e><p><l>lähelle<s n="adv"/></l><r>nær<s n="adv"/></r></p></e>
+    <e><p><l>lähellä<s n="adv"/></l><r>nær<s n="adv"/></r></p></e>
     <e><p><l>lähellä<s n="adv"/></l><r>nær<s n="adv"/></r></p></e>
     <e><p><l>lähellä<s n="adv"/></l><r>ved<s n="adv"/></r></p></e>
     <e><p><l>lähemmäksi<s n="adv"/></l><r>nærmere<s n="adv"/></r></p></e>
+    <e><p><l>lähemmäksi<s n="adv"/></l><r>nærmere<s n="adv"/></r></p></e>
+    <e><p><l>lähempänä<s n="adv"/></l><r>nærmere<s n="adv"/></r></p></e>
+    <e><p><l>lähempää<s n="adv"/></l><r>nærmere<s n="adv"/></r></p></e>
     <e><p><l>lähes<s n="adv"/></l><r>nesten<s n="adv"/></r></p></e>
+    <e><p><l>lähestulkoon<s n="adv"/></l><r>nesten<s n="adv"/></r></p></e>
+    <e><p><l>lähinnä<s n="adv"/></l><r>hovedsaklig<s n="adv"/></r></p></e>
+    <e><p><l>lähinnä<s n="adv"/></l><r>nærmest<s n="adv"/></r></p></e>
+    <e><p><l>lähin<s n="adv"/></l><r>nærmest<s n="adv"/></r></p></e>
+    <e><p><l>lähtökohtaisesti<s n="adv"/></l><r> initialt<s n="adv"/></r></p></e>
+    <e><p><l>lähtökohtaisesti<s n="adv"/></l><r>i utgangspunktet<s n="adv"/></r></p></e>
+    <e><p><l>lämpimästi<s n="adv"/></l><r>hjertelig<s n="adv"/></r></p></e>
+    <e><p><l>länsipuolitse<s n="adv"/></l><r>via vestsida<s n="adv"/></r></p></e>
     <e><p><l>läpi<s n="adv"/></l><r>gjennom<s n="adv"/></r></p></e>
+    <e><p><l>läsnä<s n="adv"/></l><r>til stede<s n="adv"/></r></p></e>
+    <e><p><l>lääketieteellisesti<s n="adv"/></l><r>medisinsk<s n="adv"/></r></p></e>
     <e><p><l>löyhästi<s n="adv"/></l><r>løst<s n="adv"/></r></p></e>
+    <e><p><l>maailmanlaajuisesti<s n="adv"/></l><r>over hele verden<s n="adv"/></r></p></e>
+    <e><p><l>maanteitse<s n="adv"/></l><r>med bil<s n="adv"/></r></p></e>
+    <e><p><l>maantieteellisesti<s n="adv"/></l><r>geografisk<s n="adv"/></r></p></e>
+    <e><p><l>maateitse<s n="adv"/></l><r>via landevegen<s n="adv"/></r></p></e>
+    <e><p><l>magneettisesti<s n="adv"/></l><r>magnetisk<s n="adv"/></r></p></e>
+    <e><p><l>mahdollisesti<s n="adv"/></l><r>muligens<s n="adv"/></r></p></e>
     <e><p><l>mahdollisesti<s n="adv"/></l><r>muligens<s n="adv"/></r></p></e>
     <e><p><l>mahdollisesti<s n="adv"/></l><r>mulig<s n="adv"/></r></p></e>
+    <e><p><l>maitse<s n="adv"/></l><r>over land<s n="adv"/></r></p></e>
     <e><p><l>maitse<s n="adv"/></l><r>til<b/>lands<s n="adv"/></r></p></e>
+    <e><p><l>maittain<s n="adv"/></l><r>fra land til land<s n="adv"/></r></p></e>
+    <e><p><l>maltillisesti<s n="adv"/></l><r>i moderate mengder<s n="adv"/></r></p></e>
+    <e><p><l>manuaalisesti<s n="adv"/></l><r>manuelt<s n="adv"/></r></p></e>
+    <e><p><l>matalalla<s n="adv"/></l><r>lavt<s n="adv"/></r></p></e>
+    <e><p><l>matalalta<s n="adv"/></l><r>lavt<s n="adv"/></r></p></e>
+    <e><p><l>mekaanisesti<s n="adv"/></l><r>mekanisk<s n="adv"/></r></p></e>
+    <e><p><l>melkein<s n="adv"/></l><r>nesten<s n="adv"/></r></p></e>
+    <e><p><l>melkoisesti<s n="adv"/></l><r>ganske mye<s n="adv"/></r></p></e>
     <e><p><l>melko<s n="adv"/></l><r>ganske<s n="adv"/></r></p></e>
     <e><p><l>melko<s n="adv"/></l><r>nokså<s n="adv"/></r></p></e>
+    <e><p><l>meneillä<s n="adv"/></l><r>pågående<s n="adv"/></r></p></e>
+    <e><p><l>meneillään<s n="adv"/></l><r>pågående<s n="adv"/></r></p></e>
+    <e><p><l>menestyksekkäästi<s n="adv"/></l><r>framgangsrikt<s n="adv"/></r></p></e>
+    <e><p><l>menestyksellisesti<s n="adv"/></l><r>vellykket<s n="adv"/></r></p></e>
     <e><p><l>menossa<s n="adv"/></l><r>i<b/>gang<s n="adv"/></r></p></e>
     <e><p><l>menossa<s n="adv"/></l><r>å<b/>veg<s n="adv"/></r></p></e>
+    <e><p><l>meriteitse<s n="adv"/></l><r>sjøveien<s n="adv"/></r></p></e>
+    <e><p><l>meritse<s n="adv"/></l><r>sjøveien<s n="adv"/></r></p></e>
+    <e><p><l>merkitsevästi<s n="adv"/></l><r>betraktelig<s n="adv"/></r></p></e>
+    <e><p><l>merkittävästi<s n="adv"/></l><r>betraktelig<s n="adv"/></r></p></e>
+    <e><p><l>miedosti<s n="adv"/></l><r>mildt<s n="adv"/></r></p></e>
+    <e><p><l>mielekkäästi<s n="adv"/></l><r>gjerne<s n="adv"/></r></p></e>
+    <e><p><l>mielellään<s n="adv"/></l><r>gjerne<s n="adv"/></r></p></e>
+    <e><p><l>mielestä<s n="adv"/></l><r>etter oppfatning<s n="adv"/></r></p></e>
+    <e><p><l>mielivaltaisesti<s n="adv"/></l><r>vilkårlig<s n="adv"/></r></p></e>
+    <e><p><l>mieluimmin<s n="adv"/></l><r>fortrinnsvis<s n="adv"/></r></p></e>
+    <e><p><l>mieluiten<s n="adv"/></l><r>fortrinnsvis<s n="adv"/></r></p></e>
+    <e><p><l>mieluummin<s n="adv"/></l><r>heller<s n="adv"/></r></p></e>
+    <e><p><l>mieluusti<s n="adv"/></l><r>gjerne<s n="adv"/></r></p></e>
+    <e><p><l>mihinkään<s n="adv"/></l><r>ikke noe sted<s n="adv"/></r></p></e>
+    <e><p><l>mihin<s n="adv"/></l><r>hvorhen<s n="adv"/></r></p></e>
     <e><p><l>miksi<s n="adv"/></l><r>hvorfor<s n="adv"/></r></p></e>
+    <e><p><l>miksi<s n="adv"/></l><r>hvorfor<s n="adv"/></r></p></e>
+    <e><p><l>milloinkaan<s n="adv"/></l><r>noensinne<s n="adv"/></r></p></e>
+    <e><p><l>miltei<s n="adv"/></l><r>nesten<s n="adv"/></r></p></e>
+    <e><p><l>minne<s n="adv"/></l><r>hvorhen<s n="adv"/></r></p></e>
     <e><p><l>missä<s n="adv"/></l><r>hvor<s n="adv"/></r></p></e>
+    <e><p><l>missä<s n="adv"/></l><r>hvor<s n="adv"/></r></p></e>
+    <e><p><l>mistä<s n="adv"/></l><r>hvor<s n="adv"/></r></p></e>
+    <e><p><l>mitenkään<s n="adv"/></l><r>på noen måte<s n="adv"/></r></p></e>
     <e><p><l>miten<s n="adv"/></l><r>hvordan<s n="adv"/></r></p></e>
     <e><p><l>mitä<s n="adv"/></l><r>hva<s n="adv"/></r></p></e>
     <e><p><l>monesti<s n="adv"/></l><r>mange<b/>ganger<s n="adv"/></r></p></e>
+    <e><p><l>monesti<s n="adv"/></l><r>mange ganger<s n="adv"/></r></p></e>
     <e><p><l>monesti<s n="adv"/></l><r>mange<s n="adv"/></r></p></e>
+    <e><p><l>moninkertaisesti<s n="adv"/></l><r>mange ganger<s n="adv"/></r></p></e>
+    <e><p><l>monipuolisesti<s n="adv"/></l><r>variert<s n="adv"/></r></p></e>
+    <e><p><l>moraalisesti<s n="adv"/></l><r>moralsk<s n="adv"/></r></p></e>
+    <e><p><l>muinoin<s n="adv"/></l><r>før i tiden<s n="adv"/></r></p></e>
     <e><p><l>mukaan<s n="adv"/></l><r>med<s n="adv"/></r></p></e>
+    <e><p><l>mukaisesti<s n="adv"/></l><r>tilsvarende<s n="adv"/></r></p></e>
+    <e><p><l>mukana<s n="adv"/></l><r>med<s n="adv"/></r></p></e>
+    <e><p><l>mukavasti<s n="adv"/></l><r>hyggelig<s n="adv"/></r></p></e>
+    <e><p><l>mukavasti<s n="adv"/></l><r>komfortabelt<s n="adv"/></r></p></e>
+    <e><p><l>muodollisesti<s n="adv"/></l><r>formelt<s n="adv"/></r></p></e>
+    <e><p><l>musiikillisesti<s n="adv"/></l><r>musikalsk<s n="adv"/></r></p></e>
+    <e><p><l>muualla<s n="adv"/></l><r>andre steder<s n="adv"/></r></p></e>
+    <e><p><l>muualle<s n="adv"/></l><r>andre steder<s n="adv"/></r></p></e>
+    <e><p><l>muualta<s n="adv"/></l><r>fra andre steder<s n="adv"/></r></p></e>
+    <e><p><l>muulloin<s n="adv"/></l><r>andre ganger<s n="adv"/></r></p></e>
     <e><p><l>muun<b/>muassa<s n="adv"/></l><r>mellom<b/>anna<s n="adv"/></r></p></e>
+    <e><p><l>muuten<s n="adv"/></l><r>ellers<s n="adv"/></r></p></e>
     <e><p><l>muuten<s n="adv"/></l><r>elles<s n="adv"/></r></p></e>
+    <e><p><l>muutoin<s n="adv"/></l><r>ellers<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>etter<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>lettere<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>seinare<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>seinare<s n="adv"/></r></p></e>
+    <e><p><l>myöhemmin<s n="adv"/></l><r>seinere<s n="adv"/></r></p></e>
     <e><p><l>myöhemmin<s n="adv"/></l><r>senere<s n="adv"/></r></p></e>
+    <e><p><l>myöhempään<s n="adv"/></l><r>senere<s n="adv"/></r></p></e>
     <e><p><l>myöhässä<s n="adv"/></l><r>sent<s n="adv"/></r></p></e>
+    <e><p><l>myöhään<s n="adv"/></l><r>sent<s n="adv"/></r></p></e>
+    <e><p><l>myönteisesti<s n="adv"/></l><r>medgjørlig<s n="adv"/></r></p></e>
     <e><p><l>myös<s n="adv"/></l><r>dessuten<s n="adv"/></r></p></e>
     <e><p><l>myös<s n="adv"/></l><r>dimed<s n="adv"/></r></p></e>
     <e><p><l>myös<s n="adv"/></l><r>med<s n="adv"/></r></p></e>
     <e><p><l>myös<s n="adv"/></l><r>også<s n="adv"/></r></p></e>
+    <e><p><l>myös<s n="adv"/></l><r>også<s n="adv"/></r></p></e>
+    <e><p><l>myötämielisesti<s n="adv"/></l><r>sympatisk<s n="adv"/></r></p></e>
+    <e><p><l>määrällisesti<s n="adv"/></l><r>kvantitativt<s n="adv"/></r></p></e>
+    <e><p><l>määrätietoisesti<s n="adv"/></l><r>målbevisst<s n="adv"/></r></p></e>
+    <e><p><l>negatiivisesti<s n="adv"/></l><r>negativt<s n="adv"/></r></p></e>
+    <e><p><l>neljästi<s n="adv"/></l><r>fire ganger<s n="adv"/></r></p></e>
+    <e><p><l>neuvotteluteitse<s n="adv"/></l><r>via forhandlinger<s n="adv"/></r></p></e>
+    <e><p><l>nihkeästi<s n="adv"/></l><r>tregt<s n="adv"/></r></p></e>
     <e><p><l>niinpä<s n="adv"/></l><r>så<s n="adv"/></r></p></e>
     <e><p><l>niin<s n="adv"/></l><r>så<s n="adv"/></r></p></e>
+    <e><p><l>nimellisesti<s n="adv"/></l><r>nominelt<s n="adv"/></r></p></e>
     <e><p><l>nimeltä<s n="adv"/></l><r>navnets<s n="adv"/></r></p></e>
+    <e><p><l>nimenomaisesti<s n="adv"/></l><r>eksplisitt<s n="adv"/></r></p></e>
     <e><p><l>nimittäin<s n="adv"/></l><r>nemleg<s n="adv"/></r></p></e>
+    <e><p><l>nimittäin<s n="adv"/></l><r>nemlig<s n="adv"/></r></p></e>
+    <e><p><l>niukasti<s n="adv"/></l><r>knapt<s n="adv"/></r></p></e>
     <e><p><l>noin<s n="adv"/></l><r>cirka<s n="adv"/></r></p></e>
+    <e><p><l>noin<s n="adv"/></l><r>omtrent<s n="adv"/></r></p></e>
+    <e><p><l>nojalla<s n="adv"/></l><r>inn under<s n="adv"/></r></p></e>
+    <e><p><l>nopeasti<s n="adv"/></l><r>fort<s n="adv"/></r></p></e>
     <e><p><l>nopeasti<s n="adv"/></l><r>rask<s n="adv"/></r></p></e>
     <e><p><l>nopeasti<s n="adv"/></l><r>snart<s n="adv"/></r></p></e>
+    <e><p><l>normaalisti<s n="adv"/></l><r>normalt<s n="adv"/></r></p></e>
+    <e><p><l>nykyisin<s n="adv"/></l><r>nå for tida<s n="adv"/></r></p></e>
+    <e><p><l>nykyään<s n="adv"/></l><r>nå for tida<s n="adv"/></r></p></e>
+    <e><p><l>nyt<s n="adv"/></l><r>nå<s n="adv"/></r></p></e>
     <e><p><l>nyt<s n="adv"/></l><r>nå<s n="adv"/></r></p></e>
     <e><p><l>nyt<s n="adv"/></l><r>til<b/>nå<s n="adv"/></r></p></e>
+    <e><p><l>nyttemmin<s n="adv"/></l><r>nå for tida<s n="adv"/></r></p></e>
+    <e><p><l>nyttemmin<s n="adv"/></l><r>nå<s n="adv"/></r></p></e>
+    <e><p><l>näennäisesti<s n="adv"/></l><r>tilsynelatende<s n="adv"/></r></p></e>
+    <e><p><l>nähtävissä<s n="adv"/></l><r>synlig<s n="adv"/></r></p></e>
     <e><p><l>nähtävästi<s n="adv"/></l><r>synlig<s n="adv"/></r></p></e>
+    <e><p><l>nähtävästi<s n="adv"/></l><r>tilsynelatende<s n="adv"/></r></p></e>
+    <e><p><l>näin<s n="adv"/></l><r>slik<s n="adv"/></r></p></e>
     <e><p><l>näkymättömästi<s n="adv"/></l><r>usynlig<s n="adv"/></r></p></e>
+    <e><p><l>näkyviin<s n="adv"/></l><r>til syne<s n="adv"/></r></p></e>
+    <e><p><l>näkyville<s n="adv"/></l><r>til syne<s n="adv"/></r></p></e>
+    <e><p><l>näkyvillä<s n="adv"/></l><r>synlig<s n="adv"/></r></p></e>
+    <e><p><l>näkyvissä<s n="adv"/></l><r>synlig<s n="adv"/></r></p></e>
+    <e><p><l>näkyvistä<s n="adv"/></l><r>fra synlig<s n="adv"/></r></p></e>
+    <e><p><l>näkyvästi<s n="adv"/></l><r>fremtredende<s n="adv"/></r></p></e>
+    <e><p><l>objektiivisesti<s n="adv"/></l><r>objektivt<s n="adv"/></r></p></e>
+    <e><p><l>odotetusti<s n="adv"/></l><r>som forventet<s n="adv"/></r></p></e>
+    <e><p><l>odottamatta<s n="adv"/></l><r>uventet<s n="adv"/></r></p></e>
+    <e><p><l>ohella<s n="adv"/></l><r>ved siden av<s n="adv"/></r></p></e>
+    <e><p><l>ohessa<s n="adv"/></l><r>ved siden av<s n="adv"/></r></p></e>
+    <e><p><l>ohi<s n="adv"/></l><r>forbi<s n="adv"/></r></p></e>
+    <e><p><l>ohjelmallisesti<s n="adv"/></l><r>programmatisk<s n="adv"/></r></p></e>
+    <e><p><l>oikealla<s n="adv"/></l><r>til høyre<s n="adv"/></r></p></e>
+    <e><p><l>oikealle<s n="adv"/></l><r>til høyre<s n="adv"/></r></p></e>
+    <e><p><l>oikealta<s n="adv"/></l><r>fra høyre<s n="adv"/></r></p></e>
+    <e><p><l>oikeaoppisesti<s n="adv"/></l><r>ortodokst<s n="adv"/></r></p></e>
     <e><p><l>oikeasti<s n="adv"/></l><r>egentlig<s n="adv"/></r></p></e>
+    <e><p><l>oikein<s n="adv"/></l><r>riktig<s n="adv"/></r></p></e>
+    <e><p><l>oikeudellisesti<s n="adv"/></l><r>lovlig<s n="adv"/></r></p></e>
+    <e><p><l>oikeudenmukaisesti<s n="adv"/></l><r>rettferdig<s n="adv"/></r></p></e>
+    <e><p><l>oikeudettomasti<s n="adv"/></l><r>ulovlig<s n="adv"/></r></p></e>
+    <e><p><l>oikeutetusti<s n="adv"/></l><r>med rette<s n="adv"/></r></p></e>
+    <e><p><l>oitis<s n="adv"/></l><r>med en gang<s n="adv"/></r></p></e>
+    <e><p><l>olennaisesti<s n="adv"/></l><r>betydelig<s n="adv"/></r></p></e>
+    <e><p><l>oletettavasti<s n="adv"/></l><r>formodentlig<s n="adv"/></r></p></e>
+    <e><p><l>ollenkaan<s n="adv"/></l><r>i det hele tatt<s n="adv"/></r></p></e>
+    <e><p><l>oma-aloitteisesti<s n="adv"/></l><r>på eget initiativ<s n="adv"/></r></p></e>
+    <e><p><l>omatoimisesti<s n="adv"/></l><r>på egen hand<s n="adv"/></r></p></e>
+    <e><p><l>onneksi<s n="adv"/></l><r>heldigvis<s n="adv"/></r></p></e>
+    <e><p><l>onnettomasti<s n="adv"/></l><r>ulykkelig<s n="adv"/></r></p></e>
+    <e><p><l>onnistuneesti<s n="adv"/></l><r>vellykket<s n="adv"/></r></p></e>
+    <e><p><l>operatiivisesti<s n="adv"/></l><r>operativt<s n="adv"/></r></p></e>
+    <e><p><l>opillisesti<s n="adv"/></l><r>doktrinært<s n="adv"/></r></p></e>
+    <e><p><l>optisesti<s n="adv"/></l><r>optisk<s n="adv"/></r></p></e>
     <e><p><l>osakseen<s n="adv"/></l><r>delvis<s n="adv"/></r></p></e>
+    <e><p><l>osaksi<s n="adv"/></l><r>delvis<s n="adv"/></r></p></e>
+    <e><p><l>osin<s n="adv"/></l><r>delvis<s n="adv"/></r></p></e>
     <e><p><l>osittain<s n="adv"/></l><r>delvis<s n="adv"/></r></p></e>
+    <e><p><l>osuvasti<s n="adv"/></l><r>treffende<s n="adv"/></r></p></e>
     <e><p><l>pahantahtoisesti<s n="adv"/></l><r>motvillig<s n="adv"/></r></p></e>
+    <e><p><l>pahasti<s n="adv"/></l><r>dårlig<s n="adv"/></r></p></e>
+    <e><p><l>pahasti<s n="adv"/></l><r>stygt<s n="adv"/></r></p></e>
+    <e><p><l>pahimmillaan<s n="adv"/></l><r>på sitt verste<s n="adv"/></r></p></e>
+    <e><p><l>pahiten<s n="adv"/></l><r>på verste måte<s n="adv"/></r></p></e>
+    <e><p><l>pahoin<s n="adv"/></l><r>dårlig<s n="adv"/></r></p></e>
+    <e><p><l>paikalla<s n="adv"/></l><r>til stede<s n="adv"/></r></p></e>
+    <e><p><l>paikallisesti<s n="adv"/></l><r>lokalt<s n="adv"/></r></p></e>
+    <e><p><l>paikoillaan<s n="adv"/></l><r>på plass<s n="adv"/></r></p></e>
+    <e><p><l>paikoilleen<s n="adv"/></l><r>på stedet hvil<s n="adv"/></r></p></e>
+    <e><p><l>paikoin<s n="adv"/></l><r>her og der<s n="adv"/></r></p></e>
+    <e><p><l>paikoitellen<s n="adv"/></l><r>her og der<s n="adv"/></r></p></e>
+    <e><p><l>paikoittain<s n="adv"/></l><r>stedvis<s n="adv"/></r></p></e>
+    <e><p><l>paitsi<s n="adv"/></l><r>unntatt<s n="adv"/></r></p></e>
+    <e><p><l>paljolti<s n="adv"/></l><r>i store trekk<s n="adv"/></r></p></e>
     <e><p><l>paljon<s n="adv"/></l><r>mye<s n="adv"/></r></p></e>
+    <e><p><l>parantumattomasti<s n="adv"/></l><r>uhelbredelig<s n="adv"/></r></p></e>
+    <e><p><l>pareittain<s n="adv"/></l><r>parvis<s n="adv"/></r></p></e>
     <e><p><l>paremmin<s n="adv"/></l><r>bedre<s n="adv"/></r></p></e>
+    <e><p><l>parhaillaan<s n="adv"/></l><r>nå<s n="adv"/></r></p></e>
+    <e><p><l>parhaimmillaan<s n="adv"/></l><r>på sitt beste<s n="adv"/></r></p></e>
+    <e><p><l>parhaiten<s n="adv"/></l><r>best<s n="adv"/></r></p></e>
+    <e><p><l>partaalle<s n="adv"/></l><r>til randen<s n="adv"/></r></p></e>
+    <e><p><l>passiivisesti<s n="adv"/></l><r>passivt<s n="adv"/></r></p></e>
+    <e><p><l>pehmeästi<s n="adv"/></l><r>mykt<s n="adv"/></r></p></e>
+    <e><p><l>peitossa<s n="adv"/></l><r>dekket<s n="adv"/></r></p></e>
+    <e><p><l>pelkästään<s n="adv"/></l><r>bare<s n="adv"/></r></p></e>
+    <e><p><l>penseästi<s n="adv"/></l><r>lunkent<s n="adv"/></r></p></e>
+    <e><p><l>perille<s n="adv"/></l><r>framme<s n="adv"/></r></p></e>
+    <e><p><l>perillä<s n="adv"/></l><r>fremme<s n="adv"/></r></p></e>
+    <e><p><l>perinpohjaisesti<s n="adv"/></l><r>grundig<s n="adv"/></r></p></e>
     <e><p><l>perinteisesti<s n="adv"/></l><r>tradisjonelt<s n="adv"/></r></p></e>
+    <e><p><l>perjantaisin<s n="adv"/></l><r>på fredager<s n="adv"/></r></p></e>
     <e><p><l>perusteellisesti<s n="adv"/></l><r>grundig<s n="adv"/></r></p></e>
+    <e><p><l>perustuslaillisesti<s n="adv"/></l><r>konstitusjonelt<s n="adv"/></r></p></e>
+    <e><p><l>peruuttamattomasti<s n="adv"/></l><r>ugjenkallelig<s n="adv"/></r></p></e>
     <e><p><l>peräisin<s n="adv"/></l><r>ut<b/>fra<s n="adv"/></r></p></e>
+    <e><p><l>peräkkäin<s n="adv"/></l><r>etter hverandre<s n="adv"/></r></p></e>
+    <e><p><l>peräkkäin<s n="adv"/></l><r>sekvensielt<s n="adv"/></r></p></e>
+    <e><p><l>perässä<s n="adv"/></l><r>bak<s n="adv"/></r></p></e>
+    <e><p><l>perään<s n="adv"/></l><r>bak<s n="adv"/></r></p></e>
+    <e><p><l>piakkoin<s n="adv"/></l><r>om kort tid<s n="adv"/></r></p></e>
+    <e><p><l>piakkoin<s n="adv"/></l><r>snart<s n="adv"/></r></p></e>
     <e><p><l>pian<s n="adv"/></l><r>kort<b/>tid<s n="adv"/></r></p></e>
+    <e><p><l>pian<s n="adv"/></l><r>snart<s n="adv"/></r></p></e>
     <e><p><l>pidemmälle<s n="adv"/></l><r>videre<s n="adv"/></r></p></e>
     <e><p><l>pidempään<s n="adv"/></l><r>lenger<s n="adv"/></r></p></e>
+    <e><p><l>pikaisesti<s n="adv"/></l><r>så snart som mulig<s n="adv"/></r></p></e>
     <e><p><l>pikemmin<s n="adv"/></l><r>heller<s n="adv"/></r></p></e>
+    <e><p><l>pikkuhiljaa<s n="adv"/></l><r>litt etter litt<s n="adv"/></r></p></e>
+    <e><p><l>pilkallisesti<s n="adv"/></l><r>lokalt<s n="adv"/></r></p></e>
+    <e><p><l>pinnallisesti<s n="adv"/></l><r>overfladisk<s n="adv"/></r></p></e>
+    <e><p><l>pintapuolisesti<s n="adv"/></l><r>overfladisk<s n="adv"/></r></p></e>
+    <e><p><l>pitkälle<s n="adv"/></l><r>langt på veg<s n="adv"/></r></p></e>
+    <e><p><l>pitkälti<s n="adv"/></l><r>langt på veg<s n="adv"/></r></p></e>
     <e><p><l>pitkälti<s n="adv"/></l><r>stort<b/>sett<s n="adv"/></r></p></e>
+    <e><p><l>pitkään<s n="adv"/></l><r>i lang tid<s n="adv"/></r></p></e>
+    <e><p><l>pohjoisempana<s n="adv"/></l><r>lenger nord<s n="adv"/></r></p></e>
+    <e><p><l>poikittain<s n="adv"/></l><r>på tvers<s n="adv"/></r></p></e>
+    <e><p><l>poikkeavasti<s n="adv"/></l><r>unntaksvis<s n="adv"/></r></p></e>
+    <e><p><l>poikkeuksellisesti<s n="adv"/></l><r>unntaksvis<s n="adv"/></r></p></e>
+    <e><p><l>poikki<s n="adv"/></l><r>av<s n="adv"/></r></p></e>
+    <e><p><l>poikki<s n="adv"/></l><r>tvers over<s n="adv"/></r></p></e>
+    <e><p><l>poispäin<s n="adv"/></l><r>bortvendt<s n="adv"/></r></p></e>
+    <e><p><l>poissa<s n="adv"/></l><r>bort<s n="adv"/></r></p></e>
+    <e><p><l>poissa<s n="adv"/></l><r>unna<s n="adv"/></r></p></e>
+    <e><p><l>pois<s n="adv"/></l><r>bort<s n="adv"/></r></p></e>
     <e><p><l>pois<s n="adv"/></l><r>bort<s n="adv"/></r></p></e>
     <e><p><l>pois<s n="adv"/></l><r>frå<s n="adv"/></r></p></e>
     <e><p><l>pois<s n="adv"/></l><r>vekk<s n="adv"/></r></p></e>
+    <e><p><l>poliittisesti<s n="adv"/></l><r>politisk<s n="adv"/></r></p></e>
+    <e><p><l>portaittain<s n="adv"/></l><r>stegvis<s n="adv"/></r></p></e>
+    <e><p><l>positiivisesti<s n="adv"/></l><r>positivt<s n="adv"/></r></p></e>
+    <e><p><l>postitse<s n="adv"/></l><r>via post<s n="adv"/></r></p></e>
+    <e><p><l>potentiaalisesti<s n="adv"/></l><r>potensielt<s n="adv"/></r></p></e>
+    <e><p><l>prosentuaalisesti<s n="adv"/></l><r>i prosent<s n="adv"/></r></p></e>
+    <e><p><l>psykologisesti<s n="adv"/></l><r>psykologisk<s n="adv"/></r></p></e>
+    <e><p><l>psyykkisesti<s n="adv"/></l><r>psykisk<s n="adv"/></r></p></e>
+    <e><p><l>puhelimitse<s n="adv"/></l><r>per telefon<s n="adv"/></r></p></e>
+    <e><p><l>puhtaasti<s n="adv"/></l><r>bare<s n="adv"/></r></p></e>
     <e><p><l>puhtaasti<s n="adv"/></l><r>reint<s n="adv"/></r></p></e>
+    <e><p><l>puolitiehen<s n="adv"/></l><r>halvveis<s n="adv"/></r></p></e>
+    <e><p><l>puolittain<s n="adv"/></l><r>halvt<s n="adv"/></r></p></e>
+    <e><p><l>puolittain<s n="adv"/></l><r>halvveis<s n="adv"/></r></p></e>
+    <e><p><l>puolivahingossa<s n="adv"/></l><r>i vanvare<s n="adv"/></r></p></e>
+    <e><p><l>puutteellisesti<s n="adv"/></l><r>mangelfullt<s n="adv"/></r></p></e>
+    <e><p><l>puutteellisesti<s n="adv"/></l><r>tilsidesatt<s n="adv"/></r></p></e>
+    <e><p><l>pystyssä<s n="adv"/></l><r>oppreist<s n="adv"/></r></p></e>
+    <e><p><l>pysyvästi<s n="adv"/></l><r>permanent<s n="adv"/></r></p></e>
+    <e><p><l>päivisin<s n="adv"/></l><r>om dagen<s n="adv"/></r></p></e>
     <e><p><l>päivittäin<s n="adv"/></l><r>daglig<s n="adv"/></r></p></e>
+    <e><p><l>päiväsaikaan<s n="adv"/></l><r>på dagtid<s n="adv"/></r></p></e>
     <e><p><l>pääasiallisesti<s n="adv"/></l><r>hovedsakelig<s n="adv"/></r></p></e>
+    <e><p><l>pääasiallisesti<s n="adv"/></l><r>hovedsaklig<s n="adv"/></r></p></e>
+    <e><p><l>pääasiallisesti<s n="adv"/></l><r>primært<s n="adv"/></r></p></e>
+    <e><p><l>päällekkäin<s n="adv"/></l><r>oppå hverandre<s n="adv"/></r></p></e>
+    <e><p><l>päällepäin<s n="adv"/></l><r>ovenpå<s n="adv"/></r></p></e>
+    <e><p><l>päälle<s n="adv"/></l><r>på<s n="adv"/></r></p></e>
     <e><p><l>päällä<s n="adv"/></l><r>på<s n="adv"/></r></p></e>
+    <e><p><l>päältä<s n="adv"/></l><r>på<s n="adv"/></r></p></e>
+    <e><p><l>pääpiirteittäin<s n="adv"/></l><r>i hovedtrekk<s n="adv"/></r></p></e>
+    <e><p><l>päästä<s n="adv"/></l><r>fritas<s n="adv"/></r></p></e>
+    <e><p><l>pääsääntöisesti<s n="adv"/></l><r>i all hovedsak<s n="adv"/></r></p></e>
+    <e><p><l>päättäväisesti<s n="adv"/></l><r>besluttsomt<s n="adv"/></r></p></e>
+    <e><p><l>radikaalisti<s n="adv"/></l><r>radikalt<s n="adv"/></r></p></e>
+    <e><p><l>radioteitse<s n="adv"/></l><r>via radio<s n="adv"/></r></p></e>
+    <e><p><l>rahallisesti<s n="adv"/></l><r>pengemessig<s n="adv"/></r></p></e>
+    <e><p><l>rahallisesti<s n="adv"/></l><r>økonomisk<s n="adv"/></r></p></e>
+    <e><p><l>raivokkaasti<s n="adv"/></l><r>rasende<s n="adv"/></r></p></e>
+    <e><p><l>rajattomasti<s n="adv"/></l><r>grenseløst<s n="adv"/></r></p></e>
+    <e><p><l>rajattomasti<s n="adv"/></l><r>ubegrenset<s n="adv"/></r></p></e>
+    <e><p><l>rajoitetusti<s n="adv"/></l><r>begrenset<s n="adv"/></r></p></e>
+    <e><p><l>rajusti<s n="adv"/></l><r>drastisk<s n="adv"/></r></p></e>
+    <e><p><l>rakenteellisesti<s n="adv"/></l><r>strukturelt<s n="adv"/></r></p></e>
+    <e><p><l>rankasti<s n="adv"/></l><r>tungt<s n="adv"/></r></p></e>
+    <e><p><l>rankasti<s n="adv"/></l><r>tøft<s n="adv"/></r></p></e>
     <e><p><l>raskaasti<s n="adv"/></l><r>tungt<s n="adv"/></r></p></e>
+    <e><p><l>rationaalisesti<s n="adv"/></l><r>rasjonelt<s n="adv"/></r></p></e>
+    <e><p><l>ratkaisevasti<s n="adv"/></l><r>avgjørende<s n="adv"/></r></p></e>
+    <e><p><l>ratsain<s n="adv"/></l><r>til hest<s n="adv"/></r></p></e>
+    <e><p><l>rauhallisesti<s n="adv"/></l><r>fredelig<s n="adv"/></r></p></e>
+    <e><p><l>rauhanomaisesti<s n="adv"/></l><r>fredelig<s n="adv"/></r></p></e>
+    <e><p><l>rautateitse<s n="adv"/></l><r>med tog<s n="adv"/></r></p></e>
+    <e><p><l>reaaliaikaisesti<s n="adv"/></l><r>i sanntid<s n="adv"/></r></p></e>
+    <e><p><l>realistisesti<s n="adv"/></l><r>realistisk<s n="adv"/></r></p></e>
+    <e><p><l>rehellisesti<s n="adv"/></l><r>ærlig<s n="adv"/></r></p></e>
+    <e><p><l>reilusti<s n="adv"/></l><r>rettferdig<s n="adv"/></r></p></e>
+    <e><p><l>reilusti<s n="adv"/></l><r>skvært<s n="adv"/></r></p></e>
+    <e><p><l>reippaasti<s n="adv"/></l><r>kvikt<s n="adv"/></r></p></e>
+    <e><p><l>riittävästi<s n="adv"/></l><r>nok<s n="adv"/></r></p></e>
+    <e><p><l>rikki<s n="adv"/></l><r>ødelagt<s n="adv"/></r></p></e>
+    <e><p><l>rinnakkain<s n="adv"/></l><r>ved siden av hverandre<s n="adv"/></r></p></e>
+    <e><p><l>rinnalla<s n="adv"/></l><r>ved siden av<s n="adv"/></r></p></e>
+    <e><p><l>rinnalle<s n="adv"/></l><r>ved siden av<s n="adv"/></r></p></e>
+    <e><p><l>rinnan<s n="adv"/></l><r>parallell<s n="adv"/></r></p></e>
+    <e><p><l>ripeästi<s n="adv"/></l><r>omgående<s n="adv"/></r></p></e>
+    <e><p><l>ripeästi<s n="adv"/></l><r>straks<s n="adv"/></r></p></e>
+    <e><p><l>ristiin<s n="adv"/></l><r>på kryss<s n="adv"/></r></p></e>
+    <e><p><l>ristikkäin<s n="adv"/></l><r>på tvers<s n="adv"/></r></p></e>
+    <e><p><l>riveittäin<s n="adv"/></l><r>rad for rad<s n="adv"/></r></p></e>
+    <e><p><l>rodullisesti<s n="adv"/></l><r>rasemessig<s n="adv"/></r></p></e>
+    <e><p><l>rohkeasti<s n="adv"/></l><r>modig<s n="adv"/></r></p></e>
+    <e><p><l>runsaasti<s n="adv"/></l><r>rikelig<s n="adv"/></r></p></e>
+    <e><p><l>rutiininomaisesti<s n="adv"/></l><r> rutinemessig<s n="adv"/></r></p></e>
+    <e><p><l>ruumiillisesti<s n="adv"/></l><r>fysisk<s n="adv"/></r></p></e>
+    <e><p><l>ruumiillisesti<s n="adv"/></l><r>kroppslig<s n="adv"/></r></p></e>
+    <e><p><l>rytmisesti<s n="adv"/></l><r>rytmisk<s n="adv"/></r></p></e>
+    <e><p><l>räikeästi<s n="adv"/></l><r>åpenlyst<s n="adv"/></r></p></e>
+    <e><p><l>räjähdysmäisesti<s n="adv"/></l><r>eksplosivt<s n="adv"/></r></p></e>
+    <e><p><l>röyhkeästi<s n="adv"/></l><r>skamløst<s n="adv"/></r></p></e>
+    <e><p><l>saatavana<s n="adv"/></l><r>tilgjengelig<s n="adv"/></r></p></e>
+    <e><p><l>saatavilla<s n="adv"/></l><r>tilgjengelig<s n="adv"/></r></p></e>
+    <e><p><l>saatavissa<s n="adv"/></l><r>tilgjengelig<s n="adv"/></r></p></e>
+    <e><p><l>sadoittain<s n="adv"/></l><r>i hundrevis<s n="adv"/></r></p></e>
+    <e><p><l>salaa<s n="adv"/></l><r>i hemmelighet<s n="adv"/></r></p></e>
+    <e><p><l>salaisesti<s n="adv"/></l><r>i hemmelighet<s n="adv"/></r></p></e>
+    <e><p><l>salaperäisesti<s n="adv"/></l><r>hemmelig<s n="adv"/></r></p></e>
+    <e><p><l>salaperäisesti<s n="adv"/></l><r>mystisk<s n="adv"/></r></p></e>
+    <e><p><l>salassa<s n="adv"/></l><r>i hemmelighet<s n="adv"/></r></p></e>
     <e><p><l>samalla<s n="adv"/></l><r>imidlertid<s n="adv"/></r></p></e>
     <e><p><l>samanaikaisesti<s n="adv"/></l><r>mens<s n="adv"/></r></p></e>
     <e><p><l>samanaikaisesti<s n="adv"/></l><r>samstundes<s n="adv"/></r></p></e>
     <e><p><l>samanaikaisesti<s n="adv"/></l><r>samtidig<s n="adv"/></r></p></e>
+    <e><p><l>samansuuntaisesti<s n="adv"/></l><r>i samme retning<s n="adv"/></r></p></e>
+    <e><p><l>samassa<s n="adv"/></l><r>samtidig<s n="adv"/></r></p></e>
     <e><p><l>samoin<s n="adv"/></l><r>like<s n="adv"/></r></p></e>
+    <e><p><l>samoin<s n="adv"/></l><r>også<s n="adv"/></r></p></e>
     <e><p><l>samoin<s n="adv"/></l><r>samme<s n="adv"/></r></p></e>
     <e><p><l>samoin<s n="adv"/></l><r>slik<s n="adv"/></r></p></e>
+    <e><p><l>sanallisesti<s n="adv"/></l><r>verbalt<s n="adv"/></r></p></e>
+    <e><p><l>sananmukaisesti<s n="adv"/></l><r>bokstavelig talt<s n="adv"/></r></p></e>
+    <e><p><l>sanatarkasti<s n="adv"/></l><r>bokstavlig talt<s n="adv"/></r></p></e>
+    <e><p><l>sangen<s n="adv"/></l><r>ganske<s n="adv"/></r></p></e>
+    <e><p><l>sarkastisesti<s n="adv"/></l><r>sarkastisk<s n="adv"/></r></p></e>
     <e><p><l>sattumalta<s n="adv"/></l><r>tilfeldigvis<s n="adv"/></r></p></e>
+    <e><p><l>sattumanvaraisesti<s n="adv"/></l><r>tilfeldigvis<s n="adv"/></r></p></e>
+    <e><p><l>satunnaisesti<s n="adv"/></l><r>slumpmessig<s n="adv"/></r></p></e>
+    <e><p><l>sekaisin<s n="adv"/></l><r>hulter til bulter<s n="adv"/></r></p></e>
+    <e><p><l>seksuaalisesti<s n="adv"/></l><r>seksuelt<s n="adv"/></r></p></e>
+    <e><p><l>selin<s n="adv"/></l><r>md ryggen til<s n="adv"/></r></p></e>
+    <e><p><l>selkeästi<s n="adv"/></l><r>klart<s n="adv"/></r></p></e>
+    <e><p><l>selkeästi<s n="adv"/></l><r>tydelig<s n="adv"/></r></p></e>
+    <e><p><l>selväsanaisesti<s n="adv"/></l><r>klart og tydelig<s n="adv"/></r></p></e>
     <e><p><l>selvästi<s n="adv"/></l><r>klart<s n="adv"/></r></p></e>
     <e><p><l>selvästi<s n="adv"/></l><r>klårt<s n="adv"/></r></p></e>
+    <e><p><l>selvästi<s n="adv"/></l><r>tydelig<s n="adv"/></r></p></e>
+    <e><p><l>selälleen<s n="adv"/></l><r>på rygg<s n="adv"/></r></p></e>
     <e><p><l>seuraavaksi<s n="adv"/></l><r>nest<s n="adv"/></r></p></e>
+    <e><p><l>seuraavasti<s n="adv"/></l><r>som følger<s n="adv"/></r></p></e>
     <e><p><l>siellä<s n="adv"/></l><r>der<s n="adv"/></r></p></e>
+    <e><p><l>sieltä<s n="adv"/></l><r>derfra<s n="adv"/></r></p></e>
+    <e><p><l>siihen<s n="adv"/></l><r>til det<s n="adv"/></r></p></e>
+    <e><p><l>siinä<s n="adv"/></l><r>der<s n="adv"/></r></p></e>
+    <e><p><l>siis<s n="adv"/></l><r>altså<s n="adv"/></r></p></e>
     <e><p><l>siis<s n="adv"/></l><r>altså<s n="adv"/></r></p></e>
     <e><p><l>siis<s n="adv"/></l><r>dermed<s n="adv"/></r></p></e>
     <e><p><l>siis<s n="adv"/></l><r>så<s n="adv"/></r></p></e>
+    <e><p><l>siitä<s n="adv"/></l><r>fra det<s n="adv"/></r></p></e>
     <e><p><l>sijaan<s n="adv"/></l><r>i<b/>staden<s n="adv"/></r></p></e>
+    <e><p><l>sikseen<s n="adv"/></l><r>til side<s n="adv"/></r></p></e>
     <e><p><l>siksi<s n="adv"/></l><r>derav<s n="adv"/></r></p></e>
+    <e><p><l>siksi<s n="adv"/></l><r>derfor<s n="adv"/></r></p></e>
     <e><p><l>siksi<s n="adv"/></l><r>derfor<s n="adv"/></r></p></e>
     <e><p><l>siksi<s n="adv"/></l><r>difor<s n="adv"/></r></p></e>
     <e><p><l>silloin<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
+    <e><p><l>silloin<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
     <e><p><l>silloin<s n="adv"/></l><r>når<s n="adv"/></r></p></e>
+    <e><p><l>silmämääräisesti<s n="adv"/></l><r>visuelt<s n="adv"/></r></p></e>
+    <e><p><l>sinne<s n="adv"/></l><r>dit<s n="adv"/></r></p></e>
+    <e><p><l>sinnikkäästi<s n="adv"/></l><r>utrøttelig<s n="adv"/></r></p></e>
     <e><p><l>sinut<s n="adv"/></l><r>skuls<s n="adv"/></r></p></e>
+    <e><p><l>sisäisesti<s n="adv"/></l><r>internt<s n="adv"/></r></p></e>
+    <e><p><l>sisälle<s n="adv"/></l><r>inn<s n="adv"/></r></p></e>
     <e><p><l>sisällä<s n="adv"/></l><r>innendørs<s n="adv"/></r></p></e>
     <e><p><l>sisällä<s n="adv"/></l><r>inne<s n="adv"/></r></p></e>
+    <e><p><l>sisällä<s n="adv"/></l><r>inne<s n="adv"/></r></p></e>
     <e><p><l>sisällä<s n="adv"/></l><r>i<s n="adv"/></r></p></e>
+    <e><p><l>sisältä<s n="adv"/></l><r>ut fra<s n="adv"/></r></p></e>
+    <e><p><l>sisäpoliittisesti<s n="adv"/></l><r>innenrikspolitisk<s n="adv"/></r></p></e>
+    <e><p><l>sisässä<s n="adv"/></l><r>inne<s n="adv"/></r></p></e>
+    <e><p><l>sisäänpäin<s n="adv"/></l><r>innovervendt<s n="adv"/></r></p></e>
+    <e><p><l>sisään<s n="adv"/></l><r>inn<s n="adv"/></r></p></e>
+    <e><p><l>siten<s n="adv"/></l><r>slik<s n="adv"/></r></p></e>
+    <e><p><l>sitkeästi<s n="adv"/></l><r>seigt<s n="adv"/></r></p></e>
+    <e><p><l>sittemmin<s n="adv"/></l><r>likevel<s n="adv"/></r></p></e>
     <e><p><l>sittemmin<s n="adv"/></l><r>siden<s n="adv"/></r></p></e>
     <e><p><l>sitten<s n="adv"/></l><r>deretter<s n="adv"/></r></p></e>
+    <e><p><l>sitten<s n="adv"/></l><r>så<s n="adv"/></r></p></e>
+    <e><p><l>skeptisesti<s n="adv"/></l><r>skeptisk<s n="adv"/></r></p></e>
+    <e><p><l>sopivasti<s n="adv"/></l><r>passende<s n="adv"/></r></p></e>
+    <e><p><l>sosiaalisesti<s n="adv"/></l><r>sosialt<s n="adv"/></r></p></e>
+    <e><p><l>sotilaallisesti<s n="adv"/></l><r>militært<s n="adv"/></r></p></e>
+    <e><p><l>spontaanisti<s n="adv"/></l><r>spontant<s n="adv"/></r></p></e>
+    <e><p><l>staattisesti<s n="adv"/></l><r>statisk<s n="adv"/></r></p></e>
+    <e><p><l>strategisesti<s n="adv"/></l><r>strategisk<s n="adv"/></r></p></e>
     <e><p><l>suhteellisesti<s n="adv"/></l><r>forholdsvis<s n="adv"/></r></p></e>
+    <e><p><l>suhteellisesti<s n="adv"/></l><r>relativt sett<s n="adv"/></r></p></e>
+    <e><p><l>sujuvasti<s n="adv"/></l><r>flytende<s n="adv"/></r></p></e>
+    <e><p><l>sunnuntaisin<s n="adv"/></l><r>på søndager<s n="adv"/></r></p></e>
+    <e><p><l>suomalaisittain<s n="adv"/></l><r>på en finsk måte<s n="adv"/></r></p></e>
+    <e><p><l>suonensisäisesti<s n="adv"/></l><r>intravenøst<s n="adv"/></r></p></e>
+    <e><p><l>suopeasti<s n="adv"/></l><r>gunstig<s n="adv"/></r></p></e>
     <e><p><l>suoraan<s n="adv"/></l><r>straks<s n="adv"/></r></p></e>
+    <e><p><l>suoranaisesti<s n="adv"/></l><r>direkte<s n="adv"/></r></p></e>
+    <e><p><l>suorasti<s n="adv"/></l><r>direkte<s n="adv"/></r></p></e>
+    <e><p><l>suoraviivaisesti<s n="adv"/></l><r>rettlinjet<s n="adv"/></r></p></e>
+    <e><p><l>suotuisasti<s n="adv"/></l><r>gunstig<s n="adv"/></r></p></e>
+    <e><p><l>surkeasti<s n="adv"/></l><r>elendig<s n="adv"/></r></p></e>
+    <e><p><l>surkeasti<s n="adv"/></l><r>trist<s n="adv"/></r></p></e>
+    <e><p><l>suullisesti<s n="adv"/></l><r>muntlig<s n="adv"/></r></p></e>
+    <e><p><l>suullisesti<s n="adv"/></l><r>oralt<s n="adv"/></r></p></e>
+    <e><p><l>suunnattomasti<s n="adv"/></l><r>enormt<s n="adv"/></r></p></e>
     <e><p><l>suunnilleen<s n="adv"/></l><r>noenlunde<s n="adv"/></r></p></e>
     <e><p><l>suunnilleen<s n="adv"/></l><r>omtrent<s n="adv"/></r></p></e>
+    <e><p><l>suunnitelmallisesti<s n="adv"/></l><r>planmessig<s n="adv"/></r></p></e>
+    <e><p><l>suunnitelmallisesti<s n="adv"/></l><r>systematisk<s n="adv"/></r></p></e>
+    <e><p><l>suunnitteilla<s n="adv"/></l><r>planlagt<s n="adv"/></r></p></e>
+    <e><p><l>suuresti<s n="adv"/></l><r>sterkt<s n="adv"/></r></p></e>
+    <e><p><l>suvereenisti<s n="adv"/></l><r>suverent<s n="adv"/></r></p></e>
+    <e><p><l>syksyisin<s n="adv"/></l><r>om høsten<s n="adv"/></r></p></e>
+    <e><p><l>symbolisesti<s n="adv"/></l><r>symbolsk<s n="adv"/></r></p></e>
+    <e><p><l>symmetrisesti<s n="adv"/></l><r>symmetrisk<s n="adv"/></r></p></e>
+    <e><p><l>synteettisesti<s n="adv"/></l><r>syntetisk<s n="adv"/></r></p></e>
+    <e><p><l>systemaattisesti<s n="adv"/></l><r>systematisk<s n="adv"/></r></p></e>
+    <e><p><l>syvemmälle<s n="adv"/></l><r>dypere<s n="adv"/></r></p></e>
+    <e><p><l>syvällisesti<s n="adv"/></l><r>dypt<s n="adv"/></r></p></e>
+    <e><p><l>syvästi<s n="adv"/></l><r>dypt<s n="adv"/></r></p></e>
+    <e><p><l>sähköisesti<s n="adv"/></l><r>elektronisk<s n="adv"/></r></p></e>
+    <e><p><l>säälimättömästi<s n="adv"/></l><r>nådeløst<s n="adv"/></r></p></e>
+    <e><p><l>säännöllisesti<s n="adv"/></l><r>regelmessig<s n="adv"/></r></p></e>
+    <e><p><l>taaksepäin<s n="adv"/></l><r>bakover<s n="adv"/></r></p></e>
+    <e><p><l>taannoin<s n="adv"/></l><r>for en tid siden<s n="adv"/></r></p></e>
+    <e><p><l>taa<s n="adv"/></l><r>bakfra<s n="adv"/></r></p></e>
     <e><p><l>taas<s n="adv"/></l><r>igjen<s n="adv"/></r></p></e>
+    <e><p><l>tahallaan<s n="adv"/></l><r>med vilje<s n="adv"/></r></p></e>
+    <e><p><l>tahallisesti<s n="adv"/></l><r>forsettlig<s n="adv"/></r></p></e>
+    <e><p><l>tahattomasti<s n="adv"/></l><r>utilsiktet<s n="adv"/></r></p></e>
+    <e><p><l>taidokkaasti<s n="adv"/></l><r>dyktig<s n="adv"/></r></p></e>
+    <e><p><l>taitavasti<s n="adv"/></l><r>dyktig<s n="adv"/></r></p></e>
+    <e><p><l>taiteellisesti<s n="adv"/></l><r>kunstnerisk<s n="adv"/></r></p></e>
+    <e><p><l>takaapäin<s n="adv"/></l><r>bakfra<s n="adv"/></r></p></e>
+    <e><p><l>takaa<s n="adv"/></l><r>bakfra<s n="adv"/></r></p></e>
     <e><p><l>takaa<s n="adv"/></l><r>bakom<s n="adv"/></r></p></e>
     <e><p><l>takaisin<s n="adv"/></l><r>bakover<s n="adv"/></r></p></e>
     <e><p><l>takaisin<s n="adv"/></l><r>tilbake<s n="adv"/></r></p></e>
+    <e><p><l>takaisin<s n="adv"/></l><r>tilbake<s n="adv"/></r></p></e>
+    <e><p><l>takana<s n="adv"/></l><r>bak<s n="adv"/></r></p></e>
+    <e><p><l>takaperin<s n="adv"/></l><r>bakover<s n="adv"/></r></p></e>
+    <e><p><l>taktisesti<s n="adv"/></l><r>taktisk<s n="adv"/></r></p></e>
+    <e><p><l>taloudellisesti<s n="adv"/></l><r>økonomisk<s n="adv"/></r></p></e>
     <e><p><l>talvempana<s n="adv"/></l><r>nærmere<b/>vinteren<s n="adv"/></r></p></e>
+    <e><p><l>talvisin<s n="adv"/></l><r>om vinteren<s n="adv"/></r></p></e>
+    <e><p><l>tapauskohtaisesti<s n="adv"/></l><r> på en sak-for-sak-basis<s n="adv"/></r></p></e>
+    <e><p><l>tarjolla<s n="adv"/></l><r>tilgjengelig<s n="adv"/></r></p></e>
     <e><p><l>tarkalleen<s n="adv"/></l><r>akkurat<s n="adv"/></r></p></e>
+    <e><p><l>tarkalleen<s n="adv"/></l><r>just<s n="adv"/></r></p></e>
+    <e><p><l>tarkasti<s n="adv"/></l><r>nøyaktig<s n="adv"/></r></p></e>
+    <e><p><l>tarkasti<s n="adv"/></l><r>nøye<s n="adv"/></r></p></e>
+    <e><p><l>tarkemmin<s n="adv"/></l><r>i mer detalj<s n="adv"/></r></p></e>
+    <e><p><l>tarkimmin<s n="adv"/></l><r>mest nøyaktig<s n="adv"/></r></p></e>
+    <e><p><l>tarkkaan<s n="adv"/></l><r>nøye<s n="adv"/></r></p></e>
+    <e><p><l>tarkoin<s n="adv"/></l><r>nøye<s n="adv"/></r></p></e>
+    <e><p><l>tarkoituksellisesti<s n="adv"/></l><r>forsettlig<s n="adv"/></r></p></e>
+    <e><p><l>tarkoituksenmukaisesti<s n="adv"/></l><r>på hensiktsmessig måte<s n="adv"/></r></p></e>
     <e><p><l>tarpeeksi<s n="adv"/></l><r>nok<s n="adv"/></r></p></e>
+    <e><p><l>tarpeen<s n="adv"/></l><r>nødvendig<s n="adv"/></r></p></e>
+    <e><p><l>tarpeettomasti<s n="adv"/></l><r>unødvendig<s n="adv"/></r></p></e>
+    <e><p><l>tasaisesti<s n="adv"/></l><r>jevnt<s n="adv"/></r></p></e>
     <e><p><l>tasan<s n="adv"/></l><r>nivå<s n="adv"/></r></p></e>
+    <e><p><l>tasan<s n="adv"/></l><r>nøyaktig<s n="adv"/></r></p></e>
+    <e><p><l>tavallaan<s n="adv"/></l><r>liksom<s n="adv"/></r></p></e>
     <e><p><l>tavallisesti<s n="adv"/></l><r>vanligvis<s n="adv"/></r></p></e>
+    <e><p><l>tavanomaisesti<s n="adv"/></l><r>konvensjonelt<s n="adv"/></r></p></e>
     <e><p><l>tavoin<s n="adv"/></l><r>på<b/>en<b/>måte<s n="adv"/></r></p></e>
+    <e><p><l>tehokkaasti<s n="adv"/></l><r>effektivt<s n="adv"/></r></p></e>
+    <e><p><l>tekeillä<s n="adv"/></l><r>i gang<s n="adv"/></r></p></e>
+    <e><p><l>teknisesti<s n="adv"/></l><r>teknisk<s n="adv"/></r></p></e>
+    <e><p><l>teollisesti<s n="adv"/></l><r>industrielt<s n="adv"/></r></p></e>
+    <e><p><l>teoreettisesti<s n="adv"/></l><r>teoretisk<s n="adv"/></r></p></e>
     <e><p><l>terveellisesti<s n="adv"/></l><r>sunt<s n="adv"/></r></p></e>
+    <e><p><l>terävästi<s n="adv"/></l><r>skarpt<s n="adv"/></r></p></e>
+    <e><p><l>tieteellisesti<s n="adv"/></l><r>vitenskapelig<s n="adv"/></r></p></e>
+    <e><p><l>tietenkin<s n="adv"/></l><r>selvfølgelig<s n="adv"/></r></p></e>
+    <e><p><l>tietoisesti<s n="adv"/></l><r>bevisst<s n="adv"/></r></p></e>
+    <e><p><l>tiettävästi<s n="adv"/></l><r>som kjent<s n="adv"/></r></p></e>
+    <e><p><l>tietysti<s n="adv"/></l><r>naturligvis<s n="adv"/></r></p></e>
+    <e><p><l>tiheästi<s n="adv"/></l><r>tett<s n="adv"/></r></p></e>
+    <e><p><l>tiheään<s n="adv"/></l><r>tett<s n="adv"/></r></p></e>
+    <e><p><l>tiiviisti<s n="adv"/></l><r>nøye<s n="adv"/></r></p></e>
+    <e><p><l>tiiviisti<s n="adv"/></l><r>tett<s n="adv"/></r></p></e>
+    <e><p><l>tilapäisesti<s n="adv"/></l><r>midlertidig<s n="adv"/></r></p></e>
+    <e><p><l>tilastollisesti<s n="adv"/></l><r>statistisk<s n="adv"/></r></p></e>
+    <e><p><l>tiukasti<s n="adv"/></l><r>strengt<s n="adv"/></r></p></e>
+    <e><p><l>tiukasti<s n="adv"/></l><r>tett<s n="adv"/></r></p></e>
+    <e><p><l>todella<s n="adv"/></l><r>sannelig<s n="adv"/></r></p></e>
     <e><p><l>todella<s n="adv"/></l><r>virkelig<s n="adv"/></r></p></e>
+    <e><p><l>todellisesti<s n="adv"/></l><r>faktisk<s n="adv"/></r></p></e>
+    <e><p><l>todenmukaisesti<s n="adv"/></l><r>sannferdig<s n="adv"/></r></p></e>
     <e><p><l>todennäköisesti<s n="adv"/></l><r>sannsynlig<s n="adv"/></r></p></e>
+    <e><p><l>todennäköisesti<s n="adv"/></l><r>sannsynligvis<s n="adv"/></r></p></e>
+    <e><p><l>toisaalla<s n="adv"/></l><r>på den annen side<s n="adv"/></r></p></e>
+    <e><p><l>toisaalta<s n="adv"/></l><r>på den andre sida<s n="adv"/></r></p></e>
+    <e><p><l>toisinaan<s n="adv"/></l><r>av og til<s n="adv"/></r></p></e>
+    <e><p><l>toisin<s n="adv"/></l><r>ellers<s n="adv"/></r></p></e>
+    <e><p><l>toistaiseksi<s n="adv"/></l><r>så langt<s n="adv"/></r></p></e>
+    <e><p><l>toistamiseen<s n="adv"/></l><r>en andre gang<s n="adv"/></r></p></e>
+    <e><p><l>toistuvasti<s n="adv"/></l><r>gjentatte ganger<s n="adv"/></r></p></e>
+    <e><p><l>torjuvasti<s n="adv"/></l><r>avvisende<s n="adv"/></r></p></e>
+    <e><p><l>tosiasiallisesti<s n="adv"/></l><r>faktisk<s n="adv"/></r></p></e>
     <e><p><l>tosi<s n="adv"/></l><r>innmari<s n="adv"/></r></p></e>
+    <e><p><l>totuudenmukaisesti<s n="adv"/></l><r>sannferdig<s n="adv"/></r></p></e>
+    <e><p><l>traagisesti<s n="adv"/></l><r>tragisk<s n="adv"/></r></p></e>
     <e><p><l>tuhannesti<s n="adv"/></l><r>tusenvis<s n="adv"/></r></p></e>
+    <e><p><l>tuhansittain<s n="adv"/></l><r>i tusenvis<s n="adv"/></r></p></e>
+    <e><p><l>tukevasti<s n="adv"/></l><r>fast<s n="adv"/></r></p></e>
+    <e><p><l>tukevasti<s n="adv"/></l><r>solid<s n="adv"/></r></p></e>
     <e><p><l>tulevaisuudessa<s n="adv"/></l><r>fremtidigt<s n="adv"/></r></p></e>
+    <e><p><l>tunnetusti<s n="adv"/></l><r>som kjent<s n="adv"/></r></p></e>
+    <e><p><l>tunnollisesti<s n="adv"/></l><r>samvittighetsfullt<s n="adv"/></r></p></e>
+    <e><p><l>tuntuvasti<s n="adv"/></l><r>betraktelig<s n="adv"/></r></p></e>
+    <e><p><l>tuohon<s n="adv"/></l><r>til det der borte<s n="adv"/></r></p></e>
+    <e><p><l>tuolla<s n="adv"/></l><r>der borte<s n="adv"/></r></p></e>
+    <e><p><l>tuolloin<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
+    <e><p><l>tuossa<s n="adv"/></l><r>der borte<s n="adv"/></r></p></e>
+    <e><p><l>tuosta<s n="adv"/></l><r>av det der borte<s n="adv"/></r></p></e>
+    <e><p><l>tuplasti<s n="adv"/></l><r>to ganger<s n="adv"/></r></p></e>
+    <e><p><l>turhaan<s n="adv"/></l><r>til ingen nytte<s n="adv"/></r></p></e>
     <e><p><l>turvallisesti<s n="adv"/></l><r>trygt<s n="adv"/></r></p></e>
+    <e><p><l>tylysti<s n="adv"/></l><r>frekt<s n="adv"/></r></p></e>
+    <e><p><l>tyydyttävästi<s n="adv"/></l><r>tilfredsstillende<s n="adv"/></r></p></e>
+    <e><p><l>tyylikkäästi<s n="adv"/></l><r>med stil<s n="adv"/></r></p></e>
+    <e><p><l>tyylillisesti<s n="adv"/></l><r>stilistisk<s n="adv"/></r></p></e>
+    <e><p><l>tyypillisesti<s n="adv"/></l><r>typisk<s n="adv"/></r></p></e>
+    <e><p><l>tähän<s n="adv"/></l><r>til dette<s n="adv"/></r></p></e>
+    <e><p><l>tällöin<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
+    <e><p><l>tänne<s n="adv"/></l><r>hit<s n="adv"/></r></p></e>
     <e><p><l>tänään<s n="adv"/></l><r>i<b/>dag<s n="adv"/></r></p></e>
+    <e><p><l>tänään<s n="adv"/></l><r>i dag<s n="adv"/></r></p></e>
+    <e><p><l>täpärästi<s n="adv"/></l><r>med smal margin<s n="adv"/></r></p></e>
+    <e><p><l>täpärästi<s n="adv"/></l><r>så vidt<s n="adv"/></r></p></e>
+    <e><p><l>täsmällisesti<s n="adv"/></l><r>presist<s n="adv"/></r></p></e>
+    <e><p><l>tässä<s n="adv"/></l><r>her<s n="adv"/></r></p></e>
+    <e><p><l>tästedes<s n="adv"/></l><r>fra nå av<s n="adv"/></r></p></e>
+    <e><p><l>tästä<s n="adv"/></l><r>av dette<s n="adv"/></r></p></e>
+    <e><p><l>tästä<s n="adv"/></l><r>herfra<s n="adv"/></r></p></e>
+    <e><p><l>täten<s n="adv"/></l><r>slik<s n="adv"/></r></p></e>
+    <e><p><l>täydellisesti<s n="adv"/></l><r>fullkomment<s n="adv"/></r></p></e>
+    <e><p><l>täydellisesti<s n="adv"/></l><r>perfekt<s n="adv"/></r></p></e>
     <e><p><l>täynnä<s n="adv"/></l><r>full<s n="adv"/></r></p></e>
+    <e><p><l>täynnä<s n="adv"/></l><r>fullt<s n="adv"/></r></p></e>
     <e><p><l>täysimittaisesti<s n="adv"/></l><r>fullstendig<s n="adv"/></r></p></e>
     <e><p><l>täysin<s n="adv"/></l><r>fullt<s n="adv"/></r></p></e>
     <e><p><l>täysin<s n="adv"/></l><r>heile<s n="adv"/></r></p></e>
     <e><p><l>täysin<s n="adv"/></l><r>hele<s n="adv"/></r></p></e>
     <e><p><l>täysin<s n="adv"/></l><r>helt<s n="adv"/></r></p></e>
+    <e><p><l>täysipainoisesti<s n="adv"/></l><r>for fullt<s n="adv"/></r></p></e>
+    <e><p><l>täysipäiväisesti<s n="adv"/></l><r>på heltid<s n="adv"/></r></p></e>
+    <e><p><l>täyteen<s n="adv"/></l><r>full<s n="adv"/></r></p></e>
+    <e><p><l>täyteen<s n="adv"/></l><r>mett<s n="adv"/></r></p></e>
+    <e><p><l>täällä<s n="adv"/></l><r>her<s n="adv"/></r></p></e>
     <e><p><l>täällä<s n="adv"/><s n="ade"/></l><r>her<s n="adv"/></r></p></e>
+    <e><p><l>täältä<s n="adv"/></l><r>herfra<s n="adv"/></r></p></e>
+    <e><p><l>törkeästi<s n="adv"/></l><r>grovt<s n="adv"/></r></p></e>
+    <e><p><l>uhkaavasti<s n="adv"/></l><r>truende<s n="adv"/></r></p></e>
+    <e><p><l>ulkoapäin<s n="adv"/></l><r>fra utsiden<s n="adv"/></r></p></e>
+    <e><p><l>ulkoa<s n="adv"/></l><r>utenfra<s n="adv"/></r></p></e>
+    <e><p><l>ulkoisesti<s n="adv"/></l><r>eksternt<s n="adv"/></r></p></e>
+    <e><p><l>ulkonaisesti<s n="adv"/></l><r>utad<s n="adv"/></r></p></e>
     <e><p><l>ulkona<s n="adv"/></l><r>utendørs<s n="adv"/></r></p></e>
     <e><p><l>ulkona<s n="adv"/></l><r>ute<s n="adv"/></r></p></e>
+    <e><p><l>ulkopoliittisesti<s n="adv"/></l><r>utenrikspolitikk<s n="adv"/></r></p></e>
+    <e><p><l>ulkosalla<s n="adv"/></l><r>utendørs<s n="adv"/></r></p></e>
+    <e><p><l>useasti<s n="adv"/></l><r>ofte<s n="adv"/></r></p></e>
     <e><p><l>useimmin<s n="adv"/><s n="qu"/><s n="sup"/></l><r>oftest<s n="adv"/></r></p></e>
+    <e><p><l>useimmiten<s n="adv"/></l><r>i de fleste tilfeller<s n="adv"/></r></p></e>
     <e><p><l>usein<s n="adv"/></l><r>mange<s n="adv"/></r></p></e>
     <e><p><l>usein<s n="adv"/></l><r>ofte<s n="adv"/></r></p></e>
+    <e><p><l>uskollisesti<s n="adv"/></l><r>trofast<s n="adv"/></r></p></e>
+    <e><p><l>uskonnollisesti<s n="adv"/></l><r>religiøst<s n="adv"/></r></p></e>
+    <e><p><l>uskottavasti<s n="adv"/></l><r>troverdig<s n="adv"/></r></p></e>
+    <e><p><l>uudelleen<s n="adv"/></l><r>pâ nytt<s n="adv"/></r></p></e>
+    <e><p><l>uudestaan<s n="adv"/></l><r>en gang til<s n="adv"/></r></p></e>
+    <e><p><l>vaan<s n="adv"/></l><r>men<s n="adv"/></r></p></e>
+    <e><p><l>vaarallisesti<s n="adv"/></l><r>farlig<s n="adv"/></r></p></e>
+    <e><p><l>vaatimattomasti<s n="adv"/></l><r>beskjedent<s n="adv"/></r></p></e>
+    <e><p><l>vahvasti<s n="adv"/></l><r>sterkt<s n="adv"/></r></p></e>
     <e><p><l>vahvasti<s n="adv"/></l><r>sterkt<s n="adv"/></r></p></e>
     <e><p><l>vahvasti<s n="adv"/></l><r>styrke<s n="adv"/></r></p></e>
     <e><p><l>vahvemmin<s n="adv"/></l><r>sterkere<s n="adv"/></r></p></e>
+    <e><p><l>vaiheittain<s n="adv"/></l><r>trinn for trinn<s n="adv"/></r></p></e>
+    <e><p><l>vaihtoehtoisesti<s n="adv"/></l><r>alternativt<s n="adv"/></r></p></e>
+    <e><p><l>vaikeasti<s n="adv"/></l><r>vanskelig<s n="adv"/></r></p></e>
     <e><p><l>vaikka<s n="adv"/></l><r>skølve<s n="adv"/></r></p></e>
+    <e><p><l>vaille<s n="adv"/></l><r>uten<s n="adv"/></r></p></e>
     <e><p><l>vain<s n="adv"/></l><r>bare<s n="adv"/></r></p></e>
     <e><p><l>vain<s n="adv"/></l><r>berre<s n="adv"/></r></p></e>
     <e><p><l>vain<s n="adv"/></l><r>kun<s n="adv"/></r></p></e>
+    <e><p><l>vaistonvaraisesti<s n="adv"/></l><r>instinktivt<s n="adv"/></r></p></e>
+    <e><p><l>vaiti<s n="adv"/></l><r>taust<s n="adv"/></r></p></e>
+    <e><p><l>vaivattomasti<s n="adv"/></l><r>uanstrengt<s n="adv"/></r></p></e>
+    <e><p><l>vaivihkaa<s n="adv"/></l><r>på lur<s n="adv"/></r></p></e>
+    <e><p><l>vaivoin<s n="adv"/></l><r>med store vanskeligheter<s n="adv"/></r></p></e>
+    <e><p><l>vakaasti<s n="adv"/></l><r>alvorlig<s n="adv"/></r></p></e>
+    <e><p><l>vakavasti<s n="adv"/></l><r>alvorlig<s n="adv"/></r></p></e>
+    <e><p><l>vakinaisesti<s n="adv"/></l><r>permanent<s n="adv"/></r></p></e>
+    <e><p><l>vakituisesti<s n="adv"/></l><r>fast<s n="adv"/></r></p></e>
+    <e><p><l>vakituisesti<s n="adv"/></l><r>stabil<s n="adv"/></r></p></e>
+    <e><p><l>vakuuttavasti<s n="adv"/></l><r>overbevisende<s n="adv"/></r></p></e>
+    <e><p><l>valitettavasti<s n="adv"/></l><r>dessverre<s n="adv"/></r></p></e>
+    <e><p><l>vallassa<s n="adv"/></l><r>ved makta<s n="adv"/></r></p></e>
+    <e><p><l>valtaan<s n="adv"/></l><r>til makta<s n="adv"/></r></p></e>
+    <e><p><l>valtakunnallisesti<s n="adv"/></l><r>på landsbasis<s n="adv"/></r></p></e>
+    <e><p><l>valtavasti<s n="adv"/></l><r>enormt<s n="adv"/></r></p></e>
+    <e><p><l>vanhemmiten<s n="adv"/></l><r>senere i livet<s n="adv"/></r></p></e>
+    <e><p><l>vankasti<s n="adv"/></l><r>solid<s n="adv"/></r></p></e>
+    <e><p><l>vapaaehtoisesti<s n="adv"/></l><r>på frivillig basis<s n="adv"/></r></p></e>
+    <e><p><l>vapaasti<s n="adv"/></l><r>fritt<s n="adv"/></r></p></e>
+    <e><p><l>varauksellisesti<s n="adv"/></l><r>med reservasjoner<s n="adv"/></r></p></e>
+    <e><p><l>varhain<s n="adv"/></l><r>tidlig<s n="adv"/></r></p></e>
+    <e><p><l>varmaan<s n="adv"/></l><r>sannsynligvis<s n="adv"/></r></p></e>
+    <e><p><l>varmasti<s n="adv"/></l><r>sikkert<s n="adv"/></r></p></e>
+    <e><p><l>varovaisesti<s n="adv"/></l><r>forsiktig<s n="adv"/></r></p></e>
+    <e><p><l>varovasti<s n="adv"/></l><r>forsiktig<s n="adv"/></r></p></e>
+    <e><p><l>varsinaisesti<s n="adv"/></l><r>egentlig<s n="adv"/></r></p></e>
     <e><p><l>varsin<s n="adv"/></l><r>ganske<s n="adv"/></r></p></e>
+    <e><p><l>varuillaan<s n="adv"/></l><r>på vakt<s n="adv"/></r></p></e>
+    <e><p><l>vasemmalla<s n="adv"/></l><r>på venstre side<s n="adv"/></r></p></e>
+    <e><p><l>vasemmalle<s n="adv"/></l><r>til venstre<s n="adv"/></r></p></e>
+    <e><p><l>vastaan<s n="adv"/></l><r>i mot<s n="adv"/></r></p></e>
     <e><p><l>vastaavasti<s n="adv"/></l><r>henholdsvis<s n="adv"/></r></p></e>
+    <e><p><l>vastahakoisesti<s n="adv"/></l><r>motvillig<s n="adv"/></r></p></e>
+    <e><p><l>vastaisesti<s n="adv"/></l><r>i strid med<s n="adv"/></r></p></e>
+    <e><p><l>vastaisesti<s n="adv"/></l><r>mot<s n="adv"/></r></p></e>
+    <e><p><l>vastakkain<s n="adv"/></l><r>mot hverandre<s n="adv"/></r></p></e>
+    <e><p><l>vastavuoroisesti<s n="adv"/></l><r>på gjensidig basis<s n="adv"/></r></p></e>
     <e><p><l>vastavuoroisesti<s n="adv"/></l><r>vekselsvis<s n="adv"/></r></p></e>
+    <e><p><l>vastedes<s n="adv"/></l><r>fra nå av<s n="adv"/></r></p></e>
+    <e><p><l>vastentahtoisesti<s n="adv"/></l><r>motvillig<s n="adv"/></r></p></e>
+    <e><p><l>vastikään<s n="adv"/></l><r>nylig<s n="adv"/></r></p></e>
+    <e><p><l>vauhdikkaasti<s n="adv"/></l><r>hurtig<s n="adv"/></r></p></e>
+    <e><p><l>vauhdikkaasti<s n="adv"/></l><r>i raskt tempo<s n="adv"/></r></p></e>
+    <e><p><l>verisesti<s n="adv"/></l><r>blodig<s n="adv"/></r></p></e>
+    <e><p><l>verkkaisesti<s n="adv"/></l><r>tregt<s n="adv"/></r></p></e>
+    <e><p><l>verran<s n="adv"/></l><r>så mye som<s n="adv"/></r></p></e>
+    <e><p><l>verrattain<s n="adv"/></l><r>relativt<s n="adv"/></r></p></e>
+    <e><p><l>vertauskuvallisesti<s n="adv"/></l><r>metaforisk<s n="adv"/></r></p></e>
+    <e><p><l>vesitse<s n="adv"/></l><r>sjøveien<s n="adv"/></r></p></e>
     <e><p><l>vieläkin<s n="adv"/></l><r>framleis<s n="adv"/></r></p></e>
+    <e><p><l>vielä<s n="adv"/></l><r>enda<s n="adv"/></r></p></e>
     <e><p><l>vielä<s n="adv"/></l><r>fremdeles<s n="adv"/></r></p></e>
+    <e><p><l>viereen<s n="adv"/></l><r>ved siden av<s n="adv"/></r></p></e>
+    <e><p><l>vierekkäin<s n="adv"/></l><r>ved siden av hverandre<s n="adv"/></r></p></e>
+    <e><p><l>vieressä<s n="adv"/></l><r>ved siden av<s n="adv"/></r></p></e>
+    <e><p><l>vierestä<s n="adv"/></l><r>fra ved siden av<s n="adv"/></r></p></e>
+    <e><p><l>vieretysten<s n="adv"/></l><r>ved siden av hverandre<s n="adv"/></r></p></e>
+    <e><p><l>vihamielisesti<s n="adv"/></l><r>fiendtlig<s n="adv"/></r></p></e>
+    <e><p><l>vihdoinkin<s n="adv"/></l><r>endelig<s n="adv"/></r></p></e>
+    <e><p><l>vihdoin<s n="adv"/></l><r>endelig<s n="adv"/></r></p></e>
+    <e><p><l>viidesti<s n="adv"/></l><r>fem ganger<s n="adv"/></r></p></e>
+    <e><p><l>viikoittain<s n="adv"/></l><r>på ukentlig basis<s n="adv"/></r></p></e>
+    <e><p><l>viikonloppuisin<s n="adv"/></l><r>i helgene<s n="adv"/></r></p></e>
+    <e><p><l>viimein<s n="adv"/></l><r>endelig<s n="adv"/></r></p></e>
     <e><p><l>viimeiseksi<s n="adv"/></l><r>sist<s n="adv"/></r></p></e>
+    <e><p><l>viimeistään<s n="adv"/></l><r>seinest<s n="adv"/></r></p></e>
     <e><p><l>viimeistään<s n="adv"/></l><r>senest<s n="adv"/></r></p></e>
+    <e><p><l>viimeksi<s n="adv"/></l><r>sist<s n="adv"/></r></p></e>
+    <e><p><l>viipymättä<s n="adv"/></l><r>uten forsinkelse<s n="adv"/></r></p></e>
+    <e><p><l>viistosti<s n="adv"/></l><r>diagonalt<s n="adv"/></r></p></e>
+    <e><p><l>vilkkaasti<s n="adv"/></l><r>livlig<s n="adv"/></r></p></e>
+    <e><p><l>vilpittömästi<s n="adv"/></l><r>oppriktig<s n="adv"/></r></p></e>
+    <e><p><l>vinosti<s n="adv"/></l><r>diagonalt<s n="adv"/></r></p></e>
+    <e><p><l>vinottain<s n="adv"/></l><r>diagonalt<s n="adv"/></r></p></e>
+    <e><p><l>vinottain<s n="adv"/></l><r>skeivt<s n="adv"/></r></p></e>
+    <e><p><l>virallisesti<s n="adv"/></l><r>offisielt<s n="adv"/></r></p></e>
+    <e><p><l>virheellisesti<s n="adv"/></l><r>feilaktig<s n="adv"/></r></p></e>
+    <e><p><l>visuaalisesti<s n="adv"/></l><r>visuelt<s n="adv"/></r></p></e>
+    <e><p><l>visusti<s n="adv"/></l><r>nært<s n="adv"/></r></p></e>
+    <e><p><l>viuhkamaisesti<s n="adv"/></l><r>vifteform<s n="adv"/></r></p></e>
+    <e><p><l>voimakkaasti<s n="adv"/></l><r>sterkt<s n="adv"/></r></p></e>
+    <e><p><l>voimallisesti<s n="adv"/></l><r>mektig<s n="adv"/></r></p></e>
     <e><p><l>vuoden<s n="adv"/></l><r>årets<s n="adv"/></r></p></e>
+    <e><p><l>vuolaasti<s n="adv"/></l><r>voldsomt<s n="adv"/></r></p></e>
+    <e><p><l>vuorostaan<s n="adv"/></l><r>etter tur<s n="adv"/></r></p></e>
     <e><p><l>vuosittain<s n="adv"/></l><r>årlig<s n="adv"/></r></p></e>
     <e><p><l>vähemmän<s n="adv"/></l><r>mindre<s n="adv"/></r></p></e>
     <e><p><l>vähintään<s n="adv"/></l><r>minst<s n="adv"/></r></p></e>
+    <e><p><l>vähitellen<s n="adv"/></l><r>etterhvert<s n="adv"/></r></p></e>
+    <e><p><l>vähiten<s n="adv"/></l><r>minst<s n="adv"/></r></p></e>
     <e><p><l>vähän<s n="adv"/></l><r>lite<s n="adv"/></r></p></e>
     <e><p><l>vähän<s n="adv"/></l><r>litt<s n="adv"/></r></p></e>
+    <e><p><l>väistämättä<s n="adv"/></l><r>uunngåelig<s n="adv"/></r></p></e>
     <e><p><l>väitetysti<s n="adv"/></l><r>etter<b/>sigende<s n="adv"/></r></p></e>
+    <e><p><l>väkisin<s n="adv"/></l><r>med makt<s n="adv"/></r></p></e>
+    <e><p><l>väkivalloin<s n="adv"/></l><r>med makt<s n="adv"/></r></p></e>
+    <e><p><l>väkivaltaisesti<s n="adv"/></l><r>voldelig<s n="adv"/></r></p></e>
     <e><p><l>väkivaltaisesti<s n="adv"/></l><r>voldsomt<s n="adv"/></r></p></e>
     <e><p><l>väliaikaisesti<s n="adv"/></l><r>midlertidig<s n="adv"/></r></p></e>
+    <e><p><l>väliin<s n="adv"/></l><r>inn mellom<s n="adv"/></r></p></e>
+    <e><p><l>välillisesti<s n="adv"/></l><r>indirekte<s n="adv"/></r></p></e>
+    <e><p><l>välillä<s n="adv"/></l><r>av og til<s n="adv"/></r></p></e>
     <e><p><l>välillä<s n="adv"/></l><r>gjennom<s n="adv"/></r></p></e>
+    <e><p><l>välinpitämättömästi<s n="adv"/></l><r>likegyldig<s n="adv"/></r></p></e>
+    <e><p><l>välissä<s n="adv"/></l><r>mellom<s n="adv"/></r></p></e>
+    <e><p><l>välittömästi<s n="adv"/></l><r>umiddelbart<s n="adv"/></r></p></e>
+    <e><p><l>väljästi<s n="adv"/></l><r>løst<s n="adv"/></r></p></e>
     <e><p><l>välttämättä<s n="adv"/></l><r>nødvendig<s n="adv"/></r></p></e>
+    <e><p><l>välttämättä<s n="adv"/></l><r>nødvendigvis<s n="adv"/></r></p></e>
+    <e><p><l>välttämättömästi<s n="adv"/></l><r>nødvendigvis<s n="adv"/></r></p></e>
+    <e><p><l>välttämättömästi<s n="adv"/></l><r>uunngåelig<s n="adv"/></r></p></e>
+    <e><p><l>värikkäästi<s n="adv"/></l><r>fargerikt<s n="adv"/></r></p></e>
+    <e><p><l>väärin<s n="adv"/></l><r>galt<s n="adv"/></r></p></e>
     <e><p><l>yhdessä<s n="adv"/></l><r>sammen<s n="adv"/></r></p></e>
+    <e><p><l>yhdessä<s n="adv"/></l><r>sammen<s n="adv"/></r></p></e>
+    <e><p><l>yhtaikaa<s n="adv"/></l><r>samtidig<s n="adv"/></r></p></e>
+    <e><p><l>yhteen<s n="adv"/></l><r>sammen<s n="adv"/></r></p></e>
+    <e><p><l>yhteensä<s n="adv"/></l><r>i alt<s n="adv"/></r></p></e>
     <e><p><l>yhteensä<s n="adv"/></l><r>samt<s n="adv"/></r></p></e>
+    <e><p><l>yhteensä<s n="adv"/></l><r>til sammen<s n="adv"/></r></p></e>
+    <e><p><l>yhteisesti<s n="adv"/></l><r>i fellesskap<s n="adv"/></r></p></e>
+    <e><p><l>yhteisesti<s n="adv"/></l><r>sammen<s n="adv"/></r></p></e>
+    <e><p><l>yhteiskunnallisesti<s n="adv"/></l><r>samfunnsmessig<s n="adv"/></r></p></e>
     <e><p><l>yhteistyössä<s n="adv"/></l><r>i<b/>samarbeid<s n="adv"/></r></p></e>
+    <e><p><l>yhtäaikaisesti<s n="adv"/></l><r>på samme tid<s n="adv"/></r></p></e>
+    <e><p><l>yhtäaikaisesti<s n="adv"/></l><r>samtidig<s n="adv"/></r></p></e>
+    <e><p><l>yhtäjaksoisesti<s n="adv"/></l><r>kontinuerlig<s n="adv"/></r></p></e>
     <e><p><l>yhtäkkiä<s n="adv"/></l><r>plutselig<s n="adv"/></r></p></e>
+    <e><p><l>yhtämittaisesti<s n="adv"/></l><r>i strekk<s n="adv"/></r></p></e>
+    <e><p><l>yhtäältä<s n="adv"/></l><r>på den ene siden<s n="adv"/></r></p></e>
     <e><p><l>yhäti<s n="adv"/></l><r>etterhvert<s n="adv"/></r></p></e>
     <e><p><l>yhäti<s n="adv"/></l><r>stadig<s n="adv"/></r></p></e>
+    <e><p><l>yksilöllisesti<s n="adv"/></l><r>individuelt<s n="adv"/></r></p></e>
+    <e><p><l>yksimielisesti<s n="adv"/></l><r>enstemmig<s n="adv"/></r></p></e>
+    <e><p><l>yksinkertaisesti<s n="adv"/></l><r>ganske enkelt<s n="adv"/></r></p></e>
+    <e><p><l>yksinkertaisesti<s n="adv"/></l><r>rett og slett<s n="adv"/></r></p></e>
+    <e><p><l>yksin<s n="adv"/></l><r>alene<s n="adv"/></r></p></e>
     <e><p><l>yksin<s n="adv"/></l><r>åleine<s n="adv"/></r></p></e>
+    <e><p><l>yksinvaltaisesti<s n="adv"/></l><r>autokratisk<s n="adv"/></r></p></e>
+    <e><p><l>yksinvaltaisesti<s n="adv"/></l><r>eneveldit<s n="adv"/></r></p></e>
+    <e><p><l>yksipuolisesti<s n="adv"/></l><r>ensidig<s n="adv"/></r></p></e>
+    <e><p><l>yksiselitteisesti<s n="adv"/></l><r>utvetydig<s n="adv"/></r></p></e>
+    <e><p><l>yksistään<s n="adv"/></l><r>alene<s n="adv"/></r></p></e>
+    <e><p><l>yksitellen<s n="adv"/></l><r>én etter én<s n="adv"/></r></p></e>
+    <e><p><l>yksittäin<s n="adv"/></l><r>individuelt<s n="adv"/></r></p></e>
+    <e><p><l>yksityisesti<s n="adv"/></l><r>privat<s n="adv"/></r></p></e>
+    <e><p><l>yksityiskohtaisesti<s n="adv"/></l><r>i detalj<s n="adv"/></r></p></e>
+    <e><p><l>yleensä<s n="adv"/></l><r>vanligvis<s n="adv"/></r></p></e>
     <e><p><l>yleisesti<s n="adv"/></l><r>generelt<s n="adv"/></r></p></e>
+    <e><p><l>yleismaailmallisesti<s n="adv"/></l><r>universelt<s n="adv"/></r></p></e>
+    <e><p><l>ylemmäs<s n="adv"/></l><r>høyere<s n="adv"/></r></p></e>
+    <e><p><l>ylempänä<s n="adv"/></l><r>ovenfor<s n="adv"/></r></p></e>
+    <e><p><l>ylempää<s n="adv"/></l><r>den øvre<s n="adv"/></r></p></e>
     <e><p><l>ylhäällä<s n="adv"/></l><r>opp<s n="adv"/></r></p></e>
+    <e><p><l>ylhäällä<s n="adv"/></l><r>på toppen<s n="adv"/></r></p></e>
+    <e><p><l>ylhäältä<s n="adv"/></l><r>ovenfra<s n="adv"/></r></p></e>
+    <e><p><l>ylipäänsä<s n="adv"/></l><r>i det hele tatt<s n="adv"/></r></p></e>
+    <e><p><l>ylipäätään<s n="adv"/></l><r>overhodet<s n="adv"/></r></p></e>
+    <e><p><l>yli<s n="adv"/></l><r>over<s n="adv"/></r></p></e>
+    <e><p><l>ylivoimaisesti<s n="adv"/></l><r>overlegent<s n="adv"/></r></p></e>
+    <e><p><l>ylle<s n="adv"/></l><r>over<s n="adv"/></r></p></e>
+    <e><p><l>yllä<s n="adv"/></l><r>ovenfor<s n="adv"/></r></p></e>
+    <e><p><l>yllättävästi<s n="adv"/></l><r>overraskende<s n="adv"/></r></p></e>
+    <e><p><l>yltä<s n="adv"/></l><r>ovenfra<s n="adv"/></r></p></e>
+    <e><p><l>yläviistoon<s n="adv"/></l><r>diagonalt<s n="adv"/></r></p></e>
+    <e><p><l>ylösalaisin<s n="adv"/></l><r>opp ned<s n="adv"/></r></p></e>
+    <e><p><l>ylöspäin<s n="adv"/></l><r>oppover<s n="adv"/></r></p></e>
+    <e><p><l>ylös<s n="adv"/></l><r>opp<s n="adv"/></r></p></e>
+    <e><p><l>ymmärrettävästi<s n="adv"/></l><r>forståelig<s n="adv"/></r></p></e>
     <e><p><l>ympäriinsä<s n="adv"/></l><r>rundt<b/>omkring<s n="adv"/></r></p></e>
     <e><p><l>ympäriinsä<s n="adv"/></l><r>rundt<b/>omkring<s n="adv"/></r></p></e>
+    <e><p><l>ympärille<s n="adv"/></l><r>omkring<s n="adv"/></r></p></e>
+    <e><p><l>ympärillä<s n="adv"/></l><r>omkring<s n="adv"/></r></p></e>
+    <e><p><l>ympäriltä<s n="adv"/></l><r>fra rundt om kring<s n="adv"/></r></p></e>
+    <e><p><l>ympäri<s n="x"/></l><r>omkring<s n="adv"/></r></p></e>
+    <e><p><l>ystävällisesti<s n="adv"/></l><r>vennlig<s n="adv"/></r></p></e>
+    <e><p><l>äkillisesti<s n="adv"/></l><r>plutselig<s n="adv"/></r></p></e>
+    <e><p><l>äkisti<s n="adv"/></l><r>plutselig<s n="adv"/></r></p></e>
+    <e><p><l>äkkiä<s n="adv"/></l><r>plutselig<s n="adv"/></r></p></e>
+    <e><p><l>älyllisesti<s n="adv"/></l><r>intellektuelt<s n="adv"/></r></p></e>
+    <e><p><l>äsken<s n="adv"/></l><r>nettopp<s n="adv"/></r></p></e>
+    <e><p><l>äskettäin<s n="adv"/></l><r>for en tid siden<s n="adv"/></r></p></e>
+    <e><p><l>ääneen<s n="adv"/></l><r>høylytt<s n="adv"/></r></p></e>
+    <e><p><l>äänekkäästi<s n="adv"/></l><r>høylytt<s n="adv"/></r></p></e>
+    <e><p><l>äänettömästi<s n="adv"/></l><r>lydløst<s n="adv"/></r></p></e>
+    <e><p><l>ääreltä<s n="adv"/></l><r>ved siden av<s n="adv"/></r></p></e>
+    <e><p><l>ääressä<s n="adv"/></l><r>ved siden av<s n="adv"/></r></p></e>
+    <e><p><l>äärettömästi<s n="adv"/></l><r>uendelig<s n="adv"/></r></p></e>
+    <e><p><l>öisin<s n="adv"/></l><r>om natten<s n="adv"/></r></p></e>
+    <e w="1"><p><l>suoraan<s n="adv"/></l><r>rett   rakt<s n="adv"/></r></p></e>
 
 
     <e r="RL"><p><l>erittäin<s n="adv"/></l><r>spill<s n="adv"/></r></p></e>
