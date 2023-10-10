@@ -4429,382 +4429,1450 @@
 
     <!-- {{{ adjectives -->
 
+
+
+
     <e c="homo"><p><l>vino<s n="adj"/></l><r>skeiv<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>4-vuotinen<s n="adj"/></l><r>4-årig<s n="adj"/></r></p></e>
     <e><p><l>4-vuotinen<s n="adj"/></l><r>4-årig<s n="adj"/></r></p></e>
+    <e><p><l>aasialainen<s n="adj"/></l><r>asiatisk<s n="adj"/></r></p></e>
+    <e><p><l>aatelinen<s n="adj"/></l><r>adelig<s n="adj"/></r></p></e>
+    <e><p><l>aatteellinen<s n="adj"/></l><r>ideell<s n="adj"/></r></p></e>
+    <e><p><l>absoluuttinen<s n="adj"/></l><r>absolutt<s n="adj"/></r></p></e>
+    <e><p><l>abstrakti<s n="adj"/></l><r>abstrakt<s n="adj"/></r></p></e>
+    <e><p><l>adekvaatti<s n="adj"/></l><r>adekvat<s n="adj"/></r></p></e>
+    <e><p><l>afganistanilainen<s n="adj"/></l><r>afghansk<s n="adj"/></r></p></e>
+    <e><p><l>afrikkalainen<s n="adj"/></l><r>afrikansk<s n="adj"/></r></p></e>
+    <e><p><l>afroamerikkalainen<s n="adj"/></l><r>afroamerikansk<s n="adj"/></r></p></e>
     <e><p><l>aggressiivinen<s n="adj"/></l><r>aggressiv<s n="adj"/></r></p></e>
+    <e><p><l>ahdas<s n="adj"/></l><r>trang<s n="adj"/></r></p></e>
+    <e><p><l>ahkera<s n="adj"/></l><r>flittig<s n="adj"/></r></p></e>
+    <e><p><l>ahne<s n="adj"/></l><r>begjærlig<s n="adj"/></r></p></e>
     <e><p><l>aiempi<s n="adj"/></l><r>tidligere<s n="adj"/></r></p></e>
     <e><p><l>aikainen<s n="adj"/></l><r>tidleg<s n="adj"/></r></p></e>
     <e><p><l>aikainen<s n="adj"/></l><r>tidlig<s n="adj"/></r></p></e>
     <e><p><l>aikuinen<s n="adj"/></l><r>voksen<s n="adj"/></r></p></e>
+    <e><p><l>aineellinen<s n="adj"/></l><r>materiell<s n="adj"/></r></p></e>
+    <e><p><l>aineeton<s n="adj"/></l><r>immateriell<s n="adj"/></r></p></e>
     <e><p><l>ainoa<s n="adj"/></l><r>einaste<s n="adj"/></r></p></e>
     <e><p><l>ainoa<s n="adj"/></l><r>eneste<s n="adj"/></r></p></e>
+    <e><p><l>aino<s n="adj"/></l><r>eneste<s n="adj"/></r></p></e>
+    <e><p><l>ainutlaatuinen<s n="adj"/></l><r>unik<s n="adj"/></r></p></e>
+    <e><p><l>ainut<s n="adj"/></l><r>eneste<s n="adj"/></r></p></e>
     <e><p><l>aito<s n="adj"/></l><r>ekte<s n="adj"/></r></p></e>
     <e><p><l>ajallinen<s n="adj"/></l><r>temporal<s n="adj"/></r></p></e>
+    <e><p><l>ajankohtainen<s n="adj"/></l><r>tidsaktuell<s n="adj"/></r></p></e>
     <e><p><l>ajettu<s n="adj"/></l><r>kjøre<s n="adj"/></r></p></e>
+    <e><p><l>akateeminen<s n="adj"/></l><r>akademisk<s n="adj"/></r></p></e>
     <e><p><l>aktiivinen<s n="adj"/></l><r>aktiv<s n="adj"/></r></p></e>
+    <e><p><l>aktiivi<s n="adj"/></l><r>aktiv<s n="adj"/></r></p></e>
+    <e><p><l>akustinen<s n="adj"/></l><r>akustisk<s n="adj"/></r></p></e>
+    <e><p><l>akuutti<s n="adj"/></l><r>akutt<s n="adj"/></r></p></e>
     <e><p><l>ala-arvoinen<s n="adj"/></l><r>underlegen<s n="adj"/></r></p></e>
+    <e><p><l>alaikäinen<s n="adj"/></l><r>mindreårig<s n="adj"/></r></p></e>
+    <e><p><l>alainen<s n="adj"/></l><r>underlagt<s n="adj"/></r></p></e>
+    <e><p><l>alankomaalainen<s n="adj"/></l><r>nederlandsk<s n="adj"/></r></p></e>
     <e><p><l>alasaksalainen<s n="adj"/></l><r>plattysk-språkleg<s n="adj"/></r></p></e>
     <e><p><l>alaston<s n="adj"/></l><r>bar<s n="adj"/></r></p></e>
+    <e><p><l>alaston<s n="adj"/></l><r>naken<s n="adj"/></r></p></e>
+    <e><p><l>alava<s n="adj"/></l><r>lav<s n="adj"/></r></p></e>
+    <e><p><l>albanialainen<s n="adj"/></l><r>albansk<s n="adj"/></r></p></e>
+    <e><p><l>alempi<s n="adj"/></l><r>nedre<s n="adj"/></r></p></e>
+    <e><p><l>alentava<s n="adj"/></l><r>fornedrende<s n="adj"/></r></p></e>
+    <e><p><l>algebrallinen<s n="adj"/></l><r>algebraisk<s n="adj"/></r></p></e>
+    <e><p><l>algerialainen<s n="adj"/></l><r>Algerisk<s n="adj"/></r></p></e>
+    <e><p><l>alhainen<s n="adj"/></l><r>nedre<s n="adj"/></r></p></e>
+    <e><p><l>alin<s n="adj"/></l><r>nederste<s n="adj"/></r></p></e>
+    <e><p><l>alistettu<s n="adj"/></l><r>undertrykt<s n="adj"/></r></p></e>
+    <e><p><l>alitajuinen<s n="adj"/></l><r>underbevisst<s n="adj"/></r></p></e>
+    <e><p><l>alkeellinen<s n="adj"/></l><r>elementær<s n="adj"/></r></p></e>
+    <e><p><l>alkeellinen<s n="adj"/></l><r>uutviklet<s n="adj"/></r></p></e>
+    <e><p><l>alkoholiton<s n="adj"/></l><r>alkoholfri<s n="adj"/></r></p></e>
     <e><p><l>alkuperäinen<s n="adj"/></l><r>opphavleg<s n="adj"/></r></p></e>
+    <e><p><l>alkuperäinen<s n="adj"/></l><r>opprinnelig<s n="adj"/></r></p></e>
     <e><p><l>alkuperäinen<s n="adj"/></l><r>opprinnelig<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>alkuperäinen<s n="adj"/></l><r>stemme<s n="adj"/></r></p></e>
+    <e><p><l>allegorinen<s n="adj"/></l><r>allegorisk<s n="adj"/></r></p></e>
     <e><p><l>allekirjoitettu<s n="adj"/></l><r>underskrive<s n="adj"/></r></p></e>
+    <e><p><l>altis<s n="adj"/></l><r>bøyelig<s n="adj"/></r></p></e>
     <e><p><l>altistunut<s n="adj"/></l><r>utsatt<s n="adj"/></r></p></e>
+    <e><p><l>alueellinen<s n="adj"/></l><r>regional<s n="adj"/></r></p></e>
     <e><p><l>alueellinen<s n="adj"/></l><r>territorial<s n="adj"/></r></p></e>
+    <e><p><l>alustava<s n="adj"/></l><r>forberedende<s n="adj"/></r></p></e>
     <e><p><l>amerikkalainen<s n="adj"/></l><r>amerikansk<s n="adj"/></r></p></e>
+    <e><p><l>ammatillinen<s n="adj"/></l><r>ervervmessig<s n="adj"/></r></p></e>
+    <e><p><l>ammatillinen<s n="adj"/></l><r>faglig<s n="adj"/></r></p></e>
+    <e><p><l>ammattilainen<s n="adj"/></l><r>fagperson<s n="adj"/></r></p></e>
+    <e><p><l>ammattimainen<s n="adj"/></l><r>profesjonell<s n="adj"/></r></p></e>
+    <e><p><l>amorfinen<s n="adj"/></l><r>amorf<s n="adj"/></r></p></e>
+    <e><p><l>anaerobinen<s n="adj"/></l><r>anaerob<s n="adj"/></r></p></e>
+    <e><p><l>analoginen<s n="adj"/></l><r>analog<s n="adj"/></r></p></e>
+    <e><p><l>analyyttinen<s n="adj"/></l><r>analytisk<s n="adj"/></r></p></e>
+    <e><p><l>anarkistinen<s n="adj"/></l><r>anarkistisk<s n="adj"/></r></p></e>
+    <e><p><l>andorralainen<s n="adj"/></l><r>Andorransk<s n="adj"/></r></p></e>
+    <e><p><l>anglikaaninen<s n="adj"/></l><r>anglikansk<s n="adj"/></r></p></e>
+    <e><p><l>anglosaksinen<s n="adj"/></l><r>anglosaksisk<s n="adj"/></r></p></e>
+    <e><p><l>angolalainen<s n="adj"/></l><r>angolansk<s n="adj"/></r></p></e>
+    <e><p><l>ankara<s n="adj"/></l><r>streng<s n="adj"/></r></p></e>
+    <e><p><l>anteeksiannettava<s n="adj"/></l><r>tilgivelig<s n="adj"/></r></p></e>
     <e><p><l>antibakteerinen<s n="adj"/></l><r>bakteriedrepende<s n="adj"/></r></p></e>
+    <e><p><l>antiguabarbudalainen<s n="adj"/></l><r>antiguansk<s n="adj"/></r></p></e>
+    <e><p><l>antiikkinen<s n="adj"/></l><r>antikk<s n="adj"/></r></p></e>
+    <e><p><l>antropomorfistinen<s n="adj"/></l><r>antropomorfisme<s n="adj"/></r></p></e>
+    <e><p><l>apea<s n="adj"/></l><r>melankolsk<s n="adj"/></r></p></e>
+    <e><p><l>apostolinen<s n="adj"/></l><r>apostolisk<s n="adj"/></r></p></e>
+    <e><p><l>arabialainen<s n="adj"/></l><r>arabisk<s n="adj"/></r></p></e>
+    <e><p><l>arabiemiirikuntalainen<s n="adj"/></l><r>emiratarabisk<s n="adj"/></r></p></e>
+    <e><p><l>argentiinalainen<s n="adj"/></l><r>argentinsk<s n="adj"/></r></p></e>
+    <e><p><l>aristoteelinen<s n="adj"/></l><r>aristotelisk<s n="adj"/></r></p></e>
+    <e><p><l>arjalainen<s n="adj"/></l><r>arisk<s n="adj"/></r></p></e>
+    <e><p><l>arkaainen<s n="adj"/></l><r>arkaisk<s n="adj"/></r></p></e>
+    <e><p><l>arka<s n="adj"/></l><r>veik<s n="adj"/></r></p></e>
+    <e><p><l>arkeologinen<s n="adj"/></l><r>arkeologisk<s n="adj"/></r></p></e>
+    <e><p><l>arkinen<s n="adj"/></l><r>hverdagslig<s n="adj"/></r></p></e>
     <e><p><l>arktinen<s n="adj"/></l><r>arktisk<s n="adj"/></r></p></e>
+    <e><p><l>armas<s n="adj"/></l><r>kjærlig<s n="adj"/></r></p></e>
+    <e><p><l>armenialainen<s n="adj"/></l><r>armensk<s n="adj"/></r></p></e>
     <e><p><l>arvoisa<s n="adj"/></l><r>fortjenestefull<s n="adj"/></r></p></e>
+    <e><p><l>arvokas<s n="adj"/></l><r>dyrebar<s n="adj"/></r></p></e>
+    <e><p><l>arvosteleva<s n="adj"/></l><r>dømmende<s n="adj"/></r></p></e>
+    <e><p><l>arvoton<s n="adj"/></l><r>verdiløs<s n="adj"/></r></p></e>
+    <e><p><l>arvovaltainen<s n="adj"/></l><r>autoritativ<s n="adj"/></r></p></e>
+    <e><p><l>aseellinen<s n="adj"/></l><r>væpna<s n="adj"/></r></p></e>
+    <e><p><l>aseistettu<s n="adj"/></l><r>bevæpna<s n="adj"/></r></p></e>
     <e><p><l>aseistettu<s n="adj"/></l><r>bevæpne<s n="adj"/></r></p></e>
+    <e><p><l>asennettu<s n="adj"/></l><r>montert<s n="adj"/></r></p></e>
     <e><p><l>asepohjainen<s n="adj"/></l><r>våpenbasert<s n="adj"/></r></p></e>
     <e><p><l>asetettu<s n="adj"/></l><r>legge<s n="adj"/></r></p></e>
+    <e><p><l>asiallinen<s n="adj"/></l><r>saklig<s n="adj"/></r></p></e>
+    <e><p><l>asianmukainen<s n="adj"/></l><r>saklig<s n="adj"/></r></p></e>
+    <e><p><l>asianomainen<s n="adj"/></l><r>angjeldende<s n="adj"/></r></p></e>
+    <e><p><l>asiaton<s n="adj"/></l><r>usaklig<s n="adj"/></r></p></e>
     <e><p><l>aškenasi<s n="adj"/></l><r>askenasisk<s n="adj"/></r></p></e>
     <e><p><l>assimiloitunut<s n="adj"/></l><r>assimilere<s n="adj"/></r></p></e>
+    <e><p><l>asumaton<s n="adj"/></l><r>ubebodd<s n="adj"/></r></p></e>
+    <e><p><l>asutettu<s n="adj"/></l><r>bebodd<s n="adj"/></r></p></e>
     <e><p><l>asutettu<s n="adj"/></l><r>befolket<s n="adj"/></r></p></e>
+    <e><p><l>ateistinen<s n="adj"/></l><r>ateistisk<s n="adj"/></r></p></e>
+    <e><p><l>atooppinen<s n="adj"/></l><r>atopisk<s n="adj"/></r></p></e>
+    <e><p><l>aukea<s n="adj"/></l><r>åpen<s n="adj"/></r></p></e>
+    <e><p><l>aurinkoinen<s n="adj"/></l><r>solrik<s n="adj"/></r></p></e>
+    <e><p><l>autio<s n="adj"/></l><r>øde<s n="adj"/></r></p></e>
+    <e><p><l>autistinen<s n="adj"/></l><r>autistisk<s n="adj"/></r></p></e>
+    <e><p><l>automaattinen<s n="adj"/></l><r>automatisk<s n="adj"/></r></p></e>
+    <e><p><l>autonominen<s n="adj"/></l><r>autonom<s n="adj"/></r></p></e>
+    <e><p><l>autoritaarinen<s n="adj"/></l><r>autoritær<s n="adj"/></r></p></e>
+    <e><p><l>auttava<s n="adj"/></l><r>hjelpende<s n="adj"/></r></p></e>
+    <e><p><l>autuas<s n="adj"/></l><r>salig<s n="adj"/></r></p></e>
+    <e><p><l>avioton<s n="adj"/></l><r>ugift<s n="adj"/></r></p></e>
+    <e><p><l>avoin<s n="adj"/></l><r>åpen<s n="adj"/></r></p></e>
     <e><p><l>avoin<s n="adj"/></l><r>åpne<s n="adj"/></r></p></e>
+    <e><p><l>babylonialainen<s n="adj"/></l><r>babylonsk<s n="adj"/></r></p></e>
+    <e><p><l>bahamalainen<s n="adj"/></l><r>bahamansk<s n="adj"/></r></p></e>
+    <e><p><l>bahrainilainen<s n="adj"/></l><r>bahrainsk<s n="adj"/></r></p></e>
     <e><p><l>bajoranilainen<s n="adj"/></l><r>bajoransk<s n="adj"/></r></p></e>
+    <e><p><l>ballistinen<s n="adj"/></l><r>ballistisk<s n="adj"/></r></p></e>
+    <e><p><l>balttilainen<s n="adj"/></l><r>baltisk<s n="adj"/></r></p></e>
+    <e><p><l>bangladeshilainen<s n="adj"/></l><r>bangladeshisk<s n="adj"/></r></p></e>
+    <e><p><l>barbadoslainen<s n="adj"/></l><r>barbadisk<s n="adj"/></r></p></e>
+    <e><p><l>belgialainen<s n="adj"/></l><r>belgisk<s n="adj"/></r></p></e>
+    <e><p><l>belizeläinen<s n="adj"/></l><r>belizisk<s n="adj"/></r></p></e>
+    <e><p><l>beniniläinen<s n="adj"/></l><r>beninsk<s n="adj"/></r></p></e>
+    <e><p><l>bhutanilainen<s n="adj"/></l><r>bhutansk<s n="adj"/></r></p></e>
     <e><p><l>biologinen<s n="adj"/></l><r>biologisk<s n="adj"/></r></p></e>
+    <e><p><l>bolivialainen<s n="adj"/></l><r>boliviansk<s n="adj"/></r></p></e>
+    <e><p><l>bosniahertsegovinalainen<s n="adj"/></l><r>bosniaherzegovinsk<s n="adj"/></r></p></e>
     <e><p><l>botaninen<s n="adj"/></l><r>botanisk<s n="adj"/></r></p></e>
+    <e><p><l>botswanalainen<s n="adj"/></l><r>botswansk<s n="adj"/></r></p></e>
     <e><p><l>brasilialainen<s n="adj"/></l><r>brasiliansk<s n="adj"/></r></p></e>
+    <e><p><l>brittiläinen<s n="adj"/></l><r>britisk<s n="adj"/></r></p></e>
     <e><p><l>britti<s n="adj"/></l><r>britisk<s n="adj"/></r></p></e>
+    <e><p><l>buddhalainen<s n="adj"/></l><r>buddhistisk<s n="adj"/></r></p></e>
+    <e><p><l>bulgarialainen<s n="adj"/></l><r>bulgarsk<s n="adj"/></r></p></e>
+    <e><p><l>burundilainen<s n="adj"/></l><r>burundisk<s n="adj"/></r></p></e>
+    <e><p><l>bysanttilainen<s n="adj"/></l><r>bysantinsk<s n="adj"/></r></p></e>
+    <e><p><l>chileläinen<s n="adj"/></l><r>chilensk<s n="adj"/></r></p></e>
     <e><p><l c="mainly in fixed expr ‘alun perin’">perin<s n="adj"/></l><r>ultimat<s n="adj"/></r></p></e>
+    <e><p><l>costaricalainen<s n="adj"/></l><r>costaricansk<s n="adj"/></r></p></e>
+    <e><p><l>deduktiivinen<s n="adj"/></l><r>deduktiv<s n="adj"/></r></p></e>
+    <e><p><l>demokraattinen<s n="adj"/></l><r>demokratisk<s n="adj"/></r></p></e>
+    <e><p><l>dialektinen<s n="adj"/></l><r>dialektisk<s n="adj"/></r></p></e>
     <e><p><l>digitaalinen<s n="adj"/></l><r>digital<s n="adj"/></r></p></e>
     <e><p><l>diktaattorimainen<s n="adj"/></l><r>diktatorisk<s n="adj"/></r></p></e>
+    <e><p><l>diplomaattinen<s n="adj"/></l><r>diplomatisk<s n="adj"/></r></p></e>
+    <e><p><l>djiboutilainen<s n="adj"/></l><r>djiboutisk<s n="adj"/></r></p></e>
+    <e><p><l>dominikaanilainen<s n="adj"/></l><r>dominikansk<s n="adj"/></r></p></e>
+    <e><p><l>dominoiva<s n="adj"/></l><r>dominant<s n="adj"/></r></p></e>
+    <e><p><l>dramaattinen<s n="adj"/></l><r>dramatisk<s n="adj"/></r></p></e>
     <e><p><l>dubattu<s n="adj"/></l><r>dubbe<s n="adj"/></r></p></e>
     <e><p><l>dubbaamaton<s n="adj"/></l><r>udubbet<s n="adj"/></r></p></e>
+    <e><p><l>dynaaminen<s n="adj"/></l><r>dynamisk<s n="adj"/></r></p></e>
+    <e><p><l>ecuadorilainen<s n="adj"/></l><r>ecuadoriansk<s n="adj"/></r></p></e>
     <e><p><l>edellinen<s n="adj"/></l><r>forrige<s n="adj"/></r></p></e>
+    <e><p><l>edellinen<s n="adj"/></l><r>forutgående<s n="adj"/></r></p></e>
+    <e><p><l>edeltävä<s n="adj"/></l><r>foregående<s n="adj"/></r></p></e>
+    <e><p><l>edesmennyt<s n="adj"/></l><r>avdød<s n="adj"/></r></p></e>
+    <e><p><l>edistyksellinen<s n="adj"/></l><r>progressiv<s n="adj"/></r></p></e>
+    <e><p><l>edistynyt<s n="adj"/></l><r>avansert<s n="adj"/></r></p></e>
     <e><p><l>edistynyt<s n="adj"/></l><r>fremje<s n="adj"/></r></p></e>
+    <e><p><l>edullinen<s n="adj"/></l><r>rimelig<s n="adj"/></r></p></e>
+    <e><p><l>edustava<s n="adj"/></l><r>representativ<s n="adj"/></r></p></e>
     <e><p><l>edustettu<s n="adj"/></l><r>representere<s n="adj"/></r></p></e>
+    <e><p><l>edustuksellinen<s n="adj"/></l><r>representativ<s n="adj"/></r></p></e>
+    <e><p><l>eeppinen<s n="adj"/></l><r>episk<s n="adj"/></r></p></e>
+    <e><p><l>eettinen<s n="adj"/></l><r>etisk<s n="adj"/></r></p></e>
+    <e><p><l>egyptiläinen<s n="adj"/></l><r>egyptisk<s n="adj"/></r></p></e>
+    <e><p><l>ehdollinen<s n="adj"/></l><r>vilkårlig<s n="adj"/></r></p></e>
+    <e><p><l>ehdoton<s n="adj"/></l><r>vilkårsløs<s n="adj"/></r></p></e>
+    <e><p><l>ehjä<s n="adj"/></l><r>hel<s n="adj"/></r></p></e>
+    <e><p><l>ehjä<s n="adj"/></l><r>ikke ødelagt<s n="adj"/></r></p></e>
+    <e><p><l>ekologinen<s n="adj"/></l><r>økologisk<s n="adj"/></r></p></e>
+    <e><p><l>eksistentialistinen<s n="adj"/></l><r>eksistensialistisk<s n="adj"/></r></p></e>
     <e><p><l>ekspressionistinen<s n="adj"/></l><r>ekspresjonistisk<s n="adj"/></r></p></e>
+    <e><p><l>ekumeeninen<s n="adj"/></l><r>økumenisk<s n="adj"/></r></p></e>
     <e><p><l>ekvivalentti<s n="adj"/></l><r>ekvivalent<s n="adj"/></r></p></e>
+    <e><p><l>elektroninen<s n="adj"/></l><r>elektronisk<s n="adj"/></r></p></e>
+    <e><p><l>elinikäinen<s n="adj"/></l><r>livsvarig<s n="adj"/></r></p></e>
+    <e><p><l>elinkautinen<s n="adj"/></l><r>livsvarig<s n="adj"/></r></p></e>
+    <e><p><l>elintärkeä<s n="adj"/></l><r>livsviktig<s n="adj"/></r></p></e>
     <e><p><l>elintärkeä<s n="adj"/></l><r>vital<s n="adj"/></r></p></e>
     <e><p><l>elinvarastava<s n="adj"/></l><r>organstelande<s n="adj"/></r></p></e>
+    <e><p><l>elinvoimainen<s n="adj"/></l><r>livskraftig<s n="adj"/></r></p></e>
+    <e><p><l>elliptinen<s n="adj"/></l><r>elliptisk<s n="adj"/></r></p></e>
+    <e><p><l>eloisa<s n="adj"/></l><r>levedyktig<s n="adj"/></r></p></e>
+    <e><p><l>elollinen<s n="adj"/></l><r>livlig<s n="adj"/></r></p></e>
+    <e><p><l>elsalvadorilainen<s n="adj"/></l><r>salvadoransk<s n="adj"/></r></p></e>
+    <e><p><l>elämänkatsomuksellinen<s n="adj"/></l><r>livssynsmessig<s n="adj"/></r></p></e>
+    <e><p><l>elävä<s n="adj"/></l><r>levende<s n="adj"/></r></p></e>
+    <e><p><l>empaattinen<s n="adj"/></l><r>empatisk<s n="adj"/></r></p></e>
+    <e><p><l>empiirinen<s n="adj"/></l><r>empirisk<s n="adj"/></r></p></e>
+    <e><p><l>emäksinen<s n="adj"/></l><r>alkalisk<s n="adj"/></r></p></e>
+    <e><p><l>endeeminen<s n="adj"/></l><r>endemisk<s n="adj"/></r></p></e>
+    <e><p><l>enenevä<s n="adj"/></l><r>økende<s n="adj"/></r></p></e>
+    <e><p><l>englanninkielinen<s n="adj"/></l><r>engelskspråklig<s n="adj"/></r></p></e>
     <e><p><l>englantilainen<s n="adj"/></l><r>engelsk<s n="adj"/></r></p></e>
+    <e><p><l>enin<s n="adj"/></l><r>mest<s n="adj"/></r></p></e>
     <e><p><l>ennalta-arvaamaton<s n="adj"/></l><r>uforutsigbar<s n="adj"/></r></p></e>
+    <e><p><l>ennenaikainen<s n="adj"/></l><r>prematur<s n="adj"/></r></p></e>
+    <e><p><l>ennennäkemätön<s n="adj"/></l><r>upretendert<s n="adj"/></r></p></e>
+    <e><p><l>ennätyksellinen<s n="adj"/></l><r>rekordstor<s n="adj"/></r></p></e>
+    <e><p><l>ensisijainen<s n="adj"/></l><r>først<s n="adj"/></r></p></e>
+    <e><p><l>entinen<s n="adj"/></l><r>tidligere<s n="adj"/></r></p></e>
     <e><p><l>epidemiologinen<s n="adj"/></l><r>smittevernfaglig<s n="adj"/></r></p></e>
+    <e><p><l>epikurolainen<s n="adj"/></l><r>epikureisk<s n="adj"/></r></p></e>
     <e><p><l>epileptinen<s n="adj"/></l><r>epileptisk<s n="adj"/></r></p></e>
     <e><p><l>epädemokraattinen<s n="adj"/></l><r>udemokratisk<s n="adj"/></r></p></e>
+    <e><p><l>epäedullinen<s n="adj"/></l><r>ufordelaktig<s n="adj"/></r></p></e>
     <e><p><l>epäeettinen<s n="adj"/></l><r>uetisk<s n="adj"/></r></p></e>
+    <e><p><l>epäilevä<s n="adj"/></l><r>mistenksom<s n="adj"/></r></p></e>
     <e><p><l>epäilty<s n="adj"/></l><r>mistenke<s n="adj"/></r></p></e>
+    <e><p><l>epäilty<s n="adj"/></l><r>mistenkt<s n="adj"/></r></p></e>
+    <e><p><l>epäilyttävä<s n="adj"/></l><r>betenkelig<s n="adj"/></r></p></e>
     <e><p><l>epäilyttävä<s n="adj"/></l><r>mistenkelig<s n="adj"/></r></p></e>
+    <e><p><l>epälooginen<s n="adj"/></l><r>ulogisk<s n="adj"/></r></p></e>
+    <e><p><l>epäluotettava<s n="adj"/></l><r>upålitelig<s n="adj"/></r></p></e>
+    <e><p><l>epäluuloinen<s n="adj"/></l><r>paranoid<s n="adj"/></r></p></e>
+    <e><p><l>epämiellyttävä<s n="adj"/></l><r>uhøvelig<s n="adj"/></r></p></e>
+    <e><p><l>epämääräinen<s n="adj"/></l><r>ubestemt<s n="adj"/></r></p></e>
+    <e><p><l>epänormaali<s n="adj"/></l><r>unormal<s n="adj"/></r></p></e>
+    <e><p><l>epäonnistunut<s n="adj"/></l><r>mislykket<s n="adj"/></r></p></e>
+    <e><p><l>epäorgaaninen<s n="adj"/></l><r>uorganisk<s n="adj"/></r></p></e>
+    <e><p><l>epäpätevä<s n="adj"/></l><r>inkompetent<s n="adj"/></r></p></e>
+    <e><p><l>epäreilu<s n="adj"/></l><r>urettferdig<s n="adj"/></r></p></e>
+    <e><p><l>epäselvä<s n="adj"/></l><r>uklar<s n="adj"/></r></p></e>
     <e><p><l>epästabiili<s n="adj"/></l><r>ustabil<s n="adj"/></r></p></e>
+    <e><p><l>epäsuora<s n="adj"/></l><r>indirekte<s n="adj"/></r></p></e>
+    <e><p><l>epäsuosittu<s n="adj"/></l><r>upopulær<s n="adj"/></r></p></e>
+    <e><p><l>epäsuotuisa<s n="adj"/></l><r>ugunstig<s n="adj"/></r></p></e>
+    <e><p><l>epäsymmetrinen<s n="adj"/></l><r>asymmetrisk<s n="adj"/></r></p></e>
+    <e><p><l>epäsäännöllinen<s n="adj"/></l><r>uregelmessig<s n="adj"/></r></p></e>
+    <e><p><l>epätarkka<s n="adj"/></l><r>unøyaktig<s n="adj"/></r></p></e>
+    <e><p><l>epätasainen<s n="adj"/></l><r>ujevn<s n="adj"/></r></p></e>
+    <e><p><l>epätavallinen<s n="adj"/></l><r>uvanlig<s n="adj"/></r></p></e>
     <e><p><l>epätavallinen<s n="adj"/></l><r>uvanlig<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>epätodennäköinen<s n="adj"/></l><r>usannsynlig<s n="adj"/></r></p></e>
+    <e><p><l>epätosi<s n="adj"/></l><r>usann<s n="adj"/></r></p></e>
     <e><p><l>epäturvallinen<s n="adj"/></l><r>utrygg<s n="adj"/></r></p></e>
+    <e><p><l>epätäydellinen<s n="adj"/></l><r>ufullstendig<s n="adj"/></r></p></e>
+    <e><p><l>epäuskoinen<s n="adj"/></l><r>utrolig<s n="adj"/></r></p></e>
+    <e><p><l>epävakaa<s n="adj"/></l><r>ustabil<s n="adj"/></r></p></e>
     <e><p><l>epävarma<s n="adj"/></l><r>usikker<s n="adj"/></r></p></e>
     <e><p><l>epävirallinen<s n="adj"/></l><r>uoffisiell<s n="adj"/></r></p></e>
+    <e><p><l>erikoinen<s n="adj"/></l><r>spesiell<s n="adj"/></r></p></e>
+    <e><p><l>erikokoinen<s n="adj"/></l><r>av ulik størrelse<s n="adj"/></r></p></e>
     <e><p><l>erilainen<s n="adj"/></l><r>forskjellig<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>erilainen<s n="adj"/></l><r>ulik<s n="adj"/></r></p></e>
     <e><p><l>erillinen<s n="adj"/></l><r>separat<s n="adj"/></r></p></e>
+    <e><p><l>erillinen<s n="adj"/></l><r>særskilt<s n="adj"/></r></p></e>
     <e><p><l>erimielinen<s n="adj"/></l><r>uenig<s n="adj"/></r></p></e>
+    <e><p><l>eriniminen<s n="adj"/></l><r>med forskjellig navn<s n="adj"/></r></p></e>
+    <e><p><l>erinomainen<s n="adj"/></l><r>framragende<s n="adj"/></r></p></e>
+    <e><p><l>erinomainen<s n="adj"/></l><r>utmerka<s n="adj"/></r></p></e>
+    <e><p><l>eristetty<s n="adj"/></l><r>isolert<s n="adj"/></r></p></e>
+    <e><p><l>eristäytynyt<s n="adj"/></l><r>atskilt<s n="adj"/></r></p></e>
+    <e><p><l>eritrealainen<s n="adj"/></l><r>eritreisk<s n="adj"/></r></p></e>
     <e><p><l>erityinen<s n="adj"/></l><r>spesiell<s n="adj"/></r></p></e>
     <e><p><l>erityinen<s n="adj"/></l><r>særleg<s n="adj"/></r></p></e>
     <e><p><l>erityinen<s n="adj"/></l><r>særlig<s n="adj"/></r></p></e>
     <e><p><l>erityinen<s n="adj"/></l><r>særskild<s n="adj"/></r></p></e>
+    <e><p><l>erityinen<s n="adj"/></l><r>særskilt<s n="adj"/></r></p></e>
+    <e><p><l>eroava<s n="adj"/></l><r>avvikende<s n="adj"/></r></p></e>
+    <e><p><l>eronnut<s n="adj"/></l><r>fraskilt<s n="adj"/></r></p></e>
+    <e><p><l>eroottinen<s n="adj"/></l><r>erotisk<s n="adj"/></r></p></e>
+    <e><p><l>erotettu<s n="adj"/></l><r>oppsagt<s n="adj"/></r></p></e>
+    <e><p><l>eräänlainen<s n="adj"/></l><r>en slags<s n="adj"/></r></p></e>
+    <e><p><l>esihistoriallinen<s n="adj"/></l><r>førhistorisk<s n="adj"/></r></p></e>
+    <e><p><l>esikoislestadiolainen<s n="adj"/></l><r>førstefødtlestadiansk<s n="adj"/></r></p></e>
     <e><p><l>esitelty<s n="adj"/></l><r>innlede<s n="adj"/></r></p></e>
     <e><p><l>esitelty<s n="adj"/></l><r>introdusere<s n="adj"/></r></p></e>
     <e><p><l>espanjalainen<s n="adj"/></l><r>spansk<s n="adj"/></r></p></e>
     <e><p><l>espanjankielinen<s n="adj"/></l><r>spansktalende<s n="adj"/></r></p></e>
+    <e><p><l>esteettinen<s n="adj"/></l><r>estetisk<s n="adj"/></r></p></e>
+    <e><p><l>esteetön<s n="adj"/></l><r>hemningsløs<s n="adj"/></r></p></e>
+    <e><p><l>esteetön<s n="adj"/></l><r>uhindret<s n="adj"/></r></p></e>
+    <e><p><l>estoinen<s n="adj"/></l><r>blokkert<s n="adj"/></r></p></e>
     <e><p><l>estävä<s n="adj"/></l><r>forebyggende<s n="adj"/></r></p></e>
     <e><p><l>etabloitunut<s n="adj"/></l><r>etablert<s n="adj"/></r></p></e>
+    <e><p><l>eteläafrikkalainen<s n="adj"/></l><r>sør-afrikansk<s n="adj"/></r></p></e>
     <e><p><l>eteläinen<s n="adj"/></l><r>sørleg<s n="adj"/></r></p></e>
     <e><p><l>eteläinen<s n="adj"/></l><r>sørlig<s n="adj"/></r></p></e>
+    <e><p><l>eteläkorealainen<s n="adj"/></l><r>sørkoreansk<s n="adj"/></r></p></e>
+    <e><p><l>eteläpuolinen<s n="adj"/></l><r>som er på sørsida<s n="adj"/></r></p></e>
+    <e><p><l>eteläsudanilainen<s n="adj"/></l><r>sørsudansk<s n="adj"/></r></p></e>
+    <e><p><l>etevä<s n="adj"/></l><r>fremmelig<s n="adj"/></r></p></e>
+    <e><p><l>etiopialainen<s n="adj"/></l><r>etiopisk<s n="adj"/></r></p></e>
     <e><p><l>etninen<s n="adj"/></l><r>etnisk<s n="adj"/></r></p></e>
+    <e><p><l>etsivä<s n="adj"/></l><r>søkende<s n="adj"/></r></p></e>
+    <e><p><l>etuvetoinen<s n="adj"/></l><r>forhjulsdrevet<s n="adj"/></r></p></e>
+    <e><p><l>etymologinen<s n="adj"/></l><r>etymologisk<s n="adj"/></r></p></e>
     <e><p><l>etäinen<s n="adj"/></l><r>fjerne<s n="adj"/></r></p></e>
+    <e><p><l>etäinen<s n="adj"/></l><r>fjern<s n="adj"/></r></p></e>
     <e><p><l>etäinen<s n="adj"/></l><r>fjerntliggende<s n="adj"/></r></p></e>
     <e><p><l>etäinen<s n="adj"/></l><r>fremre<s n="adj"/></r></p></e>
     <e><p><l>eurooppalainen<s n="adj"/></l><r>europeisk<s n="adj"/></r></p></e>
+    <e><p><l>evankelinen<s n="adj"/></l><r>evangelisk<s n="adj"/></r></p></e>
     <e><p><l>evankelisluterilainen<s n="adj"/></l><r>evangelisk-luthersk<s n="adj"/></r></p></e>
+    <e><p><l>evankelisluterilainen<s n="adj"/></l><r>evangelsk-luthersk<s n="adj"/></r></p></e>
+    <e><p><l>fasistinen<s n="adj"/></l><r>fascistisk<s n="adj"/></r></p></e>
+    <e><p><l>feministinen<s n="adj"/></l><r>feministisk<s n="adj"/></r></p></e>
+    <e><p><l>feodaalinen<s n="adj"/></l><r>føydal<s n="adj"/></r></p></e>
+    <e><p><l>fidžiläinen<s n="adj"/></l><r>fijiansk<s n="adj"/></r></p></e>
     <e><p><l>fiktiivinen<s n="adj"/></l><r>fiktiv<s n="adj"/></r></p></e>
+    <e><p><l>filippiiniläinen<s n="adj"/></l><r>filippinsk<s n="adj"/></r></p></e>
+    <e><p><l>filosofinen<s n="adj"/></l><r>filosofisk<s n="adj"/></r></p></e>
+    <e><p><l>foinikialainen<s n="adj"/></l><r>fønikisk<s n="adj"/></r></p></e>
+    <e><p><l>foneettinen<s n="adj"/></l><r>fonetisk<s n="adj"/></r></p></e>
+    <e><p><l>fossiilinen<s n="adj"/></l><r>fossil<s n="adj"/></r></p></e>
+    <e><p><l>funktionaalinen<s n="adj"/></l><r>funksjonell<s n="adj"/></r></p></e>
+    <e><p><l>fysikaalinen<s n="adj"/></l><r>fysikalsk<s n="adj"/></r></p></e>
+    <e><p><l>fysiologinen<s n="adj"/></l><r>fysiologisk<s n="adj"/></r></p></e>
     <e><p><l>fyysinen<s n="adj"/></l><r>fysisk<s n="adj"/></r></p></e>
+    <e><p><l>gabonilainen<s n="adj"/></l><r>gabonsk<s n="adj"/></r></p></e>
+    <e><p><l>gambialainen<s n="adj"/></l><r>gambisk<s n="adj"/></r></p></e>
+    <e><p><l>geneerinen<s n="adj"/></l><r>generisk<s n="adj"/></r></p></e>
+    <e><p><l>geneettinen<s n="adj"/></l><r>genetisk<s n="adj"/></r></p></e>
     <e><p><l>geografinen<s n="adj"/></l><r>geografisk<s n="adj"/></r></p></e>
+    <e><p><l>geologinen<s n="adj"/></l><r>geologisk<s n="adj"/></r></p></e>
+    <e><p><l>geometrinen<s n="adj"/></l><r>geometrisk<s n="adj"/></r></p></e>
+    <e><p><l>georgialainen<s n="adj"/></l><r>georgisk<s n="adj"/></r></p></e>
+    <e><p><l>germaaninen<s n="adj"/></l><r>germansk<s n="adj"/></r></p></e>
+    <e><p><l>ghanalainen<s n="adj"/></l><r>ghanesisk<s n="adj"/></r></p></e>
     <e><p><l>giganttinen<s n="adj"/></l><r>gigantisk<s n="adj"/></r></p></e>
+    <e><p><l>globaalinen<s n="adj"/></l><r>global<s n="adj"/></r></p></e>
+    <e><p><l>globaali<s n="adj"/></l><r>global<s n="adj"/></r></p></e>
+    <e><p><l>gnostilainen<s n="adj"/></l><r>gnostisk<s n="adj"/></r></p></e>
+    <e><p><l>goottilainen<s n="adj"/></l><r>gotisk<s n="adj"/></r></p></e>
     <e><p><l>graafinen<s n="adj"/></l><r>grafisk<s n="adj"/></r></p></e>
+    <e><p><l>gregoriaaninen<s n="adj"/></l><r>gregoriansk<s n="adj"/></r></p></e>
+    <e><p><l>grenadalainen<s n="adj"/></l><r>grenadisk<s n="adj"/></r></p></e>
+    <e><p><l>guatemalalainen<s n="adj"/></l><r>guatemalansk<s n="adj"/></r></p></e>
+    <e><p><l>guineabissaulainen<s n="adj"/></l><r>bissauguineansk<s n="adj"/></r></p></e>
+    <e><p><l>guinealainen<s n="adj"/></l><r>guineansk<s n="adj"/></r></p></e>
+    <e><p><l>guyanalainen<s n="adj"/></l><r>guyansk<s n="adj"/></r></p></e>
     <e><p><l>haastava<s n="adj"/></l><r>utfordrende<s n="adj"/></r></p></e>
+    <e><p><l>haavoittuva<s n="adj"/></l><r>sårbar<s n="adj"/></r></p></e>
+    <e><p><l>haihtuva<s n="adj"/></l><r>flyktig<s n="adj"/></r></p></e>
+    <e><p><l>haitallinen<s n="adj"/></l><r>skadelig<s n="adj"/></r></p></e>
+    <e><p><l>haitilainen<s n="adj"/></l><r>haitisk<s n="adj"/></r></p></e>
+    <e><p><l>hajanainen<s n="adj"/></l><r>spredt<s n="adj"/></r></p></e>
+    <e><p><l>hajautettu<s n="adj"/></l><r>spredt<s n="adj"/></r></p></e>
+    <e><p><l>hajoava<s n="adj"/></l><r>i ferd med å bli oppløst<s n="adj"/></r></p></e>
+    <e><p><l>hajottava<s n="adj"/></l><r>nedbrytende<s n="adj"/></r></p></e>
+    <e><p><l>hallinnollinen<s n="adj"/></l><r>administrativ<s n="adj"/></r></p></e>
+    <e><p><l>hallitseva<s n="adj"/></l><r>herskende<s n="adj"/></r></p></e>
     <e><p><l>halpa<s n="adj"/></l><r>billig<s n="adj"/></r></p></e>
+    <e><p><l>halukas<s n="adj"/></l><r>villig<s n="adj"/></r></p></e>
+    <e><p><l>haluton<s n="adj"/></l><r>uvillig<s n="adj"/></r></p></e>
+    <e><p><l>halventava<s n="adj"/></l><r>nedsettende<s n="adj"/></r></p></e>
     <e><p><l>hankala<s n="adj"/></l><r>tøff<s n="adj"/></r></p></e>
+    <e><p><l>hankala<s n="adj"/></l><r>vrien<s n="adj"/></r></p></e>
+    <e><p><l>hapan<s n="adj"/></l><r>sur<s n="adj"/></r></p></e>
+    <e><p><l>harhaanjohtava<s n="adj"/></l><r>misvisende<s n="adj"/></r></p></e>
+    <e><p><l>harhaoppinen<s n="adj"/></l><r>kjettersk<s n="adj"/></r></p></e>
     <e><p><l>harjoitettu<s n="adj"/></l><r>praktisere<s n="adj"/></r></p></e>
+    <e><p><l>harkittu<s n="adj"/></l><r>forsettlig<s n="adj"/></r></p></e>
+    <e><p><l>harmaanruskea<s n="adj"/></l><r>gråbrun<s n="adj"/></r></p></e>
+    <e><p><l>harmaa<s n="adj"/></l><r>grå<s n="adj"/></r></p></e>
+    <e><p><l>harmahtava<s n="adj"/></l><r>grånende<s n="adj"/></r></p></e>
+    <e><p><l>harmoninen<s n="adj"/></l><r>harmonisk<s n="adj"/></r></p></e>
+    <e><p><l>harras<s n="adj"/></l><r>alvorlig<s n="adj"/></r></p></e>
+    <e><p><l>harvalukuinen<s n="adj"/></l><r>fåtallig<s n="adj"/></r></p></e>
     <e><p><l>harva<s n="adj"/></l><r>få<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>harva<s n="adj"/></l><r>sjelden<s n="adj"/></r></p></e>
+    <e><p><l>harvinainen<s n="adj"/></l><r>sjelden<s n="adj"/></r></p></e>
+    <e><p><l>hauras<s n="adj"/></l><r>gebrekkelig<s n="adj"/></r></p></e>
+    <e><p><l>hauras<s n="adj"/></l><r>sprø<s n="adj"/></r></p></e>
+    <e><p><l>hauska<s n="adj"/></l><r>morsom<s n="adj"/></r></p></e>
     <e><p><l>hauska<s n="adj"/></l><r>morsom<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hauska<s n="adj"/></l><r>trivelig<s n="adj"/></r></p></e>
+    <e><p><l>havaittu<s n="adj"/></l><r>observert<s n="adj"/></r></p></e>
+    <e><p><l>hedelmällinen<s n="adj"/></l><r>fruktbar<s n="adj"/></r></p></e>
     <e><p><l>hehkuva<s n="adj"/></l><r>glødande<s n="adj"/></r></p></e>
+    <e><p><l>hehkuva<s n="adj"/></l><r>glødende<s n="adj"/></r></p></e>
+    <e><p><l>heijastava<s n="adj"/></l><r>reflekterende<s n="adj"/></r></p></e>
+    <e><p><l>heikentynyt<s n="adj"/></l><r>svekka<s n="adj"/></r></p></e>
     <e><p><l>heikko<s n="adj"/></l><r>svak<s n="adj"/></r></p></e>
+    <e><p><l>hellenistinen<s n="adj"/></l><r>hellenistisk<s n="adj"/></r></p></e>
+    <e><p><l>hellävarainen<s n="adj"/></l><r>skånsom<s n="adj"/></r></p></e>
+    <e><p><l>helppo<s n="adj"/></l><r>lett<s n="adj"/></r></p></e>
+    <e><p><l>hengellinen<s n="adj"/></l><r>åndelig<s n="adj"/></r></p></e>
     <e><p><l>henkilökohtainen<s n="adj"/></l><r>personleg<s n="adj"/></r></p></e>
     <e><p><l>henkilökohtainen<s n="adj"/></l><r>personlig<s n="adj"/></r></p></e>
+    <e><p><l>henkinen<s n="adj"/></l><r>åndelig<s n="adj"/></r></p></e>
+    <e><p><l>hento<s n="adj"/></l><r>spinkel<s n="adj"/></r></p></e>
+    <e><p><l>heprealainen<s n="adj"/></l><r>hebraisk<s n="adj"/></r></p></e>
     <e><p><l>heprealainen<s n="adj"/></l><r>hebraisk<s n="adj"/></r></p></e>
     <e><p><l>heprealainen<s n="adj"/></l><r>hebreisk<s n="adj"/></r></p></e>
+    <e><p><l>herkkä<s n="adj"/></l><r>følsom<s n="adj"/></r></p></e>
+    <e><p><l>herkkä<s n="adj"/></l><r>var<s n="adj"/></r></p></e>
+    <e><p><l>hermeneuttinen<s n="adj"/></l><r>hermeneutisk<s n="adj"/></r></p></e>
+    <e><p><l>hetkellinen<s n="adj"/></l><r>flyktig<s n="adj"/></r></p></e>
+    <e><p><l>hieno<s n="adj"/></l><r>fin<s n="adj"/></r></p></e>
+    <e><p><l>hienotunteinen<s n="adj"/></l><r>fintfølende<s n="adj"/></r></p></e>
+    <e><p><l>hienotunteinen<s n="adj"/></l><r>hensynsfull<s n="adj"/></r></p></e>
+    <e><p><l>hierarkkinen<s n="adj"/></l><r>hierarkisk<s n="adj"/></r></p></e>
+    <e><p><l>hiljainen<s n="adj"/></l><r>rolig<s n="adj"/></r></p></e>
+    <e><p><l>hiljainen<s n="adj"/></l><r>stille<s n="adj"/></r></p></e>
+    <e><p><l>himmeä<s n="adj"/></l><r>matt<s n="adj"/></r></p></e>
+    <e><p><l>hindulainen<s n="adj"/></l><r>hinduistisk<s n="adj"/></r></p></e>
+    <e><p><l>hirmuinen<s n="adj"/></l><r>svær<s n="adj"/></r></p></e>
+    <e><p><l>hirveä<s n="adj"/></l><r>fryktelig<s n="adj"/></r></p></e>
     <e><p><l>hirveä<s n="adj"/></l><r>kjempedårlig<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hirveä<s n="adj"/></l><r>svær<s n="adj"/></r></p></e>
     <e><p><l>historiallinen<s n="adj"/></l><r>historisk<s n="adj"/></r></p></e>
+    <e><p><l>hoikka<s n="adj"/></l><r>tynn<s n="adj"/></r></p></e>
+    <e><p><l>hollantilainen<s n="adj"/></l><r>hollandsk<s n="adj"/></r></p></e>
     <e><p><l>holografinen<s n="adj"/></l><r>holografisk<s n="adj"/></r></p></e>
     <e><p><l>homo<s n="adj"/></l><r>homofil<s n="adj"/></r></p></e>
+    <e><p><l>hondurasilainen<s n="adj"/></l><r>honduransk<s n="adj"/></r></p></e>
+    <e><p><l>hopeinen<s n="adj"/></l><r>laga av sølv<s n="adj"/></r></p></e>
     <e><p><l>houkuteltu<s n="adj"/></l><r>lokke<s n="adj"/></r></p></e>
+    <e><p><l>houkutteleva<s n="adj"/></l><r>forlokkende<s n="adj"/></r></p></e>
+    <e><p><l>huikea<s n="adj"/></l><r>svimlende<s n="adj"/></r></p></e>
+    <e><p><l>huikea<s n="adj"/></l><r>veldig<s n="adj"/></r></p></e>
+    <e><p><l>huima<s n="adj"/></l><r>ustyrlig<s n="adj"/></r></p></e>
     <e><p><l>huippu<s n="adj"/></l><r>topp<s n="adj"/></r></p></e>
+    <e><p><l>hullu<s n="adj"/></l><r>gal<s n="adj"/></r></p></e>
     <e><p><l>humanistinen<s n="adj"/></l><r>humanistisk<s n="adj"/></r></p></e>
+    <e><p><l>humanitaarinen<s n="adj"/></l><r>humanitær<s n="adj"/></r></p></e>
     <e><p><l>humoristinen<s n="adj"/></l><r>humoristisk<s n="adj"/></r></p></e>
+    <e><p><l>huolehtiva<s n="adj"/></l><r>omsorgsfull<s n="adj"/></r></p></e>
+    <e><p><l>huolellinen<s n="adj"/></l><r>omsorgsfull<s n="adj"/></r></p></e>
+    <e><p><l>huolellinen<s n="adj"/></l><r>pertentlig<s n="adj"/></r></p></e>
+    <e><p><l>huoleton<s n="adj"/></l><r>uvøren<s n="adj"/></r></p></e>
     <e><p><l>huomattava<s n="adj"/></l><r>beskjeden<s n="adj"/></r></p></e>
+    <e><p><l>huomattava<s n="adj"/></l><r>betydningsfull<s n="adj"/></r></p></e>
     <e><p><l>huomattava<s n="adj"/></l><r>særegen<s n="adj"/></r></p></e>
     <e><p><l>huomattava<s n="adj"/></l><r>tilsynelatende<s n="adj"/></r></p></e>
     <e><p><l>huomioitu<s n="adj"/></l><r>involvere<s n="adj"/></r></p></e>
     <e><p><l>huomionarvoinen<s n="adj"/></l><r>påfallende<s n="adj"/></r></p></e>
+    <e><p><l>huonokuntoinen<s n="adj"/></l><r>i dårlig form<s n="adj"/></r></p></e>
+    <e><p><l>huonokuntoinen<s n="adj"/></l><r>slapp<s n="adj"/></r></p></e>
     <e><p><l>huono<s n="adj"/></l><r>dårleg<s n="adj"/></r></p></e>
     <e><p><l>huono<s n="adj"/></l><r>dårleg<s n="adj"/></r></p></e>
     <e><p><l>huono<s n="adj"/></l><r>dårlig<s n="adj"/></r></p></e>
+    <e><p><l>huonovointinen<s n="adj"/></l><r>uvel<s n="adj"/></r></p></e>
+    <e><p><l>hurja<s n="adj"/></l><r>ustyrlig<s n="adj"/></r></p></e>
+    <e><p><l>huvittava<s n="adj"/></l><r>morsom<s n="adj"/></r></p></e>
+    <e><p><l>hylätty<s n="adj"/></l><r>forkasta<s n="adj"/></r></p></e>
     <e><p><l>hyperaktiivinen<s n="adj"/></l><r>hyperaktiv<s n="adj"/></r></p></e>
+    <e><p><l>hypoteettinen<s n="adj"/></l><r>hypotetisk<s n="adj"/></r></p></e>
+    <e><p><l>hyvinvoiva<s n="adj"/></l><r>velstående<s n="adj"/></r></p></e>
     <e><p><l>hyväksytty<s n="adj"/></l><r>godkjenne<s n="adj"/></r></p></e>
+    <e><p><l>hyväksytty<s n="adj"/></l><r>godkjent<s n="adj"/></r></p></e>
+    <e><p><l>hyväksyttävä<s n="adj"/></l><r>høvelig<s n="adj"/></r></p></e>
+    <e><p><l>hyväkuntoinen<s n="adj"/></l><r>utholdende<s n="adj"/></r></p></e>
+    <e><p><l>hyvänmakuinen<s n="adj"/></l><r>velsmakende<s n="adj"/></r></p></e>
     <e><p><l>hyvä<s n="adj"/></l><r>fin<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>hyvä<s n="adj"/></l><r>god<s n="adj"/></r></p></e>
     <e><p><l>hyvä<s n="adj"/></l><r>god<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>hyödyllinen<s n="adj"/></l><r>nytte<s n="adj"/></r></p></e>
+    <e><p><l>hyödyllinen<s n="adj"/></l><r>nyttig<s n="adj"/></r></p></e>
     <e><p><l>hyödytön<s n="adj"/></l><r>nytteløs<s n="adj"/></r></p></e>
+    <e><p><l>hyökkäävä<s n="adj"/></l><r>pågående<s n="adj"/></r></p></e>
+    <e><p><l>häiritsevä<s n="adj"/></l><r>uhøvelig<s n="adj"/></r></p></e>
+    <e><p><l>hämäläinen<s n="adj"/></l><r>tavastlandsk<s n="adj"/></r></p></e>
+    <e><p><l>hämärä<s n="adj"/></l><r>skumring<s n="adj"/></r></p></e>
     <e><p><l>hävettävä<s n="adj"/></l><r>pinlig<s n="adj"/></r></p></e>
+    <e><p><l>idealistinen<s n="adj"/></l><r>idealistisk<s n="adj"/></r></p></e>
     <e><p><l>identtinen<s n="adj"/></l><r>identisk<s n="adj"/></r></p></e>
+    <e><p><l>ideologinen<s n="adj"/></l><r>ideologisk<s n="adj"/></r></p></e>
+    <e><p><l>ihana<s n="adj"/></l><r>herlig<s n="adj"/></r></p></e>
+    <e><p><l>ihana<s n="adj"/></l><r>vidunderlig<s n="adj"/></r></p></e>
+    <e><p><l>ihanteellinen<s n="adj"/></l><r>ideal<s n="adj"/></r></p></e>
+    <e><p><l>ihanteellinen<s n="adj"/></l><r>optimal<s n="adj"/></r></p></e>
+    <e><p><l>ihastunut<s n="adj"/></l><r>fascinert<s n="adj"/></r></p></e>
+    <e><p><l>ihmeellinen<s n="adj"/></l><r>merkelig<s n="adj"/></r></p></e>
+    <e><p><l>ikivanha<s n="adj"/></l><r>urgammel<s n="adj"/></r></p></e>
+    <e><p><l>ikuinen<s n="adj"/></l><r>evig<s n="adj"/></r></p></e>
+    <e><p><l>ikäinen<s n="adj"/></l><r>av en bestemt alder<s n="adj"/></r></p></e>
+    <e><p><l>ikävä<s n="adj"/></l><r>besværlig<s n="adj"/></r></p></e>
+    <e><p><l>ikävä<s n="adj"/></l><r>trasig<s n="adj"/></r></p></e>
+    <e><p><l>iljettävä<s n="adj"/></l><r>ekkel<s n="adj"/></r></p></e>
+    <e><p><l>iljettävä<s n="adj"/></l><r>vemmelig<s n="adj"/></r></p></e>
+    <e><p><l>ilkeä<s n="adj"/></l><r>slem<s n="adj"/></r></p></e>
+    <e><p><l>ilmainen<s n="adj"/></l><r>gratis<s n="adj"/></r></p></e>
+    <e><p><l>ilmatiivis<s n="adj"/></l><r>lufttett<s n="adj"/></r></p></e>
+    <e><p><l>ilmeinen<s n="adj"/></l><r>åpenbar<s n="adj"/></r></p></e>
+    <e><p><l>iloinen<s n="adj"/></l><r>glad<s n="adj"/></r></p></e>
     <e><p><l>iloinen<s n="adj"/></l><r>glad<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>immuuni<s n="adj"/></l><r>immune<s n="adj"/></r></p></e>
+    <e><p><l>indoeurooppalainen<s n="adj"/></l><r>indoeuropeisk<s n="adj"/></r></p></e>
     <e><p><l>indoiranilainen<s n="adj"/></l><r>indoiransk<s n="adj"/></r></p></e>
+    <e><p><l>indonesialainen<s n="adj"/></l><r>indonesisk<s n="adj"/></r></p></e>
+    <e><p><l>induktiivinen<s n="adj"/></l><r>induktiv<s n="adj"/></r></p></e>
+    <e><p><l>inhimillinen<s n="adj"/></l><r>menneskelig<s n="adj"/></r></p></e>
+    <e><p><l>innokas<s n="adj"/></l><r>ivrig<s n="adj"/></r></p></e>
+    <e><p><l>innostunut<s n="adj"/></l><r>ivrig<s n="adj"/></r></p></e>
+    <e><p><l>intensiivinen<s n="adj"/></l><r>intensiv<s n="adj"/></r></p></e>
     <e><p><l>intensiivinen<s n="adj"/></l><r>intensiv<s n="adj"/></r></p></e>
     <e><p><l>intensiivinen<s n="adj"/></l><r>intens<s n="adj"/></r></p></e>
     <e><p><l>intialainen<s n="adj"/></l><r>indisk<s n="adj"/></r></p></e>
+    <e><p><l>intuitiivinen<s n="adj"/></l><r>intuitiv<s n="adj"/></r></p></e>
+    <e><p><l>irakilainen<s n="adj"/></l><r>irakisk<s n="adj"/></r></p></e>
+    <e><p><l>iranilainen<s n="adj"/></l><r>iransk<s n="adj"/></r></p></e>
     <e><p><l>iranilais-amerikkalainen<s n="adj"/></l><r>iransk-amerikansk<s n="adj"/></r></p></e>
     <e><p><l>iranilaisamerikkalainen<s n="adj"/></l><r>irans-kamerikansk<s n="adj"/></r></p></e>
+    <e><p><l>irlantilainen<s n="adj"/></l><r>irlender<s n="adj"/></r></p></e>
+    <e><p><l>irrallinen<s n="adj"/></l><r>løs<s n="adj"/></r></p></e>
+    <e><p><l>irrallinen<s n="adj"/></l><r>ubundet<s n="adj"/></r></p></e>
+    <e><p><l>irtonainen<s n="adj"/></l><r>løs<s n="adj"/></r></p></e>
+    <e><p><l>islamilainen<s n="adj"/></l><r>islamsk<s n="adj"/></r></p></e>
+    <e><p><l>islantilainen<s n="adj"/></l><r>islandsk<s n="adj"/></r></p></e>
+    <e><p><l>isobritannialainen<s n="adj"/></l><r>britisk<s n="adj"/></r></p></e>
+    <e><p><l>iso<s n="adj"/></l><r>stor<s n="adj"/></r></p></e>
     <e><p><l>iso<s n="adj"/></l><r>stor<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>israelilainen<s n="adj"/></l><r>israelsk<s n="adj"/></r></p></e>
+    <e><p><l>istutettu<s n="adj"/></l><r>planta<s n="adj"/></r></p></e>
+    <e><p><l>isänmaallinen<s n="adj"/></l><r>fosterlandsk<s n="adj"/></r></p></e>
+    <e><p><l>italialainen<s n="adj"/></l><r>italiensk<s n="adj"/></r></p></e>
+    <e><p><l>itara<s n="adj"/></l><r>gjerrig<s n="adj"/></r></p></e>
+    <e><p><l>itsehallinnollinen<s n="adj"/></l><r>autonom<s n="adj"/></r></p></e>
     <e><p><l>itsenäinen<s n="adj"/></l><r>selvstendig<s n="adj"/></r></p></e>
+    <e><p><l>itsepäinen<s n="adj"/></l><r>påståelig<s n="adj"/></r></p></e>
+    <e><p><l>itäinen<s n="adj"/></l><r>østlig<s n="adj"/></r></p></e>
+    <e><p><l>itämainen<s n="adj"/></l><r>østerlandsk<s n="adj"/></r></p></e>
+    <e><p><l>itämerensuomalainen<s n="adj"/></l><r>østersjøfinsk<s n="adj"/></r></p></e>
+    <e><p><l>itäpuolinen<s n="adj"/></l><r>østlig<s n="adj"/></r></p></e>
+    <e><p><l>itätimorilainen<s n="adj"/></l><r>østtimoresisk<s n="adj"/></r></p></e>
+    <e><p><l>itävaltalainen<s n="adj"/></l><r>østerriksk<s n="adj"/></r></p></e>
+    <e><p><l>iäkäs<s n="adj"/></l><r>godt voksen<s n="adj"/></r></p></e>
     <e><p><l>jaettu<s n="adj"/></l><r>dele<s n="adj"/></r></p></e>
+    <e><p><l>jaettu<s n="adj"/></l><r>delt<s n="adj"/></r></p></e>
     <e><p><l>jaettu<s n="adj"/></l><r>oppdele<s n="adj"/></r></p></e>
     <e><p><l>jaettu<s n="adj"/></l><r>tildele<s n="adj"/></r></p></e>
+    <e><p><l>jakaantunut<s n="adj"/></l><r>fordelt<s n="adj"/></r></p></e>
+    <e><p><l>jakautunut<s n="adj"/></l><r>delt<s n="adj"/></r></p></e>
     <e><p><l>jakautunut<s n="adj"/></l><r>splitte<s n="adj"/></r></p></e>
     <e><p><l>-jaksoinen<s n="adj"/></l><r>episodig<s n="adj"/></r></p></e>
+    <e><p><l>jaksollinen<s n="adj"/></l><r>periodisk<s n="adj"/></r></p></e>
+    <e><p><l>jalo<s n="adj"/></l><r>edel<s n="adj"/></r></p></e>
+    <e><p><l>jalostettu<s n="adj"/></l><r>foredla<s n="adj"/></r></p></e>
+    <e><p><l>jamaikalainen<s n="adj"/></l><r>jamaikansk<s n="adj"/></r></p></e>
+    <e><p><l>jaollinen<s n="adj"/></l><r>delbar<s n="adj"/></r></p></e>
     <e><p><l>japanilainen<s n="adj"/></l><r>japansk<s n="adj"/></r></p></e>
+    <e><p><l>jatkuva<s n="adj"/></l><r>vedvarende<s n="adj"/></r></p></e>
+    <e><p><l>jemeniläinen<s n="adj"/></l><r>jemenittisk<s n="adj"/></r></p></e>
     <e><p><l>jiddišinkielinen<s n="adj"/></l><r>jiddisch<s n="adj"/></r></p></e>
+    <e><p><l>johdonmukainen<s n="adj"/></l><r>konsekvent<s n="adj"/></r></p></e>
     <e><p><l>johtava<s n="adj"/></l><r>administrerende<s n="adj"/></r></p></e>
     <e><p><l>johtava<s n="adj"/></l><r>ledende<s n="adj"/></r></p></e>
+    <e><p><l>jokapäiväinen<s n="adj"/></l><r>daglig<s n="adj"/></r></p></e>
+    <e><p><l>jollainen<s n="adj"/></l><r>hva slags<s n="adj"/></r></p></e>
+    <e><p><l>jonkinlainen<s n="adj"/></l><r>en slags<s n="adj"/></r></p></e>
+    <e><p><l>jordanialainen<s n="adj"/></l><r>jordansk<s n="adj"/></r></p></e>
+    <e><p><l>joustava<s n="adj"/></l><r>elastisk<s n="adj"/></r></p></e>
+    <e><p><l>joustava<s n="adj"/></l><r>fleksibel<s n="adj"/></r></p></e>
+    <e><p><l>joutava<s n="adj"/></l><r>unyttig<s n="adj"/></r></p></e>
+    <e><p><l>joutilas<s n="adj"/></l><r>ubrukbar<s n="adj"/></r></p></e>
+    <e><p><l>juhlallinen<s n="adj"/></l><r>høytidelig<s n="adj"/></r></p></e>
     <e><p><l>juhlava<s n="adj"/></l><r>klubben<s n="adj"/></r></p></e>
+    <e><p><l>juliaaninen<s n="adj"/></l><r>juliansk<s n="adj"/></r></p></e>
+    <e><p><l>julistettu<s n="adj"/></l><r>erklært<s n="adj"/></r></p></e>
+    <e><p><l>julkaisematon<s n="adj"/></l><r>upublisert<s n="adj"/></r></p></e>
+    <e><p><l>julkaistu<s n="adj"/></l><r>publisert<s n="adj"/></r></p></e>
     <e><p><l>julkinen<s n="adj"/></l><r>offentleg<s n="adj"/></r></p></e>
+    <e><p><l>julkinen<s n="adj"/></l><r>offentlig<s n="adj"/></r></p></e>
+    <e><p><l>julma<s n="adj"/></l><r>grusom<s n="adj"/></r></p></e>
+    <e><p><l>jumalainen<s n="adj"/></l><r>guddommelig<s n="adj"/></r></p></e>
     <e><p><l>jumalainen<s n="adj"/></l><r>gudeaktig<s n="adj"/></r></p></e>
+    <e><p><l>jumalallinen<s n="adj"/></l><r>guddommelig<s n="adj"/></r></p></e>
     <e><p><l>jumalallinen<s n="adj"/></l><r>jambyrdig<s n="adj"/></r></p></e>
     <e><p><l>juokseva<s n="adj"/></l><r>flytende<s n="adj"/></r></p></e>
+    <e><p><l>juokseva<s n="adj"/></l><r>løpende<s n="adj"/></r></p></e>
     <e><p><l>juridinen<s n="adj"/></l><r>juridisk<s n="adj"/></r></p></e>
+    <e><p><l>juutalainen<s n="adj"/></l><r>jødisk<s n="adj"/></r></p></e>
+    <e><p><l>jylhä<s n="adj"/></l><r>mektig<s n="adj"/></r></p></e>
+    <e><p><l>jyrkkä<s n="adj"/></l><r>bratt<s n="adj"/></r></p></e>
     <e><p><l>jyrkkä<s n="adj"/></l><r>steil<s n="adj"/></r></p></e>
+    <e><p><l>jälkeinen<s n="adj"/></l><r>etterkommende<s n="adj"/></r></p></e>
+    <e><p><l>jälkimmäinen<s n="adj"/></l><r>etterfølgende<s n="adj"/></r></p></e>
+    <e><p><l>jännittävä<s n="adj"/></l><r>spennende<s n="adj"/></r></p></e>
+    <e><p><l>järjellinen<s n="adj"/></l><r>fornuftig<s n="adj"/></r></p></e>
+    <e><p><l>järjestelmällinen<s n="adj"/></l><r>systematisk<s n="adj"/></r></p></e>
     <e><p><l>järjestelmällnen<s n="adj"/></l><r>ordentlig<s n="adj"/></r></p></e>
     <e><p><l>järjestetty<s n="adj"/></l><r>orde<s n="adj"/></r></p></e>
+    <e><p><l>järjestetty<s n="adj"/></l><r>organisert<s n="adj"/></r></p></e>
+    <e><p><l>järjestäytynyt<s n="adj"/></l><r>organisert<s n="adj"/></r></p></e>
+    <e><p><l>järkevä<s n="adj"/></l><r>fornuftig<s n="adj"/></r></p></e>
     <e><p><l>järkyttynyt<s n="adj"/></l><r>begeistret<s n="adj"/></r></p></e>
+    <e><p><l>jäykkä<s n="adj"/></l><r>stiv<s n="adj"/></r></p></e>
     <e><p><l>jäädytetty<s n="adj"/></l><r>fryse<s n="adj"/></r></p></e>
+    <e><p><l>jäätynyt<s n="adj"/></l><r>tilfrossen<s n="adj"/></r></p></e>
+    <e><p><l>jäätön<s n="adj"/></l><r>isfri<s n="adj"/></r></p></e>
+    <e><p><l>jäävi<s n="adj"/></l><r>inhabil<s n="adj"/></r></p></e>
+    <e><p><l>jäävi<s n="adj"/></l><r>ugild<s n="adj"/></r></p></e>
     <e><p><l>kaakkoinen<s n="adj"/></l><r>søraustleg<s n="adj"/></r></p></e>
+    <e><p><l>kaakkoinen<s n="adj"/></l><r>sørøstlig<s n="adj"/></r></p></e>
+    <e><p><l>kaareva<s n="adj"/></l><r>kurvende<s n="adj"/></r></p></e>
+    <e><p><l>kaavamainen<s n="adj"/></l><r>skjematisk<s n="adj"/></r></p></e>
+    <e><p><l>kadonnut<s n="adj"/></l><r>forsvunnet<s n="adj"/></r></p></e>
+    <e><p><l>kahdenkeskinen<s n="adj"/></l><r>bilateral<s n="adj"/></r></p></e>
+    <e><p><l>kahdenkeskinen<s n="adj"/></l><r>to i mellom<s n="adj"/></r></p></e>
+    <e><p><l>kahdenlainen<s n="adj"/></l><r>tosidig<s n="adj"/></r></p></e>
+    <e><p><l>kaikenkattava<s n="adj"/></l><r>altomfattende<s n="adj"/></r></p></e>
+    <e><p><l>kaikenlainen<s n="adj"/></l><r>allslags<s n="adj"/></r></p></e>
+    <e><p><l>kaikkiruokainen<s n="adj"/></l><r>altetende<s n="adj"/></r></p></e>
+    <e><p><l>kaiverrettu<s n="adj"/></l><r>gravert<s n="adj"/></r></p></e>
     <e><p><l>kaksijakoinen<s n="adj"/></l><r>totydig<s n="adj"/></r></p></e>
+    <e><p><l>kaksikerroksinen<s n="adj"/></l><r>toetasjes<s n="adj"/></r></p></e>
+    <e><p><l>kaksikielinen<s n="adj"/></l><r>tospråklig<s n="adj"/></r></p></e>
     <e><p><l>kaksinkertainen<s n="adj"/></l><r>dobbel<s n="adj"/></r></p></e>
+    <e><p><l>kaksiosainen<s n="adj"/></l><r>todelt<s n="adj"/></r></p></e>
+    <e><p><l>kaksisuuntainen<s n="adj"/></l><r>tovegs<s n="adj"/></r></p></e>
+    <e><p><l>kaksisylinterinen<s n="adj"/></l><r>med to sylindre<s n="adj"/></r></p></e>
     <e><p><l>kaksiulotteinen<s n="adj"/></l><r>todimensjonal<s n="adj"/></r></p></e>
+    <e><p><l>kalju<s n="adj"/></l><r>skallet<s n="adj"/></r></p></e>
+    <e><p><l>kallis<s n="adj"/></l><r>dyr<s n="adj"/></r></p></e>
+    <e><p><l>kaltainen<s n="adj"/></l><r>lignende<s n="adj"/></r></p></e>
     <e><p><l>kaltainen<s n="adj"/></l><r>liknende<s n="adj"/></r></p></e>
+    <e><p><l>kamala<s n="adj"/></l><r>forferdelig<s n="adj"/></r></p></e>
+    <e><p><l>kamerunilainen<s n="adj"/></l><r>kamerunsk<s n="adj"/></r></p></e>
+    <e><p><l>kampakeraaminen<s n="adj"/></l><r>kamkeramisk<s n="adj"/></r></p></e>
     <e><p><l>kanadalainen<s n="adj"/></l><r>canadisk<s n="adj"/></r></p></e>
     <e><p><l>kanadalainen<s n="adj"/></l><r>kanadisk<s n="adj"/></r></p></e>
+    <e><p><l>kannattava<s n="adj"/></l><r>lønnsom<s n="adj"/></r></p></e>
+    <e><p><l>kannettava<s n="adj"/></l><r>lønnsom<s n="adj"/></r></p></e>
+    <e><p><l>kanoninen<s n="adj"/></l><r>kanonisk<s n="adj"/></r></p></e>
     <e><p><l>kansainvälinen<s n="adj"/></l><r>internasjonal<s n="adj"/></r></p></e>
     <e><p><l>kansallinen<s n="adj"/></l><r>føderal<s n="adj"/></r></p></e>
     <e><p><l>kansallinen<s n="adj"/></l><r>nasjonal<s n="adj"/></r></p></e>
+    <e><p><l>kansallismielinen<s n="adj"/></l><r>nasjonalsinnet<s n="adj"/></r></p></e>
     <e><p><l>kansallisromanttinen<s n="adj"/></l><r>nasjonalromantisk<s n="adj"/></r></p></e>
+    <e><p><l>kansallissosialistinen<s n="adj"/></l><r>nasjonalsosialistisk<s n="adj"/></r></p></e>
+    <e><p><l>kansanomainen<s n="adj"/></l><r>folkelig<s n="adj"/></r></p></e>
+    <e><p><l>kantava<s n="adj"/></l><r>bærende<s n="adj"/></r></p></e>
+    <e><p><l>kapearaiteinen<s n="adj"/></l><r>smalstripa<s n="adj"/></r></p></e>
+    <e><p><l>kapea<s n="adj"/></l><r>smal<s n="adj"/></r></p></e>
     <e><p><l>kapea<s n="adj"/></l><r>smal<s n="adj"/></r></p></e>
     <e><p><l>kapea<s n="adj"/></l><r>snever<s n="adj"/></r></p></e>
+    <e><p><l>kapea<s n="adj"/></l><r>trang<s n="adj"/></r></p></e>
+    <e><p><l>kapinoiva<s n="adj"/></l><r>opprørsk<s n="adj"/></r></p></e>
     <e><p><l>kapitalistinen<s n="adj"/></l><r>kapitalistisk<s n="adj"/></r></p></e>
     <e><p><l>karamellimainen<s n="adj"/></l><r>karamellaktig<s n="adj"/></r></p></e>
     <e><p><l>kardassialainen<s n="adj"/></l><r>kardassisk<s n="adj"/></r></p></e>
     <e><p><l>kardassianvastainen<s n="adj"/></l><r>anti-kardassiansk<s n="adj"/></r></p></e>
+    <e><p><l>karhea<s n="adj"/></l><r>ujevn<s n="adj"/></r></p></e>
+    <e><p><l>karismaattinen<s n="adj"/></l><r>karismatisk<s n="adj"/></r></p></e>
+    <e><p><l>karjalainen<s n="adj"/></l><r>karelsk<s n="adj"/></r></p></e>
+    <e><p><l>karkea<s n="adj"/></l><r>grov<s n="adj"/></r></p></e>
+    <e><p><l>karu<s n="adj"/></l><r>karrig<s n="adj"/></r></p></e>
+    <e><p><l>karvas<s n="adj"/></l><r>besk<s n="adj"/></r></p></e>
+    <e><p><l>karviainen<s n="adj"/></l><r>stikkelsbær<s n="adj"/></r></p></e>
+    <e><p><l>kastettu<s n="adj"/></l><r>døpt<s n="adj"/></r></p></e>
     <e><p><l>kasvanut<s n="adj"/></l><r>øke<s n="adj"/></r></p></e>
+    <e><p><l>kasvattava<s n="adj"/></l><r>oppdragende<s n="adj"/></r></p></e>
     <e><p><l>kasvava<s n="adj"/></l><r>aukande<s n="adj"/></r></p></e>
+    <e><p><l>kasvava<s n="adj"/></l><r>framvoksende<s n="adj"/></r></p></e>
+    <e><p><l>kasvava<s n="adj"/></l><r>voksende<s n="adj"/></r></p></e>
+    <e><p><l>katala<s n="adj"/></l><r>lumsk<s n="adj"/></r></p></e>
+    <e><p><l>katettu<s n="adj"/></l><r>overbygd<s n="adj"/></r></p></e>
+    <e><p><l>katkera<s n="adj"/></l><r>bitter<s n="adj"/></r></p></e>
+    <e><p><l>katolilainen<s n="adj"/></l><r>katolsk<s n="adj"/></r></p></e>
     <e><p><l>katolinen<s n="adj"/></l><r>katolsk<s n="adj"/></r></p></e>
+    <e><p><l>kattava<s n="adj"/></l><r>dekkende<s n="adj"/></r></p></e>
     <e><p><l>kattava<s n="adj"/></l><r>omfattande<s n="adj"/></r></p></e>
     <e><p><l>kattava<s n="adj"/></l><r>omfattende<s n="adj"/></r></p></e>
     <e><p><l>kattava<s n="adj"/></l><r>omfatte<s n="adj"/></r></p></e>
+    <e><p><l>kauhistuttava<s n="adj"/></l><r>forferdelig<s n="adj"/></r></p></e>
     <e><p><l>kaukainen<s n="adj"/></l><r>fjern<s n="adj"/></r></p></e>
+    <e><p><l>kaukainen<s n="adj"/></l><r>fjerntliggende<s n="adj"/></r></p></e>
+    <e><p><l>kaunis<s n="adj"/></l><r>pen<s n="adj"/></r></p></e>
+    <e><p><l>kaunokirjallinen<s n="adj"/></l><r>skjønnlitterær<s n="adj"/></r></p></e>
+    <e><p><l>kaupallinen<s n="adj"/></l><r>forretningsmessig<s n="adj"/></r></p></e>
+    <e><p><l>kaupallinen<s n="adj"/></l><r>kommersiell<s n="adj"/></r></p></e>
     <e><p><l>kehittynyt<s n="adj"/></l><r>avansere<s n="adj"/></r></p></e>
     <e><p><l>kehittynyt<s n="adj"/></l><r>avansert<s n="adj"/></r></p></e>
     <e><p><l>kehittynyt<s n="adj"/></l><r>utvikle<s n="adj"/></r></p></e>
+    <e><p><l>kehittynyt<s n="adj"/></l><r>utviklet<s n="adj"/></r></p></e>
+    <e><p><l>kehitysvammainen<s n="adj"/></l><r>handikappa<s n="adj"/></r></p></e>
+    <e><p><l>kehno<s n="adj"/></l><r>dårlig<s n="adj"/></r></p></e>
     <e><p><l>keinotekoinen<s n="adj"/></l><r>kunstig<s n="adj"/></r></p></e>
+    <e><p><l>kekseliäs<s n="adj"/></l><r>kreativ<s n="adj"/></r></p></e>
+    <e><p><l>kellertävä<s n="adj"/></l><r>gulaktig<s n="adj"/></r></p></e>
+    <e><p><l>kellertävä<s n="adj"/></l><r>gulnende<s n="adj"/></r></p></e>
     <e><p><l>kelpo<s n="adj"/></l><r>gjeldende<s n="adj"/></r></p></e>
     <e><p><l>keltainen<s n="adj"/></l><r>gul<s n="adj"/></r></p></e>
+    <e><p><l>kelttiläinen<s n="adj"/></l><r>keltisk<s n="adj"/></r></p></e>
+    <e><p><l>kelvollinen<s n="adj"/></l><r>fungerende<s n="adj"/></r></p></e>
+    <e><p><l>kelvollinen<s n="adj"/></l><r>høvelig<s n="adj"/></r></p></e>
+    <e><p><l>kelvoton<s n="adj"/></l><r>udugelig<s n="adj"/></r></p></e>
+    <e><p><l>kemiallinen<s n="adj"/></l><r>kjemisk<s n="adj"/></r></p></e>
+    <e><p><l>kenialainen<s n="adj"/></l><r>kenyansk<s n="adj"/></r></p></e>
+    <e><p><l>kerrostunut<s n="adj"/></l><r>avleiret<s n="adj"/></r></p></e>
+    <e><p><l>kertova<s n="adj"/></l><r>fortellende<s n="adj"/></r></p></e>
     <e><p><l>keskeinen<s n="adj"/></l><r>sentral<s n="adj"/></r></p></e>
+    <e><p><l>keskeneräinen<s n="adj"/></l><r>halvferdig<s n="adj"/></r></p></e>
+    <e><p><l>keskiafrikkalainen<s n="adj"/></l><r>sentralafrikansk<s n="adj"/></r></p></e>
+    <e><p><l>keskiaikainen<s n="adj"/></l><r>middelaldersk<s n="adj"/></r></p></e>
+    <e><p><l>keski-ikäinen<s n="adj"/></l><r>middelaldrende<s n="adj"/></r></p></e>
+    <e><p><l>keskikokoinen<s n="adj"/></l><r>av middels størrelse<s n="adj"/></r></p></e>
+    <e><p><l>keskimmäinen<s n="adj"/></l><r>midterste<s n="adj"/></r></p></e>
+    <e><p><l>keskimääräinen<s n="adj"/></l><r>gjennomsnittlig<s n="adj"/></r></p></e>
+    <e><p><l>keskinen<s n="adj"/></l><r>sentral<s n="adj"/></r></p></e>
+    <e><p><l>keskitetty<s n="adj"/></l><r>konsentrert<s n="adj"/></r></p></e>
     <e><p><l>keskittynyt<s n="adj"/></l><r>konsentrere<s n="adj"/></r></p></e>
+    <e><p><l>keskittynyt<s n="adj"/></l><r>konsentrert<s n="adj"/></r></p></e>
+    <e><p><l>kestävä<s n="adj"/></l><r>solid<s n="adj"/></r></p></e>
+    <e><p><l>kesäinen<s n="adj"/></l><r>sommerlig<s n="adj"/></r></p></e>
+    <e><p><l>ketterä<s n="adj"/></l><r>smidig<s n="adj"/></r></p></e>
+    <e><p><l>keveä<s n="adj"/></l><r>lett<s n="adj"/></r></p></e>
     <e><p><l>kevyt<s n="adj"/></l><r>lett<s n="adj"/></r></p></e>
+    <e><p><l>keväinen<s n="adj"/></l><r>vårlig<s n="adj"/></r></p></e>
+    <e><p><l>keynesiläinen<s n="adj"/></l><r>keynesiansk<s n="adj"/></r></p></e>
     <e><p><l>kidnapattu<s n="adj"/></l><r>kidnappe<s n="adj"/></r></p></e>
+    <e><p><l>kielellinen<s n="adj"/></l><r>språklig<s n="adj"/></r></p></e>
     <e><p><l>kieliopillinen<s n="adj"/></l><r>grammatisk<s n="adj"/></r></p></e>
+    <e><p><l>kielitieteellinen<s n="adj"/></l><r>lingvistisk<s n="adj"/></r></p></e>
+    <e><p><l>kielletty<s n="adj"/></l><r>forbudt<s n="adj"/></r></p></e>
     <e><p><l>kielletty<s n="adj"/></l><r>forby<s n="adj"/></r></p></e>
+    <e><p><l>kielteinen<s n="adj"/></l><r>negativ<s n="adj"/></r></p></e>
+    <e><p><l>kiertävä<s n="adj"/></l><r>ambulerende<s n="adj"/></r></p></e>
+    <e><p><l>kiihkeä<s n="adj"/></l><r>pasjonert<s n="adj"/></r></p></e>
+    <e><p><l>kiiltävä<s n="adj"/></l><r>blank<s n="adj"/></r></p></e>
+    <e><p><l>kiinalainen<s n="adj"/></l><r>kinesisk<s n="adj"/></r></p></e>
     <e><p><l>kiinnipultattu<s n="adj"/></l><r>fastmontert<s n="adj"/></r></p></e>
+    <e><p><l>kiinnitetty<s n="adj"/></l><r>fastlagt<s n="adj"/></r></p></e>
+    <e><p><l>kiinnostava<s n="adj"/></l><r>interessant<s n="adj"/></r></p></e>
     <e><p><l>kiinnostunut<s n="adj"/></l><r>interessere<s n="adj"/></r></p></e>
+    <e><p><l>kiinnostunut<s n="adj"/></l><r>interessert<s n="adj"/></r></p></e>
+    <e><p><l>kiinteä<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
+    <e><p><l>kiistanalainen<s n="adj"/></l><r>kontroversiell<s n="adj"/></r></p></e>
+    <e><p><l>kiistaton<s n="adj"/></l><r>udiskutabel<s n="adj"/></r></p></e>
+    <e><p><l>kiistämätön<s n="adj"/></l><r>uangripelig<s n="adj"/></r></p></e>
+    <e><p><l>kiistämätön<s n="adj"/></l><r>uomstridt<s n="adj"/></r></p></e>
     <e><p><l>kiitollinen<s n="adj"/></l><r>takknemlig<s n="adj"/></r></p></e>
+    <e><p><l>kiivas<s n="adj"/></l><r>temperamentsfull<s n="adj"/></r></p></e>
+    <e><p><l>kilpaileva<s n="adj"/></l><r>konkurrerende<s n="adj"/></r></p></e>
+    <e><p><l>kilpailukykyinen<s n="adj"/></l><r>konkurransedyktig<s n="adj"/></r></p></e>
+    <e><p><l>kilpailullinen<s n="adj"/></l><r>konkurransemessig<s n="adj"/></r></p></e>
+    <e><p><l>kiltti<s n="adj"/></l><r>snill<s n="adj"/></r></p></e>
+    <e><p><l>kipeä<s n="adj"/></l><r>smertefull<s n="adj"/></r></p></e>
+    <e><p><l>kipeä<s n="adj"/></l><r>vond<s n="adj"/></r></p></e>
+    <e><p><l>kireä<s n="adj"/></l><r>stram<s n="adj"/></r></p></e>
+    <e><p><l>kirgisialainen<s n="adj"/></l><r>kirgisisk<s n="adj"/></r></p></e>
+    <e><p><l>kiribatilainen<s n="adj"/></l><r>kiribatisk<s n="adj"/></r></p></e>
     <e><p><l>kirjaimellinen<s n="adj"/></l><r>bokstavelig<s n="adj"/></r></p></e>
+    <e><p><l>kirjallinen<s n="adj"/></l><r>skriftlig<s n="adj"/></r></p></e>
+    <e><p><l>kirjattu<s n="adj"/></l><r>rekommendert<s n="adj"/></r></p></e>
+    <e><p><l>kirjava<s n="adj"/></l><r>spraglet<s n="adj"/></r></p></e>
+    <e><p><l>kirkas<s n="adj"/></l><r>blank<s n="adj"/></r></p></e>
+    <e><p><l>kirkas<s n="adj"/></l><r>klar<s n="adj"/></r></p></e>
+    <e><p><l>kirkollinen<s n="adj"/></l><r>kirkelig<s n="adj"/></r></p></e>
     <e><p><l>kirottu<s n="adj"/></l><r>hjemsøke<s n="adj"/></r></p></e>
+    <e><p><l>kitkerä<s n="adj"/></l><r>bitter<s n="adj"/></r></p></e>
+    <e><p><l>kiva<s n="adj"/></l><r>hyggelig<s n="adj"/></r></p></e>
+    <e><p><l>kiva<s n="adj"/></l><r>trivelig<s n="adj"/></r></p></e>
+    <e><p><l>kivinen<s n="adj"/></l><r>steinet<s n="adj"/></r></p></e>
+    <e><p><l>kivulias<s n="adj"/></l><r>smertefull<s n="adj"/></r></p></e>
+    <e><p><l>kivulias<s n="adj"/></l><r>vond<s n="adj"/></r></p></e>
+    <e><p><l>klassinen<s n="adj"/></l><r>klassisk<s n="adj"/></r></p></e>
+    <e><p><l>kliininen<s n="adj"/></l><r>klinisk<s n="adj"/></r></p></e>
+    <e><p><l>kognitiivinen<s n="adj"/></l><r>kognitiv<s n="adj"/></r></p></e>
+    <e><p><l>kohtalainen<s n="adj"/></l><r>rimelig<s n="adj"/></r></p></e>
+    <e><p><l>kohtalokas<s n="adj"/></l><r>skjebnesvanger<s n="adj"/></r></p></e>
+    <e><p><l>kohtelias<s n="adj"/></l><r>høflig<s n="adj"/></r></p></e>
+    <e><p><l>kohtisuora<s n="adj"/></l><r>loddrett<s n="adj"/></r></p></e>
     <e><p><l>kohtuullinen<s n="adj"/></l><r>moderat<s n="adj"/></r></p></e>
+    <e><p><l>kohtuullinen<s n="adj"/></l><r>rimelig<s n="adj"/></r></p></e>
+    <e><p><l>koillinen<s n="adj"/></l><r>nordøst_nordøstlig<s n="adj"/></r></p></e>
+    <e><p><l>kokeellinen<s n="adj"/></l><r>eksperimentell<s n="adj"/></r></p></e>
+    <e><p><l>kokenut<s n="adj"/></l><r>erfaren<s n="adj"/></r></p></e>
     <e><p><l>kokonainen<s n="adj"/></l><r>hel<s n="adj"/></r></p></e>
     <e><p><l>koko<s n="adj"/></l><r>heil<s n="adj"/></r></p></e>
+    <e><p><l>kolea<s n="adj"/></l><r>kjølig<s n="adj"/></r></p></e>
+    <e><p><l>kollektiivinen<s n="adj"/></l><r>kollektiv<s n="adj"/></r></p></e>
     <e><p><l>kolmijalkainen<s n="adj"/></l><r>treføtt<s n="adj"/></r></p></e>
     <e><p><l>kolmikerroksinen<s n="adj"/></l><r>trekledd<s n="adj"/></r></p></e>
+    <e><p><l>kolminkertainen<s n="adj"/></l><r>tredobbel<s n="adj"/></r></p></e>
+    <e><p><l>kolmiulotteinen<s n="adj"/></l><r>tredimensjonal<s n="adj"/></r></p></e>
+    <e><p><l>kolmivuotinen<s n="adj"/></l><r>treårig<s n="adj"/></r></p></e>
     <e><p><l>koltansaamelainen<s n="adj"/></l><r>skoltesamisk<s n="adj"/></r></p></e>
+    <e><p><l>kolumbialainen<s n="adj"/></l><r>colombiansk<s n="adj"/></r></p></e>
+    <e><p><l>komea<s n="adj"/></l><r>staselig<s n="adj"/></r></p></e>
+    <e><p><l>kommunisminvastainen<s n="adj"/></l><r>antikommunistisk<s n="adj"/></r></p></e>
+    <e><p><l>kommunistinen<s n="adj"/></l><r>kommunistisk<s n="adj"/></r></p></e>
+    <e><p><l>komorilainen<s n="adj"/></l><r>komoriansk<s n="adj"/></r></p></e>
+    <e><p><l>kompleksinen<s n="adj"/></l><r>kompleks<s n="adj"/></r></p></e>
+    <e><p><l>konekielinen<s n="adj"/></l><r>maskinspråklig<s n="adj"/></r></p></e>
+    <e><p><l>kongolainen<s n="adj"/></l><r>kongolesisk<s n="adj"/></r></p></e>
+    <e><p><l>konkreettinen<s n="adj"/></l><r>konkret<s n="adj"/></r></p></e>
     <e><p><l>konservatiivinen<s n="adj"/></l><r>konservativ<s n="adj"/></r></p></e>
+    <e><p><l>konstantti<s n="adj"/></l><r>konstant<s n="adj"/></r></p></e>
+    <e><p><l>kookas<s n="adj"/></l><r>røslig<s n="adj"/></r></p></e>
+    <e><p><l>koominen<s n="adj"/></l><r>komisk<s n="adj"/></r></p></e>
     <e><p><l>koottu<s n="adj"/></l><r>samle<s n="adj"/></r></p></e>
+    <e><p><l>korealainen<s n="adj"/></l><r>koreansk<s n="adj"/></r></p></e>
+    <e><p><l>korea<s n="adj"/></l><r>dekorert<s n="adj"/></r></p></e>
+    <e><p><l>korea<s n="adj"/></l><r>vakker<s n="adj"/></r></p></e>
+    <e><p><l>koristeellinen<s n="adj"/></l><r>pyntet<s n="adj"/></r></p></e>
+    <e><p><l>koristeltu<s n="adj"/></l><r>dekorert<s n="adj"/></r></p></e>
     <e><p><l>korjattu<s n="adj"/></l><r>fikse<s n="adj"/></r></p></e>
+    <e><p><l>korkealaatuinen<s n="adj"/></l><r>av høy kvalitet<s n="adj"/></r></p></e>
     <e><p><l>korkeampi<s n="adj"/></l><r>høgare<s n="adj"/></r></p></e>
     <e><p><l>korkea<s n="adj"/></l><r>høg<s n="adj"/></r></p></e>
     <e><p><l>korkea<s n="adj"/></l><r>høy<s n="adj"/></r></p></e>
+    <e><p><l>korkeatasoinen<s n="adj"/></l><r>på høyt nivå<s n="adj"/></r></p></e>
     <e><p><l>korkein<s n="adj"/></l><r>høgast<s n="adj"/></r></p></e>
+    <e><p><l>korkuinen<s n="adj"/></l><r>av en viss høyde<s n="adj"/></r></p></e>
     <e><p><l>korostettu<s n="adj"/></l><r>fremja<s n="adj"/></r></p></e>
+    <e><p><l>korruptoitunut<s n="adj"/></l><r>korrumpert<s n="adj"/></r></p></e>
     <e><p><l>korvattu<s n="adj"/></l><r>erstatte<s n="adj"/></r></p></e>
+    <e><p><l>koskematon<s n="adj"/></l><r>urørt<s n="adj"/></r></p></e>
+    <e><p><l>kosminen<s n="adj"/></l><r>kosmisk<s n="adj"/></r></p></e>
+    <e><p><l>kostea<s n="adj"/></l><r>fuktig<s n="adj"/></r></p></e>
+    <e><p><l>kotimainen<s n="adj"/></l><r>hjemlig<s n="adj"/></r></p></e>
+    <e><p><l>kotimainen<s n="adj"/></l><r>laga i hjemlandet<s n="adj"/></r></p></e>
+    <e><p><l>kotoperäinen<s n="adj"/></l><r>endemisk<s n="adj"/></r></p></e>
+    <e><p><l>koulutettu<s n="adj"/></l><r>utdannet<s n="adj"/></r></p></e>
     <e><p><l>kova<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
     <e><p><l>kova<s n="adj"/></l><r>hard<s n="adj"/></r></p></e>
     <e><p><l>kovaääninen<s n="adj"/></l><r>høglydt<s n="adj"/></r></p></e>
+    <e><p><l>kreikankielinen<s n="adj"/></l><r>greskspråklig<s n="adj"/></r></p></e>
     <e><p><l>kreikkalainen<s n="adj"/></l><r>gresk<s n="adj"/></r></p></e>
+    <e><p><l>kriittinen<s n="adj"/></l><r>kritisk<s n="adj"/></r></p></e>
+    <e><p><l>kristillinen<s n="adj"/></l><r>kristen<s n="adj"/></r></p></e>
     <e><p><l>kristimätön<s n="adj"/></l><r>ikkje-kristen<s n="adj"/></r></p></e>
     <e><p><l>kristitty<s n="adj"/></l><r>kristen<s n="adj"/></r></p></e>
+    <e><p><l>kristitty<s n="adj"/></l><r>kristnet<s n="adj"/></r></p></e>
+    <e><p><l>kroatialainen<s n="adj"/></l><r>kroatisk<s n="adj"/></r></p></e>
     <e><p><l>kronologinen<s n="adj"/></l><r>kronologisk<s n="adj"/></r></p></e>
+    <e><p><l>krooninen<s n="adj"/></l><r>kronisk<s n="adj"/></r></p></e>
+    <e><p><l>kuihtunut<s n="adj"/></l><r>vissen<s n="adj"/></r></p></e>
     <e><p><l>kuiva<s n="adj"/></l><r>tørke<s n="adj"/></r></p></e>
+    <e><p><l>kuiva<s n="adj"/></l><r>tørr<s n="adj"/></r></p></e>
+    <e><p><l>kuivattu<s n="adj"/></l><r>tørka<s n="adj"/></r></p></e>
     <e><p><l>kuljetettu<s n="adj"/></l><r>frakte<s n="adj"/></r></p></e>
+    <e><p><l>kulloinenkin<s n="adj"/></l><r>respektiv<s n="adj"/></r></p></e>
+    <e><p><l>kulloinen<s n="adj"/></l><r>respektiv<s n="adj"/></r></p></e>
+    <e><p><l>kultainen<s n="adj"/></l><r>av gull<s n="adj"/></r></p></e>
+    <e><p><l>kultainen<s n="adj"/></l><r>gullfarget<s n="adj"/></r></p></e>
+    <e><p><l>kultainen<s n="adj"/></l><r>kjær<s n="adj"/></r></p></e>
+    <e><p><l>kulttuurillinen<s n="adj"/></l><r>kulturell<s n="adj"/></r></p></e>
+    <e><p><l>kulttuurinen<s n="adj"/></l><r>kulturell<s n="adj"/></r></p></e>
+    <e><p><l>kulunut<s n="adj"/></l><r>slitt<s n="adj"/></r></p></e>
+    <e><p><l>kummallinen<s n="adj"/></l><r>rar<s n="adj"/></r></p></e>
+    <e><p><l>kumma<s n="adj"/></l><r>snodig<s n="adj"/></r></p></e>
+    <e><p><l>kuninkaallinen<s n="adj"/></l><r>kongelig<s n="adj"/></r></p></e>
+    <e><p><l>kunnallinen<s n="adj"/></l><r>kommunal<s n="adj"/></r></p></e>
     <e><p><l>kunnianhimoinen<s n="adj"/></l><r>ambisiøs<s n="adj"/></r></p></e>
+    <e><p><l>kunnioittava<s n="adj"/></l><r>respektfull<s n="adj"/></r></p></e>
+    <e><p><l>kunnollinen<s n="adj"/></l><r>skikkelig<s n="adj"/></r></p></e>
+    <e><p><l>kuolemanjälkeinen<s n="adj"/></l><r>etter døden<s n="adj"/></r></p></e>
+    <e><p><l>kuolematon<s n="adj"/></l><r>udødelig<s n="adj"/></r></p></e>
+    <e><p><l>kuolettava<s n="adj"/></l><r>dødelig<s n="adj"/></r></p></e>
+    <e><p><l>kuoleva<s n="adj"/></l><r>dødende<s n="adj"/></r></p></e>
     <e><p><l>kuollut<s n="adj"/></l><r>død<s n="adj"/></r></p></e>
+    <e><p><l>kurja<s n="adj"/></l><r>elendig<s n="adj"/></r></p></e>
     <e><p><l>kutsuttu<s n="adj"/></l><r>kalle<s n="adj"/></r></p></e>
+    <e><p><l>kuubalainen<s n="adj"/></l><r>cubansk<s n="adj"/></r></p></e>
+    <e><p><l>kuudes<s n="adj"/></l><r>sjette<s n="adj"/></r></p></e>
+    <e><p><l>kuukausittainen<s n="adj"/></l><r>månedlig<s n="adj"/></r></p></e>
+    <e><p><l>kuuluisa<s n="adj"/></l><r>berømt<s n="adj"/></r></p></e>
+    <e><p><l>kuulumaton<s n="adj"/></l><r>som ikke hører til<s n="adj"/></r></p></e>
+    <e><p><l>kuuluva<s n="adj"/></l><r>tilhørende<s n="adj"/></r></p></e>
+    <e><p><l>kuuma<s n="adj"/></l><r>heit<s n="adj"/></r></p></e>
     <e><p><l>kuunneltu<s n="adj"/></l><r>lytte<s n="adj"/></r></p></e>
+    <e><p><l>kuuro<s n="adj"/></l><r>døv<s n="adj"/></r></p></e>
+    <e><p><l>kuvaava<s n="adj"/></l><r>skildrende<s n="adj"/></r></p></e>
     <e><p><l>kuvattu<s n="adj"/></l><r>avbilde<s n="adj"/></r></p></e>
     <e><p><l>kuvattu<s n="adj"/></l><r>fotografere<s n="adj"/></r></p></e>
+    <e><p><l>kuviteltu<s n="adj"/></l><r>innbilt<s n="adj"/></r></p></e>
+    <e><p><l>kuvitteellinen<s n="adj"/></l><r>forestilt<s n="adj"/></r></p></e>
+    <e><p><l>kuwaitilainen<s n="adj"/></l><r>kuwaitisk<s n="adj"/></r></p></e>
+    <e><p><l>kylläinen<s n="adj"/></l><r>mettet<s n="adj"/></r></p></e>
+    <e><p><l>kylläinen<s n="adj"/></l><r>mett<s n="adj"/></r></p></e>
+    <e><p><l>kyllästynyt<s n="adj"/></l><r>metta<s n="adj"/></r></p></e>
+    <e><p><l>kylmä<s n="adj"/></l><r>kald<s n="adj"/></r></p></e>
     <e><p><l>kylmä<s n="adj"/></l><r>kald<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>kyproslainen<s n="adj"/></l><r>kypriotisk<s n="adj"/></r></p></e>
+    <e><p><l>kypsä<s n="adj"/></l><r>kokt<s n="adj"/></r></p></e>
+    <e><p><l>kypsä<s n="adj"/></l><r>moden<s n="adj"/></r></p></e>
     <e><p><l>kypsä<s n="adj"/></l><r>utvide<s n="adj"/></r></p></e>
+    <e><p><l>kyrillinen<s n="adj"/></l><r>kyrillisk<s n="adj"/></r></p></e>
+    <e><p><l>kyseenalainen<s n="adj"/></l><r>suspekt<s n="adj"/></r></p></e>
+    <e><p><l>kyseinen<s n="adj"/></l><r>gjeldende<s n="adj"/></r></p></e>
+    <e><p><l>kytketty<s n="adj"/></l><r>tilkoblet<s n="adj"/></r></p></e>
+    <e><p><l>kyvykäs<s n="adj"/></l><r>driftig<s n="adj"/></r></p></e>
+    <e><p><l>kärsivällinen<s n="adj"/></l><r>tålmodig<s n="adj"/></r></p></e>
+    <e><p><l>kärsivä<s n="adj"/></l><r>lidende<s n="adj"/></r></p></e>
+    <e><p><l>käsitteellinen<s n="adj"/></l><r>begrepsmessig<s n="adj"/></r></p></e>
     <e><p><l>kätevä<s n="adj"/></l><r>handsame<s n="adj"/></r></p></e>
+    <e><p><l>kätketty<s n="adj"/></l><r>skjult<s n="adj"/></r></p></e>
     <e><p><l>käynnistetty<s n="adj"/></l><r>igangsetje<s n="adj"/></r></p></e>
+    <e><p><l>käypä<s n="adj"/></l><r>gangbar<s n="adj"/></r></p></e>
+    <e><p><l>käyrä<s n="adj"/></l><r>oppoverbøyd<s n="adj"/></r></p></e>
     <e><p><l>käytetty<s n="adj"/></l><r>benytte<s n="adj"/></r></p></e>
     <e><p><l>käytetty<s n="adj"/></l><r>bruke<s n="adj"/></r></p></e>
     <e><p><l>käytetty<s n="adj"/></l><r>brukt<s n="adj"/></r></p></e>
+    <e><p><l>käytetty<s n="adj"/></l><r>brukt<s n="adj"/></r></p></e>
     <e><p><l>käytetty<s n="adj"/></l><r>utnytte<s n="adj"/></r></p></e>
+    <e><p><l>käytettävä<s n="adj"/></l><r>tilgjengelig<s n="adj"/></r></p></e>
+    <e><p><l>käyttäjäystävällinen<s n="adj"/></l><r>brukervennlig<s n="adj"/></r></p></e>
+    <e><p><l>käyttökelpoinen<s n="adj"/></l><r>brukbar<s n="adj"/></r></p></e>
+    <e><p><l>käytännöllinen<s n="adj"/></l><r>praktisk<s n="adj"/></r></p></e>
+    <e><p><l>käännetty<s n="adj"/></l><r>oversatt<s n="adj"/></r></p></e>
     <e><p><l>käännetty<s n="adj"/></l><r>oversette<s n="adj"/></r></p></e>
+    <e><p><l>käänteinen<s n="adj"/></l><r>bakvendt<s n="adj"/></r></p></e>
+    <e><p><l>kömpelö<s n="adj"/></l><r>klønete<s n="adj"/></r></p></e>
+    <e><p><l>köyhä<s n="adj"/></l><r>fattig<s n="adj"/></r></p></e>
+    <e><p><l>laadukas<s n="adj"/></l><r>av høy kvalitet<s n="adj"/></r></p></e>
+    <e><p><l>laaja-alainen<s n="adj"/></l><r>vidstrakt<s n="adj"/></r></p></e>
     <e><p><l>laaja-alainen<s n="adj"/></l><r>vidtfemnande<s n="adj"/></r></p></e>
+    <e><p><l>laajamittainen<s n="adj"/></l><r>vid<s n="adj"/></r></p></e>
+    <e><p><l>laaja<s n="adj"/></l><r>omfattende<s n="adj"/></r></p></e>
+    <e><p><l>laaja<s n="adj"/></l><r>vid<s n="adj"/></r></p></e>
+    <e><p><l>laajentunut<s n="adj"/></l><r>utvidet<s n="adj"/></r></p></e>
+    <e><p><l>laakea<s n="adj"/></l><r>flat<s n="adj"/></r></p></e>
     <e><p><l>ladattu<s n="adj"/></l><r>nedlastet<s n="adj"/></r></p></e>
+    <e><p><l>lahjakas<s n="adj"/></l><r>lærenem<s n="adj"/></r></p></e>
+    <e><p><l>lahjakas<s n="adj"/></l><r>talentfull<s n="adj"/></r></p></e>
     <e><p><l>laho<s n="adj"/></l><r>forfallen<s n="adj"/></r></p></e>
+    <e><p><l>laiha<s n="adj"/></l><r>mager<s n="adj"/></r></p></e>
+    <e><p><l>laillinen<s n="adj"/></l><r>lovlig<s n="adj"/></r></p></e>
+    <e><p><l>lainvastainen<s n="adj"/></l><r>lovstridig<s n="adj"/></r></p></e>
+    <e><p><l>laiska<s n="adj"/></l><r>lat<s n="adj"/></r></p></e>
     <e><p><l>laiton<s n="adj"/></l><r>ulovleg<s n="adj"/></r></p></e>
+    <e><p><l>laiton<s n="adj"/></l><r>ulovlig<s n="adj"/></r></p></e>
+    <e><p><l>lajityypillinen<s n="adj"/></l><r>ordensmessig<s n="adj"/></r></p></e>
+    <e><p><l>lakiasäätävä<s n="adj"/></l><r>lovregulerende<s n="adj"/></r></p></e>
+    <e><p><l>lakkautettu<s n="adj"/></l><r>nedlagt<s n="adj"/></r></p></e>
+    <e><p><l>langaton<s n="adj"/></l><r>trådløs<s n="adj"/></r></p></e>
+    <e><p><l>langettava<s n="adj"/></l><r>fellende<s n="adj"/></r></p></e>
     <e><p><l>lanseerattu<s n="adj"/></l><r>lansere<s n="adj"/></r></p></e>
+    <e><p><l>laosilainen<s n="adj"/></l><r>laotisk<s n="adj"/></r></p></e>
+    <e><p><l>lappalainen<s n="adj"/></l><r>samisk<s n="adj"/></r></p></e>
+    <e><p><l>lapseton<s n="adj"/></l><r>barnløs<s n="adj"/></r></p></e>
+    <e><p><l>laskeva<s n="adj"/></l><r>synkende<s n="adj"/></r></p></e>
+    <e><p><l>latinalainen<s n="adj"/></l><r>latinsk<s n="adj"/></r></p></e>
+    <e><p><l>latinankielinen<s n="adj"/></l><r>latinskspråklig<s n="adj"/></r></p></e>
+    <e><p><l>latvialainen<s n="adj"/></l><r>latvisk<s n="adj"/></r></p></e>
+    <e><p><l>lauha<s n="adj"/></l><r>mild<s n="adj"/></r></p></e>
     <e><p><l>legendaarinen<s n="adj"/></l><r>legendarisk<s n="adj"/></r></p></e>
     <e><p><l>leijuva<s n="adj"/></l><r>sveve<s n="adj"/></r></p></e>
+    <e><p><l>lempeä<s n="adj"/></l><r>mild<s n="adj"/></r></p></e>
+    <e><p><l>lentokykyinen<s n="adj"/></l><r>flygedyktig<s n="adj"/></r></p></e>
+    <e><p><l>lentokyvytön<s n="adj"/></l><r>ute av stand til å fly<s n="adj"/></r></p></e>
+    <e><p><l>lentävä<s n="adj"/></l><r>flygende<s n="adj"/></r></p></e>
     <e><p><l>lesbo<s n="adj"/></l><r>lesbisk<s n="adj"/></r></p></e>
+    <e><p><l>lesotholainen<s n="adj"/></l><r>lesothosk<s n="adj"/></r></p></e>
+    <e><p><l>lestadiolainen<s n="adj"/></l><r>læstadiansk<s n="adj"/></r></p></e>
+    <e><p><l>leuto<s n="adj"/></l><r>mild<s n="adj"/></r></p></e>
+    <e><p><l>leveä<s n="adj"/></l><r>brei<s n="adj"/></r></p></e>
     <e><p><l>leveä<s n="adj"/></l><r>vid<s n="adj"/></r></p></e>
     <e><p><l>levinnyt<s n="adj"/></l><r>utbre<s n="adj"/></r></p></e>
     <e><p><l>levitettävä<s n="adj"/></l><r>smørbar<s n="adj"/></r></p></e>
+    <e><p><l>levittäytynyt<s n="adj"/></l><r>utbredt<s n="adj"/></r></p></e>
+    <e><p><l>levoton<s n="adj"/></l><r>rastløs<s n="adj"/></r></p></e>
+    <e><p><l>levyinen<s n="adj"/></l><r>av en viss bredde<s n="adj"/></r></p></e>
+    <e><p><l>libanonilainen<s n="adj"/></l><r>libanesisk<s n="adj"/></r></p></e>
+    <e><p><l>liberaalinen<s n="adj"/></l><r>liberal<s n="adj"/></r></p></e>
+    <e><p><l>liberaali<s n="adj"/></l><r>liberal<s n="adj"/></r></p></e>
+    <e><p><l>liberialainen<s n="adj"/></l><r>liberisk<s n="adj"/></r></p></e>
+    <e><p><l>libyalainen<s n="adj"/></l><r>libysk<s n="adj"/></r></p></e>
+    <e><p><l>liechtensteinilainen<s n="adj"/></l><r>liechtensteinsk<s n="adj"/></r></p></e>
+    <e><p><l>liettualainen<s n="adj"/></l><r>litauisk<s n="adj"/></r></p></e>
+    <e><p><l>lievä<s n="adj"/></l><r>mild<s n="adj"/></r></p></e>
+    <e><p><l>lihava<s n="adj"/></l><r>feit<s n="adj"/></r></p></e>
+    <e><p><l>liikkuva<s n="adj"/></l><r>bevegelig<s n="adj"/></r></p></e>
+    <e><p><l>liittoutunut<s n="adj"/></l><r>alliert<s n="adj"/></r></p></e>
     <e><p><l>liittyvä<s n="adj"/></l><r>assosiere<s n="adj"/></r></p></e>
     <e><p><l>liittyvä<s n="adj"/></l><r>engasjere<s n="adj"/></r></p></e>
     <e><p><l>liittyvä<s n="adj"/></l><r>knytte<s n="adj"/></r></p></e>
+    <e><p><l>liittyvä<s n="adj"/></l><r>tilhørende<s n="adj"/></r></p></e>
+    <e><p><l>likainen<s n="adj"/></l><r>skitten<s n="adj"/></r></p></e>
+    <e><p><l>lineaarinen<s n="adj"/></l><r>lineær<s n="adj"/></r></p></e>
+    <e><p><l>linnoitettu<s n="adj"/></l><r>befesta<s n="adj"/></r></p></e>
     <e><p><l>littana<s n="adj"/></l><r>flatvore<s n="adj"/></r></p></e>
     <e><p><l>litteä<s n="adj"/></l><r>flat<s n="adj"/></r></p></e>
+    <e><p><l>liukas<s n="adj"/></l><r>glatt<s n="adj"/></r></p></e>
+    <e><p><l>liukumaton<s n="adj"/></l><r>sklisikker<s n="adj"/></r></p></e>
     <e><p><l>liukuva<s n="adj"/></l><r>flytande<s n="adj"/></r></p></e>
+    <e><p><l>loistava<s n="adj"/></l><r>lysende<s n="adj"/></r></p></e>
     <e><p><l>loiva<s n="adj"/></l><r>mild<s n="adj"/></r></p></e>
+    <e><p><l>loiva<s n="adj"/></l><r>slak<s n="adj"/></r></p></e>
+    <e><p><l>looginen<s n="adj"/></l><r>logisk<s n="adj"/></r></p></e>
     <e><p><l>lopetettu<s n="adj"/></l><r>legge<g><b/>ned</g><s n="adj"/></r></p></e>
     <e><p><l>lopullinen<s n="adj"/></l><r>avslutte<s n="adj"/></r></p></e>
+    <e><p><l>lopullinen<s n="adj"/></l><r>endelig<s n="adj"/></r></p></e>
     <e><p><l>lopullinen<s n="adj"/></l><r>slutt<s n="adj"/></r></p></e>
+    <e><p><l>loputon<s n="adj"/></l><r>uendelig<s n="adj"/></r></p></e>
+    <e><p><l>loukkaava<s n="adj"/></l><r>sårende<s n="adj"/></r></p></e>
+    <e><p><l>lounainen<s n="adj"/></l><r>sørvestlig<s n="adj"/></r></p></e>
+    <e><p><l>luettava<s n="adj"/></l><r>lesbar<s n="adj"/></r></p></e>
+    <e><p><l>luja<s n="adj"/></l><r>solid<s n="adj"/></r></p></e>
+    <e><p><l>lukematon<s n="adj"/></l><r>ulest<s n="adj"/></r></p></e>
+    <e><p><l>lukematon<s n="adj"/></l><r>utallig<s n="adj"/></r></p></e>
+    <e><p><l>lukuinen<s n="adj"/></l><r>mangetallig<s n="adj"/></r></p></e>
+    <e><p><l>lukuisa<s n="adj"/></l><r>tallrik<s n="adj"/></r></p></e>
     <e><p><l>luokiteltu<s n="adj"/></l><r>klassifisere<s n="adj"/></r></p></e>
+    <e><p><l>luokiteltu<s n="adj"/></l><r>klassifisert<s n="adj"/></r></p></e>
+    <e><p><l>luonnollinen<s n="adj"/></l><r>naturlig<s n="adj"/></r></p></e>
+    <e><p><l>luonnontieteellinen<s n="adj"/></l><r>naturvitenskaplig<s n="adj"/></r></p></e>
     <e><p><l>luonnontieteellinen<s n="adj"/></l><r>naturvitskapleg<s n="adj"/></r></p></e>
+    <e><p><l>luonnontilainen<s n="adj"/></l><r>værende i naturtilstand<s n="adj"/></r></p></e>
+    <e><p><l>luontainen<s n="adj"/></l><r>inherent<s n="adj"/></r></p></e>
+    <e><p><l>luontainen<s n="adj"/></l><r>medfødt<s n="adj"/></r></p></e>
+    <e><p><l>luonteenomainen<s n="adj"/></l><r>naturlig<s n="adj"/></r></p></e>
+    <e><p><l>luonteva<s n="adj"/></l><r>naturlig<s n="adj"/></r></p></e>
+    <e><p><l>luoteinen<s n="adj"/></l><r>nordvestlig<s n="adj"/></r></p></e>
+    <e><p><l>luotettava<s n="adj"/></l><r>pålitelig<s n="adj"/></r></p></e>
+    <e><p><l>luottamuksellinen<s n="adj"/></l><r>fortrolig<s n="adj"/></r></p></e>
     <e><p><l>luotu<s n="adj"/></l><r>skape<s n="adj"/></r></p></e>
+    <e><p><l>luova<s n="adj"/></l><r>skapende<s n="adj"/></r></p></e>
+    <e><p><l>luovutettu<s n="adj"/></l><r>avgitt<s n="adj"/></r></p></e>
+    <e><p><l>lupaava<s n="adj"/></l><r>lovende<s n="adj"/></r></p></e>
+    <e><p><l>luterilainen<s n="adj"/></l><r>luthersk<s n="adj"/></r></p></e>
+    <e><p><l>luvallinen<s n="adj"/></l><r>lovlig<s n="adj"/></r></p></e>
+    <e><p><l>luvaton<s n="adj"/></l><r>ulovlig<s n="adj"/></r></p></e>
+    <e><p><l>lyhennetty<s n="adj"/></l><r>forkorta<s n="adj"/></r></p></e>
     <e><p><l>lyhennetty<s n="adj"/></l><r>forkorte<s n="adj"/></r></p></e>
+    <e><p><l>lyhytaikainen<s n="adj"/></l><r>kortvarig<s n="adj"/></r></p></e>
+    <e><p><l>lyhytikäinen<s n="adj"/></l><r>korttids<s n="adj"/></r></p></e>
     <e><p><l>lyhyt<s n="adj"/></l><r>kort<s n="adj"/></r></p></e>
     <e><p><l>lyöty<s n="adj"/></l><r>slå<s n="adj"/></r></p></e>
     <e><p><l>lyöty<s n="adj"/></l><r>slått<s n="adj"/></r></p></e>
+    <e><p><l>läheinen<s n="adj"/></l><r>nærliggende<s n="adj"/></r></p></e>
     <e><p><l>läheinen<s n="adj"/></l><r>nær<s n="adj"/></r></p></e>
+    <e><p><l>lähempi<s n="adj"/></l><r>nærmere<s n="adj"/></r></p></e>
     <e><p><l>lähetetty<s n="adj"/></l><r>sende<s n="adj"/></r></p></e>
     <e><p><l>lähisukuinen<s n="adj"/></l><r>nærskyld<s n="adj"/></r></p></e>
+    <e><p><l>lämmin<s n="adj"/></l><r>varm<s n="adj"/></r></p></e>
     <e><p><l>lämmin<s n="adj"/></l><r>varm<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>lämmittävä<s n="adj"/></l><r>varmende<s n="adj"/></r></p></e>
     <e><p><l>lämpöherkkä<s n="adj"/></l><r>temperaturfølsom<s n="adj"/></r></p></e>
     <e><p><l>länsigermaaninen<s n="adj"/></l><r>vestgermansk<s n="adj"/></r></p></e>
+    <e><p><l>länsimaalainen<s n="adj"/></l><r>vesterlendsk<s n="adj"/></r></p></e>
+    <e><p><l>länsimaalainen<s n="adj"/></l><r>vestlig<s n="adj"/></r></p></e>
+    <e><p><l>länsimainen<s n="adj"/></l><r>vestlig<s n="adj"/></r></p></e>
     <e><p><l>läntinen<s n="adj"/></l><r>vestleg<s n="adj"/></r></p></e>
+    <e><p><l>läntinen<s n="adj"/></l><r>vestlig<s n="adj"/></r></p></e>
     <e><p><l>läpikäyty<s n="adj"/></l><r>gjennomarbeide<s n="adj"/></r></p></e>
+    <e><p><l>läpimittainen<s n="adj"/></l><r>i diameter<s n="adj"/></r></p></e>
+    <e><p><l>läpinäkyvä<s n="adj"/></l><r>gjennomsiktig<s n="adj"/></r></p></e>
     <e><p><l>läpsäisty<s n="adj"/></l><r>klapse<s n="adj"/></r></p></e>
+    <e><p><l>läski<s n="adj"/></l><r>feit<s n="adj"/></r></p></e>
+    <e><p><l>lääketieteellinen<s n="adj"/></l><r>medisinsk<s n="adj"/></r></p></e>
+    <e><p><l>lääkkeellinen<s n="adj"/></l><r>medisinsk<s n="adj"/></r></p></e>
     <e><p><l>löydetty<s n="adj"/></l><r>finne<s n="adj"/></r></p></e>
+    <e><p><l>löyhä<s n="adj"/></l><r>slapp<s n="adj"/></r></p></e>
     <e><p><l>löysä<s n="adj"/></l><r>løs<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>löysä<s n="adj"/></l><r>løyse<s n="adj"/></r></p></e>
+    <e><p><l>löysä<s n="adj"/></l><r>slapp<s n="adj"/></r></p></e>
     <e><p><l>maaginen<s n="adj"/></l><r>magisk<s n="adj"/></r></p></e>
+    <e><p><l>maailmallinen<s n="adj"/></l><r>verdslig<s n="adj"/></r></p></e>
+    <e><p><l>maailmanlaajuinen<s n="adj"/></l><r>global<s n="adj"/></r></p></e>
+    <e><p><l>maakunnallinen<s n="adj"/></l><r>provinsiell<s n="adj"/></r></p></e>
+    <e><p><l>maalattu<s n="adj"/></l><r>malt<s n="adj"/></r></p></e>
+    <e><p><l>maallinen<s n="adj"/></l><r>profan<s n="adj"/></r></p></e>
+    <e><p><l>maanalainen<s n="adj"/></l><r>underjordisk<s n="adj"/></r></p></e>
+    <e><p><l>maanlaajuinen<s n="adj"/></l><r>landsomfattende<s n="adj"/></r></p></e>
+    <e><p><l>maantieteellinen<s n="adj"/></l><r>geografisk<s n="adj"/></r></p></e>
+    <e><p><l>magneettinen<s n="adj"/></l><r>magnetisk<s n="adj"/></r></p></e>
     <e><p><l>mahdollinen<s n="adj"/></l><r>eventuell<s n="adj"/></r></p></e>
+    <e><p><l>mahdollinen<s n="adj"/></l><r>mulig<s n="adj"/></r></p></e>
+    <e><p><l>mahdoton<s n="adj"/></l><r>umulig<s n="adj"/></r></p></e>
+    <e><p><l>mahtava<s n="adj"/></l><r>mektig<s n="adj"/></r></p></e>
+    <e><p><l>maineikas<s n="adj"/></l><r>berømt<s n="adj"/></r></p></e>
+    <e><p><l>mainittava<s n="adj"/></l><r>nevneverdig<s n="adj"/></r></p></e>
     <e><p><l>makea<s n="adj"/></l><r>søt<s n="adj"/></r></p></e>
+    <e><p><l>makea<s n="adj"/></l><r>velsmakende<s n="adj"/></r></p></e>
+    <e><p><l>makedonialainen<s n="adj"/></l><r>makedonsk<s n="adj"/></r></p></e>
+    <e><p><l>maksettava<s n="adj"/></l><r>som må betales<s n="adj"/></r></p></e>
     <e><p><l>maksimaalinen<s n="adj"/></l><r>maksimal<s n="adj"/></r></p></e>
+    <e><p><l>maksullinen<s n="adj"/></l><r>mot betaling<s n="adj"/></r></p></e>
+    <e><p><l>maksuton<s n="adj"/></l><r>gratis<s n="adj"/></r></p></e>
+    <e><p><l>malawilainen<s n="adj"/></l><r>malawisk<s n="adj"/></r></p></e>
+    <e><p><l>malediivilainen<s n="adj"/></l><r>maldivisk<s n="adj"/></r></p></e>
+    <e><p><l>malesialainen<s n="adj"/></l><r>malaysisk<s n="adj"/></r></p></e>
+    <e><p><l>malilainen<s n="adj"/></l><r>malisk<s n="adj"/></r></p></e>
+    <e><p><l>maltalainen<s n="adj"/></l><r>maltesisk<s n="adj"/></r></p></e>
+    <e><p><l>maltillinen<s n="adj"/></l><r>moderat<s n="adj"/></r></p></e>
+    <e><p><l>mannermainen<s n="adj"/></l><r>kontinental<s n="adj"/></r></p></e>
+    <e><p><l>mantereinen<s n="adj"/></l><r>kontinental<s n="adj"/></r></p></e>
+    <e><p><l>maolainen<s n="adj"/></l><r>maoistisk<s n="adj"/></r></p></e>
+    <e><p><l>marokkolainen<s n="adj"/></l><r>marokkansk<s n="adj"/></r></p></e>
+    <e><p><l>marshallinsaarelainen<s n="adj"/></l><r>marshallesisk<s n="adj"/></r></p></e>
+    <e><p><l>marxilainen<s n="adj"/></l><r>marxistisk<s n="adj"/></r></p></e>
+    <e><p><l>marxilaisleniniläinen<s n="adj"/></l><r>marxistleninistisk<s n="adj"/></r></p></e>
+    <e><p><l>masentunut<s n="adj"/></l><r>motløs<s n="adj"/></r></p></e>
+    <e><p><l>massiivinen<s n="adj"/></l><r>massiv<s n="adj"/></r></p></e>
+    <e><p><l>matala<s n="adj"/></l><r>lav<s n="adj"/></r></p></e>
     <e><p><l>matala<s n="adj"/></l><r>lav<s n="adj"/></r></p></e>
     <e><p><l>matala<s n="adj"/></l><r>låg<s n="adj"/></r></p></e>
+    <e><p><l>matemaattinen<s n="adj"/></l><r>matematisk<s n="adj"/></r></p></e>
+    <e><p><l>materiaalinen<s n="adj"/></l><r>materiell<s n="adj"/></r></p></e>
+    <e><p><l>matti<s n="adj"/></l><r>sjakkmatt<s n="adj"/></r></p></e>
+    <e><p><l>mauritanialainen<s n="adj"/></l><r>mauritansk<s n="adj"/></r></p></e>
+    <e><p><l>mauritiuslainen<s n="adj"/></l><r>mauritisk<s n="adj"/></r></p></e>
     <e><p><l>mekaaninen<s n="adj"/></l><r>mekanisk<s n="adj"/></r></p></e>
     <e><p><l>meksikolainen<s n="adj"/></l><r>meksikansk<s n="adj"/></r></p></e>
+    <e><p><l>melkoinen<s n="adj"/></l><r>betydelig<s n="adj"/></r></p></e>
     <e><p><l>melko<s n="adj"/></l><r>ganske<s n="adj"/></r></p></e>
+    <e><p><l>melodinen<s n="adj"/></l><r>melodisk<s n="adj"/></r></p></e>
+    <e><p><l>menestyksekäs<s n="adj"/></l><r>framgangsrik<s n="adj"/></r></p></e>
+    <e><p><l>menestyvä<s n="adj"/></l><r>framgangsrik<s n="adj"/></r></p></e>
+    <e><p><l>menetetty<s n="adj"/></l><r>tapt<s n="adj"/></r></p></e>
     <e><p><l>menevä<s n="adj"/></l><r>gående<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>mentaalinen<s n="adj"/></l><r>mental<s n="adj"/></r></p></e>
+    <e><p><l>merellinen<s n="adj"/></l><r>maritim<s n="adj"/></r></p></e>
+    <e><p><l>merentakainen<s n="adj"/></l><r>oversjøisk<s n="adj"/></r></p></e>
     <e><p><l>meripohjainen<s n="adj"/></l><r>sjøbasert<s n="adj"/></r></p></e>
     <e><p><l>merkillinen<s n="adj"/></l><r>merkeleg<s n="adj"/></r></p></e>
     <e><p><l>merkillinen<s n="adj"/></l><r>merkeleg<s n="adj"/></r></p></e>
+    <e><p><l>merkitsevä<s n="adj"/></l><r>viktig<s n="adj"/></r></p></e>
+    <e><p><l>merkitty<s n="adj"/></l><r>merket<s n="adj"/></r></p></e>
+    <e><p><l>merkittävä<s n="adj"/></l><r>betydelig<s n="adj"/></r></p></e>
+    <e><p><l>merkityksellinen<s n="adj"/></l><r>betydningsfull<s n="adj"/></r></p></e>
+    <e><p><l>merkityksetön<s n="adj"/></l><r>betydningsløs<s n="adj"/></r></p></e>
+    <e><p><l>metafyysinen<s n="adj"/></l><r>metafysisk<s n="adj"/></r></p></e>
+    <e><p><l>metallinen<s n="adj"/></l><r>metallisk<s n="adj"/></r></p></e>
+    <e><p><l>metrinen<s n="adj"/></l><r>metrisk<s n="adj"/></r></p></e>
+    <e><p><l>metsäinen<s n="adj"/></l><r>skogkledd<s n="adj"/></r></p></e>
+    <e><p><l>miehinen<s n="adj"/></l><r>mandig<s n="adj"/></r></p></e>
+    <e><p><l>miehitetty<s n="adj"/></l><r>okkupert<s n="adj"/></r></p></e>
+    <e><p><l>miehittämätön<s n="adj"/></l><r>ubemanna<s n="adj"/></r></p></e>
+    <e><p><l>mieleinen<s n="adj"/></l><r>behagelig<s n="adj"/></r></p></e>
+    <e><p><l>mielekäs<s n="adj"/></l><r>meningsfull<s n="adj"/></r></p></e>
+    <e><p><l>mielenkiintoinen<s n="adj"/></l><r>interessant<s n="adj"/></r></p></e>
+    <e><p><l>mieletön<s n="adj"/></l><r>meningsløs<s n="adj"/></r></p></e>
+    <e><p><l>mieletön<s n="adj"/></l><r>vanvittig<s n="adj"/></r></p></e>
+    <e><p><l>mielivaltainen<s n="adj"/></l><r>vilkårlig<s n="adj"/></r></p></e>
+    <e><p><l>miellyttävä<s n="adj"/></l><r>morsom<s n="adj"/></r></p></e>
     <e><p><l>miespuolinen<s n="adj"/></l><r>mannleg<s n="adj"/></r></p></e>
+    <e><p><l>miespuolinen<s n="adj"/></l><r>mannlig<s n="adj"/></r></p></e>
     <e><p><l>mieto<s n="adj"/></l><r>mild<s n="adj"/></r></p></e>
+    <e><p><l>mikronesialainen<s n="adj"/></l><r>mikronesisk<s n="adj"/></r></p></e>
+    <e><p><l>minkälainen<s n="adj"/></l><r>hva slags<s n="adj"/></r></p></e>
+    <e><p><l>minkäänlainen<s n="adj"/></l><r>noen slags<s n="adj"/></r></p></e>
     <e><p><l>mittava<s n="adj"/></l><r>mye<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>mittava<s n="adj"/></l><r>vid<s n="adj"/></r></p></e>
     <e><p><l>moderni<s n="adj"/></l><r>moderne<s n="adj"/></r></p></e>
+    <e><p><l>moldovalainen<s n="adj"/></l><r>moldovsk<s n="adj"/></r></p></e>
+    <e><p><l>monacolainen<s n="adj"/></l><r>monegaskisk<s n="adj"/></r></p></e>
+    <e><p><l>monenlainen<s n="adj"/></l><r>forskjellige slags<s n="adj"/></r></p></e>
+    <e><p><l>mongolialainen<s n="adj"/></l><r>mongol<s n="adj"/></r></p></e>
+    <e><p><l>monikansallinen<s n="adj"/></l><r>multinasjonal<s n="adj"/></r></p></e>
+    <e><p><l>monikulttuurinen<s n="adj"/></l><r>flerkulturell<s n="adj"/></r></p></e>
+    <e><p><l>monimutkainen<s n="adj"/></l><r>komplisert<s n="adj"/></r></p></e>
+    <e><p><l>moninainen<s n="adj"/></l><r>mangfoldig<s n="adj"/></r></p></e>
+    <e><p><l>moninkertainen<s n="adj"/></l><r>mangedobbel<s n="adj"/></r></p></e>
+    <e><p><l>moniosainen<s n="adj"/></l><r>flerdelt<s n="adj"/></r></p></e>
+    <e><p><l>monipuolinen<s n="adj"/></l><r>flersidig<s n="adj"/></r></p></e>
     <e><p><l>moni<s n="adj"/></l><r>fleire<s n="adj"/></r></p></e>
+    <e><p><l>monivuotinen<s n="adj"/></l><r>flerårig<s n="adj"/></r></p></e>
+    <e><p><l>monoliittinen<s n="adj"/></l><r>monolittisk<s n="adj"/></r></p></e>
+    <e><p><l>montenegrolainen<s n="adj"/></l><r>montenegrinsk<s n="adj"/></r></p></e>
     <e><p><l>moraalinen<s n="adj"/></l><r>moralsk<s n="adj"/></r></p></e>
+    <e><p><l>mosambikilainen<s n="adj"/></l><r>mosambikisk<s n="adj"/></r></p></e>
+    <e><p><l>muinainen<s n="adj"/></l><r>gammeldags<s n="adj"/></r></p></e>
     <e><p><l>muinaisnorjalainen<s n="adj"/></l><r>norrøn<s n="adj"/></r></p></e>
     <e><p><l>mukaanluettu<s n="adj"/></l><r>inkludere<s n="adj"/></r></p></e>
+    <e><p><l>mukava<s n="adj"/></l><r>hyggelig<s n="adj"/></r></p></e>
+    <e><p><l>muodollinen<s n="adj"/></l><r>formell<s n="adj"/></r></p></e>
+    <e><p><l>muodostava<s n="adj"/></l><r>formende<s n="adj"/></r></p></e>
     <e><p><l>muodostettu<s n="adj"/></l><r>forma<s n="adj"/></r></p></e>
+    <e><p><l>muokattu<s n="adj"/></l><r>endra<s n="adj"/></r></p></e>
     <e><p><l>murskattu<s n="adj"/></l><r>knuse<s n="adj"/></r></p></e>
+    <e><p><l>musiikillinen<s n="adj"/></l><r>musikalsk<s n="adj"/></r></p></e>
     <e><p><l>musta<s n="adj"/></l><r>sort<s n="adj"/></r></p></e>
     <e><p><l>musta<s n="adj"/></l><r>svart<s n="adj"/></r></p></e>
     <e><p><l>mustasukkainen<s n="adj"/></l><r>sjalu<s n="adj"/></r></p></e>
+    <e><p><l>mustavalkoinen<s n="adj"/></l><r>svarthvit<s n="adj"/></r></p></e>
+    <e><p><l>muunlainen<s n="adj"/></l><r>annerledes<s n="adj"/></r></p></e>
+    <e><p><l>muu<s n="adj"/></l><r>annen<s n="adj"/></r></p></e>
     <e><p><l>muutettu<s n="adj"/></l><r>forandre<s n="adj"/></r></p></e>
+    <e><p><l>muuttumaton<s n="adj"/></l><r>uforanderlig<s n="adj"/></r></p></e>
     <e><p><l>muuttunut<s n="adj"/></l><r>endre<s n="adj"/></r></p></e>
+    <e><p><l>muuttunut<s n="adj"/></l><r>forandret<s n="adj"/></r></p></e>
+    <e><p><l>myanmarilainen<s n="adj"/></l><r>myanmarsk<s n="adj"/></r></p></e>
+    <e><p><l>myrkyllinen<s n="adj"/></l><r>giftig<s n="adj"/></r></p></e>
+    <e><p><l>mystinen<s n="adj"/></l><r>mystisk<s n="adj"/></r></p></e>
     <e><p><l>myydyin<s n="adj"/></l><r>mestselgende<s n="adj"/></r></p></e>
+    <e><p><l>myyttinen<s n="adj"/></l><r>mytisk<s n="adj"/></r></p></e>
     <e><p><l>myyty<s n="adj"/></l><r>selge<s n="adj"/></r></p></e>
+    <e><p><l>myyty<s n="adj"/></l><r>solgt<s n="adj"/></r></p></e>
     <e><p><l>myöhempi<s n="adj"/></l><r>senere<s n="adj"/></r></p></e>
+    <e><p><l>myöhäinen<s n="adj"/></l><r>sen<s n="adj"/></r></p></e>
     <e><p><l>myöhä<s n="adj"/></l><r>sen<s n="adj"/></r></p></e>
+    <e><p><l>myönteinen<s n="adj"/></l><r>medgjørlig<s n="adj"/></r></p></e>
+    <e><p><l>mätä<s n="adj"/></l><r>råtten<s n="adj"/></r></p></e>
     <e><p><l>määräinen<s n="adj"/></l><r>bestemt<s n="adj"/></r></p></e>
+    <e><p><l>määrätietoinen<s n="adj"/></l><r>målbevisst<s n="adj"/></r></p></e>
+    <e><p><l>määrätty<s n="adj"/></l><r>bestemt<s n="adj"/></r></p></e>
+    <e><p><l>määrätty<s n="adj"/></l><r>definitt<s n="adj"/></r></p></e>
+    <e><p><l>määräävä<s n="adj"/></l><r>bestemmende<s n="adj"/></r></p></e>
+    <e><p><l>naispuolinen<s n="adj"/></l><r>kvinnelig<s n="adj"/></r></p></e>
+    <e><p><l>namibialainen<s n="adj"/></l><r>namibisk<s n="adj"/></r></p></e>
+    <e><p><l>naseva<s n="adj"/></l><r>treffsikker<s n="adj"/></r></p></e>
+    <e><p><l>naseva<s n="adj"/></l><r>vittig<s n="adj"/></r></p></e>
+    <e><p><l>nationalistinen<s n="adj"/></l><r>nasjonalistisk<s n="adj"/></r></p></e>
+    <e><p><l>naturalistinen<s n="adj"/></l><r>naturalistisk<s n="adj"/></r></p></e>
+    <e><p><l>naurulainen<s n="adj"/></l><r>nauruisk<s n="adj"/></r></p></e>
     <e><p><l>negatiivinen<s n="adj"/></l><r>negativ<s n="adj"/></r></p></e>
+    <e><p><l>nelinkertainen<s n="adj"/></l><r>firkanta<s n="adj"/></r></p></e>
+    <e><p><l>nelipyörävetoinen<s n="adj"/></l><r>firehjulsdrift<s n="adj"/></r></p></e>
+    <e><p><l>neoliittinen<s n="adj"/></l><r>neolittisk<s n="adj"/></r></p></e>
+    <e><p><l>nepalilainen<s n="adj"/></l><r>nepalesisk<s n="adj"/></r></p></e>
+    <e><p><l>nerokas<s n="adj"/></l><r>genial<s n="adj"/></r></p></e>
+    <e><p><l>nestemäinen<s n="adj"/></l><r>tyntflytende<s n="adj"/></r></p></e>
+    <e><p><l>neurologinen<s n="adj"/></l><r>neurologisk<s n="adj"/></r></p></e>
     <e><p><l>neutraali<s n="adj"/></l><r>nøytral<s n="adj"/></r></p></e>
+    <e><p><l>neuvoa-antava<s n="adj"/></l><r>rådgivende<s n="adj"/></r></p></e>
+    <e><p><l>neuvostoliittolainen<s n="adj"/></l><r>sovjetisk<s n="adj"/></r></p></e>
+    <e><p><l>nicaragualainen<s n="adj"/></l><r>nicaraguansk<s n="adj"/></r></p></e>
+    <e><p><l>nigerialainen<s n="adj"/></l><r>nigeriansk<s n="adj"/></r></p></e>
+    <e><p><l>nigeriläinen<s n="adj"/></l><r>nigersk<s n="adj"/></r></p></e>
     <e><p><l>niinsanottu<s n="adj"/></l><r>såkalla<s n="adj"/></r></p></e>
+    <e><p><l>nimekäs<s n="adj"/></l><r>berømt<s n="adj"/></r></p></e>
+    <e><p><l>nimellinen<s n="adj"/></l><r>nominell<s n="adj"/></r></p></e>
     <e><p><l>nimetty<s n="adj"/></l><r>nevne<s n="adj"/></r></p></e>
     <e><p><l>nimetty<s n="adj"/></l><r>utnemne<s n="adj"/></r></p></e>
+    <e><p><l>nimetön<s n="adj"/></l><r>anonym<s n="adj"/></r></p></e>
     <e><p><l>nimetön<s n="adj"/></l><r>navnløs<s n="adj"/></r></p></e>
+    <e><p><l>niminen<s n="adj"/></l><r>med navnet<s n="adj"/></r></p></e>
     <e><p><l>nimitetty<s n="adj"/></l><r>utnevne<s n="adj"/></r></p></e>
+    <e><p><l>nimitetty<s n="adj"/></l><r>utnevnt<s n="adj"/></r></p></e>
+    <e><p><l>niukka<s n="adj"/></l><r>knapp<s n="adj"/></r></p></e>
+    <e><p><l>nopeakasvuinen<s n="adj"/></l><r>framvoksende<s n="adj"/></r></p></e>
+    <e><p><l>nopea<s n="adj"/></l><r>hurtig<s n="adj"/></r></p></e>
+    <e><p><l>nopsa<s n="adj"/></l><r>hurtig<s n="adj"/></r></p></e>
     <e><p><l>norjalainen<s n="adj"/></l><r>norsk<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>norjalais-ruotsalainen<s n="adj"/></l><r>norsk-svensk<s n="adj"/></r></p></e>
+    <e><p><l>norjankielinen<s n="adj"/></l><r>norskspråklig<s n="adj"/></r></p></e>
+    <e><p><l>norja<s n="adj"/></l><r>smidig<s n="adj"/></r></p></e>
     <e><p><l>normaali<s n="adj"/></l><r>normal<s n="adj"/></r></p></e>
+    <e><p><l>normatiivinen<s n="adj"/></l><r>normativ<s n="adj"/></r></p></e>
+    <e><p><l>norsunluurannikkolainen<s n="adj"/></l><r>ivoriansk<s n="adj"/></r></p></e>
     <e><p><l>nouseva<s n="adj"/></l><r>stigende<s n="adj"/></r></p></e>
     <e><p><l>numeerinen<s n="adj"/></l><r>numerisk<s n="adj"/></r></p></e>
     <e><p><l>nuori<s n="adj"/></l><r>ung<s n="adj"/></r></p></e>
+    <e><p><l>nuori<s n="adj"/></l><r>ung<s n="adj"/></r></p></e>
     <e><p><l>nuori<s n="adj"/></l><r>yngre<s n="adj"/></r></p></e>
+    <e><p><l>nuorsuomalainen<s n="adj"/></l><r>ungfinsk<s n="adj"/></r></p></e>
+    <e><p><l>nykyaikainen<s n="adj"/></l><r>moderne<s n="adj"/></r></p></e>
+    <e><p><l>nykyinen<s n="adj"/></l><r>nåtidens<s n="adj"/></r></p></e>
+    <e><p><l>näennäinen<s n="adj"/></l><r>tilsynelatende<s n="adj"/></r></p></e>
     <e><p><l>nähty<s n="adj"/></l><r>sett<s n="adj"/></r></p></e>
     <e><p><l>näkymätön<s n="adj"/></l><r>usynlig<s n="adj"/></r></p></e>
+    <e><p><l>näkyvä<s n="adj"/></l><r>synlig<s n="adj"/></r></p></e>
     <e><p><l>näppärä<s n="adj"/></l><r>flink<s n="adj"/></r></p></e>
     <e><p><l>näytetty<s n="adj"/></l><r>vise<s n="adj"/></r></p></e>
+    <e><p><l>objektiivinen<s n="adj"/></l><r>objektiv<s n="adj"/></r></p></e>
+    <e><p><l>odotettu<s n="adj"/></l><r>ventet<s n="adj"/></r></p></e>
+    <e><p><l>odottava<s n="adj"/></l><r>venta<s n="adj"/></r></p></e>
+    <e><p><l>oheinen<s n="adj"/></l><r>medfølgende<s n="adj"/></r></p></e>
+    <e><p><l>ohjaava<s n="adj"/></l><r>veiledende<s n="adj"/></r></p></e>
     <e><p><l>ohjattu<s n="adj"/></l><r>styre<s n="adj"/></r></p></e>
     <e><p><l>ohjelmoitu<s n="adj"/></l><r>programere<s n="adj"/></r></p></e>
+    <e><p><l>ohut<s n="adj"/></l><r>tynn<s n="adj"/></r></p></e>
     <e><p><l>oikea<s n="adj"/></l><r>rett<s n="adj"/></r></p></e>
+    <e><p><l>oikea<s n="adj"/></l><r>riktig<s n="adj"/></r></p></e>
+    <e><p><l>oikeistolainen<s n="adj"/></l><r>person på høyresida<s n="adj"/></r></p></e>
+    <e><p><l>oikeudellinen<s n="adj"/></l><r>rettferdig<s n="adj"/></r></p></e>
+    <e><p><l>oikeudenmukainen<s n="adj"/></l><r>redelig<s n="adj"/></r></p></e>
+    <e><p><l>oikeuslääketieteellinen<s n="adj"/></l><r>rettsmedisinsk<s n="adj"/></r></p></e>
+    <e><p><l>oikeutettu<s n="adj"/></l><r>berettiget<s n="adj"/></r></p></e>
+    <e><p><l>oiva<s n="adj"/></l><r>utsøkt<s n="adj"/></r></p></e>
+    <e><p><l>oleellinen<s n="adj"/></l><r>viktig<s n="adj"/></r></p></e>
     <e><p><l>olemassaoleva<s n="adj"/></l><r>eksisterande<s n="adj"/></r></p></e>
+    <e><p><l>olematon<s n="adj"/></l><r>ikkeeksisterende<s n="adj"/></r></p></e>
     <e><p><l>olennainen<s n="adj"/></l><r>vesentlig<s n="adj"/></r></p></e>
+    <e><p><l>olennainen<s n="adj"/></l><r>viktig<s n="adj"/></r></p></e>
     <e><p><l>oleva<s n="adj"/></l><r>eksisterende<s n="adj"/></r></p></e>
+    <e><p><l>oleva<s n="adj"/></l><r>værende<s n="adj"/></r></p></e>
+    <e><p><l>omaelämäkerrallinen<s n="adj"/></l><r>autobiografisk<s n="adj"/></r></p></e>
     <e><p><l>omaelämäkerrallinen<s n="adj"/></l><r>selvbiografisk<s n="adj"/></r></p></e>
+    <e><p><l>omainen<s n="adj"/></l><r>pårørende<s n="adj"/></r></p></e>
+    <e><p><l>omaisuus<s n="adj"/></l><r>eiendel<s n="adj"/></r></p></e>
+    <e><p><l>omaisuus<s n="adj"/></l><r>eiendom<s n="adj"/></r></p></e>
+    <e><p><l>omalaatuinen<s n="adj"/></l><r>spesiell<s n="adj"/></r></p></e>
+    <e><p><l>omaleimainen<s n="adj"/></l><r>karakteristisk<s n="adj"/></r></p></e>
+    <e><p><l>omanilainen<s n="adj"/></l><r>omansk<s n="adj"/></r></p></e>
     <e><p><l>omaperäinen<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
+    <e><p><l>oma<s n="adj"/></l><r>egen<s n="adj"/></r></p></e>
+    <e><p><l>omavaltainen<s n="adj"/></l><r>egenmektig<s n="adj"/></r></p></e>
+    <e><p><l>ominainen<s n="adj"/></l><r>typisk<s n="adj"/></r></p></e>
+    <e><p><l>omintakeinen<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
+    <e><p><l>omituinen<s n="adj"/></l><r>rar<s n="adj"/></r></p></e>
+    <e><p><l>ongelmallinen<s n="adj"/></l><r>problematisk<s n="adj"/></r></p></e>
     <e><p><l>onnekas<s n="adj"/></l><r>heldig<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>onnekas<s n="adj"/></l><r>medvirkende<s n="adj"/></r></p></e>
+    <e><p><l>onnellinen<s n="adj"/></l><r>lykkelig<s n="adj"/></r></p></e>
     <e><p><l>onnellinen<s n="adj"/></l><r>lykkelig<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>onneton<s n="adj"/></l><r>ulykkelig<s n="adj"/></r></p></e>
+    <e><p><l>onnistunut<s n="adj"/></l><r>vellykket<s n="adj"/></r></p></e>
+    <e><p><l>ontologinen<s n="adj"/></l><r>ontologisk<s n="adj"/></r></p></e>
+    <e><p><l>ontto<s n="adj"/></l><r>hul<s n="adj"/></r></p></e>
+    <e><p><l>operatiivinen<s n="adj"/></l><r>operativ<s n="adj"/></r></p></e>
+    <e><p><l>opintovapaa<s n="adj"/></l><r>studiepermisjon<s n="adj"/></r></p></e>
+    <e><p><l>oppimaton<s n="adj"/></l><r>ulærd<s n="adj"/></r></p></e>
+    <e><p><l>oppinut<s n="adj"/></l><r>lærd<s n="adj"/></r></p></e>
     <e><p><l>optimistinen<s n="adj"/></l><r>optimistisk<s n="adj"/></r></p></e>
+    <e><p><l>optinen<s n="adj"/></l><r>optisk<s n="adj"/></r></p></e>
+    <e><p><l>oranssi<s n="adj"/></l><r>orange<s n="adj"/></r></p></e>
+    <e><p><l>orgaaninen<s n="adj"/></l><r>organisk<s n="adj"/></r></p></e>
     <e><p><l>organisoitu<s n="adj"/></l><r>organisere<s n="adj"/></r></p></e>
     <e><p><l>originaali<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
+    <e><p><l>orpo<s n="adj"/></l><r>etterlatt<s n="adj"/></r></p></e>
+    <e><p><l>orpo<s n="adj"/></l><r>foreldreløs<s n="adj"/></r></p></e>
+    <e><p><l>ortodoksinen<s n="adj"/></l><r>ortodoks<s n="adj"/></r></p></e>
+    <e><p><l>osaava<s n="adj"/></l><r>flink<s n="adj"/></r></p></e>
+    <e><p><l>osallinen<s n="adj"/></l><r>medvirkende<s n="adj"/></r></p></e>
+    <e><p><l>osallistuva<s n="adj"/></l><r>deltakende<s n="adj"/></r></p></e>
+    <e><p><l>osittainen<s n="adj"/></l><r>delvis<s n="adj"/></r></p></e>
     <e><p><l>osoitettu<s n="adj"/></l><r>tilvise<s n="adj"/></r></p></e>
+    <e><p><l>osuva<s n="adj"/></l><r>treffende<s n="adj"/></r></p></e>
     <e><p><l>otettu<s n="adj"/></l><r>ta<s n="adj"/></r></p></e>
+    <e><p><l>otollinen<s n="adj"/></l><r>passelig<s n="adj"/></r></p></e>
+    <e><p><l>ottava<s n="adj"/></l><r>gjennomføre<s n="adj"/></r></p></e>
+    <e><p><l>outo<s n="adj"/></l><r>rar<s n="adj"/></r></p></e>
+    <e><p><l>ovela<s n="adj"/></l><r>lur<s n="adj"/></r></p></e>
+    <e><p><l>pahamaineinen<s n="adj"/></l><r>beryktet<s n="adj"/></r></p></e>
+    <e><p><l>pahanmakuinen<s n="adj"/></l><r>bitter<s n="adj"/></r></p></e>
+    <e><p><l>paha<s n="adj"/></l><r>ondskapsfull<s n="adj"/></r></p></e>
+    <e><p><l>paha<s n="adj"/></l><r>ond<s n="adj"/></r></p></e>
     <e><p><l>paikallinen<s n="adj"/></l><r>lokal<s n="adj"/></r></p></e>
     <e><p><l>painava<s n="adj"/></l><r>svær<s n="adj"/></r></p></e>
+    <e><p><l>painava<s n="adj"/></l><r>tung<s n="adj"/></r></p></e>
+    <e><p><l>painettu<s n="adj"/></l><r>trykt<s n="adj"/></r></p></e>
+    <e><p><l>painoinen<s n="adj"/></l><r>veiende<s n="adj"/></r></p></e>
     <e><p><l>paistettu<s n="adj"/></l><r>steike<s n="adj"/></r></p></e>
     <e><p><l>paistettu<s n="adj"/></l><r>steike<s n="adj"/></r></p></e>
+    <e><p><l>pakanallinen<s n="adj"/></l><r>hedensk<s n="adj"/></r></p></e>
+    <e><p><l>pakistanilainen<s n="adj"/></l><r>pakistansk<s n="adj"/></r></p></e>
+    <e><p><l>pakollinen<s n="adj"/></l><r>obligatorisk<s n="adj"/></r></p></e>
     <e><p><l>pakollinen<s n="adj"/></l><r>tvinge<s n="adj"/></r></p></e>
     <e><p><l>pakotettu<s n="adj"/></l><r>tvungen<s n="adj"/></r></p></e>
+    <e><p><l>paksuinen<s n="adj"/></l><r>av en viss tjukkelse<s n="adj"/></r></p></e>
+    <e><p><l>paksu<s n="adj"/></l><r>feit<s n="adj"/></r></p></e>
+    <e><p><l>palaulainen<s n="adj"/></l><r>palauisk<s n="adj"/></r></p></e>
+    <e><p><l>palava<s n="adj"/></l><r>brennende<s n="adj"/></r></p></e>
+    <e><p><l>palestiinalainen<s n="adj"/></l><r>palestinsk<s n="adj"/></r></p></e>
+    <e><p><l>paljas<s n="adj"/></l><r>naken<s n="adj"/></r></p></e>
     <e><p><l>paljastettu<s n="adj"/></l><r>avsløre<s n="adj"/></r></p></e>
+    <e><p><l>paljastunut<s n="adj"/></l><r>avslørt<s n="adj"/></r></p></e>
+    <e><p><l>paljo<s n="adj"/></l><r>ganske mye<s n="adj"/></r></p></e>
+    <e><p><l>palkattu<s n="adj"/></l><r>lønna<s n="adj"/></r></p></e>
+    <e><p><l>palkittu<s n="adj"/></l><r>premiert<s n="adj"/></r></p></e>
+    <e><p><l>panamalainen<s n="adj"/></l><r>panamanisk<s n="adj"/></r></p></e>
+    <e><p><l>papuauusiguinealainen<s n="adj"/></l><r>papuansk<s n="adj"/></r></p></e>
+    <e><p><l>paraguaylainen<s n="adj"/></l><r>paraguayansk<s n="adj"/></r></p></e>
+    <e><p><l>paranneltu<s n="adj"/></l><r>forbedret<s n="adj"/></r></p></e>
     <e><p><l>parannettu<s n="adj"/></l><r>forbedre<s n="adj"/></r></p></e>
+    <e><p><l>paranoidinen<s n="adj"/></l><r>paranoid<s n="adj"/></r></p></e>
+    <e><p><l>parantava<s n="adj"/></l><r>helbredende<s n="adj"/></r></p></e>
     <e><p><l>parantava<s n="adj"/></l><r>helbrede<s n="adj"/></r></p></e>
+    <e><p><l>parantunut<s n="adj"/></l><r>bedret<s n="adj"/></r></p></e>
+    <e><p><l>parillinen<s n="adj"/></l><r>parvis<s n="adj"/></r></p></e>
+    <e><p><l>pariton<s n="adj"/></l><r>odde<s n="adj"/></r></p></e>
+    <e><p><l>parka<s n="adj"/></l><r>stakkarslig<s n="adj"/></r></p></e>
     <e><p><l>parlamentaarinen<s n="adj"/></l><r>parlamentarisk<s n="adj"/></r></p></e>
     <e><p><l>passiivinen<s n="adj"/></l><r>passiv<s n="adj"/></r></p></e>
+    <e><p><l>pedagoginen<s n="adj"/></l><r>pedagogisk<s n="adj"/></r></p></e>
     <e><p><l>pehmeä<s n="adj"/></l><r>bløt<s n="adj"/></r></p></e>
     <e><p><l>pehmeä<s n="adj"/></l><r>myk<s n="adj"/></r></p></e>
     <e><p><l>pehmeä<s n="adj"/></l><r>myk<s n="adj"/></r></p></e>
+    <e><p><l>pehmeä<s n="adj"/></l><r>myk<s n="adj"/></r></p></e>
     <e><p><l>pehmeä<s n="adj"/></l><r>soft<s n="adj"/></r></p></e>
+    <e><p><l>peittävä<s n="adj"/></l><r>dekkende<s n="adj"/></r></p></e>
     <e><p><l>pelastettu<s n="adj"/></l><r>redde<s n="adj"/></r></p></e>
+    <e><p><l>pelkistetty<s n="adj"/></l><r>enkel<s n="adj"/></r></p></e>
+    <e><p><l>pelkistetty<s n="adj"/></l><r>redusert<s n="adj"/></r></p></e>
+    <e><p><l>pelkkä<s n="adj"/></l><r>bare<s n="adj"/></r></p></e>
+    <e><p><l>pelokas<s n="adj"/></l><r>redd<s n="adj"/></r></p></e>
+    <e><p><l>peloton<s n="adj"/></l><r>fryktlaus<s n="adj"/></r></p></e>
     <e><p><l>pelottava<s n="adj"/></l><r>redd<s n="adj"/></r></p></e>
+    <e><p><l>pelottava<s n="adj"/></l><r>skremmende<s n="adj"/></r></p></e>
+    <e><p><l>perehtynyt<s n="adj"/></l><r>orientert<s n="adj"/></r></p></e>
+    <e><p><l>periaatteellinen<s n="adj"/></l><r>prinsipiell<s n="adj"/></r></p></e>
+    <e><p><l>perimmäinen<s n="adj"/></l><r>sist<s n="adj"/></r></p></e>
     <e><p><l>perinnöllinen<s n="adj"/></l><r>arveleg<s n="adj"/></r></p></e>
+    <e><p><l>perinnöllinen<s n="adj"/></l><r>arvelig<s n="adj"/></r></p></e>
     <e><p><l>perinteinen<s n="adj"/></l><r>tradisjonell<s n="adj"/></r></p></e>
+    <e><p><l>periytyvä<s n="adj"/></l><r>arvelig<s n="adj"/></r></p></e>
+    <e><p><l>persialainen<s n="adj"/></l><r>persisk<s n="adj"/></r></p></e>
+    <e><p><l>persoonallinen<s n="adj"/></l><r>personlig<s n="adj"/></r></p></e>
+    <e><p><l>perso<s n="adj"/></l><r>begjærlig etter<s n="adj"/></r></p></e>
     <e><p><l>perulainen<s n="adj"/></l><r>peruansk<s n="adj"/></r></p></e>
     <e><p><l>perustava<s n="adj"/></l><r>grunnleggende<s n="adj"/></r></p></e>
+    <e><p><l>perusteellinen<s n="adj"/></l><r>grundig<s n="adj"/></r></p></e>
+    <e><p><l>perustuslaillinen<s n="adj"/></l><r>forfatningsmessig<s n="adj"/></r></p></e>
     <e><p><l>perustuslaillinen<s n="adj"/></l><r>konstitusjonell<s n="adj"/></r></p></e>
+    <e><p><l>peräkkäinen<s n="adj"/></l><r>etterfølgende<s n="adj"/></r></p></e>
     <e><p><l>petrokemiallinen<s n="adj"/></l><r>petrokjemisk<s n="adj"/></r></p></e>
+    <e><p><l>pettynyt<s n="adj"/></l><r>skuffa<s n="adj"/></r></p></e>
+    <e><p><l>pidetty<s n="adj"/></l><r>avholdt<s n="adj"/></r></p></e>
     <e><p><l>pidätetty<s n="adj"/></l><r>arrestere<s n="adj"/></r></p></e>
     <e><p><l>pidätetty<s n="adj"/></l><r>pågripe<s n="adj"/></r></p></e>
+    <e><p><l>pienehkö<s n="adj"/></l><r>litt liten<s n="adj"/></r></p></e>
+    <e><p><l>pienentynyt<s n="adj"/></l><r>forminska<s n="adj"/></r></p></e>
+    <e><p><l>pienikokoinen<s n="adj"/></l><r>liten av størrelse<s n="adj"/></r></p></e>
+    <e><p><l>pienimuotoinen<s n="adj"/></l><r>liten av størrelse<s n="adj"/></r></p></e>
+    <e><p><l>pieni<s n="adj"/></l><r>liten<s n="adj"/></r></p></e>
     <e><p><l>pieni<s n="adj"/></l><r>liten<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>piiloutunut<s n="adj"/></l><r>kamuflere<s n="adj"/></r></p></e>
     <e><p><l>piirretty<s n="adj"/></l><r>tegne<s n="adj"/></r></p></e>
+    <e><p><l>pikkuinen<s n="adj"/></l><r>liten<s n="adj"/></r></p></e>
+    <e><p><l>pilaantunut<s n="adj"/></l><r>råtten<s n="adj"/></r></p></e>
+    <e><p><l>pilvetön<s n="adj"/></l><r>skyfri<s n="adj"/></r></p></e>
+    <e><p><l>pilvinen<s n="adj"/></l><r>skyet<s n="adj"/></r></p></e>
     <e><p><l>pilvinen<s n="adj"/></l><r>sky<s n="adj"/></r></p></e>
     <e><p><l>pimeä<s n="adj"/></l><r>mørkne<s n="adj"/></r></p></e>
     <e><p><l>pimeä<s n="adj"/></l><r>mørk<s n="adj"/></r></p></e>
     <e><p><l>pippurinkaltainen<s n="adj"/></l><r>pepper-lignende<s n="adj"/></r></p></e>
+    <e><p><l>pirullinen<s n="adj"/></l><r>djevelsk<s n="adj"/></r></p></e>
+    <e><p><l>piru<s n="adj"/></l><r>elendig<s n="adj"/></r></p></e>
     <e><p><l>pistepohjainen<s n="adj"/></l><r>poengbasert<s n="adj"/></r></p></e>
+    <e><p><l>pitkäaikainen<s n="adj"/></l><r>langsiktig<s n="adj"/></r></p></e>
+    <e><p><l>pitkäikäinen<s n="adj"/></l><r>langtidsmessig<s n="adj"/></r></p></e>
+    <e><p><l>pitkäkestoinen<s n="adj"/></l><r>langvarig<s n="adj"/></r></p></e>
+    <e><p><l>pitkällinen<s n="adj"/></l><r>langvarig<s n="adj"/></r></p></e>
     <e><p><l>pitkä<s n="adj"/></l><r>lang<s n="adj"/></r></p></e>
+    <e><p><l>pituinen<s n="adj"/></l><r>lang<s n="adj"/></r></p></e>
+    <e><p><l>pitävä<s n="adj"/></l><r>innehavende<s n="adj"/></r></p></e>
+    <e><p><l>planetaarinen<s n="adj"/></l><r>planetarisk<s n="adj"/></r></p></e>
+    <e><p><l>pohjalainen<s n="adj"/></l><r>østerbottnisk<s n="adj"/></r></p></e>
     <e><p><l>pohjattu<s n="adj"/></l><r>basere<s n="adj"/></r></p></e>
     <e><p><l>pohjoinen<s n="adj"/></l><r>nordisk<s n="adj"/></r></p></e>
     <e><p><l>pohjoinen<s n="adj"/></l><r>nordisk<s n="adj"/></r></p></e>
@@ -4812,279 +5880,943 @@
     <e><p><l>pohjoinen<s n="adj"/></l><r>nordlig<s n="adj"/></r></p></e>
     <e><p><l>pohjoisamerikkalainen<s n="adj"/></l><r>nordamerikansk<s n="adj"/></r></p></e>
     <e><p><l>pohjoisatlanttilainen<s n="adj"/></l><r>nordatlantisk<s n="adj"/></r></p></e>
+    <e><p><l>pohjoiskorealainen<s n="adj"/></l><r>nordkoreansk<s n="adj"/></r></p></e>
+    <e><p><l>pohjoismainen<s n="adj"/></l><r>nordisk<s n="adj"/></r></p></e>
+    <e><p><l>pohjoispuolinen<s n="adj"/></l><r>på nordsida<s n="adj"/></r></p></e>
     <e><p><l>pohjoissaksalainen<s n="adj"/></l><r>nordtysk<s n="adj"/></r></p></e>
+    <e><p><l>poikittainen<s n="adj"/></l><r>tverr-<s n="adj"/></r></p></e>
+    <e><p><l>poikkeava<s n="adj"/></l><r>avvikende<s n="adj"/></r></p></e>
     <e><p><l>poikkeava<s n="adj"/></l><r>unntatt<s n="adj"/></r></p></e>
+    <e><p><l>poikkeuksellinen<s n="adj"/></l><r>unntaksmessig<s n="adj"/></r></p></e>
+    <e><p><l>poikkitieteellinen<s n="adj"/></l><r>tverrfaglig<s n="adj"/></r></p></e>
+    <e><p><l>poissaoleva<s n="adj"/></l><r>fraværende<s n="adj"/></r></p></e>
     <e><p><l>poissaoleva<s n="adj"/></l><r>utsette<s n="adj"/></r></p></e>
     <e><p><l>poistettu<s n="adj"/></l><r>oppheve<s n="adj"/></r></p></e>
+    <e><p><l>poleeminen<s n="adj"/></l><r>polemisk<s n="adj"/></r></p></e>
     <e><p><l>poliittinen<s n="adj"/></l><r>politisk<s n="adj"/></r></p></e>
     <e><p><l>polttava<s n="adj"/></l><r>brennende<s n="adj"/></r></p></e>
+    <e><p><l>polynesialainen<s n="adj"/></l><r>polynesisk<s n="adj"/></r></p></e>
+    <e><p><l>portugalilainen<s n="adj"/></l><r>portugisisk<s n="adj"/></r></p></e>
+    <e><p><l>porvarillinen<s n="adj"/></l><r>borgerlig<s n="adj"/></r></p></e>
     <e><p><l>positiivinen<s n="adj"/></l><r>positiv<s n="adj"/></r></p></e>
+    <e><p><l>postmoderni<s n="adj"/></l><r>postmoderne<s n="adj"/></r></p></e>
+    <e><p><l>potentiaalinen<s n="adj"/></l><r>potensiell<s n="adj"/></r></p></e>
     <e><p><l>profiloitu<s n="adj"/></l><r>profilere<s n="adj"/></r></p></e>
+    <e><p><l>progressiivinen<s n="adj"/></l><r>progressiv<s n="adj"/></r></p></e>
+    <e><p><l>protestanttinen<s n="adj"/></l><r>protestantisk<s n="adj"/></r></p></e>
+    <e><p><l>psykiatrinen<s n="adj"/></l><r>psykiatrisk<s n="adj"/></r></p></e>
+    <e><p><l>psykoanalyyttinen<s n="adj"/></l><r>psykoanalytisk<s n="adj"/></r></p></e>
+    <e><p><l>psykologinen<s n="adj"/></l><r>psykologisk<s n="adj"/></r></p></e>
+    <e><p><l>psykoottinen<s n="adj"/></l><r>psykotisk<s n="adj"/></r></p></e>
     <e><p><l>psyykkinen<s n="adj"/></l><r>psykisk<s n="adj"/></r></p></e>
     <e><p><l>puettu<s n="adj"/></l><r>iføre<s n="adj"/></r></p></e>
     <e><p><l>puhdas<s n="adj"/></l><r>rein<s n="adj"/></r></p></e>
+    <e><p><l>puhdas<s n="adj"/></l><r>rein<s n="adj"/></r></p></e>
     <e><p><l>puhdas<s n="adj"/></l><r>ren<s n="adj"/></r></p></e>
+    <e><p><l>puhelias<s n="adj"/></l><r>pratsom<s n="adj"/></r></p></e>
     <e><p><l>puhuttu<s n="adj"/></l><r>snakke<s n="adj"/></r></p></e>
+    <e><p><l>puhuva<s n="adj"/></l><r>snakkende<s n="adj"/></r></p></e>
     <e><p><l>puhuva<s n="adj"/></l><r>språkleg<s n="adj"/></r></p></e>
+    <e><p><l>puinen<s n="adj"/></l><r>av tre<s n="adj"/></r></p></e>
     <e><p><l>pukeutunut<s n="adj"/></l><r>utkledd<s n="adj"/></r></p></e>
     <e><p><l>punainen<s n="adj"/></l><r>rød<s n="adj"/></r></p></e>
+    <e><p><l>punakaartilainen<s n="adj"/></l><r>rødegardistisk<s n="adj"/></r></p></e>
+    <e><p><l>punaruskea<s n="adj"/></l><r>gulbrun<s n="adj"/></r></p></e>
+    <e><p><l>puolalainen<s n="adj"/></l><r>polsk<s n="adj"/></r></p></e>
     <e><p><l>puolalais-saksalainen<s n="adj"/></l><r>polsk-tysk<s n="adj"/></r></p></e>
     <e><p><l>puolalais-saksalais-itävaltalainen<s n="adj"/></l><r>polsk-tysk-østerriksk<s n="adj"/></r></p></e>
+    <e><p><l>puoleinen<s n="adj"/></l><r>polsk<s n="adj"/></r></p></e>
     <e><p><l>puolialaston<s n="adj"/></l><r>lettkledd<s n="adj"/></r></p></e>
     <e><p><l>puolipehmeä<s n="adj"/></l><r>halvfast<s n="adj"/></r></p></e>
+    <e><p><l>puolisotilaallinen<s n="adj"/></l><r>paramilitær<s n="adj"/></r></p></e>
+    <e><p><l>puolueeton<s n="adj"/></l><r>nøytral<s n="adj"/></r></p></e>
+    <e><p><l>puuton<s n="adj"/></l><r>treløs<s n="adj"/></r></p></e>
+    <e><p><l>puuttuva<s n="adj"/></l><r>manglende<s n="adj"/></r></p></e>
     <e><p><l>pyhä<s n="adj"/></l><r>hellig<s n="adj"/></r></p></e>
+    <e><p><l>pyhä<s n="adj"/></l><r>hellig<s n="adj"/></r></p></e>
+    <e><p><l>pysty<s n="adj"/></l><r>bratt<s n="adj"/></r></p></e>
+    <e><p><l>pystysuora<s n="adj"/></l><r>loddrett<s n="adj"/></r></p></e>
+    <e><p><l>pystyvä<s n="adj"/></l><r>dyktig<s n="adj"/></r></p></e>
     <e><p><l>pysyvä<s n="adj"/></l><r>permanent<s n="adj"/></r></p></e>
+    <e><p><l>pysyvä<s n="adj"/></l><r>varig<s n="adj"/></r></p></e>
     <e><p><l>pysähtynyt<s n="adj"/></l><r>stanse<s n="adj"/></r></p></e>
     <e><p><l>pyöreä<s n="adj"/></l><r>rund<s n="adj"/></r></p></e>
+    <e><p><l>pyörivä<s n="adj"/></l><r>rullende<s n="adj"/></r></p></e>
+    <e><p><l>päinvastainen<s n="adj"/></l><r>bakvendt<s n="adj"/></r></p></e>
     <e><p><l>päivitetty<s n="adj"/></l><r>oppdatere<s n="adj"/></r></p></e>
     <e><p><l>päivittäinen<s n="adj"/></l><r>daglig<s n="adj"/></r></p></e>
+    <e><p><l>päiväntasaajanguinealainen<s n="adj"/></l><r>ekvatorialguineansk<s n="adj"/></r></p></e>
+    <e><p><l>pätevä<s n="adj"/></l><r>gyldig<s n="adj"/></r></p></e>
     <e><p><l>pääasiallinen<s n="adj"/></l><r>domnerende<s n="adj"/></r></p></e>
+    <e><p><l>pääasiallinen<s n="adj"/></l><r>hovedsaklig<s n="adj"/></r></p></e>
     <e><p><l>pääasiallinen<s n="adj"/></l><r>hovudsakleg<s n="adj"/></r></p></e>
+    <e><p><l>päällekkäinen<s n="adj"/></l><r>overlappende<s n="adj"/></r></p></e>
+    <e><p><l>päällinen<s n="adj"/></l><r>overflate<s n="adj"/></r></p></e>
     <e><p><l>pääsääntöinen<s n="adj"/></l><r>hovedsakelig<s n="adj"/></r></p></e>
     <e><p><l>päätetty<s n="adj"/></l><r>bestemme<s n="adj"/></r></p></e>
+    <e><p><l>päättäväinen<s n="adj"/></l><r>besluttsom<s n="adj"/></r></p></e>
+    <e><p><l>päättävä<s n="adj"/></l><r>bestemmende<s n="adj"/></r></p></e>
+    <e><p><l>päätösvaltainen<s n="adj"/></l><r>vedtaksfør<s n="adj"/></r></p></e>
+    <e><p><l>pöllö<s n="adj"/></l><r>merkelig<s n="adj"/></r></p></e>
+    <e><p><l>qatarilainen<s n="adj"/></l><r>qatarsk<s n="adj"/></r></p></e>
+    <e><p><l>raaka<s n="adj"/></l><r>grov<s n="adj"/></r></p></e>
+    <e><p><l>raaka<s n="adj"/></l><r>rå<s n="adj"/></r></p></e>
+    <e><p><l>raamatullinen<s n="adj"/></l><r>bibelsk<s n="adj"/></r></p></e>
+    <e><p><l>radikaali<s n="adj"/></l><r>radikal<s n="adj"/></r></p></e>
+    <e><p><l>radioaktiivinen<s n="adj"/></l><r>radioaktiv<s n="adj"/></r></p></e>
+    <e><p><l>rahallinen<s n="adj"/></l><r>pengemessig<s n="adj"/></r></p></e>
+    <e><p><l>rahaton<s n="adj"/></l><r>blakk<s n="adj"/></r></p></e>
+    <e><p><l>rahaton<s n="adj"/></l><r>pengelens<s n="adj"/></r></p></e>
+    <e><p><l>rajallinen<s n="adj"/></l><r>avgrenset<s n="adj"/></r></p></e>
+    <e><p><l>rajaton<s n="adj"/></l><r>grenseløs<s n="adj"/></r></p></e>
     <e><p><l>rajattu<s n="adj"/></l><r>avgrense<s n="adj"/></r></p></e>
+    <e><p><l>rajattu<s n="adj"/></l><r>avgrenset<s n="adj"/></r></p></e>
     <e><p><l>rajoitettu<s n="adj"/></l><r>begrense<s n="adj"/></r></p></e>
+    <e><p><l>rajoittava<s n="adj"/></l><r>innskrenkende<s n="adj"/></r></p></e>
+    <e><p><l>rajoittunut<s n="adj"/></l><r>avgrensa<s n="adj"/></r></p></e>
+    <e><p><l>raju<s n="adj"/></l><r>voldsom<s n="adj"/></r></p></e>
     <e><p><l>rakas<s n="adj"/></l><r>kjær<s n="adj"/></r></p></e>
+    <e><p><l>rakastettu<s n="adj"/></l><r>elsket<s n="adj"/></r></p></e>
     <e><p><l>rakastunut<s n="adj"/></l><r>forelske<s n="adj"/></r></p></e>
     <e><p><l>rakennettu<s n="adj"/></l><r>konstruere<s n="adj"/></r></p></e>
+    <e><p><l>rakentava<s n="adj"/></l><r>konstruktiv<s n="adj"/></r></p></e>
+    <e><p><l>rakenteellinen<s n="adj"/></l><r>konstruktiv<s n="adj"/></r></p></e>
+    <e><p><l>rampa<s n="adj"/></l><r>haltende<s n="adj"/></r></p></e>
+    <e><p><l>rankka<s n="adj"/></l><r>påfristende<s n="adj"/></r></p></e>
+    <e><p><l>rankka<s n="adj"/></l><r>slitsom<s n="adj"/></r></p></e>
+    <e><p><l>ranskalainen<s n="adj"/></l><r>fransk<s n="adj"/></r></p></e>
+    <e><p><l>ranskankielinen<s n="adj"/></l><r>franskspråklig<s n="adj"/></r></p></e>
     <e><p><l>rantautunut<s n="adj"/></l><r>lande<s n="adj"/></r></p></e>
+    <e><p><l>rasistinen<s n="adj"/></l><r>rasistisk<s n="adj"/></r></p></e>
     <e><p><l>raskas<s n="adj"/></l><r>tung<s n="adj"/></r></p></e>
+    <e><p><l>rationaalinen<s n="adj"/></l><r>rasjonell<s n="adj"/></r></p></e>
+    <e><p><l>ratkaiseva<s n="adj"/></l><r>avgjørende<s n="adj"/></r></p></e>
     <e><p><l>rauhaarakastava<s n="adj"/></l><r>fridomselskande<s n="adj"/></r></p></e>
     <e><p><l>rauhallinen<s n="adj"/></l><r>fredeleg<s n="adj"/></r></p></e>
     <e><p><l>rauhallinen<s n="adj"/></l><r>fredeleg<s n="adj"/></r></p></e>
+    <e><p><l>rauhallinen<s n="adj"/></l><r>fredelig<s n="adj"/></r></p></e>
+    <e><p><l>rauhanomainen<s n="adj"/></l><r>fredelig<s n="adj"/></r></p></e>
+    <e><p><l>rauhaton<s n="adj"/></l><r>urolig<s n="adj"/></r></p></e>
+    <e><p><l>rauhoitettu<s n="adj"/></l><r>freda<s n="adj"/></r></p></e>
+    <e><p><l>raukkamainen<s n="adj"/></l><r>stakkarslig<s n="adj"/></r></p></e>
+    <e><p><l>rautakautinen<s n="adj"/></l><r>fra jernalderen<s n="adj"/></r></p></e>
+    <e><p><l>ravitseva<s n="adj"/></l><r>næringsrik<s n="adj"/></r></p></e>
+    <e><p><l>reaalinen<s n="adj"/></l><r>reell<s n="adj"/></r></p></e>
+    <e><p><l>realistinen<s n="adj"/></l><r>realistisk<s n="adj"/></r></p></e>
+    <e><p><l>reformoitu<s n="adj"/></l><r>reformert<s n="adj"/></r></p></e>
+    <e><p><l>rehellinen<s n="adj"/></l><r>redelig<s n="adj"/></r></p></e>
     <e><p><l>rehellinen<s n="adj"/></l><r>ærlig<s n="adj"/></r></p></e>
+    <e><p><l>rehevä<s n="adj"/></l><r>frodig<s n="adj"/></r></p></e>
+    <e><p><l>reilu<s n="adj"/></l><r>anstendig<s n="adj"/></r></p></e>
+    <e><p><l>reilu<s n="adj"/></l><r>skvær<s n="adj"/></r></p></e>
+    <e><p><l>reipas<s n="adj"/></l><r>kjekk<s n="adj"/></r></p></e>
+    <e><p><l>reipas<s n="adj"/></l><r>kvikk<s n="adj"/></r></p></e>
+    <e><p><l>rekisteröity<s n="adj"/></l><r>registrert<s n="adj"/></r></p></e>
+    <e><p><l>relevantti<s n="adj"/></l><r>relevant<s n="adj"/></r></p></e>
     <e><p><l>repaleinen<s n="adj"/></l><r>oppriven<s n="adj"/></r></p></e>
     <e><p><l>republikaani<s n="adj"/></l><r>republikansk<s n="adj"/></r></p></e>
+    <e><p><l>resuinen<s n="adj"/></l><r>fillet<s n="adj"/></r></p></e>
     <e><p><l>riemuisa<s n="adj"/></l><r>kjempeglad<s n="adj"/></r></p></e>
+    <e><p><l>riippumaton<s n="adj"/></l><r>uavhengig<s n="adj"/></r></p></e>
     <e><p><l>riippuvainen<s n="adj"/></l><r>avhengig<s n="adj"/></r></p></e>
+    <e><p><l>riippuva<s n="adj"/></l><r>hengende<s n="adj"/></r></p></e>
+    <e><p><l>riittämätön<s n="adj"/></l><r>utilstrekkelig<s n="adj"/></r></p></e>
+    <e><p><l>riittävä<s n="adj"/></l><r>tilstrekkelig<s n="adj"/></r></p></e>
+    <e><p><l>rikas<s n="adj"/></l><r>rik<s n="adj"/></r></p></e>
     <e><p><l>rikas<s n="adj"/></l><r>rik<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>rikastettu<s n="adj"/></l><r>berike<s n="adj"/></r></p></e>
     <e><p><l>rikkinäinen<s n="adj"/></l><r>bryte<s n="adj"/></r></p></e>
+    <e><p><l>rikollinen<s n="adj"/></l><r>forbrytersk<s n="adj"/></r></p></e>
+    <e><p><l>rinnakkainen<s n="adj"/></l><r>parallell<s n="adj"/></r></p></e>
     <e><p><l>ristiriitainen<s n="adj"/></l><r>kontroversiell<s n="adj"/></r></p></e>
     <e><p><l>ristiriitainen<s n="adj"/></l><r>kontrovesiell<s n="adj"/></r></p></e>
+    <e><p><l>ristiriitainen<s n="adj"/></l><r>motstridende<s n="adj"/></r></p></e>
+    <e><p><l>ristiriitainen<s n="adj"/></l><r>selvmotsigende<s n="adj"/></r></p></e>
+    <e><p><l>rohkea<s n="adj"/></l><r>freidig<s n="adj"/></r></p></e>
+    <e><p><l>romaaninen<s n="adj"/></l><r>romansk<s n="adj"/></r></p></e>
+    <e><p><l>romanialainen<s n="adj"/></l><r>rumensk<s n="adj"/></r></p></e>
     <e><p><l>romanisoitu<s n="adj"/></l><r>romanisere<s n="adj"/></r></p></e>
+    <e><p><l>romanttinen<s n="adj"/></l><r>romantisk<s n="adj"/></r></p></e>
     <e><p><l>roomalainen<s n="adj"/></l><r>romersk<s n="adj"/></r></p></e>
+    <e><p><l>roomalaiskatolinen<s n="adj"/></l><r>romerskkatolsk<s n="adj"/></r></p></e>
+    <e><p><l>roteva<s n="adj"/></l><r>robust<s n="adj"/></r></p></e>
+    <e><p><l>ruandalainen<s n="adj"/></l><r>rwandisk<s n="adj"/></r></p></e>
+    <e><p><l>ruma<s n="adj"/></l><r>stygg<s n="adj"/></r></p></e>
+    <e><p><l>runollinen<s n="adj"/></l><r>poetisk<s n="adj"/></r></p></e>
+    <e><p><l>runsaslukuinen<s n="adj"/></l><r>tallrik<s n="adj"/></r></p></e>
+    <e><p><l>runsas<s n="adj"/></l><r>rikelig<s n="adj"/></r></p></e>
     <e><p><l>ruotalainen<s n="adj"/></l><r>svensk<s n="adj"/></r></p></e>
     <e><p><l>ruotalais-itävaltalainen<s n="adj"/></l><r>svensk-østerriksk<s n="adj"/></r></p></e>
+    <e><p><l>ruotsalainen<s n="adj"/></l><r>svensk<s n="adj"/></r></p></e>
     <e><p><l>ruotsinkielinen<s n="adj"/></l><r>svenskspråklig<s n="adj"/></r></p></e>
     <e><p><l>ruskeahko<s n="adj"/></l><r>brunlig<s n="adj"/></r></p></e>
     <e><p><l>ruskea<s n="adj"/></l><r>brun<s n="adj"/></r></p></e>
+    <e><p><l>ruskehtava<s n="adj"/></l><r>brunaktig<s n="adj"/></r></p></e>
+    <e><p><l>ruumiillinen<s n="adj"/></l><r>fysisk<s n="adj"/></r></p></e>
+    <e><p><l>räjähtävä<s n="adj"/></l><r>eksploderende<s n="adj"/></r></p></e>
+    <e><p><l>saamaton<s n="adj"/></l><r>tiltaksløs<s n="adj"/></r></p></e>
     <e><p><l>saamelainen<s n="adj"/></l><r>samisk<s n="adj"/></r></p></e>
     <e><p><l>saamenkielinen<s n="adj"/></l><r>samiskspråkleg<s n="adj"/></r></p></e>
+    <e><p><l>saamenkielinen<s n="adj"/></l><r>samiskspråklig<s n="adj"/></r></p></e>
     <e><p><l>saamenkielinen<s n="adj"/></l><r>samisktalande<s n="adj"/></r></p></e>
+    <e><p><l>saastunut<s n="adj"/></l><r>forurensa<s n="adj"/></r></p></e>
     <e><p><l>saavutettava<s n="adj"/></l><r>tilgjengeleg<s n="adj"/></r></p></e>
     <e><p><l>saavutettava<s n="adj"/></l><r>tilgjengelig<s n="adj"/></r></p></e>
+    <e><p><l>saavutettu<s n="adj"/></l><r>oppnådd<s n="adj"/></r></p></e>
+    <e><p><l>saintkittsnevisläinen<s n="adj"/></l><r>sanktkittisk<s n="adj"/></r></p></e>
+    <e><p><l>saintlucialainen<s n="adj"/></l><r>sanktlusianisk<s n="adj"/></r></p></e>
     <e><p><l>sairas<s n="adj"/></l><r>smitte<s n="adj"/></r></p></e>
+    <e><p><l>sairas<s n="adj"/></l><r>syk<s n="adj"/></r></p></e>
     <e><p><l>sairas<s n="adj"/></l><r>syk<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>sakea<s n="adj"/></l><r>tjukk<s n="adj"/></r></p></e>
     <e><p><l>saksalainen<s n="adj"/></l><r>tysk<s n="adj"/></r></p></e>
+    <e><p><l>saksankielinen<s n="adj"/></l><r>tyskspråklig<s n="adj"/></r></p></e>
+    <e><p><l>salainen<s n="adj"/></l><r>hemmelig<s n="adj"/></r></p></e>
+    <e><p><l>salaperäinen<s n="adj"/></l><r>hemmelighetsfull<s n="adj"/></r></p></e>
+    <e><p><l>salattu<s n="adj"/></l><r>hemmeligholdt<s n="adj"/></r></p></e>
     <e><p><l>sallittu<s n="adj"/></l><r>tillate<s n="adj"/></r></p></e>
+    <e><p><l>sallittu<s n="adj"/></l><r>tillatt<s n="adj"/></r></p></e>
+    <e><p><l>salomonsaarelainen<s n="adj"/></l><r>salomonsk<s n="adj"/></r></p></e>
+    <e><p><l>samainen<s n="adj"/></l><r>samme<s n="adj"/></r></p></e>
+    <e><p><l>samanaikainen<s n="adj"/></l><r>kontemporær<s n="adj"/></r></p></e>
+    <e><p><l>samanarvoinen<s n="adj"/></l><r>likeverdig<s n="adj"/></r></p></e>
+    <e><p><l>samankaltainen<s n="adj"/></l><r>lignende<s n="adj"/></r></p></e>
+    <e><p><l>samanlainen<s n="adj"/></l><r>ensartet<s n="adj"/></r></p></e>
     <e><p><l>samanlainen<s n="adj"/></l><r>liknande<s n="adj"/></r></p></e>
+    <e><p><l>samanlainen<s n="adj"/></l><r>liknende<s n="adj"/></r></p></e>
     <e><p><l>samanlainen<s n="adj"/></l><r>lik<s n="adj"/></r></p></e>
+    <e><p><l>samanniminen<s n="adj"/></l><r>med samme navn<s n="adj"/></r></p></e>
+    <e><p><l>samannäköinen<s n="adj"/></l><r>lik<s n="adj"/></r></p></e>
+    <e><p><l>samantapainen<s n="adj"/></l><r>sammeslags<s n="adj"/></r></p></e>
+    <e><p><l>sambialainen<s n="adj"/></l><r>zambisk<s n="adj"/></r></p></e>
+    <e><p><l>samoalainen<s n="adj"/></l><r>samoansk<s n="adj"/></r></p></e>
+    <e><p><l>sanmarinolainen<s n="adj"/></l><r>sanmarinsk<s n="adj"/></r></p></e>
     <e><p><l>sanottu<s n="adj"/></l><r>tale<s n="adj"/></r></p></e>
+    <e><p><l>sãotomépríncipeläinen<s n="adj"/></l><r>saotomesisk<s n="adj"/></r></p></e>
+    <e><p><l>sateinen<s n="adj"/></l><r>regnfull<s n="adj"/></r></p></e>
     <e><p><l>satunnainen<s n="adj"/></l><r>tilfeldig<s n="adj"/></r></p></e>
+    <e><p><l>saudiarabialainen<s n="adj"/></l><r>saudiarabisk<s n="adj"/></r></p></e>
+    <e><p><l>savolainen<s n="adj"/></l><r>savolaksisk<s n="adj"/></r></p></e>
+    <e><p><l>seemiläinen<s n="adj"/></l><r>semisk<s n="adj"/></r></p></e>
+    <e><p><l>sekainen<s n="adj"/></l><r>blanda<s n="adj"/></r></p></e>
+    <e><p><l>sekava<s n="adj"/></l><r>blandet<s n="adj"/></r></p></e>
+    <e><p><l>sekava<s n="adj"/></l><r>uklar<s n="adj"/></r></p></e>
     <e><p><l>seksuaalinen<s n="adj"/></l><r>seksuell<s n="adj"/></r></p></e>
+    <e><p><l>selkeä<s n="adj"/></l><r>klar<s n="adj"/></r></p></e>
     <e><p><l>selkeä<s n="adj"/></l><r>tydelig<s n="adj"/></r></p></e>
+    <e><p><l>selkärangaton<s n="adj"/></l><r>ryggradsløs<s n="adj"/></r></p></e>
+    <e><p><l>sellainen<s n="adj"/></l><r>slik<s n="adj"/></r></p></e>
     <e><p><l>selvittämätön<s n="adj"/></l><r>uavklart<s n="adj"/></r></p></e>
     <e><p><l>selvä<s n="adj"/></l><r>klar<s n="adj"/></r></p></e>
+    <e><p><l>selvä<s n="adj"/></l><r>klar<s n="adj"/></r></p></e>
+    <e><p><l>selvä<s n="adj"/></l><r>tydelig<s n="adj"/></r></p></e>
     <e><p><l>semiittinen<s n="adj"/></l><r>semittisk<s n="adj"/></r></p></e>
+    <e><p><l>senegalilainen<s n="adj"/></l><r>senegalesisk<s n="adj"/></r></p></e>
+    <e><p><l>seniili<s n="adj"/></l><r>senil<s n="adj"/></r></p></e>
     <e><p><l>serbokroatialainen<s n="adj"/></l><r>serbokroatisk<s n="adj"/></r></p></e>
+    <e><p><l>seremoniallinen<s n="adj"/></l><r>seremoniell<s n="adj"/></r></p></e>
     <e><p><l>seuraava<s n="adj"/></l><r>etterfølge<s n="adj"/></r></p></e>
     <e><p><l>seuraava<s n="adj"/></l><r>fylgjande<s n="adj"/></r></p></e>
     <e><p><l>seuraava<s n="adj"/></l><r>følgende<s n="adj"/></r></p></e>
+    <e><p><l>seuraava<s n="adj"/></l><r>kommende<s n="adj"/></r></p></e>
+    <e><p><l>seychelliläinen<s n="adj"/></l><r>seychellisk<s n="adj"/></r></p></e>
+    <e><p><l>sidottu<s n="adj"/></l><r>bundet<s n="adj"/></r></p></e>
+    <e><p><l>sierraleonelainen<s n="adj"/></l><r>sierraleonsk<s n="adj"/></r></p></e>
+    <e><p><l>šiialainen<s n="adj"/></l><r>shiask<s n="adj"/></r></p></e>
+    <e><p><l>siirrettävä<s n="adj"/></l><r>som skal flyttes<s n="adj"/></r></p></e>
+    <e><p><l>siisti<s n="adj"/></l><r>renslig<s n="adj"/></r></p></e>
+    <e><p><l>sijaitseva<s n="adj"/></l><r>beliggende<s n="adj"/></r></p></e>
     <e><p><l>sijaitseva<s n="adj"/></l><r>ligge<s n="adj"/><s n="pprs"/></r></p></e>
+    <e><p><l>sileä<s n="adj"/></l><r>glatt<s n="adj"/></r></p></e>
+    <e><p><l>silloinen<s n="adj"/></l><r>daværende<s n="adj"/></r></p></e>
+    <e><p><l>sinertävä<s n="adj"/></l><r>blålig<s n="adj"/></r></p></e>
+    <e><p><l>sinfoninen<s n="adj"/></l><r>symfonisk<s n="adj"/></r></p></e>
+    <e><p><l>singaporelainen<s n="adj"/></l><r>singaporsk<s n="adj"/></r></p></e>
+    <e><p><l>sininen<s n="adj"/></l><r>blå<s n="adj"/></r></p></e>
+    <e><p><l>sinivalkoinen<s n="adj"/></l><r>blåhvit<s n="adj"/></r></p></e>
+    <e><p><l>siro<s n="adj"/></l><r>spinkel<s n="adj"/></r></p></e>
+    <e><p><l>sisilialainen<s n="adj"/></l><r>siciliansk<s n="adj"/></r></p></e>
+    <e><p><l>sisäinen<s n="adj"/></l><r>indre<s n="adj"/></r></p></e>
     <e><p><l>sisäinen<s n="adj"/></l><r>indre<s n="adj"/></r></p></e>
     <e><p><l>sisäinen<s n="adj"/></l><r>inntagende<s n="adj"/></r></p></e>
     <e><p><l>sisäinen<s n="adj"/></l><r>innvendig<s n="adj"/></r></p></e>
+    <e><p><l>sisäinen<s n="adj"/></l><r>intern<s n="adj"/></r></p></e>
+    <e><p><l>sisäpoliittinen<s n="adj"/></l><r>innenrikspolitisk<s n="adj"/></r></p></e>
     <e><p><l>sisätilallinen<s n="adj"/></l><r>innendørs<s n="adj"/></r></p></e>
     <e><p><l>sisäänkeitetty<s n="adj"/></l><r>innkokt<s n="adj"/></r></p></e>
+    <e><p><l>sisäänrakennettu<s n="adj"/></l><r>innebygd<s n="adj"/></r></p></e>
+    <e><p><l>sitkeä<s n="adj"/></l><r>seig<s n="adj"/></r></p></e>
+    <e><p><l>sitoutumaton<s n="adj"/></l><r>ikke bundet<s n="adj"/></r></p></e>
+    <e><p><l>sitoutunut<s n="adj"/></l><r>forplikta<s n="adj"/></r></p></e>
+    <e><p><l>sitova<s n="adj"/></l><r>bindende<s n="adj"/></r></p></e>
     <e><p><l>siviili<s n="adj"/></l><r>sivil<s n="adj"/></r></p></e>
+    <e><p><l>sivullinen<s n="adj"/></l><r>fremmed<s n="adj"/></r></p></e>
+    <e><p><l>skandinaavinen<s n="adj"/></l><r>skandinavisk<s n="adj"/></r></p></e>
     <e><p><l>skandinavialainen<s n="adj"/></l><r>skandinavisk<s n="adj"/></r></p></e>
     <e><p><l>skeptinen<s n="adj"/></l><r>skeptisk<s n="adj"/></r></p></e>
+    <e><p><l>skotlantilainen<s n="adj"/></l><r>skotsk<s n="adj"/></r></p></e>
+    <e><p><l>slaavilainen<s n="adj"/></l><r>slavisk<s n="adj"/></r></p></e>
+    <e><p><l>slovakialainen<s n="adj"/></l><r>slovakisk<s n="adj"/></r></p></e>
+    <e><p><l>slovenialainen<s n="adj"/></l><r>slovensk<s n="adj"/></r></p></e>
+    <e><p><l>sodanjälkeinen<s n="adj"/></l><r>etterkrigs<s n="adj"/></r></p></e>
+    <e><p><l>soikea<s n="adj"/></l><r>oval<s n="adj"/></r></p></e>
+    <e><p><l>soinnillinen<s n="adj"/></l><r>stemt<s n="adj"/></r></p></e>
     <e><p><l>soitettu<s n="adj"/></l><r>ringe<s n="adj"/></r></p></e>
+    <e><p><l>soiva<s n="adj"/></l><r>klingende<s n="adj"/></r></p></e>
+    <e><p><l>sokea<s n="adj"/></l><r>blind<s n="adj"/></r></p></e>
+    <e><p><l>sokraattinen<s n="adj"/></l><r>sokratisk<s n="adj"/></r></p></e>
+    <e><p><l>somaattinen<s n="adj"/></l><r>somatisk<s n="adj"/></r></p></e>
+    <e><p><l>somalialainen<s n="adj"/></l><r>somalisk<s n="adj"/></r></p></e>
+    <e><p><l>sopeutunut<s n="adj"/></l><r>tilpassa<s n="adj"/></r></p></e>
+    <e><p><l>sopimaton<s n="adj"/></l><r>uegnet<s n="adj"/></r></p></e>
+    <e><p><l>sopimaton<s n="adj"/></l><r>upassende<s n="adj"/></r></p></e>
+    <e><p><l>sopiva<s n="adj"/></l><r>høvelig<s n="adj"/></r></p></e>
     <e><p><l>sopiva<s n="adj"/></l><r>passende<s n="adj"/></r></p></e>
+    <e><p><l>sosiaalidemokraattinen<s n="adj"/></l><r>sosialdemokratisk<s n="adj"/></r></p></e>
     <e><p><l>sosiaalinen<s n="adj"/></l><r>sosial<s n="adj"/></r></p></e>
+    <e><p><l>sosialistinen<s n="adj"/></l><r>sosialistisk<s n="adj"/></r></p></e>
+    <e><p><l>sotaisa<s n="adj"/></l><r>krigersk<s n="adj"/></r></p></e>
+    <e><p><l>sotilaallinen<s n="adj"/></l><r>militær<s n="adj"/></r></p></e>
+    <e><p><l>sotiva<s n="adj"/></l><r>krigende<s n="adj"/></r></p></e>
+    <e><p><l>sovelias<s n="adj"/></l><r>høvelig<s n="adj"/></r></p></e>
+    <e><p><l>sovelias<s n="adj"/></l><r>tilpasningsdyktig<s n="adj"/></r></p></e>
+    <e><p><l>sovellettu<s n="adj"/></l><r>tilpassa<s n="adj"/></r></p></e>
+    <e><p><l>soveltumaton<s n="adj"/></l><r>uhøvelig<s n="adj"/></r></p></e>
+    <e><p><l>soveltuva<s n="adj"/></l><r>tilpasningsdyktig<s n="adj"/></r></p></e>
+    <e><p><l>sovittu<s n="adj"/></l><r>avtalt<s n="adj"/></r></p></e>
+    <e><p><l>spartalainen<s n="adj"/></l><r>spartansk<s n="adj"/></r></p></e>
+    <e><p><l>spontaani<s n="adj"/></l><r>spontan<s n="adj"/></r></p></e>
+    <e><p><l>srilankalainen<s n="adj"/></l><r>srilankisk<s n="adj"/></r></p></e>
+    <e><p><l>staattinen<s n="adj"/></l><r>statisk<s n="adj"/></r></p></e>
+    <e><p><l>stabiili<s n="adj"/></l><r>stabil<s n="adj"/></r></p></e>
     <e><p><l>steriili<s n="adj"/></l><r>steril<s n="adj"/></r></p></e>
+    <e><p><l>strateginen<s n="adj"/></l><r>strategisk<s n="adj"/></r></p></e>
+    <e><p><l>subjektiivinen<s n="adj"/></l><r>subjektiv<s n="adj"/></r></p></e>
+    <e><p><l>subtrooppinen<s n="adj"/></l><r>subtropisk<s n="adj"/></r></p></e>
+    <e><p><l>suhteellinen<s n="adj"/></l><r>forholdsvis<s n="adj"/></r></p></e>
     <e><p><l>suhteellinen<s n="adj"/></l><r>proporsjonal<s n="adj"/></r></p></e>
     <e><p><l>suhteellinen<s n="adj"/></l><r>relativ<s n="adj"/></r></p></e>
+    <e><p><l>sujuva<s n="adj"/></l><r>smidig<s n="adj"/></r></p></e>
+    <e><p><l>sukulainen<s n="adj"/></l><r>slektning<s n="adj"/></r></p></e>
     <e><p><l>sukupuuttoonkuollut<s n="adj"/></l><r>utdøy<s n="adj"/></r></p></e>
+    <e><p><l>sula<s n="adj"/></l><r>smelta<s n="adj"/></r></p></e>
+    <e><p><l>sulautettu<s n="adj"/></l><r>innebygd<s n="adj"/></r></p></e>
+    <e><p><l>sulautettu<s n="adj"/></l><r>integrert<s n="adj"/></r></p></e>
     <e><p><l>sulava<s n="adj"/></l><r>smelle<s n="adj"/></r></p></e>
+    <e><p><l>sulava<s n="adj"/></l><r>smeltende<s n="adj"/></r></p></e>
+    <e><p><l>suljettu<s n="adj"/></l><r>stengt<s n="adj"/></r></p></e>
+    <e><p><l>sumuinen<s n="adj"/></l><r>disig<s n="adj"/></r></p></e>
+    <e><p><l>suojattu<s n="adj"/></l><r>verna<s n="adj"/></r></p></e>
+    <e><p><l>suojeleva<s n="adj"/></l><r>beskyttende<s n="adj"/></r></p></e>
+    <e><p><l>suolainen<s n="adj"/></l><r>salt<s n="adj"/></r></p></e>
+    <e><p><l>suomalainen<s n="adj"/></l><r>finlendsk<s n="adj"/></r></p></e>
     <e><p><l>suomalainen<s n="adj"/></l><r>finsk<s n="adj"/></r></p></e>
+    <e><p><l>suomalaisugrilainen<s n="adj"/></l><r>finskugrisk<s n="adj"/></r></p></e>
+    <e><p><l>suomenkielinen<s n="adj"/></l><r>finskspråklig<s n="adj"/></r></p></e>
+    <e><p><l>suomenruotsalainen<s n="adj"/></l><r>finlandssvensk<s n="adj"/></r></p></e>
+    <e><p><l>suorakulmainen<s n="adj"/></l><r>vinkelrett<s n="adj"/></r></p></e>
+    <e><p><l>suoranainen<s n="adj"/></l><r>rak<s n="adj"/></r></p></e>
+    <e><p><l>suora<s n="adj"/></l><r>rett<s n="adj"/></r></p></e>
+    <e><p><l>suoraviivainen<s n="adj"/></l><r>rettlinja<s n="adj"/></r></p></e>
+    <e><p><l>suositeltava<s n="adj"/></l><r>tilrådelig<s n="adj"/></r></p></e>
+    <e><p><l>suosittu<s n="adj"/></l><r>omsvermet<s n="adj"/></r></p></e>
     <e><p><l>suosittu<s n="adj"/></l><r>populær<s n="adj"/></r></p></e>
+    <e><p><l>suotuisa<s n="adj"/></l><r>gunstig<s n="adj"/></r></p></e>
+    <e><p><l>suotuisa<s n="adj"/></l><r>passelig<s n="adj"/></r></p></e>
+    <e><p><l>suppea<s n="adj"/></l><r>trang<s n="adj"/></r></p></e>
+    <e><p><l>surkea<s n="adj"/></l><r>sørgelig<s n="adj"/></r></p></e>
+    <e><p><l>surrealistinen<s n="adj"/></l><r>surrealistisk<s n="adj"/></r></p></e>
+    <e><p><l>surullinen<s n="adj"/></l><r>lei seg<s n="adj"/></r></p></e>
+    <e><p><l>suullinen<s n="adj"/></l><r>muntlig<s n="adj"/></r></p></e>
+    <e><p><l>suunnaton<s n="adj"/></l><r>enorm<s n="adj"/></r></p></e>
+    <e><p><l>suunnaton<s n="adj"/></l><r>retningsløs<s n="adj"/></r></p></e>
+    <e><p><l>suunnattu<s n="adj"/></l><r>retta mot<s n="adj"/></r></p></e>
     <e><p><l>suunniteltu<s n="adj"/></l><r>designe<s n="adj"/></r></p></e>
+    <e><p><l>suunniteltu<s n="adj"/></l><r>planlagt<s n="adj"/></r></p></e>
     <e><p><l>suunniteltu<s n="adj"/></l><r>planlegge<s n="adj"/></r></p></e>
     <e><p><l>suunniteltu<s n="adj"/></l><r>planlegge<s n="adj"/></r></p></e>
+    <e><p><l>suuntainen<s n="adj"/></l><r>av en viss retning<s n="adj"/></r></p></e>
+    <e><p><l>suurikokoinen<s n="adj"/></l><r>stor av størrelse<s n="adj"/></r></p></e>
     <e><p><l>suurin<s n="adj"/></l><r>maks<s n="adj"/></r></p></e>
     <e><p><l>suurin<s n="adj"/></l><r>størst<s n="adj"/></r></p></e>
+    <e><p><l>suuri<s n="adj"/></l><r>stor<s n="adj"/></r></p></e>
+    <e><p><l>suvereeni<s n="adj"/></l><r>suveren<s n="adj"/></r></p></e>
+    <e><p><l>sveitsiläinen<s n="adj"/></l><r>sveitsisk<s n="adj"/></r></p></e>
+    <e><p><l>swazimaalainen<s n="adj"/></l><r>swazilendisk<s n="adj"/></r></p></e>
+    <e><p><l>sydämellinen<s n="adj"/></l><r>hjertelig<s n="adj"/></r></p></e>
+    <e><p><l>symbolinen<s n="adj"/></l><r>symbolsk<s n="adj"/></r></p></e>
+    <e><p><l>symmetrinen<s n="adj"/></l><r>symmetrisk<s n="adj"/></r></p></e>
+    <e><p><l>synkkä<s n="adj"/></l><r>dyster<s n="adj"/></r></p></e>
+    <e><p><l>synnynnäinen<s n="adj"/></l><r>medfødt<s n="adj"/></r></p></e>
+    <e><p><l>synnyttävä<s n="adj"/></l><r>fødende<s n="adj"/></r></p></e>
+    <e><p><l>synteettinen<s n="adj"/></l><r>syntetisk<s n="adj"/></r></p></e>
+    <e><p><l>syntinen<s n="adj"/></l><r>syndig<s n="adj"/></r></p></e>
     <e><p><l>syntynyt<s n="adj"/></l><r>føde<s n="adj"/></r></p></e>
+    <e><p><l>syntyperäinen<s n="adj"/></l><r>innfødt<s n="adj"/></r></p></e>
+    <e><p><l>syrjäinen<s n="adj"/></l><r>avsidesliggende<s n="adj"/></r></p></e>
     <e><p><l>systemaattinen<s n="adj"/></l><r>systematisere<s n="adj"/></r></p></e>
+    <e><p><l>systemaattinen<s n="adj"/></l><r>systematisk<s n="adj"/></r></p></e>
+    <e><p><l>syvyinen<s n="adj"/></l><r>dyp<s n="adj"/></r></p></e>
+    <e><p><l>syvällinen<s n="adj"/></l><r>grundig<s n="adj"/></r></p></e>
     <e><p><l>syvä<s n="adj"/></l><r>dyp<s n="adj"/></r></p></e>
+    <e><p><l>syyllinen<s n="adj"/></l><r>skyldig<s n="adj"/></r></p></e>
+    <e><p><l>syyntakeeton<s n="adj"/></l><r>utilregnelig<s n="adj"/></r></p></e>
+    <e><p><l>syyrialainen<s n="adj"/></l><r>syrisk<s n="adj"/></r></p></e>
     <e><p><l>syytetty<s n="adj"/></l><r>sikte<s n="adj"/></r></p></e>
+    <e><p><l>syytön<s n="adj"/></l><r>uskyldig<s n="adj"/></r></p></e>
+    <e><p><l>sähköinen<s n="adj"/></l><r>elektrisk<s n="adj"/></r></p></e>
     <e><p><l>sähköinen<s n="adj"/></l><r>elektrisk<s n="adj"/></r></p></e>
     <e><p><l>sähköinen<s n="adj"/></l><r>elektronisk<s n="adj"/></r></p></e>
+    <e><p><l>sähkömagneettinen<s n="adj"/></l><r>elektromagnetisk<s n="adj"/></r></p></e>
     <e><p><l>sävelletty<s n="adj"/></l><r>komponere<s n="adj"/></r></p></e>
+    <e><p><l>säädetty<s n="adj"/></l><r>regulert<s n="adj"/></r></p></e>
+    <e><p><l>säännöllinen<s n="adj"/></l><r>regelmessig<s n="adj"/></r></p></e>
     <e><p><l>säännöllinen<s n="adj"/></l><r>regulær<s n="adj"/></r></p></e>
+    <e><p><l>tadžikistanilainen<s n="adj"/></l><r>tadsjikisk<s n="adj"/></r></p></e>
+    <e><p><l>tahallinen<s n="adj"/></l><r>intensjonell<s n="adj"/></r></p></e>
     <e><p><l>taidokas<s n="adj"/></l><r>dyktig<s n="adj"/></r></p></e>
+    <e><p><l>taidokas<s n="adj"/></l><r>kyndig<s n="adj"/></r></p></e>
+    <e><p><l>taipunut<s n="adj"/></l><r>bøyd<s n="adj"/></r></p></e>
+    <e><p><l>taipuva<s n="adj"/></l><r>bøyelig<s n="adj"/></r></p></e>
+    <e><p><l>taipuva<s n="adj"/></l><r>fleksibel<s n="adj"/></r></p></e>
+    <e><p><l>taisteleva<s n="adj"/></l><r>kjempende<s n="adj"/></r></p></e>
+    <e><p><l>taitamaton<s n="adj"/></l><r>klønete<s n="adj"/></r></p></e>
+    <e><p><l>taitava<s n="adj"/></l><r>flink<s n="adj"/></r></p></e>
+    <e><p><l>taiteellinen<s n="adj"/></l><r>kunstnerisk<s n="adj"/></r></p></e>
+    <e><p><l>taivaallinen<s n="adj"/></l><r>himmelsk<s n="adj"/></r></p></e>
+    <e><p><l>takavetoinen<s n="adj"/></l><r>bakhjulsdrevet<s n="adj"/></r></p></e>
+    <e><p><l>taktinen<s n="adj"/></l><r>taktisk<s n="adj"/></r></p></e>
     <e><p><l>taloudellinen<s n="adj"/></l><r>økonomisk<s n="adj"/></r></p></e>
+    <e><p><l>talvinen<s n="adj"/></l><r>vinterlig<s n="adj"/></r></p></e>
+    <e><p><l>tansanialainen<s n="adj"/></l><r>tanzaniansk<s n="adj"/></r></p></e>
     <e><p><l>tanskalainen<s n="adj"/></l><r>dansk<s n="adj"/></r></p></e>
     <e><p><l>tanskanvaikutuksenalainen<s n="adj"/></l><r>danskpåverka<s n="adj"/></r></p></e>
+    <e><p><l>tantrinen<s n="adj"/></l><r>tantrisk<s n="adj"/></r></p></e>
+    <e><p><l>tapaoikeudellinen<s n="adj"/></l><r>sedvanerettslig<s n="adj"/></r></p></e>
     <e><p><l>tapettu<s n="adj"/></l><r>drepe<s n="adj"/></r></p></e>
+    <e><p><l>tappava<s n="adj"/></l><r>dødelig<s n="adj"/></r></p></e>
+    <e><p><l>tappiollinen<s n="adj"/></l><r>som går med tap<s n="adj"/></r></p></e>
+    <e><p><l>tarkkasilmäinen<s n="adj"/></l><r>lærenem<s n="adj"/></r></p></e>
+    <e><p><l>tarkka<s n="adj"/></l><r>nøyaktig<s n="adj"/></r></p></e>
+    <e><p><l>tarkoituksellinen<s n="adj"/></l><r>frivillig<s n="adj"/></r></p></e>
     <e><p><l>tarkoituksellinen<s n="adj"/></l><r>mene<s n="adj"/></r></p></e>
+    <e><p><l>tarmokas<s n="adj"/></l><r>energisk<s n="adj"/></r></p></e>
     <e><p><l>tarpeellinen<s n="adj"/></l><r>nødvendig<s n="adj"/></r></p></e>
+    <e><p><l>tarpeeton<s n="adj"/></l><r>overflødig<s n="adj"/></r></p></e>
     <e><p><l>tarpeeton<s n="adj"/></l><r>unødvendig<s n="adj"/></r></p></e>
+    <e><p><l>tarttuva<s n="adj"/></l><r>klebrig<s n="adj"/></r></p></e>
     <e><p><l>tarttuva<s n="adj"/></l><r>smittsom<s n="adj"/></r></p></e>
     <e><p><l>tartunnaton<s n="adj"/></l><r>smittefri<s n="adj"/></r></p></e>
     <e><p><l>tasa-arvoinen<s n="adj"/></l><r>likestilt<s n="adj"/></r></p></e>
+    <e><p><l>tasainen<s n="adj"/></l><r>flat<s n="adj"/></r></p></e>
+    <e><p><l>tasainen<s n="adj"/></l><r>jevn<s n="adj"/></r></p></e>
+    <e><p><l>tasapainoinen<s n="adj"/></l><r>balansert<s n="adj"/></r></p></e>
+    <e><p><l>tasavertainen<s n="adj"/></l><r>jevnbyrdig<s n="adj"/></r></p></e>
     <e><p><l>tasopohjainen<s n="adj"/></l><r>nivåbasert<s n="adj"/></r></p></e>
     <e><p><l>tavallinen<s n="adj"/></l><r>vanleg<s n="adj"/></r></p></e>
+    <e><p><l>tavallinen<s n="adj"/></l><r>vanlig<s n="adj"/></r></p></e>
     <e><p><l>tavallinen<s n="adj"/></l><r>vanlig<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>tavanmukainen<s n="adj"/></l><r>sedvanlig<s n="adj"/></r></p></e>
+    <e><p><l>tavanomainen<s n="adj"/></l><r>vanlig<s n="adj"/></r></p></e>
     <e><p><l>tehokas<s n="adj"/></l><r>effektiv<s n="adj"/></r></p></e>
+    <e><p><l>tehoton<s n="adj"/></l><r>ineffektiv<s n="adj"/></r></p></e>
     <e><p><l>tehoton<s n="adj"/></l><r>virkningsløs<s n="adj"/></r></p></e>
     <e><p><l>tehty<s n="adj"/></l><r>gjøre<s n="adj"/></r></p></e>
     <e><p><l>teini-ikäinen<s n="adj"/></l><r>tenårig<s n="adj"/></r></p></e>
+    <e><p><l>teknillinen<s n="adj"/></l><r>teknisk<s n="adj"/></r></p></e>
     <e><p><l>tekninen<s n="adj"/></l><r>teknisk<s n="adj"/></r></p></e>
     <e><p><l>teknologinen<s n="adj"/></l><r>teknologisk<s n="adj"/></r></p></e>
+    <e><p><l>teloitettu<s n="adj"/></l><r>henretta<s n="adj"/></r></p></e>
+    <e><p><l>teollinen<s n="adj"/></l><r>industriell<s n="adj"/></r></p></e>
+    <e><p><l>teollistunut<s n="adj"/></l><r>industrialisert<s n="adj"/></r></p></e>
+    <e><p><l>teologinen<s n="adj"/></l><r>teologisk<s n="adj"/></r></p></e>
+    <e><p><l>teoreettinen<s n="adj"/></l><r>teoretisk<s n="adj"/></r></p></e>
+    <e><p><l>terveellinen<s n="adj"/></l><r>sunn<s n="adj"/></r></p></e>
+    <e><p><l>terve<s n="adj"/></l><r>frisk<s n="adj"/></r></p></e>
+    <e><p><l>terveydellinen<s n="adj"/></l><r>sunn<s n="adj"/></r></p></e>
+    <e><p><l>terävä<s n="adj"/></l><r>kvass<s n="adj"/></r></p></e>
     <e><p><l>terävä<s n="adj"/></l><r>skarp<s n="adj"/></r></p></e>
+    <e><p><l>thaimaalainen<s n="adj"/></l><r>thailandsk<s n="adj"/></r></p></e>
+    <e><p><l>tieteellinen<s n="adj"/></l><r>vitenskapelig<s n="adj"/></r></p></e>
+    <e><p><l>tietoinen<s n="adj"/></l><r>bevisst<s n="adj"/></r></p></e>
+    <e><p><l>tietoteoreettinen<s n="adj"/></l><r>vitenskapsteoretisk<s n="adj"/></r></p></e>
+    <e><p><l>tietty<s n="adj"/></l><r>kjent<s n="adj"/></r></p></e>
     <e><p><l>tietty<s n="adj"/></l><r>viss<s n="adj"/></r></p></e>
+    <e><p><l>tiettävä<s n="adj"/></l><r>naturligvis<s n="adj"/></r></p></e>
+    <e><p><l>tietynlainen<s n="adj"/></l><r>viss<s n="adj"/></r></p></e>
+    <e><p><l>tietämätön<s n="adj"/></l><r>uvitende<s n="adj"/></r></p></e>
+    <e><p><l>tietäväinen<s n="adj"/></l><r>bevisst<s n="adj"/></r></p></e>
+    <e><p><l>tiheä<s n="adj"/></l><r>tjukk<s n="adj"/></r></p></e>
+    <e><p><l>tiibetiläinen<s n="adj"/></l><r>tibetansk<s n="adj"/></r></p></e>
+    <e><p><l>tiivis<s n="adj"/></l><r>tett<s n="adj"/></r></p></e>
+    <e><p><l>tilapäinen<s n="adj"/></l><r>foreløpig<s n="adj"/></r></p></e>
+    <e><p><l>tilastollinen<s n="adj"/></l><r>statistisk<s n="adj"/></r></p></e>
     <e><p><l>tilava<s n="adj"/></l><r>volumiøs<s n="adj"/></r></p></e>
+    <e><p><l>tiukka<s n="adj"/></l><r>stram<s n="adj"/></r></p></e>
     <e><p><l>tiukka<s n="adj"/></l><r>streng<s n="adj"/></r></p></e>
     <e><p><l>todellinen<s n="adj"/></l><r>egentlig<s n="adj"/></r></p></e>
     <e><p><l>todellinen<s n="adj"/></l><r>virkelig<s n="adj"/></r></p></e>
+    <e><p><l>todennäköinen<s n="adj"/></l><r>trolig<s n="adj"/></r></p></e>
+    <e><p><l>todistettava<s n="adj"/></l><r>bevislig<s n="adj"/></r></p></e>
+    <e><p><l>togolainen<s n="adj"/></l><r>togolesisk<s n="adj"/></r></p></e>
+    <e><p><l>toiminnallinen<s n="adj"/></l><r>funksjonell<s n="adj"/></r></p></e>
+    <e><p><l>toimintakykyinen<s n="adj"/></l><r>fungerende<s n="adj"/></r></p></e>
     <e><p><l>toimitettu<s n="adj"/></l><r>skipe<s n="adj"/></r></p></e>
     <e><p><l>toimitettu<s n="adj"/></l><r>transportere<s n="adj"/></r></p></e>
+    <e><p><l>toimiva<s n="adj"/></l><r>fungerende<s n="adj"/></r></p></e>
     <e><p><l>toinen<s n="adj"/></l><r>annan<s n="adj"/></r></p></e>
+    <e><p><l>toisenlainen<s n="adj"/></l><r>annerledes<s n="adj"/></r></p></e>
     <e><p><l>toisenlainen<s n="adj"/></l><r>ulik<s n="adj"/></r></p></e>
+    <e><p><l>toissijainen<s n="adj"/></l><r>annenrangs<s n="adj"/></r></p></e>
     <e><p><l>toistuva<s n="adj"/></l><r>tilbakevendende<s n="adj"/></r></p></e>
+    <e><p><l>toiveikas<s n="adj"/></l><r>forhåpningsfull<s n="adj"/></r></p></e>
+    <e><p><l>toivottu<s n="adj"/></l><r>ønsket<s n="adj"/></r></p></e>
+    <e><p><l>tongalainen<s n="adj"/></l><r>tongansk<s n="adj"/></r></p></e>
+    <e><p><l>topologinen<s n="adj"/></l><r>topologisk<s n="adj"/></r></p></e>
+    <e><p><l>tosiasiallinen<s n="adj"/></l><r>alvorlig<s n="adj"/></r></p></e>
     <e><p><l>tosi<s n="adj"/></l><r>sann<s n="adj"/></r></p></e>
+    <e><p><l>toteutettu<s n="adj"/></l><r>realisert<s n="adj"/></r></p></e>
+    <e><p><l>transsukupuolinen<s n="adj"/></l><r>transkjønna<s n="adj"/></r></p></e>
+    <e><p><l>traumaattinen<s n="adj"/></l><r>traumatisk<s n="adj"/></r></p></e>
+    <e><p><l>trinidadtobagolainen<s n="adj"/></l><r>trinidadisk<s n="adj"/></r></p></e>
+    <e><p><l>triviaali<s n="adj"/></l><r>triviell<s n="adj"/></r></p></e>
+    <e><p><l>trooppinen<s n="adj"/></l><r>tropisk<s n="adj"/></r></p></e>
+    <e><p><l>tšadilainen<s n="adj"/></l><r>tsjadisk<s n="adj"/></r></p></e>
     <e><p><l>tuhma<s n="adj"/></l><r>skitten<s n="adj"/></r></p></e>
+    <e><p><l>tuhoava<s n="adj"/></l><r>ødeleggende<s n="adj"/></r></p></e>
+    <e><p><l>tuhoisa<s n="adj"/></l><r>ødeleggende<s n="adj"/></r></p></e>
     <e><p><l>tuhottu<s n="adj"/></l><r>rive<s n="adj"/></r></p></e>
+    <e><p><l>tuhottu<s n="adj"/></l><r>tilintetgjort<s n="adj"/></r></p></e>
     <e><p><l>tuhottu<s n="adj"/></l><r>ødelagt<s n="adj"/></r></p></e>
+    <e><p><l>tukeva<s n="adj"/></l><r>stabil<s n="adj"/></r></p></e>
+    <e><p><l>tukeva<s n="adj"/></l><r>stødig<s n="adj"/></r></p></e>
     <e><p><l>tuleva<s n="adj"/></l><r>forestående<s n="adj"/></r></p></e>
     <e><p><l>tuleva<s n="adj"/></l><r>fremtidig<s n="adj"/></r></p></e>
     <e><p><l>tuleva<s n="adj"/></l><r>fremtidlig<s n="adj"/></r></p></e>
+    <e><p><l>tuleva<s n="adj"/></l><r>kommende<s n="adj"/></r></p></e>
+    <e><p><l>tuliperäinen<s n="adj"/></l><r>vulkansk<s n="adj"/></r></p></e>
     <e><p><l>tullut<s n="adj"/></l><r>bli<s n="adj"/></r></p></e>
+    <e><p><l>tummanharmaa<s n="adj"/></l><r>mørkegrå<s n="adj"/></r></p></e>
+    <e><p><l>tummanpunainen<s n="adj"/></l><r>mørkerøde<s n="adj"/></r></p></e>
+    <e><p><l>tummanruskea<s n="adj"/></l><r>mørkebrun<s n="adj"/></r></p></e>
+    <e><p><l>tummansininen<s n="adj"/></l><r>mørkeblå<s n="adj"/></r></p></e>
+    <e><p><l>tumma<s n="adj"/></l><r>mørk<s n="adj"/></r></p></e>
+    <e><p><l>tunisialainen<s n="adj"/></l><r>tunisisk<s n="adj"/></r></p></e>
     <e><p><l>tunnepitoinen<s n="adj"/></l><r>følelsesladet<s n="adj"/></r></p></e>
     <e><p><l>tunnettu<s n="adj"/></l><r>betrakte<s n="adj"/></r></p></e>
     <e><p><l>tunnettu<s n="adj"/></l><r>kjend<s n="adj"/></r></p></e>
     <e><p><l>tunnettu<s n="adj"/></l><r>kjend<s n="adj"/></r></p></e>
     <e><p><l>tunnettu<s n="adj"/></l><r>kjent<s n="adj"/></r></p></e>
+    <e><p><l>tunnettu<s n="adj"/></l><r>kjent<s n="adj"/></r></p></e>
     <e><p><l>tunnettu<s n="adj"/></l><r>velkjent<s n="adj"/></r></p></e>
     <e><p><l>tunnistettava<s n="adj"/></l><r>gjenkjennelig<s n="adj"/></r></p></e>
+    <e><p><l>tunnistettava<s n="adj"/></l><r>identifiserbar<s n="adj"/></r></p></e>
     <e><p><l>tunnistettu<s n="adj"/></l><r>identifisere<s n="adj"/></r></p></e>
+    <e><p><l>tunnusomainen<s n="adj"/></l><r>karakteristisk<s n="adj"/></r></p></e>
+    <e><p><l>tunnustettu<s n="adj"/></l><r>anerkjent<s n="adj"/></r></p></e>
     <e><p><l>tunnustettu<s n="adj"/></l><r>kreditere<s n="adj"/></r></p></e>
     <e><p><l>tuntematon<s n="adj"/></l><r>anerkjent<s n="adj"/></r></p></e>
+    <e><p><l>tuntematon<s n="adj"/></l><r>uidentifiserbar<s n="adj"/></r></p></e>
     <e><p><l>tuntematon<s n="adj"/></l><r>ukjent<s n="adj"/></r></p></e>
+    <e><p><l>tuntuva<s n="adj"/></l><r>betydningsfull<s n="adj"/></r></p></e>
+    <e><p><l>tuntuva<s n="adj"/></l><r>merkbar<s n="adj"/></r></p></e>
+    <e><p><l>tuollainen<s n="adj"/></l><r>slik som det der<s n="adj"/></r></p></e>
+    <e><p><l>tuolloinen<s n="adj"/></l><r>en slik en<s n="adj"/></r></p></e>
+    <e><p><l>tuomittu<s n="adj"/></l><r>domfelt<s n="adj"/></r></p></e>
+    <e><p><l>tuonpuoleinen<s n="adj"/></l><r>hinsidig<s n="adj"/></r></p></e>
+    <e><p><l>tuore<s n="adj"/></l><r>fersk<s n="adj"/></r></p></e>
     <e><p><l>tuotettu<s n="adj"/></l><r>produsere<s n="adj"/></r></p></e>
     <e><p><l>tuotettu<s n="adj"/></l><r>produsere<s n="adj"/></r></p></e>
+    <e><p><l>tuottelias<s n="adj"/></l><r>produktiv<s n="adj"/></r></p></e>
+    <e><p><l>tuottoisa<s n="adj"/></l><r>produktiv<s n="adj"/></r></p></e>
     <e><p><l>tuotu<s n="adj"/></l><r>innføre<s n="adj"/></r></p></e>
+    <e><p><l>turha<s n="adj"/></l><r>fåfengt<s n="adj"/></r></p></e>
+    <e><p><l>turkkilainen<s n="adj"/></l><r>tyrkisk<s n="adj"/></r></p></e>
+    <e><p><l>turkmenistanilainen<s n="adj"/></l><r>turkmensk<s n="adj"/></r></p></e>
+    <e><p><l>turvallinen<s n="adj"/></l><r>trygg<s n="adj"/></r></p></e>
+    <e><p><l>turvaton<s n="adj"/></l><r>utrygg<s n="adj"/></r></p></e>
     <e><p><l>tutkittu<s n="adj"/></l><r>undersøke<s n="adj"/></r></p></e>
+    <e><p><l>tutkiva<s n="adj"/></l><r>undersøkende<s n="adj"/></r></p></e>
     <e><p><l>tuttu<s n="adj"/></l><r>kjenne<s n="adj"/></r></p></e>
+    <e><p><l>tuttu<s n="adj"/></l><r>kjent<s n="adj"/></r></p></e>
     <e><p><l>tuttu<s n="adj"/></l><r>utprøve<s n="adj"/></r></p></e>
+    <e><p><l>tuuhea<s n="adj"/></l><r>lodden<s n="adj"/></r></p></e>
+    <e><p><l>tuulinen<s n="adj"/></l><r>blåsende<s n="adj"/></r></p></e>
+    <e><p><l>tuvalulainen<s n="adj"/></l><r>tuvalisk<s n="adj"/></r></p></e>
+    <e><p><l>tyhjä<s n="adj"/></l><r>tom<s n="adj"/></r></p></e>
+    <e><p><l>tyhmä<s n="adj"/></l><r>dum<s n="adj"/></r></p></e>
     <e><p><l>tyhmä<s n="adj"/></l><r>dum<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>tylsä<s n="adj"/></l><r>kjedelig<s n="adj"/></r></p></e>
+    <e><p><l>tylsä<s n="adj"/></l><r>sløv<s n="adj"/></r></p></e>
+    <e><p><l>typerä<s n="adj"/></l><r>dum<s n="adj"/></r></p></e>
+    <e><p><l>tyylikäs<s n="adj"/></l><r>stilig<s n="adj"/></r></p></e>
+    <e><p><l>tyyni<s n="adj"/></l><r>rolig<s n="adj"/></r></p></e>
     <e><p><l>tyypillinen<s n="adj"/></l><r>dominerande<s n="adj"/></r></p></e>
     <e><p><l>tyypillinen<s n="adj"/></l><r>typisk<s n="adj"/></r></p></e>
     <e><p><l>tyytymätön<s n="adj"/></l><r>misfornøyd<s n="adj"/></r></p></e>
+    <e><p><l>tyytyväinen<s n="adj"/></l><r>fornøyd<s n="adj"/></r></p></e>
+    <e><p><l>työkykyinen<s n="adj"/></l><r>arbeidsfør<s n="adj"/></r></p></e>
     <e><p><l>työllistetty<s n="adj"/></l><r>ansette<s n="adj"/></r></p></e>
+    <e><p><l>työläs<s n="adj"/></l><r>besværlig<s n="adj"/></r></p></e>
+    <e><p><l>työskentelevä<s n="adj"/></l><r>arbeidende<s n="adj"/></r></p></e>
+    <e><p><l>työtön<s n="adj"/></l><r>arbeidsløs<s n="adj"/></r></p></e>
+    <e><p><l>tähtienvälinen<s n="adj"/></l><r>interstellar<s n="adj"/></r></p></e>
+    <e><p><l>tähtitieteellinen<s n="adj"/></l><r>astronomisk<s n="adj"/></r></p></e>
+    <e><p><l>tällainen<s n="adj"/></l><r>en slik<s n="adj"/></r></p></e>
+    <e><p><l>tämänhetkinen<s n="adj"/></l><r>nåtidig<s n="adj"/></r></p></e>
     <e><p><l>tänäinen<s n="adj"/></l><r>dagens<s n="adj"/></r></p></e>
+    <e><p><l>tärkeä<s n="adj"/></l><r>viktig<s n="adj"/></r></p></e>
     <e><p><l>tärkeä<s n="adj"/></l><r>viktig<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>täsmällinen<s n="adj"/></l><r>presis<s n="adj"/></r></p></e>
+    <e><p><l>täydellinen<s n="adj"/></l><r>fyldestgjørende<s n="adj"/></r></p></e>
     <e><p><l>täydellinen<s n="adj"/></l><r>komplett<s n="adj"/></r></p></e>
     <e><p><l>täydellinen<s n="adj"/></l><r>perfekt<s n="adj"/></r></p></e>
+    <e><p><l>täydentävä<s n="adj"/></l><r>supplerende<s n="adj"/></r></p></e>
+    <e><p><l>täysi-ikäinen<s n="adj"/></l><r>fullvoksen<s n="adj"/></r></p></e>
+    <e><p><l>täysikasvuinen<s n="adj"/></l><r>voksen<s n="adj"/></r></p></e>
+    <e><p><l>täysimittainen<s n="adj"/></l><r>fullvoksen<s n="adj"/></r></p></e>
+    <e><p><l>täysi<s n="adj"/></l><r>full<s n="adj"/></r></p></e>
     <e><p><l>täysi<s n="adj"/></l><r>hele<s n="adj"/></r></p></e>
     <e><p><l>täysi<s n="adj"/></l><r>total<s n="adj"/></r></p></e>
+    <e><p><l>täysivaltainen<s n="adj"/></l><r>myndig<s n="adj"/></r></p></e>
+    <e><p><l>täytetty<s n="adj"/></l><r>fylt<s n="adj"/></r></p></e>
+    <e><p><l>törkeä<s n="adj"/></l><r>viktig<s n="adj"/></r></p></e>
+    <e><p><l>ugandalainen<s n="adj"/></l><r>ugandisk<s n="adj"/></r></p></e>
+    <e><p><l>uhanalainen<s n="adj"/></l><r>trua<s n="adj"/></r></p></e>
+    <e><p><l>uhkaava<s n="adj"/></l><r>truende<s n="adj"/></r></p></e>
+    <e><p><l>uiva<s n="adj"/></l><r>svømmende<s n="adj"/></r></p></e>
+    <e><p><l>ujo<s n="adj"/></l><r>sjenert<s n="adj"/></r></p></e>
+    <e><p><l>ukrainalainen<s n="adj"/></l><r>ukrainsk<s n="adj"/></r></p></e>
+    <e><p><l>ulkoinen<s n="adj"/></l><r>ytre<s n="adj"/></r></p></e>
+    <e><p><l>ulkomaalainen<s n="adj"/></l><r>utenlandsk<s n="adj"/></r></p></e>
+    <e><p><l>ulkomainen<s n="adj"/></l><r>utenlandsk<s n="adj"/></r></p></e>
+    <e><p><l>ulkopoliittinen<s n="adj"/></l><r>utenrikspolitisk<s n="adj"/></r></p></e>
+    <e><p><l>ulkopuolinen<s n="adj"/></l><r>utenforstående<s n="adj"/></r></p></e>
+    <e><p><l>ulompi<s n="adj"/></l><r>ytre<s n="adj"/></r></p></e>
+    <e><p><l>universaali<s n="adj"/></l><r>universell<s n="adj"/></r></p></e>
+    <e><p><l>unkarilainen<s n="adj"/></l><r>ungarsk<s n="adj"/></r></p></e>
+    <e><p><l>upea<s n="adj"/></l><r>flott<s n="adj"/></r></p></e>
     <e><p><l>uponnut<s n="adj"/></l><r>synke<s n="adj"/></r></p></e>
+    <e><p><l>uraauurtava<s n="adj"/></l><r>banebrytende<s n="adj"/></r></p></e>
+    <e><p><l>uralilainen<s n="adj"/></l><r>uralsk<s n="adj"/></r></p></e>
+    <e><p><l>urbaani<s n="adj"/></l><r>urban<s n="adj"/></r></p></e>
+    <e><p><l>urhea<s n="adj"/></l><r>tapper<s n="adj"/></r></p></e>
+    <e><p><l>uruguaylainen<s n="adj"/></l><r>uruguayansk<s n="adj"/></r></p></e>
     <e><p><l>usea<s n="adj"/></l><r>mange<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>uskalias<s n="adj"/></l><r>dristig<s n="adj"/></r></p></e>
+    <e><p><l>uskollinen<s n="adj"/></l><r>pålitelig<s n="adj"/></r></p></e>
     <e><p><l>uskollinen<s n="adj"/></l><r>trufast<s n="adj"/></r></p></e>
+    <e><p><l>uskomaton<s n="adj"/></l><r>utrolig<s n="adj"/></r></p></e>
+    <e><p><l>uskonnollinen<s n="adj"/></l><r>kristen<s n="adj"/></r></p></e>
+    <e><p><l>uskonnoton<s n="adj"/></l><r>areligiøs<s n="adj"/></r></p></e>
+    <e><p><l>uskoton<s n="adj"/></l><r>utro<s n="adj"/></r></p></e>
+    <e><p><l>uskottava<s n="adj"/></l><r>troverdig<s n="adj"/></r></p></e>
+    <e><p><l>uskovainen<s n="adj"/></l><r>troende<s n="adj"/></r></p></e>
+    <e><p><l>uskova<s n="adj"/></l><r>troende<s n="adj"/></r></p></e>
+    <e><p><l>utelias<s n="adj"/></l><r>nysgjerrig<s n="adj"/></r></p></e>
     <e><p><l>utopistinen<s n="adj"/></l><r>utopisk<s n="adj"/></r></p></e>
     <e><p><l>uudelleenohjattu<s n="adj"/></l><r>omdirigere<s n="adj"/></r></p></e>
+    <e><p><l>uudenaikainen<s n="adj"/></l><r>moderne<s n="adj"/></r></p></e>
+    <e><p><l>uuno<s n="adj"/></l><r>dum<s n="adj"/></r></p></e>
+    <e><p><l>uusiseelantilainen<s n="adj"/></l><r>nyzealendsk<s n="adj"/></r></p></e>
+    <e><p><l>uusi<s n="adj"/></l><r>ny<s n="adj"/></r></p></e>
     <e><p><l>uusi<s n="adj"/></l><r>ny<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>uusittu<s n="adj"/></l><r>revidere<s n="adj"/></r></p></e>
+    <e><p><l>uusiutuva<s n="adj"/></l><r>fornybar<s n="adj"/></r></p></e>
+    <e><p><l>uusklassinen<s n="adj"/></l><r>nyklassisistisk<s n="adj"/></r></p></e>
+    <e><p><l>uzbekistanilainen<s n="adj"/></l><r>usbekisk<s n="adj"/></r></p></e>
+    <e><p><l>vaadittava<s n="adj"/></l><r>som kreves<s n="adj"/></r></p></e>
+    <e><p><l>vaaleahiuksinen<s n="adj"/></l><r>lyshåret<s n="adj"/></r></p></e>
+    <e><p><l>vaaleanpunainen<s n="adj"/></l><r>rosa<s n="adj"/></r></p></e>
+    <e><p><l>vaalea<s n="adj"/></l><r>lys<s n="adj"/></r></p></e>
     <e><p><l>vaarallinen<s n="adj"/></l><r>farleg<s n="adj"/></r></p></e>
+    <e><p><l>vaarallinen<s n="adj"/></l><r>farlig<s n="adj"/></r></p></e>
     <e><p><l>vaarallinen<s n="adj"/></l><r>farlig<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>vaatimaton<s n="adj"/></l><r>kravløs<s n="adj"/></r></p></e>
     <e><p><l>vaativa<s n="adj"/></l><r>krevende<s n="adj"/></r></p></e>
     <e><p><l>vahingoittunut<s n="adj"/></l><r>skade<s n="adj"/></r></p></e>
+    <e><p><l>vahingollinen<s n="adj"/></l><r>skadelig<s n="adj"/></r></p></e>
     <e><p><l>vahva<s n="adj"/></l><r>forsterke<s n="adj"/></r></p></e>
     <e><p><l>vahva<s n="adj"/></l><r>sterk<s n="adj"/></r></p></e>
+    <e><p><l>vahva<s n="adj"/></l><r>sterk<s n="adj"/></r></p></e>
     <e><p><l>vahva<s n="adj"/></l><r>styrke<s n="adj"/></r></p></e>
+    <e><p><l>vahvistava<s n="adj"/></l><r>forsterkende<s n="adj"/></r></p></e>
+    <e><p><l>vahvistettu<s n="adj"/></l><r>bekrefta<s n="adj"/></r></p></e>
     <e><p><l>vahvistettu<s n="adj"/></l><r>forsterke<s n="adj"/></r></p></e>
+    <e><p><l>vahvuinen<s n="adj"/></l><r>av en viss styrke<s n="adj"/></r></p></e>
     <e><p><l>vaihdettu<s n="adj"/></l><r>bytte<s n="adj"/></r></p></e>
+    <e><p><l>vaihteleva<s n="adj"/></l><r>variabel<s n="adj"/></r></p></e>
     <e><p><l>vaihteleva<s n="adj"/></l><r>variere<s n="adj"/></r></p></e>
+    <e><p><l>vaihteleva<s n="adj"/></l><r>vekslende<s n="adj"/></r></p></e>
     <e><p><l>vaihtoehtoinen<s n="adj"/></l><r>alternativ<s n="adj"/></r></p></e>
+    <e><p><l>vaihtuva<s n="adj"/></l><r>varierende<s n="adj"/></r></p></e>
+    <e><p><l>vaikeakulkuinen<s n="adj"/></l><r>ujevn<s n="adj"/></r></p></e>
+    <e><p><l>vaikeakulkuinen<s n="adj"/></l><r>vanskelig å gå<s n="adj"/></r></p></e>
     <e><p><l>vaikea<s n="adj"/></l><r>vanskelig<s n="adj"/></r></p></e>
+    <e><p><l>vaikuttava<s n="adj"/></l><r>innflytelsesrik<s n="adj"/></r></p></e>
     <e><p><l>vaikutuksenalainen<s n="adj"/></l><r>påverke<s n="adj"/></r></p></e>
     <e><p><l>vaikutusvaltainen<s n="adj"/></l><r>innflytelsesrik<s n="adj"/></r></p></e>
+    <e><p><l>vaillinainen<s n="adj"/></l><r>ufullstendig<s n="adj"/></r></p></e>
+    <e><p><l>vaisu<s n="adj"/></l><r>svak<s n="adj"/></r></p></e>
+    <e><p><l>vaivalloinen<s n="adj"/></l><r>besværlig<s n="adj"/></r></p></e>
     <e><p><l>vajaa<s n="adj"/></l><r>knapp<s n="adj"/></r></p></e>
+    <e><p><l>vajaa<s n="adj"/></l><r>mindre enn<s n="adj"/></r></p></e>
+    <e><p><l>vakaa<s n="adj"/></l><r>stabil<s n="adj"/></r></p></e>
+    <e><p><l>vakava<s n="adj"/></l><r>alvorlig<s n="adj"/></r></p></e>
     <e><p><l>vakiintunut<s n="adj"/></l><r>etablere<s n="adj"/></r></p></e>
+    <e><p><l>vakiintunut<s n="adj"/></l><r>stabil<s n="adj"/></r></p></e>
+    <e><p><l>vakinainen<s n="adj"/></l><r>stabil<s n="adj"/></r></p></e>
+    <e><p><l>vakio<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
+    <e><p><l>vakituinen<s n="adj"/></l><r>permanent<s n="adj"/></r></p></e>
+    <e><p><l>vakuuttava<s n="adj"/></l><r>overbevisende<s n="adj"/></r></p></e>
+    <e><p><l>vakuuttunut<s n="adj"/></l><r>overbevist<s n="adj"/></r></p></e>
+    <e><p><l>valaistu<s n="adj"/></l><r>opplyst<s n="adj"/></r></p></e>
+    <e><p><l>valettu<s n="adj"/></l><r>støpt<s n="adj"/></r></p></e>
+    <e><p><l>valheellinen<s n="adj"/></l><r>løgnaktig<s n="adj"/></r></p></e>
+    <e><p><l>valheellinen<s n="adj"/></l><r>upålitelig<s n="adj"/></r></p></e>
+    <e><p><l>valinnainen<s n="adj"/></l><r>fakultativ<s n="adj"/></r></p></e>
+    <e><p><l>valitettava<s n="adj"/></l><r>beklagelig<s n="adj"/></r></p></e>
     <e><p><l>valittu<s n="adj"/></l><r>velje<s n="adj"/></r></p></e>
+    <e><p><l>valituksenalainen<s n="adj"/></l><r>påklaget<s n="adj"/></r></p></e>
+    <e><p><l>valkea<s n="adj"/></l><r>helt hvit<s n="adj"/></r></p></e>
+    <e><p><l>valkoihoinen<s n="adj"/></l><r>hvithuda<s n="adj"/></r></p></e>
     <e><p><l>valkoinen<s n="adj"/></l><r>hvit<s n="adj"/></r></p></e>
+    <e><p><l>valkovenäläinen<s n="adj"/></l><r>hviterussisk<s n="adj"/></r></p></e>
+    <e><p><l>vallankumouksellinen<s n="adj"/></l><r>revolusjonær<s n="adj"/></r></p></e>
+    <e><p><l>vallitseva<s n="adj"/></l><r>gjeldende<s n="adj"/></r></p></e>
+    <e><p><l>valloitettu<s n="adj"/></l><r>erobra<s n="adj"/></r></p></e>
+    <e><p><l>valmis<s n="adj"/></l><r>ferdig<s n="adj"/></r></p></e>
     <e><p><l>valmis<s n="adj"/></l><r>ferdig<s n="adj"/></r></p></e>
     <e><p><l>valmis<s n="adj"/></l><r>lage<s n="adj"/></r></p></e>
     <e><p><l>valmistettu<s n="adj"/></l><r>kokt<s n="adj"/></r></p></e>
+    <e><p><l>valmistettu<s n="adj"/></l><r>laget<s n="adj"/></r></p></e>
+    <e><p><l>valoherkkä<s n="adj"/></l><r>lysømfindtlig<s n="adj"/></r></p></e>
     <e><p><l>valoisa<s n="adj"/></l><r>lys<s n="adj"/></r></p></e>
+    <e><p><l>valoisa<s n="adj"/></l><r>skinnende<s n="adj"/></r></p></e>
+    <e><p><l>valtaisa<s n="adj"/></l><r>kolossal<s n="adj"/></r></p></e>
+    <e><p><l>valtakunnallinen<s n="adj"/></l><r>riksdekkende<s n="adj"/></r></p></e>
     <e><p><l>valtaosa<s n="adj"/></l><r>flest<s n="adj"/></r></p></e>
+    <e><p><l>valtava<s n="adj"/></l><r>svær<s n="adj"/></r></p></e>
+    <e><p><l>valtiollinen<s n="adj"/></l><r>statlig<s n="adj"/></r></p></e>
     <e><p><l>valtionomistama<s n="adj"/></l><r>statseigd<s n="adj"/></r></p></e>
+    <e><p><l>valtuutettu<s n="adj"/></l><r>bemyndiget<s n="adj"/></r></p></e>
+    <e><p><l>valvova<s n="adj"/></l><r>våkende<s n="adj"/></r></p></e>
+    <e><p><l>vammainen<s n="adj"/></l><r>vanfør<s n="adj"/></r></p></e>
+    <e><p><l>vangittu<s n="adj"/></l><r>fengslet<s n="adj"/></r></p></e>
+    <e><p><l>vanhanaikainen<s n="adj"/></l><r>gammeldags<s n="adj"/></r></p></e>
+    <e><p><l>vanhanaikainen<s n="adj"/></l><r>umoderne<s n="adj"/></r></p></e>
+    <e><p><l>vanha<s n="adj"/></l><r>gammel<s n="adj"/></r></p></e>
     <e><p><l>vanha<s n="adj"/></l><r>gammel<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>vanhentunut<s n="adj"/></l><r>foreldet<s n="adj"/></r></p></e>
+    <e><p><l>vanhoillinen<s n="adj"/></l><r>gammeldags<s n="adj"/></r></p></e>
+    <e><p><l>vankka<s n="adj"/></l><r>solid<s n="adj"/></r></p></e>
+    <e><p><l>vanuatulainen<s n="adj"/></l><r>vanuatuisk<s n="adj"/></r></p></e>
     <e><p><l>vapaaehtoinen<s n="adj"/></l><r>frivillig<s n="adj"/></r></p></e>
+    <e><p><l>vapaamielinen<s n="adj"/></l><r>liberal<s n="adj"/></r></p></e>
+    <e><p><l>vapaamuotoinen<s n="adj"/></l><r>fri<s n="adj"/></r></p></e>
+    <e><p><l>vapaa<s n="adj"/></l><r>fri<s n="adj"/></r></p></e>
     <e><p><l>vapaa<s n="adj"/></l><r>fri<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>vapautettu<s n="adj"/></l><r>frigjort<s n="adj"/></r></p></e>
+    <e><p><l>vapauttava<s n="adj"/></l><r>frifinnende<s n="adj"/></r></p></e>
+    <e><p><l>varakas<s n="adj"/></l><r>formuende<s n="adj"/></r></p></e>
     <e><p><l>varastoitu<s n="adj"/></l><r>lagre<s n="adj"/></r></p></e>
+    <e><p><l>varaton<s n="adj"/></l><r>uformuende<s n="adj"/></r></p></e>
     <e><p><l>varattu<s n="adj"/></l><r>opptatt<s n="adj"/></r></p></e>
+    <e><p><l>varhainen<s n="adj"/></l><r>tidlig<s n="adj"/></r></p></e>
     <e><p><l>varma<s n="adj"/></l><r>sikker<s n="adj"/></r></p></e>
     <e><p><l>varovainen<s n="adj"/></l><r>forsiktig<s n="adj"/></r></p></e>
     <e><p><l>varsinainen<s n="adj"/></l><r>aktuell<s n="adj"/></r></p></e>
+    <e><p><l>varsinainen<s n="adj"/></l><r>egentlig<s n="adj"/></r></p></e>
+    <e><p><l>varteenotettava<s n="adj"/></l><r>betydningsfull<s n="adj"/></r></p></e>
+    <e><p><l>varteenotettava<s n="adj"/></l><r>viktig<s n="adj"/></r></p></e>
+    <e><p><l>vasemmanpuoleinen<s n="adj"/></l><r>venstresidig<s n="adj"/></r></p></e>
+    <e><p><l>vasemmistolainen<s n="adj"/></l><r>person på venstresida<s n="adj"/></r></p></e>
+    <e><p><l>vasen<s n="adj"/></l><r>venstre<s n="adj"/></r></p></e>
+    <e><p><l>vastaavanlainen<s n="adj"/></l><r>tilsvarende<s n="adj"/></r></p></e>
     <e><p><l>vastaava<s n="adj"/></l><r>lignende<s n="adj"/></r></p></e>
     <e><p><l>vastaava<s n="adj"/></l><r>tilsvarande<s n="adj"/></r></p></e>
+    <e><p><l>vastaava<s n="adj"/></l><r>tilsvarende<s n="adj"/></r></p></e>
+    <e><p><l>vastakkainen<s n="adj"/></l><r>motstridende<s n="adj"/></r></p></e>
+    <e><p><l>vastasyntynyt<s n="adj"/></l><r>nyfødt<s n="adj"/></r></p></e>
     <e><p><l>vastavuoroinen<s n="adj"/></l><r>gjengjelde<s n="adj"/></r></p></e>
     <e><p><l>vastuullinen<s n="adj"/></l><r>ansvarlig<s n="adj"/></r></p></e>
+    <e><p><l>vastuullinen<s n="adj"/></l><r>ansvarsfull<s n="adj"/></r></p></e>
     <e><p><l>vastuullinen<s n="adj"/></l><r>forsvarlig<s n="adj"/></r></p></e>
+    <e><p><l>vatikaanilainen<s n="adj"/></l><r>vatikansk<s n="adj"/></r></p></e>
+    <e><p><l>vauhko<s n="adj"/></l><r>sky<s n="adj"/></r></p></e>
+    <e><p><l>vauras<s n="adj"/></l><r>rik<s n="adj"/></r></p></e>
+    <e><p><l>vaurioitunut<s n="adj"/></l><r>skada<s n="adj"/></r></p></e>
     <e><p><l>vegaaninen<s n="adj"/></l><r>vege<s n="adj"/></r></p></e>
+    <e><p><l>velallinen<s n="adj"/></l><r>forgjeldet<s n="adj"/></r></p></e>
+    <e><p><l>velallinen<s n="adj"/></l><r>skyldig<s n="adj"/></r></p></e>
+    <e><p><l>velvollinen<s n="adj"/></l><r>pliktig<s n="adj"/></r></p></e>
+    <e><p><l>venetsialainen<s n="adj"/></l><r>venetsiansk<s n="adj"/></r></p></e>
+    <e><p><l>venezuelalainen<s n="adj"/></l><r>venezuelansk<s n="adj"/></r></p></e>
+    <e><p><l>venäjänkielinen<s n="adj"/></l><r>russiskspråklig<s n="adj"/></r></p></e>
+    <e><p><l>venäläinen<s n="adj"/></l><r>russisk<s n="adj"/></r></p></e>
+    <e><p><l>verinen<s n="adj"/></l><r>blodig<s n="adj"/></r></p></e>
+    <e><p><l>veroton<s n="adj"/></l><r>skattefri<s n="adj"/></r></p></e>
+    <e><p><l>verrannollinen<s n="adj"/></l><r>sammenlignbar<s n="adj"/></r></p></e>
     <e><p><l>vesipohjainen<s n="adj"/></l><r>vannbasert<s n="adj"/></r></p></e>
+    <e><p><l>vetävä<s n="adj"/></l><r>drivende<s n="adj"/></r></p></e>
+    <e><p><l>vetäytynyt<s n="adj"/></l><r>tilbaketrukket<s n="adj"/></r></p></e>
+    <e><p><l>viehättävä<s n="adj"/></l><r>tiltrekkende<s n="adj"/></r></p></e>
     <e><p><l>vieraanlainen<s n="adj"/></l><r>framandarta<s n="adj"/></r></p></e>
     <e><p><l>vieraileva<s n="adj"/></l><r>visiterende<s n="adj"/></r></p></e>
+    <e><p><l>vieras<s n="adj"/></l><r>fremmed<s n="adj"/></r></p></e>
+    <e><p><l>viereinen<s n="adj"/></l><r>den som er ved siden av<s n="adj"/></r></p></e>
+    <e><p><l>vietnamilainen<s n="adj"/></l><r>vietnamesisk<s n="adj"/></r></p></e>
     <e><p><l>vihainen<s n="adj"/></l><r>sint<s n="adj"/></r></p></e>
+    <e><p><l>vihamielinen<s n="adj"/></l><r>fiendtlig<s n="adj"/></r></p></e>
     <e><p><l>vihamielinen<s n="adj"/></l><r>hatefull<s n="adj"/></r></p></e>
+    <e><p><l>vihertävä<s n="adj"/></l><r>grønnaktig<s n="adj"/></r></p></e>
+    <e><p><l>vihitty<s n="adj"/></l><r>vigsla<s n="adj"/></r></p></e>
+    <e><p><l>vihreä<s n="adj"/></l><r>grønn<s n="adj"/></r></p></e>
+    <e><p><l>viikoittainen<s n="adj"/></l><r>ukentlig<s n="adj"/></r></p></e>
+    <e><p><l>viileä<s n="adj"/></l><r>kjølig<s n="adj"/></r></p></e>
+    <e><p><l>viimeaikainen<s n="adj"/></l><r>nylig<s n="adj"/></r></p></e>
     <e><p><l>viimeinen<s n="adj"/></l><r>final<s n="adj"/></r></p></e>
+    <e><p><l>viimeinen<s n="adj"/></l><r>siste<s n="adj"/></r></p></e>
     <e><p><l>viimeinen<s n="adj"/></l><r>sist<s n="adj"/></r></p></e>
     <e><p><l>viimeksimainittu<s n="adj"/></l><r>sistnevnt<s n="adj"/></r></p></e>
+    <e><p><l>viisas<s n="adj"/></l><r>klok<s n="adj"/></r></p></e>
+    <e><p><l>viisivuotias<s n="adj"/></l><r>femårig<s n="adj"/></r></p></e>
+    <e><p><l>viitseliäs<s n="adj"/></l><r>flittig<s n="adj"/></r></p></e>
+    <e><p><l>vikkelä<s n="adj"/></l><r>smidig<s n="adj"/></r></p></e>
+    <e><p><l>viljava<s n="adj"/></l><r>fruktbar<s n="adj"/></r></p></e>
+    <e><p><l>viljelykelpoinen<s n="adj"/></l><r>dyrkbar<s n="adj"/></r></p></e>
+    <e><p><l>vilkas<s n="adj"/></l><r>livlig<s n="adj"/></r></p></e>
     <e><p><l>vilkkuva<s n="adj"/></l><r>blinke<s n="adj"/></r></p></e>
+    <e><p><l>villi<s n="adj"/></l><r>ustyrlig<s n="adj"/></r></p></e>
+    <e><p><l>villi<s n="adj"/></l><r>vill<s n="adj"/></r></p></e>
     <e><p><l>villi<s n="adj"/></l><r>viltvoksende<s n="adj"/></r></p></e>
+    <e><p><l>vilpitön<s n="adj"/></l><r>oppriktig<s n="adj"/></r></p></e>
+    <e><p><l>violetti<s n="adj"/></l><r>fiolett<s n="adj"/></r></p></e>
     <e><p><l>virallinen<s n="adj"/></l><r>offisiell<s n="adj"/></r></p></e>
+    <e><p><l>virheellinen<s n="adj"/></l><r>feilaktig<s n="adj"/></r></p></e>
+    <e><p><l>virheellinen<s n="adj"/></l><r>uriktig<s n="adj"/></r></p></e>
+    <e><p><l>virolainen<s n="adj"/></l><r>estisk<s n="adj"/></r></p></e>
     <e><p><l>virtuaalinen<s n="adj"/></l><r>virtuell<s n="adj"/></r></p></e>
+    <e><p><l>visuaalinen<s n="adj"/></l><r>visuell<s n="adj"/></r></p></e>
+    <e><p><l>vitaali<s n="adj"/></l><r>vital<s n="adj"/></r></p></e>
     <e><p><l>voimakas<s n="adj"/></l><r>drive<s n="adj"/></r></p></e>
     <e><p><l>voimakas<s n="adj"/></l><r>kraftig<s n="adj"/></r></p></e>
     <e><p><l>voimakas<s n="adj"/></l><r>mektig<s n="adj"/></r></p></e>
+    <e><p><l>voimakas<s n="adj"/></l><r>sterk<s n="adj"/></r></p></e>
+    <e><p><l>voimaton<s n="adj"/></l><r>kraftløs<s n="adj"/></r></p></e>
     <e><p><l>voitettu<s n="adj"/></l><r>vunnen<s n="adj"/></r></p></e>
+    <e><p><l>voitettu<s n="adj"/></l><r>vunnet<s n="adj"/></r></p></e>
+    <e><p><l>vulkaaninen<s n="adj"/></l><r>vulkansk<s n="adj"/></r></p></e>
     <e><p><l>vuokrattu<s n="adj"/></l><r>leie<s n="adj"/></r></p></e>
     <e><p><l>vuoristoinen<s n="adj"/></l><r>fjellrik<s n="adj"/></r></p></e>
     <e><p><l>vuoropohjainen<s n="adj"/></l><r>turbasert<s n="adj"/></r></p></e>
     <e><p><l>vuosittainen<s n="adj"/></l><r>årets<s n="adj"/></r></p></e>
+    <e><p><l>vuosittainen<s n="adj"/></l><r>årlig<s n="adj"/></r></p></e>
+    <e><p><l>vuotuinen<s n="adj"/></l><r>årsgammel<s n="adj"/></r></p></e>
+    <e><p><l>vähäinen<s n="adj"/></l><r>liten<s n="adj"/></r></p></e>
     <e><p><l>vähäinen<s n="adj"/></l><r>litt<s n="adj"/></r></p></e>
+    <e><p><l>vähälukuinen<s n="adj"/></l><r>fåtallig<s n="adj"/></r></p></e>
     <e><p><l>vähän<s n="adj"/></l><r>mindre<s n="adj"/></r></p></e>
+    <e><p><l>vähä<s n="adj"/></l><r>litt<s n="adj"/></r></p></e>
+    <e><p><l>väkevä<s n="adj"/></l><r>mektig<s n="adj"/></r></p></e>
+    <e><p><l>väkevä<s n="adj"/></l><r>sterk<s n="adj"/></r></p></e>
     <e><p><l>väkirikas<s n="adj"/></l><r>folkerik<s n="adj"/></r></p></e>
+    <e><p><l>väkivaltainen<s n="adj"/></l><r>voldelig<s n="adj"/></r></p></e>
     <e><p><l>väkivaltainen<s n="adj"/></l><r>voldsom<s n="adj"/></r></p></e>
     <e><p><l>väliaikainen<s n="adj"/></l><r>midlertidig<s n="adj"/></r></p></e>
+    <e><p><l>välinpitämätön<s n="adj"/></l><r>likegyldig<s n="adj"/></r></p></e>
+    <e><p><l>välitön<s n="adj"/></l><r>rak<s n="adj"/></r></p></e>
+    <e><p><l>väljä<s n="adj"/></l><r>vid<s n="adj"/></r></p></e>
     <e><p><l>vältetty<s n="adj"/></l><r>avstå<s n="adj"/></r></p></e>
+    <e><p><l>välttämätön<s n="adj"/></l><r>uunngåelig<s n="adj"/></r></p></e>
+    <e><p><l>värikäs<s n="adj"/></l><r>fargerik<s n="adj"/></r></p></e>
+    <e><p><l>värikäs<s n="adj"/></l><r>mangefasettert<s n="adj"/></r></p></e>
+    <e><p><l>värillinen<s n="adj"/></l><r>fargerik<s n="adj"/></r></p></e>
+    <e><p><l>värillinen<s n="adj"/></l><r>farget<s n="adj"/></r></p></e>
+    <e><p><l>värinen<s n="adj"/></l><r>av en viss farge<s n="adj"/></r></p></e>
+    <e><p><l>väritön<s n="adj"/></l><r>fargelaus<s n="adj"/></r></p></e>
+    <e><p><l>väsynyt<s n="adj"/></l><r>trøtt<s n="adj"/></r></p></e>
     <e><p><l>väärä<s n="adj"/></l><r>feil<s n="adj"/></r></p></e>
+    <e><p><l>yhdenmukainen<s n="adj"/></l><r>enhetlig<s n="adj"/></r></p></e>
+    <e><p><l>yhdistetty<s n="adj"/></l><r>fusjonert<s n="adj"/></r></p></e>
+    <e><p><l>yhdistynyt<s n="adj"/></l><r>forent<s n="adj"/></r></p></e>
+    <e><p><l>yhdistyvä<s n="adj"/></l><r>samlende<s n="adj"/></r></p></e>
+    <e><p><l>yhdistävä<s n="adj"/></l><r>samlende<s n="adj"/></r></p></e>
+    <e><p><l>yhdysvaltalainen<s n="adj"/></l><r>USA-amerikansk<s n="adj"/></r></p></e>
     <e><p><l>yhteenpalannut<s n="adj"/></l><r>gjenforene<s n="adj"/></r></p></e>
+    <e><p><l>yhteensopiva<s n="adj"/></l><r>kompatibel<s n="adj"/></r></p></e>
+    <e><p><l>yhteinen<s n="adj"/></l><r>felles<s n="adj"/></r></p></e>
     <e><p><l>yhteinen<s n="adj"/></l><r>felles<s n="adj"/></r></p></e>
     <e><p><l>yhteinen<s n="adj"/></l><r>kollektiv<s n="adj"/></r></p></e>
+    <e><p><l>yhteiskunnallinen<s n="adj"/></l><r>samfunnsmessig<s n="adj"/></r></p></e>
     <e><p><l>yhteisöllinen<s n="adj"/></l><r>kommunal<s n="adj"/></r></p></e>
+    <e><p><l>yhteisöllinen<s n="adj"/></l><r>samfunnsmessig<s n="adj"/></r></p></e>
+    <e><p><l>yhtenäinen<s n="adj"/></l><r>enhetlig<s n="adj"/></r></p></e>
+    <e><p><l>yhtenäinen<s n="adj"/></l><r>helhetlig<s n="adj"/></r></p></e>
+    <e><p><l>yhtäläinen<s n="adj"/></l><r>likedan<s n="adj"/></r></p></e>
+    <e><p><l>yksilöllinen<s n="adj"/></l><r>individuell<s n="adj"/></r></p></e>
     <e><p><l>yksimielinen<s n="adj"/></l><r>enig<s n="adj"/></r></p></e>
+    <e><p><l>yksimielinen<s n="adj"/></l><r>enstemmig<s n="adj"/></r></p></e>
+    <e><p><l>yksinkertainen<s n="adj"/></l><r>enkel<s n="adj"/></r></p></e>
     <e><p><l>yksinkertainen<s n="adj"/></l><r>enkel<s n="adj"/></r></p></e>
     <e><p><l>yksinkertainen<s n="adj"/></l><r>enkelt<s n="adj"/></r></p></e>
+    <e><p><l>yksinkertaistettu<s n="adj"/></l><r>forenkla<s n="adj"/></r></p></e>
+    <e><p><l>yksinvaltainen<s n="adj"/></l><r>eneveldig<s n="adj"/></r></p></e>
     <e><p><l>yksinäinen<s n="adj"/></l><r>alene<s n="adj"/></r></p></e>
     <e><p><l>yksinäinen<s n="adj"/></l><r>alene<s n="adj"/></r></p></e>
     <e><p><l>yksinäinen<s n="adj"/></l><r>ensom<s n="adj"/></r></p></e>
+    <e><p><l>yksipuolinen<s n="adj"/></l><r>ensidig<s n="adj"/></r></p></e>
     <e><p><l>yksiselitteinen<s n="adj"/></l><r>entydig<s n="adj"/></r></p></e>
+    <e><p><l>yksisuuntainen<s n="adj"/></l><r>envegskjørt<s n="adj"/></r></p></e>
+    <e><p><l>yksittäinen<s n="adj"/></l><r>enkeltstående<s n="adj"/></r></p></e>
     <e><p><l>yksittäinen<s n="adj"/></l><r>individuell<s n="adj"/></r></p></e>
+    <e><p><l>yksittäinen<s n="adj"/></l><r>separat<s n="adj"/></r></p></e>
     <e><p><l>yksityinen<s n="adj"/></l><r>privat<s n="adj"/></r></p></e>
     <e><p><l>yksityiskohtainen<s n="adj"/></l><r>detaljert<s n="adj"/></r></p></e>
+    <e><p><l>yksivuotinen<s n="adj"/></l><r>årsgammel<s n="adj"/></r></p></e>
+    <e><p><l>yleinen<s n="adj"/></l><r>allmenn<s n="adj"/></r></p></e>
+    <e><p><l>yleinen<s n="adj"/></l><r>generell<s n="adj"/></r></p></e>
     <e><p><l>yleinen<s n="adj"/></l><r>generell<s n="adj"/></r></p></e>
     <e><p><l>yleinen<s n="adj"/></l><r>ofte<s n="adj"/></r></p></e>
+    <e><p><l>yleismaailmallinen<s n="adj"/></l><r>universell<s n="adj"/></r></p></e>
+    <e><p><l>ylempi<s n="adj"/></l><r>øvre<s n="adj"/></r></p></e>
+    <e><p><l>ylennetty<s n="adj"/></l><r>forfremma<s n="adj"/></r></p></e>
     <e><p><l>yliajettu<s n="adj"/></l><r>overkjøre<s n="adj"/></r></p></e>
     <e><p><l>yliluonnollinen<s n="adj"/></l><r>ekstradimensjonell<s n="adj"/></r></p></e>
+    <e><p><l>yliluonnollinen<s n="adj"/></l><r>overnaturlig<s n="adj"/></r></p></e>
+    <e><p><l>ylimielinen<s n="adj"/></l><r>overlegen<s n="adj"/></r></p></e>
     <e><p><l>ylimääräinen<s n="adj"/></l><r>ekstra<s n="adj"/></r></p></e>
+    <e><p><l>ylimääräinen<s n="adj"/></l><r>overdrevet<s n="adj"/></r></p></e>
+    <e><p><l>ylin<s n="adj"/></l><r>øverst<s n="adj"/></r></p></e>
+    <e><p><l>yliopistollinen<s n="adj"/></l><r>tilhørende universitetet<s n="adj"/></r></p></e>
+    <e><p><l>ylivertainen<s n="adj"/></l><r>overlegen<s n="adj"/></r></p></e>
+    <e><p><l>yllättävä<s n="adj"/></l><r>overraskende<s n="adj"/></r></p></e>
+    <e><p><l>ylpeä<s n="adj"/></l><r>overlegen<s n="adj"/></r></p></e>
     <e><p><l>ylänorjalainen<s n="adj"/></l><r>høgnorsk<s n="adj"/></r></p></e>
+    <e><p><l>ymmärrettävä<s n="adj"/></l><r>forståelig<s n="adj"/></r></p></e>
+    <e><p><l>ymmärtämätön<s n="adj"/></l><r>uforståelig<s n="adj"/></r></p></e>
+    <e><p><l>ymmärtävä<s n="adj"/></l><r>forstående<s n="adj"/></r></p></e>
+    <e><p><l>ympärivuotinen<s n="adj"/></l><r>helårig<s n="adj"/></r></p></e>
+    <e><p><l>ympäröivä<s n="adj"/></l><r>omliggende<s n="adj"/></r></p></e>
+    <e><p><l>yritteliäs<s n="adj"/></l><r>foretaksom<s n="adj"/></r></p></e>
+    <e><p><l>ystävällinen<s n="adj"/></l><r>vennlig<s n="adj"/></r></p></e>
+    <e><p><l>zimbabwelainen<s n="adj"/></l><r>zimbabwisk<s n="adj"/></r></p></e>
+    <e><p><l>äkillinen<s n="adj"/></l><r>brå<s n="adj"/></r></p></e>
+    <e><p><l>äkillinen<s n="adj"/></l><r>plutselig<s n="adj"/></r></p></e>
+    <e><p><l>äkkipikainen<s n="adj"/></l><r>hissig<s n="adj"/></r></p></e>
+    <e><p><l>älykäs<s n="adj"/></l><r>intelligent<s n="adj"/></r></p></e>
+    <e><p><l>älyllinen<s n="adj"/></l><r>intellektuell<s n="adj"/></r></p></e>
+    <e><p><l>äänekäs<s n="adj"/></l><r>høyrøstet<s n="adj"/></r></p></e>
+    <e><p><l>ääninen<s n="adj"/></l><r>lydlig<s n="adj"/></r></p></e>
+    <e><p><l>äänioikeutettu<s n="adj"/></l><r>stemmeberettiget<s n="adj"/></r></p></e>
+    <e><p><l>äärellinen<s n="adj"/></l><r>endelig<s n="adj"/></r></p></e>
+    <e><p><l>ääretön<s n="adj"/></l><r>uendelig<s n="adj"/></r></p></e>
+    <e><p><l>äärimmäinen<s n="adj"/></l><r>ekstrem<s n="adj"/></r></p></e>
     <e><p><l>äärioikeistolainen<s n="adj"/></l><r>høyreekstrem<s n="adj"/></r></p></e>
     <e r="LR" c="wrong but colloquial argh"><p><l>yhdysvaltalainen<s n="adj"/></l><r>amerikansk<s n="adj"/></r></p></e>
     <e r="LR"><p><l>paras<s n="adj"/></l><r>god<s n="adj"/><s n="sint"/></r></p></e>
+    <e w="2"><p><l>kaksikerroksinen<s n="adj"/></l><r>bestående av to lag<s n="adj"/></r></p></e>
+    <e w="2"><p><l>ruskea<s n="adj"/></l><r>gulbrun<s n="adj"/></r></p></e>
 
 
 

@@ -76,16 +76,24 @@ def handle_e(e: xml.etree.ElementTree.Element, apes: dict, output: TextIO):
         print(f"    {lemma}.{pos}")
     for i, trans in enumerate(translations):
         print(f"        {trans}.{transposes[i]}")
+        default = "y"
+        if " " in lemma:
+            print("      (lemmas with spaces get extra weight by default)")
+            default = "3"
         if src_in_bidix:
             if apes[lemma + "\t" + pos] == trans + "\t" + transposes[i]:
-                print("     (already in bidix skipping...)")
+                print("(already in bidix skipping...)")
                 continue
             else:
                 print("     (existing in bidix as: " +
-                      apes[lemma + "\t" + pos] + ")")
+                      apes[lemma + "\t" + pos] + "; adding default weight)")
+                default = "2"
         if examples:
             print(f"\t\"{examples[i]}\" ~ \"{tranxamples[i]}\"")
-        answer = input("yes, no, quit, or integer weight? ")
+        answer = input("yes, no, quit, or integer weight? default: " +
+                       default + ". ")
+        if answer == "":
+            answer = default
         if answer in ["y", "yes"]:
             print(f"    <e><p><l>{lemma}<s n=\"{pos}\"/></l>"
                   f"<r>{trans}<s n=\"{transposes[i]}\"/></r></p></e>",
