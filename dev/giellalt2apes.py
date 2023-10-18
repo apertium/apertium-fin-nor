@@ -115,7 +115,7 @@ def handle_e(e: xml.etree.ElementTree.Element, apes: dict, output: TextIO):
                 print("     (existing in bidix as: " +
                       apes[lemma + "\t" + pos] + "; adding default weight)")
                 default = "2"
-        if examples:
+        if i in examples:
             print(f"\t\"{examples[i]}\" ~ \"{tranxamples[i]}\"")
         answer = input("yes, no, quit, or integer weight? default: " +
                        default + ". ")
