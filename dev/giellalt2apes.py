@@ -11,8 +11,30 @@ def giella2apes(giella: str) -> str:
     """Convert pos tag from giellalt dict to apertium."""
     if giella == "Adv":
         return "adv"
-    if giella == "A":
+    elif giella == "A":
         return "adj"
+    elif giella == "CC":
+        return "cnjcoo"
+    elif giella == "CS":
+        return "cnjsub"
+    elif giella == "Interj":
+        return "ij"
+    elif giella == "N":
+        return "n"
+    elif giella == "Num":
+        return "num"
+    elif giella == "Pcle":
+        return "pcle"
+    elif giella == "Po":
+        return "post"
+    elif giella == "Pr":
+        return "pr"
+    elif giella == "Pron":
+        return "prn"
+    elif giella == "Prop":
+        return "np"
+    elif giella == "V":
+        return "vblex"
     else:
         print(f"missing giella tag conversion for {giella}!")
         return "x"
@@ -37,6 +59,8 @@ def handle_mg(mg: xml.etree.ElementTree.Element, apes: dict,
                             tranxamples.append(example.text)
                         else:
                             print(f"Unrecognised {example.tag} under {trans.tag}")
+                elif trans.tag == "re":
+                    print(f"  context restriction? {trans.text}")
                 else:
                     print(f"Unrecognised {trans.tag} under {morph.tag}")
         else:
@@ -77,9 +101,12 @@ def handle_e(e: xml.etree.ElementTree.Element, apes: dict, output: TextIO):
     for i, trans in enumerate(translations):
         print(f"        {trans}.{transposes[i]}")
         default = "y"
-        if " " in lemma:
+        if " " in trans:
             print("      (lemmas with spaces get extra weight by default)")
             default = "3"
+        elif "xxx" in trans:
+            print("     (lemmas with todo symbols get ignored")
+            default = "n"
         if src_in_bidix:
             if apes[lemma + "\t" + pos] == trans + "\t" + transposes[i]:
                 print("(already in bidix skipping...)")
@@ -139,11 +166,13 @@ def read_apes(apefile: TextIO):
                                     for tags in side:
                                         if tags.tag == "s":
                                             srcpos = tags.attrib["n"]
+                                            break
                                 elif side.tag == "r":
                                     trglemma = side.text
                                     for tags in side:
                                         if tags.tag == "s":
                                             trgpos = tags.attrib["n"]
+                                            break
                     if not srclemma:
                         print("missing lemma in: ", entry)
                         continue
@@ -171,6 +200,8 @@ def main():
                      required=True)
     arp.add_argument("-r", "--reference", metavar="APEFILE", type=open,
                      dest="apefile", help="read reference bidix from APEFILE")
+    arp.add_argument("-y", "--accept-default", action="store_true",
+                     help="non-interactive mode that selects default always")
     arp.add_argument("-v", "--verbose", action="store_true",
                      help="print verbosely while opeartioning")
     options = arp.parse_args()
