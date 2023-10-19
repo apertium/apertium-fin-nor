@@ -31,6 +31,8 @@ def giella2apes(giella: str) -> str:
         return "pr"
     elif giella == "Pron":
         return "prn"
+    elif giella == "Det":
+        return "det"
     elif giella == "Prop":
         return "np"
     elif giella == "V":
@@ -173,11 +175,14 @@ def read_apes(apefile: TextIO):
                                         if tags.tag == "s":
                                             trgpos = tags.attrib["n"]
                                             break
+                        elif part.tag == "re":
+                            srclemma = "__regexp__"
+                            trglemma = "__regexp__"
                     if not srclemma:
-                        print("missing lemma in: ", entry)
+                        print("missing source lemma in: ", entry)
                         continue
                     if not srcpos:
-                        print("missing pos in: ", entry)
+                        print("missing source pos in: ", entry)
                         continue
                     if not trglemma:
                         print("missing target lemma in: ", entry)
