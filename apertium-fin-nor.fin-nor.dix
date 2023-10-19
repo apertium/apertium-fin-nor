@@ -196,93 +196,93 @@ Work by Trond Trosterud at UiT. Source code
     <e w="2"><p><l>moni<s n="prn"/></l><r>noen<s n="det"/></r></p></e>
     <e w="2"><p><l>muu<s n="prn"/></l><r>annen<s n="det"/></r></p></e>
 
-    <!-- giellalt dict pcles -->
+    <!-- giellalt dict parts -->
 
-    <e><p><l>kuitenkin<s n="pcle"/></l><r>likevel<s n="adv"/></r></p></e>
-    <e><p><l>vain<s n="pcle"/></l><r>bare<s n="adv"/></r></p></e>
-    <e w="3"><p><l>jopa<s n="pcle"/></l><r>til og med<s n="adv"/></r></p></e>
-    <e w="3"><p><l>kuten<s n="pcle"/></l><r>slik som<s n="adv"/></r></p></e>
-    <e w="3"><p><l>kuten<s n="pcle"/></l><r>akkurat som<s n="adv"/></r></p></e>
-    <e><p><l>jo<s n="pcle"/></l><r>allerede<s n="adv"/></r></p></e>
-    <e><p><l>voi<s n="pcle"/></l><r>oi<s n="adv"/></r></p></e>
-    <e><p><l>vielä<s n="pcle"/></l><r>enda<s n="adv"/></r></p></e>
-    <e><p><l>lähes<s n="pcle"/></l><r>nesten<s n="adv"/></r></p></e>
-    <e><p><l>taas<s n="pcle"/></l><r>igjen<s n="adv"/></r></p></e>
-    <e><p><l>vasta<s n="pcle"/></l><r>nettopp<s n="adv"/></r></p></e>
-    <e><p><l>enää<s n="pcle"/></l><r>mer<s n="adv"/></r></p></e>
-    <e><p><l>siis<s n="pcle"/></l><r>altså<s n="adv"/></r></p></e>
-    <e><p><l>yhä<s n="pcle"/></l><r>enda<s n="adv"/></r></p></e>
-    <e><p><l>ainoastaan<s n="pcle"/></l><r>bare<s n="adv"/></r></p></e>
-    <e><p><l>melko<s n="pcle"/></l><r>temmelig<s n="adv"/></r></p></e>
-    <e><p><l>melko<s n="pcle"/></l><r>ganske<s n="adv"/></r></p></e>
-    <e><p><l>varsin<s n="pcle"/></l><r>ganske<s n="adv"/></r></p></e>
-    <e><p><l>nyt<s n="pcle"/></l><r>nå<s n="adv"/></r></p></e>
-    <e><p><l>juuri<s n="pcle"/></l><r>nettopp<s n="adv"/></r></p></e>
-    <e><p><l>liian<s n="pcle"/></l><r>bare<s n="adv"/></r></p></e>
-    <e><p><l>siten<s n="pcle"/></l><r>slik<s n="adv"/></r></p></e>
-    <e><p><l>aivan<s n="pcle"/></l><r>ganske<s n="adv"/></r></p></e>
-    <e><p><l>ehkä<s n="pcle"/></l><r>kanskje<s n="adv"/></r></p></e>
-    <e><p><l>silti<s n="pcle"/></l><r>likevel<s n="adv"/></r></p></e>
-    <e><p><l>kaikkiaan<s n="pcle"/></l><r>tilsammen<s n="adv"/></r></p></e>
-    <e><p><l>sitä<s n="pcle"/></l><r>desto<s n="adv"/></r></p></e>
-    <e><p><l>aika<s n="pcle"/></l><r>ganske<s n="adv"/></r></p></e>
-    <e><p><l>asti<s n="pcle"/></l><r>til<s n="adv"/></r></p></e>
-    <e><p><l>samoin<s n="pcle"/></l><r>samme<s n="adv"/></r></p></e>
-    <e><p><l>ensi<s n="pcle"/></l><r>første<s n="adv"/></r></p></e>
-    <e><p><l>ensi<s n="pcle"/></l><r>førstkommende<s n="adv"/></r></p></e>
-    <e><p><l>kaikkein<s n="pcle"/></l><r>aller<s n="adv"/></r></p></e>
-    <e w="3"><p><l>päin<s n="pcle"/></l><r>i retning av<s n="adv"/></r></p></e>
-    <e><p><l>lähtien<s n="pcle"/></l><r>fra<s n="adv"/></r></p></e>
-    <e><p><l>koko<s n="pcle"/></l><r>hel<s n="adv"/></r></p></e>
-    <e><p><l>kovin<s n="pcle"/></l><r>veldig<s n="adv"/></r></p></e>
-    <e><p><l>kyse<s n="pcle"/></l><r>spørsmål<s n="adv"/></r></p></e>
-    <e><p><l>siksi<s n="pcle"/></l><r>derfor<s n="adv"/></r></p></e>
-    <e><p><l>saakka<s n="pcle"/></l><r>til<s n="adv"/></r></p></e>
-    <e><p><l>jaa<s n="pcle"/></l><r>jasså<s n="adv"/></r></p></e>
-    <e><p><l>noin<s n="pcle"/></l><r>omtrent<s n="adv"/></r></p></e>
-    <e><p><l>lisää<s n="pcle"/></l><r>ytterligere<s n="adv"/></r></p></e>
-    <e><p><l>kyllä<s n="pcle"/></l><r>så<s n="adv"/></r></p></e>
-    <e><p><l>tosi<s n="pcle"/></l><r>sann<s n="adv"/></r></p></e>
-    <e><p><l>niin<s n="pcle"/></l><r>slik<s n="adv"/></r></p></e>
-    <e><p><l>no<s n="pcle"/></l><r>nå<s n="adv"/></r></p></e>
-    <e><p><l>myös<s n="pcle"/></l><r>også<s n="adv"/></r></p></e>
-    <e><p><l>anteeksi<s n="pcle"/></l><r>unnskyld<s n="adv"/></r></p></e>
-    <e><p><l>tuskin<s n="pcle"/></l><r>såvidt<s n="adv"/></r></p></e>
-    <e w="3"><p><l>suorastaan<s n="pcle"/></l><r>rett ut sagt<s n="adv"/></r></p></e>
-    <e><p><l>totta<s n="pcle"/></l><r>sant<s n="adv"/></r></p></e>
-    <e><p><l>aina<s n="pcle"/></l><r>alltid<s n="adv"/></r></p></e>
-    <e><p><l>sitten<s n="pcle"/></l><r>så<s n="adv"/></r></p></e>
-    <e><p><l>kerta<s n="pcle"/></l><r>gang<s n="adv"/></r></p></e>
-    <e><p><l>yli<s n="pcle"/></l><r>over<s n="adv"/></r></p></e>
-    <e><p><l>tietenkin<s n="pcle"/></l><r>selvfølgelig<s n="adv"/></r></p></e>
-    <e><p><l>yksin<s n="pcle"/></l><r>alene<s n="adv"/></r></p></e>
-    <e><p><l>näin<s n="pcle"/></l><r>slik<s n="adv"/></r></p></e>
-    <e><p><l>kunnon<s n="pcle"/></l><r>ordentlig<s n="adv"/></r></p></e>
-    <e><p><l>muuten<s n="pcle"/></l><r>ellers<s n="adv"/></r></p></e>
-    <e><p><l>puolestaan<s n="pcle"/></l><r>igjen<s n="adv"/></r></p></e>
-    <e><p><l>erityisesti<s n="pcle"/></l><r>nemlig<s n="adv"/></r></p></e>
-    <e><p><l>oikein<s n="pcle"/></l><r>riktig<s n="adv"/></r></p></e>
-    <e><p><l>näet<s n="pcle"/></l><r>nemlig<s n="adv"/></r></p></e>
-    <e><p><l>ihan<s n="pcle"/></l><r>ganske<s n="adv"/></r></p></e>
-    <e><p><l>myöskin<s n="pcle"/></l><r>også<s n="adv"/></r></p></e>
-    <e><p><l>paitsi<s n="pcle"/></l><r>unntatt<s n="adv"/></r></p></e>
-    <e><p><l>joka<s n="pcle"/></l><r>hver<s n="adv"/></r></p></e>
-    <e><p><l>puoli<s n="pcle"/></l><r>halv<s n="adj"/></r></p></e>
-    <e><p><l>täten<s n="pcle"/></l><r>slik<s n="adv"/></r></p></e>
-    <e><p><l>kai<s n="pcle"/></l><r>kanskje<s n="adv"/></r></p></e>
-    <e><p><l>tosiaan<s n="pcle"/></l><r>virkelig<s n="adv"/></r></p></e>
-    <e w="3"><p><l>liika<s n="pcle"/></l><r>noe ekstra<s n="adv"/></r></p></e>
-    <e><p><l>varmaankin<s n="pcle"/></l><r>kanskje<s n="adv"/></r></p></e>
-    <e><p><l>tietysti<s n="pcle"/></l><r>naturligvis<s n="adv"/></r></p></e>
-    <e w="3"><p><l>ainakin<s n="pcle"/></l><r>i alle fall<s n="adv"/></r></p></e>
-    <e><p><l>melkein<s n="pcle"/></l><r>nesten<s n="adv"/></r></p></e>
-    <e><p><l>nimittäin<s n="pcle"/></l><r>nemlig<s n="adv"/></r></p></e>
-    <e><p><l>entä<s n="pcle"/></l><r>enn<s n="adv"/></r></p></e>
-    <e><p><l>haava<s n="pcle"/></l><r>sår<s n="adv"/></r></p></e>
-    <e><p><l>tervetuloa<s n="pcle"/></l><r>velkommen<s n="adv"/></r></p></e>
-    <e><p><l>eri<s n="pcle"/></l><r>annen<s n="adv"/></r></p></e>
-    <e><p><l>tarkalleen<s n="pcle"/></l><r>akkurat<s n="adv"/></r></p></e>
-    <e w="3"><p><l>näköjään<s n="pcle"/></l><r>se ut til<s n="adv"/></r></p></e>
+    <e><p><l>kuitenkin<s n="part"/></l><r>likevel<s n="adv"/></r></p></e>
+    <e><p><l>vain<s n="part"/></l><r>bare<s n="adv"/></r></p></e>
+    <e w="3"><p><l>jopa<s n="part"/></l><r>til og med<s n="adv"/></r></p></e>
+    <e w="3"><p><l>kuten<s n="part"/></l><r>slik som<s n="adv"/></r></p></e>
+    <e w="3"><p><l>kuten<s n="part"/></l><r>akkurat som<s n="adv"/></r></p></e>
+    <e><p><l>jo<s n="part"/></l><r>allerede<s n="adv"/></r></p></e>
+    <e><p><l>voi<s n="part"/></l><r>oi<s n="adv"/></r></p></e>
+    <e><p><l>vielä<s n="part"/></l><r>enda<s n="adv"/></r></p></e>
+    <e><p><l>lähes<s n="part"/></l><r>nesten<s n="adv"/></r></p></e>
+    <e><p><l>taas<s n="part"/></l><r>igjen<s n="adv"/></r></p></e>
+    <e><p><l>vasta<s n="part"/></l><r>nettopp<s n="adv"/></r></p></e>
+    <e><p><l>enää<s n="part"/></l><r>mer<s n="adv"/></r></p></e>
+    <e><p><l>siis<s n="part"/></l><r>altså<s n="adv"/></r></p></e>
+    <e><p><l>yhä<s n="part"/></l><r>enda<s n="adv"/></r></p></e>
+    <e><p><l>ainoastaan<s n="part"/></l><r>bare<s n="adv"/></r></p></e>
+    <e><p><l>melko<s n="part"/></l><r>temmelig<s n="adv"/></r></p></e>
+    <e><p><l>melko<s n="part"/></l><r>ganske<s n="adv"/></r></p></e>
+    <e><p><l>varsin<s n="part"/></l><r>ganske<s n="adv"/></r></p></e>
+    <e><p><l>nyt<s n="part"/></l><r>nå<s n="adv"/></r></p></e>
+    <e><p><l>juuri<s n="part"/></l><r>nettopp<s n="adv"/></r></p></e>
+    <e><p><l>liian<s n="part"/></l><r>bare<s n="adv"/></r></p></e>
+    <e><p><l>siten<s n="part"/></l><r>slik<s n="adv"/></r></p></e>
+    <e><p><l>aivan<s n="part"/></l><r>ganske<s n="adv"/></r></p></e>
+    <e><p><l>ehkä<s n="part"/></l><r>kanskje<s n="adv"/></r></p></e>
+    <e><p><l>silti<s n="part"/></l><r>likevel<s n="adv"/></r></p></e>
+    <e><p><l>kaikkiaan<s n="part"/></l><r>tilsammen<s n="adv"/></r></p></e>
+    <e><p><l>sitä<s n="part"/></l><r>desto<s n="adv"/></r></p></e>
+    <e><p><l>aika<s n="part"/></l><r>ganske<s n="adv"/></r></p></e>
+    <e><p><l>asti<s n="part"/></l><r>til<s n="adv"/></r></p></e>
+    <e><p><l>samoin<s n="part"/></l><r>samme<s n="adv"/></r></p></e>
+    <e><p><l>ensi<s n="part"/></l><r>første<s n="adv"/></r></p></e>
+    <e><p><l>ensi<s n="part"/></l><r>førstkommende<s n="adv"/></r></p></e>
+    <e><p><l>kaikkein<s n="part"/></l><r>aller<s n="adv"/></r></p></e>
+    <e w="3"><p><l>päin<s n="part"/></l><r>i retning av<s n="adv"/></r></p></e>
+    <e><p><l>lähtien<s n="part"/></l><r>fra<s n="adv"/></r></p></e>
+    <e><p><l>koko<s n="part"/></l><r>hel<s n="adv"/></r></p></e>
+    <e><p><l>kovin<s n="part"/></l><r>veldig<s n="adv"/></r></p></e>
+    <e><p><l>kyse<s n="part"/></l><r>spørsmål<s n="adv"/></r></p></e>
+    <e><p><l>siksi<s n="part"/></l><r>derfor<s n="adv"/></r></p></e>
+    <e><p><l>saakka<s n="part"/></l><r>til<s n="adv"/></r></p></e>
+    <e><p><l>jaa<s n="part"/></l><r>jasså<s n="adv"/></r></p></e>
+    <e><p><l>noin<s n="part"/></l><r>omtrent<s n="adv"/></r></p></e>
+    <e><p><l>lisää<s n="part"/></l><r>ytterligere<s n="adv"/></r></p></e>
+    <e><p><l>kyllä<s n="part"/></l><r>så<s n="adv"/></r></p></e>
+    <e><p><l>tosi<s n="part"/></l><r>sann<s n="adv"/></r></p></e>
+    <e><p><l>niin<s n="part"/></l><r>slik<s n="adv"/></r></p></e>
+    <e><p><l>no<s n="part"/></l><r>nå<s n="adv"/></r></p></e>
+    <e><p><l>myös<s n="part"/></l><r>også<s n="adv"/></r></p></e>
+    <e><p><l>anteeksi<s n="part"/></l><r>unnskyld<s n="adv"/></r></p></e>
+    <e><p><l>tuskin<s n="part"/></l><r>såvidt<s n="adv"/></r></p></e>
+    <e w="3"><p><l>suorastaan<s n="part"/></l><r>rett ut sagt<s n="adv"/></r></p></e>
+    <e><p><l>totta<s n="part"/></l><r>sant<s n="adv"/></r></p></e>
+    <e><p><l>aina<s n="part"/></l><r>alltid<s n="adv"/></r></p></e>
+    <e><p><l>sitten<s n="part"/></l><r>så<s n="adv"/></r></p></e>
+    <e><p><l>kerta<s n="part"/></l><r>gang<s n="adv"/></r></p></e>
+    <e><p><l>yli<s n="part"/></l><r>over<s n="adv"/></r></p></e>
+    <e><p><l>tietenkin<s n="part"/></l><r>selvfølgelig<s n="adv"/></r></p></e>
+    <e><p><l>yksin<s n="part"/></l><r>alene<s n="adv"/></r></p></e>
+    <e><p><l>näin<s n="part"/></l><r>slik<s n="adv"/></r></p></e>
+    <e><p><l>kunnon<s n="part"/></l><r>ordentlig<s n="adv"/></r></p></e>
+    <e><p><l>muuten<s n="part"/></l><r>ellers<s n="adv"/></r></p></e>
+    <e><p><l>puolestaan<s n="part"/></l><r>igjen<s n="adv"/></r></p></e>
+    <e><p><l>erityisesti<s n="part"/></l><r>nemlig<s n="adv"/></r></p></e>
+    <e><p><l>oikein<s n="part"/></l><r>riktig<s n="adv"/></r></p></e>
+    <e><p><l>näet<s n="part"/></l><r>nemlig<s n="adv"/></r></p></e>
+    <e><p><l>ihan<s n="part"/></l><r>ganske<s n="adv"/></r></p></e>
+    <e><p><l>myöskin<s n="part"/></l><r>også<s n="adv"/></r></p></e>
+    <e><p><l>paitsi<s n="part"/></l><r>unntatt<s n="adv"/></r></p></e>
+    <e><p><l>joka<s n="part"/></l><r>hver<s n="adv"/></r></p></e>
+    <e><p><l>puoli<s n="part"/></l><r>halv<s n="adj"/></r></p></e>
+    <e><p><l>täten<s n="part"/></l><r>slik<s n="adv"/></r></p></e>
+    <e><p><l>kai<s n="part"/></l><r>kanskje<s n="adv"/></r></p></e>
+    <e><p><l>tosiaan<s n="part"/></l><r>virkelig<s n="adv"/></r></p></e>
+    <e w="3"><p><l>liika<s n="part"/></l><r>noe ekstra<s n="adv"/></r></p></e>
+    <e><p><l>varmaankin<s n="part"/></l><r>kanskje<s n="adv"/></r></p></e>
+    <e><p><l>tietysti<s n="part"/></l><r>naturligvis<s n="adv"/></r></p></e>
+    <e w="3"><p><l>ainakin<s n="part"/></l><r>i alle fall<s n="adv"/></r></p></e>
+    <e><p><l>melkein<s n="part"/></l><r>nesten<s n="adv"/></r></p></e>
+    <e><p><l>nimittäin<s n="part"/></l><r>nemlig<s n="adv"/></r></p></e>
+    <e><p><l>entä<s n="part"/></l><r>enn<s n="adv"/></r></p></e>
+    <e><p><l>haava<s n="part"/></l><r>sår<s n="adv"/></r></p></e>
+    <e><p><l>tervetuloa<s n="part"/></l><r>velkommen<s n="adv"/></r></p></e>
+    <e><p><l>eri<s n="part"/></l><r>annen<s n="adv"/></r></p></e>
+    <e><p><l>tarkalleen<s n="part"/></l><r>akkurat<s n="adv"/></r></p></e>
+    <e w="3"><p><l>näköjään<s n="part"/></l><r>se ut til<s n="adv"/></r></p></e>
 
       <!-- guesser fixes -->
 
@@ -16390,7 +16390,7 @@ Work by Trond Trosterud at UiT. Source code
     <e><p><l>tiukentaa<s n="vblex"/></l><r>stramme<s n="vblex"/></r></p></e>
     <e><p><l>todentaa<s n="vblex"/></l><r>bekrefte<s n="vblex"/></r></p></e>
     <e><p><l>todeta<s n="vblex"/></l><r>fastslå<s n="vblex"/></r></p></e>
-    <e><p><l>todeta<s n="vblex"/></l><r>    påpeke<s n="vblex"/></r></p></e>
+    <e><p><l>todeta<s n="vblex"/></l><r>påpeke<s n="vblex"/></r></p></e>
     <e><p><l>todistaa<s n="vblex"/></l><r>bevise<s n="vblex"/></r></p></e>
     <e><p><l>todistaa<s n="vblex"/></l><r>bevitne<s n="vblex"/></r></p></e>
     <e><p><l>todistaa<s n="vblex"/></l><r>vitne<s n="vblex"/></r></p></e>
@@ -16982,7 +16982,7 @@ Work by Trond Trosterud at UiT. Source code
     <e w="3"><p><l>esittäytyä<s n="vblex"/></l><r>introdusere seg selv<s n="vblex"/></r></p></e>
     <e w="3"><p><l>estyä<s n="vblex"/></l><r>bli forhindra<s n="vblex"/></r></p></e>
     <e w="3"><p><l>haavoittua<s n="vblex"/></l><r>bli såret<s n="vblex"/></r></p></e>
-    <e w="3"><p><l>hahmottaa<s n="vblex"/></l><r>   skissere<s n="vblex"/></r></p></e>
+    <e w="3"><p><l>hahmottaa<s n="vblex"/></l><r>skissere<s n="vblex"/></r></p></e>
     <e w="3"><p><l>haikailla<s n="vblex"/></l><r>lengte etter<s n="vblex"/></r></p></e>
     <e w="3"><p><l>hajaantua<s n="vblex"/></l><r>bli oppløst<s n="vblex"/></r></p></e>
     <e w="3"><p><l>hajaantua<s n="vblex"/></l><r>bli splitta<s n="vblex"/></r></p></e>
@@ -17053,15 +17053,14 @@ Work by Trond Trosterud at UiT. Source code
     <e w="3"><p><l>jonottaa<s n="vblex"/></l><r>køe  stå i kø<s n="vblex"/></r></p></e>
     <e w="3"><p><l>joustaa<s n="vblex"/></l><r>følge spor<s n="vblex"/></r></p></e>
     <e w="3"><p><l>joutaa<s n="vblex"/></l><r>ha tid til<s n="vblex"/></r></p></e>
-    <e w="3"><p><l>juhlistaa<s n="vblex"/></l><r>    kunngjøre<s n="vblex"/></r></p></e>
+    <e w="3"><p><l>juhlistaa<s n="vblex"/></l><r>kunngjøre<s n="vblex"/></r></p></e>
     <e w="3"><p><l>julistautua<s n="vblex"/></l><r>erklære seg<s n="vblex"/></r></p></e>
     <e w="3"><p><l>jumpata<s n="vblex"/></l><r>drive på med turn<s n="vblex"/></r></p></e>
     <e w="3"><p><l>juoksuttaa<s n="vblex"/></l><r>løpe etter noe<s n="vblex"/></r></p></e>
     <e w="3"><p><l>juuttua<s n="vblex"/></l><r>bli heftet<s n="vblex"/></r></p></e>
-    <e w="3"><p><l>jyrätä<s n="vblex"/></l><r>rulle over    bulldose seg fram<s n="vblex"/></r></p></e>
     <e w="3"><p><l>järjestyä<s n="vblex"/></l><r>ordne seg<s n="vblex"/></r></p></e>
     <e w="3"><p><l>järjestäytyä<s n="vblex"/></l><r>organisere seg<s n="vblex"/></r></p></e>
-    <e w="3"><p><l>järkyttää<s n="vblex"/></l><r> sjokkere<s n="vblex"/></r></p></e>
+    <e w="3"><p><l>järkyttää<s n="vblex"/></l><r>sjokkere<s n="vblex"/></r></p></e>
     <e w="3"><p><l>jättäytyä<s n="vblex"/></l><r>trekke seg<s n="vblex"/></r></p></e>
     <e w="3"><p><l>kallistaa<s n="vblex"/></l><r>stille på skrå<s n="vblex"/></r></p></e>
     <e w="3"><p><l>kallistua<s n="vblex"/></l><r>bli dyrere<s n="vblex"/></r></p></e>
@@ -17306,7 +17305,6 @@ Work by Trond Trosterud at UiT. Source code
     <e w="3"><p><l>sävyttää<s n="vblex"/></l><r>farge av<s n="vblex"/></r></p></e>
     <e w="3"><p><l>sääliä<s n="vblex"/></l><r>synes synd på<s n="vblex"/></r></p></e>
     <e w="3"><p><l>säästyä<s n="vblex"/></l><r>spare seg<s n="vblex"/></r></p></e>
-    <e w="3"><p><l>säästyä<s n="vblex"/></l><r> xxx<s n="vblex"/></r></p></e>
     <e w="3"><p><l>taputtaa<s n="vblex"/></l><r>slå med flat hånd<s n="vblex"/></r></p></e>
     <e w="3"><p><l>tarjoutua<s n="vblex"/></l><r>tilby seg<s n="vblex"/></r></p></e>
     <e w="3"><p><l>tartuttaa<s n="vblex"/></l><r>få sykdom til å smitte<s n="vblex"/></r></p></e>
@@ -19944,8 +19942,6 @@ Work by Trond Trosterud at UiT. Source code
     <e><p><l>asiallisesti<s n="adv"/></l><r>saklig<s n="adv"/></r></p></e>
     <e><p><l>asianmukaisesti<s n="adv"/></l><r>saklig<s n="adv"/></r></p></e>
     <e><p><l>asteittain<s n="adv"/></l><r>gradvis<s n="adv"/></r></p></e>
-    <e><p><l>auki<s n="x"/></l><r>ledig<s n="x"/></r></p></e>
-    <e><p><l>auki<s n="x"/></l><r>åpen<s n="x"/></r></p></e>
     <e><p><l>automaattisesti<s n="adv"/></l><r>automatisk<s n="adv"/></r></p></e>
     <e><p><l>avoimesti<s n="adv"/></l><r>åpenlyst<s n="adv"/></r></p></e>
     <e><p><l>avoimesti<s n="adv"/></l><r>åpent<s n="adv"/></r></p></e>
@@ -20434,7 +20430,7 @@ Work by Trond Trosterud at UiT. Source code
     <e><p><l>lähinnä<s n="adv"/></l><r>hovedsaklig<s n="adv"/></r></p></e>
     <e><p><l>lähinnä<s n="adv"/></l><r>nærmest<s n="adv"/></r></p></e>
     <e><p><l>lähin<s n="adv"/></l><r>nærmest<s n="adv"/></r></p></e>
-    <e><p><l>lähtökohtaisesti<s n="adv"/></l><r> initialt<s n="adv"/></r></p></e>
+    <e><p><l>lähtökohtaisesti<s n="adv"/></l><r>initialt<s n="adv"/></r></p></e>
     <e><p><l>lähtökohtaisesti<s n="adv"/></l><r>i utgangspunktet<s n="adv"/></r></p></e>
     <e><p><l>lämpimästi<s n="adv"/></l><r>hjertelig<s n="adv"/></r></p></e>
     <e><p><l>länsipuolitse<s n="adv"/></l><r>via vestsida<s n="adv"/></r></p></e>
@@ -20749,7 +20745,7 @@ Work by Trond Trosterud at UiT. Source code
     <e><p><l>rodullisesti<s n="adv"/></l><r>rasemessig<s n="adv"/></r></p></e>
     <e><p><l>rohkeasti<s n="adv"/></l><r>modig<s n="adv"/></r></p></e>
     <e><p><l>runsaasti<s n="adv"/></l><r>rikelig<s n="adv"/></r></p></e>
-    <e><p><l>rutiininomaisesti<s n="adv"/></l><r> rutinemessig<s n="adv"/></r></p></e>
+    <e><p><l>rutiininomaisesti<s n="adv"/></l><r>rutinemessig<s n="adv"/></r></p></e>
     <e><p><l>ruumiillisesti<s n="adv"/></l><r>fysisk<s n="adv"/></r></p></e>
     <e><p><l>ruumiillisesti<s n="adv"/></l><r>kroppslig<s n="adv"/></r></p></e>
     <e><p><l>rytmisesti<s n="adv"/></l><r>rytmisk<s n="adv"/></r></p></e>
@@ -20898,7 +20894,7 @@ Work by Trond Trosterud at UiT. Source code
     <e><p><l>taloudellisesti<s n="adv"/></l><r>økonomisk<s n="adv"/></r></p></e>
     <e><p><l>talvempana<s n="adv"/></l><r>nærmere<b/>vinteren<s n="adv"/></r></p></e>
     <e><p><l>talvisin<s n="adv"/></l><r>om vinteren<s n="adv"/></r></p></e>
-    <e><p><l>tapauskohtaisesti<s n="adv"/></l><r> på en sak-for-sak-basis<s n="adv"/></r></p></e>
+    <e><p><l>tapauskohtaisesti<s n="adv"/></l><r>på en sak-for-sak-basis<s n="adv"/></r></p></e>
     <e><p><l>tarjolla<s n="adv"/></l><r>tilgjengelig<s n="adv"/></r></p></e>
     <e><p><l>tarkalleen<s n="adv"/></l><r>akkurat<s n="adv"/></r></p></e>
     <e><p><l>tarkalleen<s n="adv"/></l><r>just<s n="adv"/></r></p></e>
@@ -21218,7 +21214,6 @@ Work by Trond Trosterud at UiT. Source code
     <e><p><l>ympärille<s n="adv"/></l><r>omkring<s n="adv"/></r></p></e>
     <e><p><l>ympärillä<s n="adv"/></l><r>omkring<s n="adv"/></r></p></e>
     <e><p><l>ympäriltä<s n="adv"/></l><r>fra rundt om kring<s n="adv"/></r></p></e>
-    <e><p><l>ympäri<s n="x"/></l><r>omkring<s n="adv"/></r></p></e>
     <e><p><l>ystävällisesti<s n="adv"/></l><r>vennlig<s n="adv"/></r></p></e>
     <e><p><l>äkillisesti<s n="adv"/></l><r>plutselig<s n="adv"/></r></p></e>
     <e><p><l>äkisti<s n="adv"/></l><r>plutselig<s n="adv"/></r></p></e>
